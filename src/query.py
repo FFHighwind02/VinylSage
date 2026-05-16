@@ -29,28 +29,25 @@ from llama_index.core import StorageContext
 
 
 
-CHROMA_DIR = Path(__file___).parent.parent / "chroma_db"
+CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
 COLLECTION_NAME = "VinylSage"
 EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 TOP_K = 3
 
 
-PROMPT_GROUND = 
-"""
-You are VinylSage, an extremely experienced assistant for classic rock record collecting.
-Answer questions using ONLY the context provided below.
-If the context doesn't contain enough information to answer, say so honestly.
-Do not use outside knowledge - only this set of context.
+PROMPT_GROUND = """ You are VinylSage, an extremely experienced assistant for classic rock record collecting.
+                Answer questions using ONLY the context provided below.
+                If the context doesn't contain enough information to answer, say so honestly.
+                Do not use outside knowledge - only this set of context.
 
-Context:
-    {context}
+                Context:
+                    {context}
 
-Question:
-    {question}
+                Question:
+                    {question}
 
-Answer:
-    
-"""
+                Answer:
+                """
 
 
 
@@ -89,29 +86,145 @@ def load_index() -> VectorStoreIndex:
 
 
 def input_query() -> str:
+    """
+        Get the input question from the user
+    """
+    query = input("Ask VinylSage:  ").strip()
+    return query
 
 
 
 
 
 
+def retrieve_chunks(index: VectorStoreIndex, query: str, top_k: int = TOP_K) -> list[NodeWithScore]:
+    """
+        retrieve data chunks from the built index
+    """
+    retriever = index.as_retriever(similarity_top_k=top_k)
+    chunks = retriever.retrieve(query)
 
-def retrieve_chunks(index, query: str, top_k: int) -> list[NodeWithScore]:
+    return chunks
+    
 
+def build_prompt(query: str, chunks: list[NodeWithScore]) -> str:
+    """
+    Combine retrieved chunks into a grounded prompt for Gemini.
+    Each chunk is labelled with its source for clarity.
+    """
+    context_parts = []
+
+    for i, chunk in enumerate(chunks, 1):
+        album = chunk.metadata.get("album", "Unknown Album")
+        artist = chunk.metadata.get("artist", "Unknown Artist")
+        context_parts.append(
+            f"[Source {i}: {artist} - {album}]\n{chunk.text}"
+        )
+
+    context = "\n\n".join(context_parts)
+    return PROMPT_GROUND.format(context=context, question=query)
 
 
 
 def generate_answer(query: str, chunks: list[NodeWithScore]) -> str:
+    """
+        Call the llm to generate an answer to the retrieved query, using the xontext provided by the chunked data
+    """
+    llm = GoogleGenAI(model="gemini-2.5-flash", api_key=os.getenv("GOOGLE_API_KEY"))
+    prompt = build_prompt(query, chunks)
+    response = llm.complete(prompt)
+
+    return str(response)
 
 
 
 
 
 def display_answer(answer: str, chunks: list[NodeWithScore]) -> None:
+    """
+        Provide text output to inform and direct users regarding the run of the current command line
+        version of the app
+    """
+    print("\n" + "/*" * 30)
+    print("ANSWER:")
+    print("/*" * 30)
+    print(answer)
 
+    
+    print("\n" + "-" * 30)
+    print("SOURCES")
+    print("-" * 30)
 
+    
+    for i, chunk in enumerate(chunks, 1):
+
+        album = chunk.metadata.get("album", "Unknown")
+        artist = chunk.metadata.get("artist", "Unknown")
+        url = chunk.metadata.get("url", "")
+        score = chunk.score if chunk.score is not None else 0.0
+
+        print(f"  [{i}] {artist} - {album}")
+        print(f"       Relevance: {score:.3f}")
+        
+        if url:
+            print("\t" * 2 + url)
+    
+    print("-" * 30)
+    
+    
 
 
 
 
 def main():
+
+    load_dotenv()
+
+    print("=" * 30)
+    print("VinylSage — The Classic Rock Collector's Best Friend")
+    print("=" * 30)
+    print("Loading index...")
+
+    index = load_index()
+
+    # Keep asking until the user chooses to exit
+    print("\nType your question or 'quit' to exit.")
+    
+    while True:
+
+        query = input_query()
+
+        if not query:
+            print("Please enter a question.")
+            continue
+
+        if query.lower() in ("quit", "exit", "q"):
+            print("Thanks for chatting. See you next time!")
+            break
+
+        print("\nSearching...")
+        chunks = retrieve_chunks(index, query)
+
+        if not chunks:
+            print("No relevant chunks found. Try rephrasing your question.")
+            continue
+
+        print("Generating answer...")
+        answer = generate_answer(query, chunks)
+        display_answer(answer, chunks)
+
+
+
+
+
+
+if __name__ == "__main__":
+     main()
+
+
+
+
+
+
+
+
