@@ -15,6 +15,7 @@ Author: Nicholas Kennedy
 import os
 from pathlib import Path
 
+from add_album import process_add_album
 
 import chromadb
 from dotenv import load_dotenv
@@ -206,7 +207,7 @@ def main():
         chunks = retrieve_chunks(index, query)
 
         if not chunks:
-            print("No relevant chunks found. Try rephrasing your question.")
+            print("No relevant chunks found")
             continue
 
         print("Generating answer...")
