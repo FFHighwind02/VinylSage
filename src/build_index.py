@@ -6,7 +6,7 @@ subsequently stores the data in usable chunks that will not eat up LLMs token li
 RAW DATA -> DOCUMENT FORM -> CHUNKS -> EMBED -> STORE
 
 
-05/12/26
+05/23/26
 Author: Nicholas Kennedy
 """
 
@@ -56,6 +56,15 @@ def load_documents() -> list[Document]:
             data = json.load(f)
 
 
+        # Extra context as model was pulling unrelated chunks into test questions
+        pretext = (
+                f"Album: {data['title']}\n"
+                f"Artist: {data['artist']}\n"
+                f"Source: Wikipedia\n\n"
+        )
+
+
+
         doc = Document(                 # document struct 
             text=data["full_text"],
             metadata={
@@ -65,8 +74,12 @@ def load_documents() -> list[Document]:
                 "url": data["url"],
                 "source": data["source"],
             },
-        )
+            metadata_seperator="\n",
+            metadata_form="{key}: {value}",
+            text_form="Metadata:\n{metadata_str}\n\nContent:\n{content}",
 
+        )
+        
 
         documents.append(doc)
         print(f" Loaded: {data['artist']} - {data['title']} ({len(data['full_text'])} chars loaded...)")
@@ -82,7 +95,8 @@ def load_documents() -> list[Document]:
 def build_index(documents: list[Document]) -> VectorStoreIndex:
     
     """Chunk documents, embed them, and store in ChromaDB."""
-    
+
+
     Settings.embed_model = HuggingFaceEmbedding(model_name=EMBEDDING_MODEL)
     Settings.node_parser = SentenceSplitter(
         chunk_size=CHUNK_SIZE,          # for ref: chunk_size = 512 tokens

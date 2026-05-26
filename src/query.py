@@ -16,7 +16,13 @@ import os
 from pathlib import Path
 
 from add_album import process_add_album
+from router import classify_query, extract_album_from_query
+from albums import ANCHOR_ALBUMS
 
+
+
+
+import json
 import chromadb
 from dotenv import load_dotenv
 from llama_index.core import VectorStoreIndex
@@ -33,12 +39,12 @@ from llama_index.core import StorageContext
 CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
 COLLECTION_NAME = "VinylSage"
 EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
-TOP_K = 3
+TOP_K = 5
 
 
 PROMPT_GROUND = """ You are VinylSage, an extremely experienced assistant for classic rock record collecting.
                 Answer questions using ONLY the context provided below.
-                If the context doesn't contain enough information to answer, say so honestly.
+                If the context doesn't contain enough information to answer, say so honestly, but use what is there and state what information is missing.
                 Do not use outside knowledge - only this set of context.
 
                 Context:
@@ -47,7 +53,7 @@ PROMPT_GROUND = """ You are VinylSage, an extremely experienced assistant for cl
                 Question:
                     {question}
 
-                Answer:
+                Answer (be specific and cite details from the context):
                 """
 
 
@@ -98,7 +104,9 @@ def input_query() -> str:
 
 
 
-def retrieve_chunks(index: VectorStoreIndex, query: str, top_k: int = TOP_K) -> list[NodeWithScore]:
+
+
+def retrieve_chunks(query: str, index: VectorStoreIndex, top_k: int = TOP_K) -> list[NodeWithScore]:
     """
         retrieve data chunks from the built index
     """
@@ -107,6 +115,9 @@ def retrieve_chunks(index: VectorStoreIndex, query: str, top_k: int = TOP_K) -> 
 
     return chunks
     
+
+
+
 
 def build_prompt(query: str, chunks: list[NodeWithScore]) -> str:
     """
@@ -127,6 +138,9 @@ def build_prompt(query: str, chunks: list[NodeWithScore]) -> str:
 
 
 
+
+
+
 def generate_answer(query: str, chunks: list[NodeWithScore]) -> str:
     """
         Call the llm to generate an answer to the retrieved query, using the xontext provided by the chunked data
@@ -136,6 +150,8 @@ def generate_answer(query: str, chunks: list[NodeWithScore]) -> str:
     response = llm.complete(prompt)
 
     return str(response)
+
+
 
 
 
@@ -177,6 +193,74 @@ def display_answer(answer: str, chunks: list[NodeWithScore]) -> None:
 
 
 
+def lookup_discogs(query: str, album: dict) -> str:
+    """
+        look up the pressing data from discogs for more targeted answers than wikipedia summary
+    
+    """
+    
+
+    discogs_dir = Path(__file__).parent.parent / "data" / "raw" / "discogs"
+
+    def slugify(text: str) -> str:
+        return (
+            text.lower()
+            .replace(" ", "-")
+            .replace("'", "")
+            .replace(".", "")
+            .replace("/", "-")
+            .replace(":", "")
+        )
+
+    filename = f"{slugify(album['artist'])}_{slugify(album['title'])}.json"
+    filepath = discogs_dir / filename
+
+    if not filepath.exists():
+        return f"No Discogs data found for {album['artist']} - {album['title']}."
+
+    
+
+    with open(filepath, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    pressings = data.get("pressings", [])
+    master = data.get("master", {})
+    countries = data.get("countries", [])
+    years = data.get("years_range", {})
+
+    lines = [
+        f"{album['artist']} — {album['title']}",
+        f"Original release: {master.get('year', 'Unknown')}",
+        f"Total known pressings: {len(pressings)}",
+        f"Countries pressed in: {', '.join(countries) if countries else 'Unknown'}",
+        f"Years range: {years.get('earliest', '?')} – {years.get('latest', '?')}",
+        "",
+        "Notable pressings:",
+    ]
+
+
+
+    # Show first 10 pressings (earliest = most collectible)
+    for p in pressings[:10]:
+        country = p.get("country", "Unknown")
+        year = p.get("year", "?")
+        label = p.get("label", "Unknown")
+        catno = p.get("catalog_number", "")
+        fmt = p.get("format", "")
+        lines.append(f"  • {year} | {country} | {label} | {catno} | {fmt}")
+
+    return "\n".join(lines)       
+
+
+
+
+
+
+
+
+
+
+
 def main():
 
     load_dotenv()
@@ -187,6 +271,8 @@ def main():
     print("Loading index...")
 
     index = load_index()
+
+    print(f"Debug: {type(index)}")
 
     # Keep asking until the user chooses to exit
     print("\nType your question or 'quit' to exit.")
@@ -203,20 +289,30 @@ def main():
             print("Thanks for chatting. See you next time!")
             break
 
-        print("\nSearching...")
-        chunks = retrieve_chunks(index, query)
+        
+        route = classify_query(query)
+        print(f"\n[Route: {route.upper()}] Searching...")
 
-        if not chunks:
-            print("No relevant chunks found")
-            continue
-
-        print("Generating answer...")
-        answer = generate_answer(query, chunks)
-        display_answer(answer, chunks)
-
-
-
-
+        if route == "discogs":
+            # Try to identify which album they're asking about
+            album = extract_album_from_query(query, ANCHOR_ALBUMS)
+            if album:
+                answer = lookup_discogs(query, album)
+                print("\n" + "=" * 60)
+                print("PRESSING DATA")
+                print("=" * 60)
+                print(answer)
+                print("=" * 60)
+            else:
+                # Can't identify album — fall back to RAG
+                print("Couldn't identify album — searching knowledge base...")
+                chunks = retrieve_chunks(query, index)
+                answer = generate_answer(query, chunks)
+                display_answer(answer, chunks)
+        else:
+            chunks = retrieve_chunks(query, index)
+            answer = generate_answer(query, chunks)
+            display_answer(answer, chunks)
 
 
 if __name__ == "__main__":
