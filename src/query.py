@@ -227,6 +227,18 @@ def lookup_discogs(query: str, album: dict) -> str:
     master = data.get("master", {})
     countries = data.get("countries", [])
     years = data.get("years_range", {})
+    original_year = master.get("year")
+
+
+
+    if original_year and original_year > 1985:
+        return (
+            f"Discogs data for {album['artist']} - {album['title']} "
+            f"may be incorrect (shows {original_year} as original release). "
+            f"Try re-running pull_discogs.py to refresh this data."
+        )
+
+
 
     lines = [
         f"{album['artist']} — {album['title']}",

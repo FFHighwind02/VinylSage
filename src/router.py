@@ -14,7 +14,8 @@
 
 import re
 
-
+from llama_index.llms.google_genai import GoogleGenAI
+import os
 
 
 
@@ -61,24 +62,32 @@ PRESSING_KEYWORDS = [
 
 
 
-
 def classify_query(query: str) -> str:
-    """
-    Classify a query as 'discogs' or 'rag'.
 
-    Returns:
-        'discogs' — for pressing/label/release factual questions
-        'rag'     — for analytical, historical, open-ended questions
-    """
-    query_lower = query.lower()
+    llm = GoogleGenAI(
+        model="gemini-2.5-flash",
+        api_key=os.getenv("GOOGLE_API_KEY"),
+    )
 
-    for keyword in PRESSING_KEYWORDS:
-        if keyword in query_lower:
-            return "discogs"
+    prompt = """Classify this music query into exactly one category:
 
-    return "rag"
+            'discogs' - questions about: pressings, releases, labels, catalog numbers,
+                    countries of manufacture, reissues, vinyl formats, release years,
+                    how many versions exist, specific release variants
 
+            'rag' - questions about: music history, artistic significance, production style,
+                    critical reception, influences, songwriting, band history, comparisons,
+                    recommendations, analysis, evolution of an artist
 
+            Query: "{query}"
+
+            Respond with exactly one word: discogs or rag""".format(query=query)
+
+    response = llm.complete(prompt)
+    result = str(response).strip().lower()
+
+    # Fallback to rag if response is unexpected
+    return "discogs" if "discogs" in result else "rag"
 
 
 
