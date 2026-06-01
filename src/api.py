@@ -6,89 +6,70 @@
 
     Endpoints:
 
-        GET /system     - sanity check
+        GET /health     - sanity check
         POST /query     - the main endpoint for a query
         GET /albums     - post a list of the albums supported in our index
 
 """
 
-
-import json
-import os 
+import os
 import sys
-
-
-
 from pathlib import Path
 
-import chromadb
+
+
 from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from llama_index.core import StorageContext, VectorStoreIndex
 from llama_index.core.schema import NodeWithScore
-from llama_index.core.settings import Settings
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.google_genai import GoogleGenAI
-from llama_index.vector_stores.chroma import ChromaVectorStore
 from pydantic import BaseModel
 
 
 
-sys.path.insert(0,str(Path(__file__).parent))
+
+sys.path.insert(0, str(Path(__file__).parent))
 from albums import ANCHOR_ALBUMS
 from router import classify_query, extract_album_from_query
-
-
+from utils import (
+    TOP_K,
+    format_discogs_answer,
+    generate_answer,
+    load_index,
+    load_llm,
+    retrieve_chunks,
+)
 
 load_dotenv()
 
 
-# Copied config from query.puy
-CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
-DISCOGS_DIR = Path(__file__).parent.parent / "data" / "raw" / "discogs"
-COLLECTION_NAME = "VinylSage"
-EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
-TOP_K = 5
 
 
-PROMPT_GROUND = """ You are VinylSage, an extremely experienced assistant for classic rock record collecting.
-                Answer questions using ONLY the context provided below.
-                If the context doesn't contain enough information to answer, say so honestly, but use what is there and state what information is missing.
-                Do not use outside knowledge - only this set of context.
-
-                Context:
-                    {context}
-
-                Question:
-                    {question}
-
-                Answer (be specific and cite details from the context):
-                """
 
 
+
+# App setup
 app = FastAPI(
-        title="VinylSage API",
-        description="The Classic Rock collector's knowledgable companion",
-        version="0.1.0",
+    title="VinylSage API",
+    description="The Classic Rock collector's knowledgeable companion",
+    version="0.1.0",
 )
-
 
 app.add_middleware(
-        CORSMiddleware,
-        allow_origins=["*"],
-        allow_methods=["*"],
-        allow_headers=["*"],
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
 
 
-# The requests and responses interacted w/ user
+
+# Requests/responses
 class QueryRequest(BaseModel):
     question: str
     top_k: int = TOP_K
-
 
 
 class SourceDisplay(BaseModel):
@@ -98,78 +79,102 @@ class SourceDisplay(BaseModel):
     relevance: float
 
 
-
-
 class QueryResponse(BaseModel):
     answer: str
-    sources: list[Source]
+    sources: list[SourceDisplay]
     route: str
     question: str
 
 
 
 
-# Startup proc
-index: VectorStoreIndex | None = None
+
+# Startup: load index and LLM once
+index = None
 llm: GoogleGenAI | None = None
 
 
 @app.on_event("startup")
 async def startup():
-    
     global index, llm
-
-    print("Loading embedding...")
-    Settings.embed_model = HuggingFaceEmbedding(model_name=EMBEDDING_MODEL)
-
-
-    print("Connecting to chromadb...")
-    chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
-    try:
-        collection = chroma_client.get_collection(COLLECTION_NAME)
-    except Exception:
-        raise RuntimeError(f"Collection: {COLLECTION_NAME} cannot be found, run build_index.")
-
-
-    vector_store = ChromaVectorStore(chroma_collection=collection)
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
-    index = VectorStoreIndex.from_vector_store(vector_store, storage_context=storage_context)
-
-    llm = GoogleGenAI(
-            model="gemini-2.5-flash",
-            api_key=os.getenv("GOOGLE_API_KEY"),
-        )
-
+    print("Loading embedding model...")
+    index = load_index()  # handles embedding config + ChromaDB connection
+    print("Loading LLM...")
+    llm = load_llm()
     print("\nVINYLSAGE API is Ready!")
 
 
 
 
+@app.get("/health")
+async def health():
+    return {"status": "ok", "service": "VinylSage API"}
 
-def slugify(text: str) -> str:
-    return (
-        text.lower()
-        .replace(" ", "-")
-        .replace("'", "")
-        .replace(".", "")
-        .replace("/", "-")
-        .replace(":", "")
+
+
+
+
+@app.get("/albums")
+async def list_albums():
+    return {
+        "count": len(ANCHOR_ALBUMS),
+        "albums": [
+            {"title": a["title"], "artist": a["artist"]}
+            for a in ANCHOR_ALBUMS
+        ],
+    }
+
+
+
+
+@app.post("/query", response_model=QueryResponse)
+async def query(request: QueryRequest):
+    if not request.question.strip():
+        raise HTTPException(status_code=400, detail="Question cannot be empty")
+
+    if index is None or llm is None:
+        raise HTTPException(status_code=503, detail="Index not loaded yet")
+
+    # Route the query
+    route = classify_query(request.question)
+
+    if route == "discogs":
+        album = extract_album_from_query(request.question, ANCHOR_ALBUMS)
+        if album:
+            answer = format_discogs_answer(album["artist"], album["title"])
+            return QueryResponse(
+                answer=answer,
+                sources=[],
+                route="discogs",
+                question=request.question,
+            )
+        # Album not identified — fall through to RAG
+        route = "rag"
+
+    # RAG path
+    chunks = retrieve_chunks(request.question, index, request.top_k)
+    if not chunks:
+        return QueryResponse(
+            answer="No relevant information found. Try rephrasing your question.",
+            sources=[],
+            route="rag",
+            question=request.question,
+        )
+
+    answer = generate_answer(request.question, chunks, llm)
+    sources = [
+        SourceDisplay(
+            album=c.metadata.get("album", "Unknown"),
+            artist=c.metadata.get("artist", "Unknown"),
+            url=c.metadata.get("url", ""),
+            relevance=round(c.score or 0.0, 3),
+        )
+        for c in chunks
+    ]
+
+    return QueryResponse(
+        answer=answer,
+        sources=sources,
+        route="rag",
+        question=request.question,
     )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

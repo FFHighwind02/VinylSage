@@ -11,30 +11,27 @@ Author: Nicholas Kennedy
 05/15/2026
 """
 
-
-import os
+import sys
 from pathlib import Path
+from dotenv import load_dotenv
+from llama_index.core.schema import NodeWithScore
 
 from add_album import process_add_album
 from router import classify_query, extract_album_from_query
 from albums import ANCHOR_ALBUMS
 
 
-
-
-import json
-import chromadb
-from dotenv import load_dotenv
-from llama_index.core import VectorStoreIndex
-from llama_index.core.settings import Settings
-from llama_index.core.schema import NodeWithScore
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
-from llama_index.llms.google_genai import GoogleGenAI
-from llama_index.vector_stores.chroma import ChromaVectorStore
-from llama_index.core import StorageContext
-
-
-
+sys.path.insert(0, str(Path(__file__).parent))
+from albums import ANCHOR_ALBUMS
+from router import classify_query, extract_album_from_query
+from vs_util import (
+    TOP_K,
+    format_discogs_answer,
+    generate_answer,
+    load_index,
+    load_llm,
+    retrieve_chunks,
+)
 
 CHROMA_DIR = Path(__file__).parent.parent / "chroma_db"
 COLLECTION_NAME = "VinylSage"
@@ -42,7 +39,7 @@ EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 TOP_K = 5
 
 
-PROMPT_GROUND = """ You are VinylSage, an extremely experienced assistant for classic rock record collecting.
+PROMPT_TEMPLATE = """ You are VinylSage, an extremely experienced assistant for classic rock record collecting.
                 Answer questions using ONLY the context provided below.
                 If the context doesn't contain enough information to answer, say so honestly, but use what is there and state what information is missing.
                 Do not use outside knowledge - only this set of context.
@@ -59,38 +56,6 @@ PROMPT_GROUND = """ You are VinylSage, an extremely experienced assistant for cl
 
 
 
-def load_index() -> VectorStoreIndex:
-    """
-        Retrieve the Index & Embedding Model set up in the build_index.py script
-        Once loaded method returns the index
-    """    
-    Settings.embed_model = HuggingFaceEmbedding(model_name=EMBEDDING_MODEL)
-
-    chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
-    
-    try:
-        collection = chroma_client.get_collection(COLLECTION_NAME)
-    except Exception:
-        raise RuntimeError(
-                f"Collection '{COLLECTION_NAME}' not found. Try running build_index again"
-        )
-    
-    vector_store = ChromaVectorStore(chroma_collection=collection)
-    storage_context = StorageContext.from_defaults(vector_store=vector_store)
-    index = VectorStoreIndex.from_vector_store(
-        vector_store,
-        storage_context=storage_context,
-    )
-
-    chunk_count = collection.count()
-    
-    print(f"Loaded index: {chunk_count} chunks from '{COLLECTION_NAME}'")
-    
-    return index
-        
-
-
-
 
 def input_query() -> str:
     """
@@ -98,60 +63,6 @@ def input_query() -> str:
     """
     query = input("Ask VinylSage:  ").strip()
     return query
-
-
-
-
-
-
-
-
-def retrieve_chunks(query: str, index: VectorStoreIndex, top_k: int = TOP_K) -> list[NodeWithScore]:
-    """
-        retrieve data chunks from the built index
-    """
-    retriever = index.as_retriever(similarity_top_k=top_k)
-    chunks = retriever.retrieve(query)
-
-    return chunks
-    
-
-
-
-
-def build_prompt(query: str, chunks: list[NodeWithScore]) -> str:
-    """
-    Combine retrieved chunks into a grounded prompt for Gemini.
-    Each chunk is labelled with its source for clarity.
-    """
-    context_parts = []
-
-    for i, chunk in enumerate(chunks, 1):
-        album = chunk.metadata.get("album", "Unknown Album")
-        artist = chunk.metadata.get("artist", "Unknown Artist")
-        context_parts.append(
-            f"[Source {i}: {artist} - {album}]\n{chunk.text}"
-        )
-
-    context = "\n\n".join(context_parts)
-    return PROMPT_GROUND.format(context=context, question=query)
-
-
-
-
-
-
-def generate_answer(query: str, chunks: list[NodeWithScore]) -> str:
-    """
-        Call the llm to generate an answer to the retrieved query, using the xontext provided by the chunked data
-    """
-    llm = GoogleGenAI(model="gemini-2.5-flash", api_key=os.getenv("GOOGLE_API_KEY"))
-    prompt = build_prompt(query, chunks)
-    response = llm.complete(prompt)
-
-    return str(response)
-
-
 
 
 
@@ -193,85 +104,6 @@ def display_answer(answer: str, chunks: list[NodeWithScore]) -> None:
 
 
 
-def lookup_discogs(query: str, album: dict) -> str:
-    """
-        look up the pressing data from discogs for more targeted answers than wikipedia summary
-    
-    """
-    
-
-    discogs_dir = Path(__file__).parent.parent / "data" / "raw" / "discogs"
-
-    def slugify(text: str) -> str:
-        return (
-            text.lower()
-            .replace(" ", "-")
-            .replace("'", "")
-            .replace(".", "")
-            .replace("/", "-")
-            .replace(":", "")
-        )
-
-    filename = f"{slugify(album['artist'])}_{slugify(album['title'])}.json"
-    filepath = discogs_dir / filename
-
-    if not filepath.exists():
-        return f"No Discogs data found for {album['artist']} - {album['title']}."
-
-    
-
-    with open(filepath, "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    pressings = data.get("pressings", [])
-    master = data.get("master", {})
-    countries = data.get("countries", [])
-    years = data.get("years_range", {})
-    original_year = master.get("year")
-
-
-
-    if original_year and original_year > 1985:
-        return (
-            f"Discogs data for {album['artist']} - {album['title']} "
-            f"may be incorrect (shows {original_year} as original release). "
-            f"Try re-running pull_discogs.py to refresh this data."
-        )
-
-
-
-    lines = [
-        f"{album['artist']} — {album['title']}",
-        f"Original release: {master.get('year', 'Unknown')}",
-        f"Total known pressings: {len(pressings)}",
-        f"Countries pressed in: {', '.join(countries) if countries else 'Unknown'}",
-        f"Years range: {years.get('earliest', '?')} – {years.get('latest', '?')}",
-        "",
-        "Notable pressings:",
-    ]
-
-
-
-    # Show first 10 pressings (earliest = most collectible)
-    for p in pressings[:10]:
-        country = p.get("country", "Unknown")
-        year = p.get("year", "?")
-        label = p.get("label", "Unknown")
-        catno = p.get("catalog_number", "")
-        fmt = p.get("format", "")
-        lines.append(f"  • {year} | {country} | {label} | {catno} | {fmt}")
-
-    return "\n".join(lines)       
-
-
-
-
-
-
-
-
-
-
 
 def main():
 
@@ -283,6 +115,7 @@ def main():
     print("Loading index...")
 
     index = load_index()
+    llm = load_llm()
 
     print(f"Debug: {type(index)}")
 
@@ -309,22 +142,22 @@ def main():
             # Try to identify which album they're asking about
             album = extract_album_from_query(query, ANCHOR_ALBUMS)
             if album:
-                answer = lookup_discogs(query, album)
+                answer = format_discogs_answer(album["artist"], album["title"])
                 print("\n" + "=" * 60)
                 print("PRESSING DATA")
                 print("=" * 60)
                 print(answer)
                 print("=" * 60)
-            else:
-                # Can't identify album — fall back to RAG
-                print("Couldn't identify album — searching knowledge base...")
-                chunks = retrieve_chunks(query, index)
-                answer = generate_answer(query, chunks)
-                display_answer(answer, chunks)
-        else:
-            chunks = retrieve_chunks(query, index)
-            answer = generate_answer(query, chunks)
-            display_answer(answer, chunks)
+                continue
+        
+
+        chunks = retrieve_chunks(query, index)
+        if not chunks:
+            print("No relevant chunks found..")
+            continue
+
+        answer = generate_answer(query, chunks)
+        display_answer(answer, chunks)
 
 
 if __name__ == "__main__":
