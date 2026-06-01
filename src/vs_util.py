@@ -160,6 +160,13 @@ def generate_answer(question: str, chunks: list[NodeWithScore]) -> str:
 
 
 
+async def generate_answer_async(question: str, chunks: list, llm) -> str:
+    """Async version — used by API (api.py)."""
+    prompt = build_prompt(question, chunks)
+    response = await llm.acomplete(prompt)
+    return str(response)
+
+
 
 
 def load_discogs_data(artist: str, title: str) -> dict | None:

@@ -12,12 +12,15 @@ Author: Nicholas Kennedy
 """
 
 import sys
+import asyncio
+
+
 from pathlib import Path
 from dotenv import load_dotenv
 from llama_index.core.schema import NodeWithScore
 
 from add_album import process_add_album
-from router import classify_query, extract_album_from_query
+from router import classify_query_sync, extract_album_from_query
 from albums import ANCHOR_ALBUMS
 
 
@@ -135,7 +138,8 @@ def main():
             break
 
         
-        route = classify_query(query)
+        route = classify_query_sync(query)
+
         print(f"\n[Route: {route.upper()}] Searching...")
 
         if route == "discogs":

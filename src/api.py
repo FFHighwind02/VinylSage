@@ -31,10 +31,10 @@ from pydantic import BaseModel
 sys.path.insert(0, str(Path(__file__).parent))
 from albums import ANCHOR_ALBUMS
 from router import classify_query, extract_album_from_query
-from utils import (
+from vs_util import (
     TOP_K,
     format_discogs_answer,
-    generate_answer,
+    generate_answer_async,
     load_index,
     load_llm,
     retrieve_chunks,
@@ -136,7 +136,7 @@ async def query(request: QueryRequest):
         raise HTTPException(status_code=503, detail="Index not loaded yet")
 
     # Route the query
-    route = classify_query(request.question)
+    route = await classify_query(request.question)
 
     if route == "discogs":
         album = extract_album_from_query(request.question, ANCHOR_ALBUMS)
@@ -161,7 +161,7 @@ async def query(request: QueryRequest):
             question=request.question,
         )
 
-    answer = generate_answer(request.question, chunks, llm)
+    answer = await generate_answer_async(request.question, chunks, llm)
     sources = [
         SourceDisplay(
             album=c.metadata.get("album", "Unknown"),

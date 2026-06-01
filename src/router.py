@@ -62,7 +62,24 @@ PRESSING_KEYWORDS = [
 
 
 
-def classify_query(query: str) -> str:
+def classify_query_sync(query: str) -> str:
+    """
+    Keyword-based classifier.
+    Fast, no API call, works outside async context.
+    """
+    query_lower = query.lower()
+    for keyword in PRESSING_KEYWORDS:
+        if keyword in query_lower:
+            return "discogs"
+    return "rag"
+
+
+
+
+
+
+
+async def classify_query(query: str) -> str:
 
     llm = GoogleGenAI(
         model="gemini-2.5-flash",
@@ -83,7 +100,7 @@ def classify_query(query: str) -> str:
 
             Respond with exactly one word: discogs or rag""".format(query=query)
 
-    response = llm.complete(prompt)
+    response = llm.acomplete(prompt)
     result = str(response).strip().lower()
 
     # Fallback to rag if response is unexpected
