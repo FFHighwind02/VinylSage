@@ -9,6 +9,7 @@
     --grey: #8E8D8A;
     --coral: #E98074;
     --dark: #2C2B28;
+    --jellyred: #E85A4F;
 }
 
 
@@ -25,3 +26,75 @@ body{
     grid-template-columns: 280px 1fr;
     height: 100vh;
 }
+
+
+/* Album sidebar */
+
+.sidebar {
+    background: var(--dark);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+
+.sidebar-header{
+    padding: 24px 20px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+
+.logo{
+    font-family: 'Playfair display', serif;
+    font-size: 22px;
+    font-weight: 800;
+    color: var(--cream);
+    letter-spacing: 0.08em;
+}
+
+
+.logo span {color: var(--coral); }
+
+.logo-sub {
+    font-size: 11px;
+    color: var(--grey);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin-top: 4px;
+}
+
+
+.search-wrap{
+    padding: 14px 16px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+.search-input{
+    width: 100%;
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+    border-radius: 6px;
+    padding: 8px 12px;
+    color: var(--cream);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 12px;
+    outline: none;
+}
+
+
+.search-input::placeholder { color: var(--grey); }
+.search-input:focus { border-color: rgba(233,128,116,0.5); }
+
+
+.album-list{
+    flex: 1;
+    overflow-y: auto;
+}
+
+
+.album-list::-webkit-scrollbar{width: 3px;}
+
+
+
+
+
