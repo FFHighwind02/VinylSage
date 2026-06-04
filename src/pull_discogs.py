@@ -1,22 +1,21 @@
 """
-    Fetch script for the Discogs api I want to integrate into VinylSage
+    Fetch script for the Discogs API
     
-    Searches the masters and releases to provide extra collector context to VinylSage
+    Searches the masters and releases to provide extra collector context to VinylSage.
+
+    In testing, a specific master_id is needed for proper lookup. Add discogs_id to albums.py for accurate lookup
 """
-
-
 
 import json
 import time
+import os
+import requests
+
+
+from dotenv import load_dotenv
+from albums import ANCHOR_ALBUMS
 from pathlib import Path
 
-
-import requests
-from dotenv import load_dotenv
-import os
-
-
-from albums import ANCHOR_ALBUMS
 
 
 OUTPUT_DIR = Path(__file__).parent.parent / "data" / "raw" / "discogs"
@@ -27,7 +26,9 @@ DISCOGS_API = "https://api.discogs.com"
 
 
 def get_headers() -> dict:
-
+    """
+    Fetch the header data from the environment file
+    """
     return{"Authorization": f"Discogs token={os.getenv('DISCOGS_TOKEN')}",
            "User-Agent": os.getenv("DISCOGS_USER_AGENT"),
            }
@@ -37,9 +38,10 @@ def get_headers() -> dict:
 
 
 def search_master(artist: str, title: str, year: int = None) -> dict | None:
-
-
-
+    """
+    Search the masters catalog based on the given artist, title and year.
+    Return the masters recordings for the given album
+    """
     params = {
             "artist": artist,
             "release_date": title,
@@ -53,7 +55,7 @@ def search_master(artist: str, title: str, year: int = None) -> dict | None:
         params=params,
     )
 
-
+    # 200 == successful status check, if fail return none
     if response.status_code != 200:
         print(f"  Search error {response.status_code}: {response.text[:100]}")
         return None
@@ -70,6 +72,7 @@ def search_master(artist: str, title: str, year: int = None) -> dict | None:
         masters = results
     
     if year:
+        # nested method that defines a year distance to help in the sorting of the master recordings. Oldest first priortiy.
         def year_distance(r):
             try:
                 return abs(int(r.get("year", 9999)) - year)
@@ -88,8 +91,6 @@ def search_master(artist: str, title: str, year: int = None) -> dict | None:
         "thumb": top.get("thumb"),
         "uri": top.get("uri"),
     }
-
-
 
 
 
@@ -191,7 +192,6 @@ def fetch_pressings(master_id: int, max_pressings: int = 50) -> list[dict]:
 
 def slugify(text: str) -> str:
     """Convert string to safe filename component."""
-    
     return (
         text.lower()
         .replace(" ", "-")
@@ -207,7 +207,6 @@ def slugify(text: str) -> str:
 
 def save_discogs_data(album: dict, data: dict) -> Path:
     """Save Discogs data as JSON."""
-    
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     filename = f"{slugify(album['artist'])}_{slugify(album['title'])}.json"
 
@@ -220,10 +219,14 @@ def save_discogs_data(album: dict, data: dict) -> Path:
 
 
 def process_album(album: dict) -> dict | None:
+    """
+    Process the entry from albums.py. In the event of a master_id use that specific one for
+    pulling discogs data
+    """
     artist = album["artist"]
     title = album["title"]
 
-    # Step 1: Resolve master_id
+    
     if album.get("discogs_master_id"):
         master_id = album["discogs_master_id"]
         print(f"  Using hardcoded master_id: {master_id}")
@@ -237,18 +240,18 @@ def process_album(album: dict) -> dict | None:
 
     time.sleep(RATE_LIMIT_SECONDS)
 
-    # Step 2: Fetch master details — always needed regardless of how we got master_id
+    
     master = fetch_master_details(master_id)
     if not master:
         return None
     time.sleep(RATE_LIMIT_SECONDS)
 
-    # Step 3: Fetch pressings
+    
     print(f"  Fetching pressings...")
     pressings = fetch_pressings(master_id)
     print(f"  Found {len(pressings)} pressings")
 
-    # Step 4: Combine and return
+    
     return {
         "album": title,
         "artist": artist,
@@ -276,6 +279,7 @@ def process_album(album: dict) -> dict | None:
 
 
 def main():
+
     load_dotenv()
 
     print("*/" * 30)

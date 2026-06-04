@@ -77,6 +77,9 @@ def pull_article(wiki: wikipediaapi.Wikipedia, album: dict) -> dict | None:
 
 
 def save_article(data: dict) -> Path:
+    """
+    Save a pulled article's data in a json file, return the path upon completion
+    """
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -92,11 +95,13 @@ def save_article(data: dict) -> Path:
 
 
 def main():
+
     wiki = wikipediaapi.Wikipedia(user_agent=USER_AGENT, language="en")
     print(f"Pulling {len(ANCHOR_ALBUMS)} albums...\n")
 
     success = 0
 
+    # Iterate through albums.py and attempt to pull the individual album data from Wikipedia
     for i, album in enumerate(ANCHOR_ALBUMS, 1):
         label = f"{album['artist']} - {album['title']}"
         print(f"[{i}/{len(ANCHOR_ALBUMS)}] {label}")

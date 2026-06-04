@@ -26,8 +26,6 @@ from llama_index.llms.google_genai import GoogleGenAI
 from pydantic import BaseModel
 
 
-
-
 sys.path.insert(0, str(Path(__file__).parent))
 from albums import ANCHOR_ALBUMS
 from router import classify_query, extract_album_from_query
@@ -40,15 +38,18 @@ from vs_util import (
     retrieve_chunks,
 )
 
+
+
+
+
+
+
+# App setup *****
+
 load_dotenv()
 
 
 
-
-
-
-
-# App setup
 app = FastAPI(
     title="VinylSage API",
     description="The Classic Rock collector's knowledgeable companion",
@@ -66,19 +67,23 @@ app.add_middleware(
 
 
 
-# Requests/responses
+# Requests/responses *****
+
+# Recieve a question from the user to VinylSage
 class QueryRequest(BaseModel):
     question: str
     top_k: int = TOP_K
 
 
+
+# Output the sources VinylSage used to generate the response
 class SourceDisplay(BaseModel):
     album: str
     artist: str
     url: str
     relevance: float
 
-
+# Answer the question given by the user
 class QueryResponse(BaseModel):
     answer: str
     sources: list[SourceDisplay]
@@ -108,7 +113,7 @@ async def startup():
 
 @app.get("/health")
 async def health():
-    return {"status": "ok", "service": "VinylSage API"}
+    return {"status": "ok", "service": "VinylSage API"} # quick status check, if working say so
 
 
 

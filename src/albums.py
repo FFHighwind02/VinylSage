@@ -1,9 +1,9 @@
 """
 Anchor albums for VinylSage ~ Starting with my favorite albums - N.K
 
-Format: list of dicts with 'title' and 'artist' for Wikipedia lookup.
-The 'wiki_title' field is optional - use it when the article title differs
-from simply the album name (disambiguation, special characters, etc.)
+Format: list of dicts with 'title', 'artist', 'year', 'wiki_title', and 'discogs_master_id'
+
+Note: Master ids have only been set for the 15 anchor albums thus far.
 """
 
 
