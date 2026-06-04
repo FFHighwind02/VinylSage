@@ -10,6 +10,9 @@
     --coral: #E98074;
     --dark: #2C2B28;
     --jellyred: #E85A4F;
+    --mid: #5C5A55;
+    --surface: #F2EFE9;
+    --sand: #D0C9BC;
 }
 
 
@@ -112,15 +115,67 @@ body{
 /* Main Page */
 
 .main-header{
-    padding: 24px 20px 16px;
-    background-color: var(--jellyred);
-    color: var(--dark)
+    padding: 23px 32px;
+    background-color: var(--surface);
+    color: var(--dark);
+    border-bottom: 1px solid var(--dark);
+    align-items: center;
+    justify-content: space-between;
 }
 
-.header-title em {
+
+.header-title{
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
     color: var(--dark);
+}
+
+
+
+.header-title em {
+    color: var(--jellyred);
     font-weight: 900;
 }
+
+
+.route-badge{
+    font-size: 10px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-weight: 500;
+    display: none;
+}
+
+.route-badge.rag{
+    display: block;
+    background: rgba(233,128,116,0.15);
+    color: var(--jellyred);
+}
+
+
+.route-badge.discogs {
+    display: block;
+    background: rgba(216,195,165,0.4);
+    color: var(--mid);
+}
+
+
+/* Chat window */
+
+.chat{
+    flex: 1;
+    overflow-y: auto;
+    padding: 28px 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.chat::-webkit-scrollbar{width: 4px; }
+.chat::-webkit-scrollbar-thumb{ background: var(--dark); border-radius: 20%;}
 
 
 
