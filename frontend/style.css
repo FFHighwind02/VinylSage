@@ -17,7 +17,7 @@ body{
     font-family: 'DM Sans', sans-serif;
     background: var(--cream);
     color: var(--dark);
-    height:100vh;
+    height: 100vh;
     overflow: hidden;
 }
 
@@ -93,6 +93,34 @@ body{
 
 
 .album-list::-webkit-scrollbar{width: 3px;}
+.album-list::-webkit-scrollbar-thumb{
+    background: rgba(255,255,255,0.07);
+    border-radius: 10px;
+    border: 3px solid rgba(233,128,116,0.5);
+}
+
+.sidebar-footer{
+    border-top: #E98074;
+    font-family: 'Playfair display', serif;
+    color: var(--coral);
+    padding: 12px 24px;
+    
+}
+
+
+
+/* Main Page */
+
+.main-header{
+    padding: 24px 20px 16px;
+    background-color: var(--jellyred);
+    color: var(--dark)
+}
+
+.header-title em {
+    color: var(--dark);
+    font-weight: 900;
+}
 
 
 
