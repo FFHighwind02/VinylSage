@@ -81,13 +81,51 @@ searchInputEl.addEventListener('input', (e) => {
 
 // Chat fuctionality
 
+function addMessage(role, content, sources = [], route = null) {
+  if (route) {
+    routeBadgeEl.className = `route-badge ${route}`;
+    routeBadgeEl.textContent = route === 'rag' ? 'Knowledge Base' : 'Discogs Data';
+  }
+
+  const msgEl = document.createElement('div');
+  msgEl.className = `msg ${role}`;
+
+  const label = role === 'user' ? 'You' : 'VinylSage';
+
+  let html = `
+    <div class="msg-label">${label}</div>
+    <div class="msg-bubble">${escapeHtml(content)}</div>
+  `;
+
+  if (sources && sources.length > 0) {
+  html += `<div class="sources">`;
+  sources.forEach(source => {
+    const pct = Math.round(source.relevance * 100);
+    html += `
+      <a class="source-item" href="${source.url}" target="_blank" rel="noopener">
+        <div class="source-dot"></div>
+        <span>${source.artist} — ${source.album}</span>
+        <span class="source-score">${pct}%</span>
+      </a>
+    `;
+  });
+  html += `</div>`;
+}
+
+  msgEl.innerHTML = html;
+  chatEl.appendChild(msgEl);
+  chatEl.scrollTop = chatEl.scrollHeight;
+}
+
+
+// TODO: typing indicator function ~ for chat loading visibility
 
 
 
 
-
-
-
+function removeTypingIndicator() {
+  document.getElementById('typing-indicator')?.remove();
+}
 
 
 
