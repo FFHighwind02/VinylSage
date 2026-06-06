@@ -121,6 +121,24 @@ function addMessage(role, content, sources = [], route = null) {
 // TODO: typing indicator function ~ for chat loading visibility
 
 
+function addTypingIndicator() {
+  const el = document.createElement('div');
+  el.className = 'msg assistant';
+  el.id = 'typing-indicator';
+  el.innerHTML = `
+    <div class="msg-label">VinylSage</div>
+    <div class="msg-bubble">
+      <div class="typing">
+        <div class="typing-dot"></div>
+        <div class="typing-dot"></div>
+        <div class="typing-dot"></div>
+      </div>
+    </div>
+  `;
+  chatEl.appendChild(el);
+  chatEl.scrollTop = chatEl.scrollHeight;
+}
+
 
 
 function removeTypingIndicator() {
@@ -128,6 +146,47 @@ function removeTypingIndicator() {
 }
 
 
+
+/* Query functionality */
+
+async function sendQuery() {
+  const question = inputBoxEl.value.trim();
+  if (!question || isLoading) return;
+
+  inputBoxEl.value = '';
+  activeAlbumIndex = null;
+  renderAlbums();
+  isLoading = true;
+  sendBtnEl.disabled = true;
+
+  addMessage('user', question);
+  addTypingIndicator();
+
+  try {
+    const res = await fetch(`${API_URL}/query`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question, top_k: 5 }),
+    });
+
+    if (!res.ok) throw new Error(`API error: ${res.status}`);
+    const data = await res.json();
+
+    removeTypingIndicator();
+    addMessage('assistant', data.answer, data.sources, data.route);
+
+  } catch (err) {
+    removeTypingIndicator();
+    addMessage(
+      'assistant',
+      'Could not reach the VinylSage API. Make sure it is running:\n\nuvicorn src.api:app --reload --port 8000'
+    );
+  } finally {
+    isLoading = false;
+    sendBtnEl.disabled = false;
+    inputBoxEl.focus();
+  }
+}
 
 
 
