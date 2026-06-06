@@ -1,4 +1,4 @@
-const URL = "https://localhost:8000";
+const URL = "localhost:8000";
 
 
 
@@ -188,7 +188,39 @@ async function sendQuery() {
   }
 }
 
+// Button and box events
+
+sendBtnEl.addEventListener('click', sendQuery);
+
+inputBoxEl.addEventListener('keydown', (e) => {
+  if (e.key === 'Enter' && !e.shiftKey) {
+    e.preventDefault();
+    sendQuery();
+  }
+});
+
+
+// Auto-resize textarea
+inputBoxEl.addEventListener('input', () => {
+  inputBoxEl.style.height = 'auto';
+  inputBoxEl.style.height = Math.min(inputBoxEl.scrollHeight, 120) + 'px';
+});
 
 
 
+function escapeHtml(str) {
+  return str
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
 
+
+addMessage(
+  'assistant',
+  'Welcome to VinylSage. I know 204 classic rock albums — their histories, influences, critical reception, and pressing variants. Ask me anything, or click an album in the sidebar to get started.'
+);
+
+
+loadAlbums();
