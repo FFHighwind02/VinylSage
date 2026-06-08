@@ -11,9 +11,6 @@
 
 
 
-
-import re
-
 from llama_index.llms.google_genai import GoogleGenAI
 import os
 
@@ -100,7 +97,7 @@ async def classify_query(query: str) -> str:
 
             Respond with exactly one word: discogs or rag""".format(query=query)
 
-    response = llm.acomplete(prompt)
+    response = await llm.acomplete(prompt)
     result = str(response).strip().lower()
 
     # Fallback to rag if response is unexpected

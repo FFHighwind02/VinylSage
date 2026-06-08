@@ -35,6 +35,7 @@ body{
 /* Album sidebar */
 
 .sidebar {
+    height: 100vh;
     background: var(--dark);
     display: flex;
     flex-direction: column;
@@ -43,8 +44,8 @@ body{
 
 
 .sidebar-header{
-    padding: 24px 20px 16px;
-    border-bottom: 1px solid rgba(255,255,255,0.08);
+    padding: 5px 0px 0px 5px;
+    border-bottom: 1px solid var(--jellyred);
 }
 
 
@@ -104,15 +105,54 @@ body{
 }
 
 
-
-.sidebar-footer{
-    border-top: 1px solid var(--coral);
-    font-family: 'Playfair display', serif;
-    color: var(--coral);
-    padding: 12px 24px;
-    
+/* albums for item select */
+.album-item{
+    padding: 10px 20px;
+    cursor: pointer;
+    border-left: 2px solid transparent;
+    transition: background 0.15s;
 }
 
+
+.album-item:hover {
+    background-color: var(--dark);
+}
+
+.album-item.active {
+    background: rgba(233,128,116,0.15);
+    border-left-color: var(--coral);
+}
+
+.album-title{
+    font-size: 13px;
+    color: var(--cream);
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.album-artist{
+    font-size: 11px;
+    color: var(--grey);
+    margin-top: 2px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+
+
+
+
+.sidebar-footer{
+    border-top: 1px solid var(--jellyred);
+    font-family: 'Playfair display', serif;
+    color: var(--coral);
+    padding: 46px 24px;
+}
 
 
 /* Main Page */
@@ -122,15 +162,14 @@ body{
     flex-direction: column;
     height: 100vh;
     overflow: hidden;
-
 }
 
 .main-header{
     display: flex;
-    padding: 23px 32px;
+    padding: 66px 50px;
     background-color: var(--surface);
     color: var(--dark);
-    border-bottom: 1px solid var(--dark);
+    border-bottom: 1px solid var(--border);
     align-items: center;
     justify-content: space-between;
 }
@@ -138,7 +177,7 @@ body{
 
 .header-title{
     font-family: 'Playfair Display', serif;
-    font-size: 18px;
+    font-size: 24px;
     color: var(--dark);
 }
 
@@ -185,7 +224,6 @@ body{
     flex-direction: column;
     gap: 20px;
 }
-
 
 
 

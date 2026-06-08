@@ -222,13 +222,6 @@ __marimo__/
 .env
 .env.local
 
-# Project data
-data/raw/
-data/processed/
-
-# Vector database
-.chroma/
-chroma_db/
 
 # OS files
 .DS_Store
