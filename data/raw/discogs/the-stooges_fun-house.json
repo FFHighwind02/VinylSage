@@ -1,0 +1,166 @@
+{
+  "album": "Fun House",
+  "artist": "The Stooges",
+  "source": "discogs",
+  "master": {
+    "master_id": 1784404,
+    "title": "Live At Goose Lake August 8th, 1970",
+    "year": 2020,
+    "artists": [
+      "The Stooges"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Garage Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Intro",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Loose",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Down On The Street",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "T.V. Eye",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Dirt",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "1970 (I Feel Alright)",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Fun House",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "L.A. Blues",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 6.87,
+    "num_for_sale": 123,
+    "main_release": 15708979
+  },
+  "pressings": [
+    {
+      "release_id": 15750621,
+      "title": "Live At Goose Lake August 8th, 1970",
+      "label": "Third Man Records",
+      "catalog_number": "TMR-676",
+      "country": "US",
+      "year": "2020",
+      "format": "LP, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15708979,
+      "title": "Live At Goose Lake August 8th, 1970",
+      "label": "Third Man Records",
+      "catalog_number": "TMR-676",
+      "country": "US",
+      "year": "2020",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15734145,
+      "title": "Live At Goose Lake August 8th, 1970",
+      "label": "Third Man Records",
+      "catalog_number": "TMR-676",
+      "country": "UK & US",
+      "year": "2020",
+      "format": "LP, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15740154,
+      "title": "Live At Goose Lake (August 8th, 1970)",
+      "label": "Third Man Records",
+      "catalog_number": "TMR-676",
+      "country": "US",
+      "year": "2020",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15735008,
+      "title": "Live At Goose Lake August 8th, 1970",
+      "label": "Not On Label",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "2020",
+      "format": "FLAC, Album",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15731553,
+      "title": "Live At Goose Lake August 8th, 1970",
+      "label": "Third Man Records",
+      "catalog_number": "TMR-676",
+      "country": "US",
+      "year": "2020",
+      "format": "LP, Record Store Day, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36707332,
+      "title": "Live At Goose Lake August 8th, 1970",
+      "label": "Third Man Records",
+      "catalog_number": "TMR-676",
+      "country": "US",
+      "year": "2020",
+      "format": "LP, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 7,
+  "countries": [
+    "UK & US",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2020",
+    "latest": "2020"
+  }
+}

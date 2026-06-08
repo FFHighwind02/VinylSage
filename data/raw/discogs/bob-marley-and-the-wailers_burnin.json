@@ -1,0 +1,279 @@
+{
+  "album": "Burnin'",
+  "artist": "Bob Marley and the Wailers",
+  "source": "discogs",
+  "master": {
+    "master_id": 475625,
+    "title": "Feel Alright",
+    "year": 2004,
+    "artists": [
+      "Bob Marley & The Wailers"
+    ],
+    "genres": [
+      "Reggae"
+    ],
+    "styles": [
+      "Roots Reggae"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Stir It Up",
+        "duration": "3:09"
+      },
+      {
+        "position": "2",
+        "title": "African Herbsman",
+        "duration": "2:22"
+      },
+      {
+        "position": "3",
+        "title": "Bend Down Low",
+        "duration": "3:29"
+      },
+      {
+        "position": "4",
+        "title": "Caution",
+        "duration": "2:43"
+      },
+      {
+        "position": "5",
+        "title": "Small Axe",
+        "duration": "4:02"
+      },
+      {
+        "position": "6",
+        "title": "Turn Me Loose",
+        "duration": "2:35"
+      },
+      {
+        "position": "7",
+        "title": "Screwface",
+        "duration": "2:20"
+      },
+      {
+        "position": "8",
+        "title": "Mellow Mood",
+        "duration": "2:36"
+      },
+      {
+        "position": "9",
+        "title": "Jah Is Mighty",
+        "duration": "2:27"
+      },
+      {
+        "position": "10",
+        "title": "Feel Alright",
+        "duration": "2:31"
+      },
+      {
+        "position": "11",
+        "title": "Thank You Lord",
+        "duration": "3:20"
+      },
+      {
+        "position": "12",
+        "title": "Shocks Of The Mighty",
+        "duration": "3:35"
+      },
+      {
+        "position": "13",
+        "title": "Soon Come",
+        "duration": "2:22"
+      },
+      {
+        "position": "14",
+        "title": "More Axe",
+        "duration": "4:11"
+      },
+      {
+        "position": "15",
+        "title": "Man To Man",
+        "duration": "3:32"
+      },
+      {
+        "position": "16",
+        "title": "Tread On",
+        "duration": "2:51"
+      },
+      {
+        "position": "17",
+        "title": "Sun Is Shining",
+        "duration": "2:10"
+      },
+      {
+        "position": "18",
+        "title": "Brand New Second Hand",
+        "duration": "4:01"
+      },
+      {
+        "position": "19",
+        "title": "Reggae On Broadway",
+        "duration": "3:13"
+      }
+    ],
+    "lowest_price": 0.17,
+    "num_for_sale": 57,
+    "main_release": 549964
+  },
+  "pressings": [
+    {
+      "release_id": 18165298,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "0602498134276",
+      "country": "Bulgaria",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 549964,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "0602498134276",
+      "country": "Europe",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7446218,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "9813429",
+      "country": "Ukraine",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29396041,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "60249813427",
+      "country": "Brazil",
+      "year": "2004",
+      "format": "Compilation, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9555811,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "9813427",
+      "country": "Argentina",
+      "year": "2004",
+      "format": "Compilation, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12648636,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "260 018-6",
+      "country": "Russia",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3911824,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "0249813427",
+      "country": "Canada",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10208894,
+      "title": "Feel Alright",
+      "label": "Universal",
+      "catalog_number": "981 770-5",
+      "country": "Indonesia",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18520978,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "0249813427",
+      "country": "Canada",
+      "year": "2004",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12322101,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "9813422",
+      "country": "Ukraine",
+      "year": "2007",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14528584,
+      "title": "Feel Alright",
+      "label": "JAD",
+      "catalog_number": "0602498134276",
+      "country": "Europe",
+      "year": "0",
+      "format": "Compilation, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 11,
+  "countries": [
+    "Argentina",
+    "Brazil",
+    "Bulgaria",
+    "Canada",
+    "Europe",
+    "Indonesia",
+    "Russia",
+    "Ukraine"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2007"
+  }
+}

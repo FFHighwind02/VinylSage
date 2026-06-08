@@ -1,0 +1,167 @@
+{
+  "album": "52nd Street",
+  "artist": "Billy Joel",
+  "source": "discogs",
+  "master": {
+    "master_id": 772189,
+    "title": "The Stranger = ストレンジャー",
+    "year": 1978,
+    "artists": [
+      "Billy Joel",
+      "Billy Joel"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Ballad",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "The Stranger = ストレンジャー",
+        "duration": "4:10"
+      },
+      {
+        "position": "B",
+        "title": "Movin' Out (Anthony's Song) = ムーヴィン・アウト",
+        "duration": "3:30"
+      }
+    ],
+    "lowest_price": 0.71,
+    "num_for_sale": 118,
+    "main_release": 1721056
+  },
+  "pressings": [
+    {
+      "release_id": 36246331,
+      "title": "The Stranger",
+      "label": "CBS",
+      "catalog_number": "BA 222406",
+      "country": "Australia",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11435714,
+      "title": "The Stranger",
+      "label": "CBS",
+      "catalog_number": "BA461866",
+      "country": "New Zealand",
+      "year": "1978",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5901660,
+      "title": "The Stranger / Just The Way You Are",
+      "label": "CBS",
+      "catalog_number": "CBS 6175",
+      "country": "Europe",
+      "year": "1978",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1721056,
+      "title": "The Stranger = ストレンジャー",
+      "label": "CBS/Sony",
+      "catalog_number": "06SP 228",
+      "country": "Japan",
+      "year": "1978",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7916862,
+      "title": "The Stranger = ストレンジャー / Movin' Out (Anthony's Song) = ムーヴィン・アウト",
+      "label": "CBS/Sony",
+      "catalog_number": "06SP 406",
+      "country": "Japan",
+      "year": "1978",
+      "format": "7\", Single, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14172927,
+      "title": "The Stranger = ストレンジャー",
+      "label": "CBS/Sony",
+      "catalog_number": "06SP 228",
+      "country": "Japan",
+      "year": "1978",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6613633,
+      "title": "The Stranger",
+      "label": "CBS",
+      "catalog_number": "BA 222406",
+      "country": "Australia",
+      "year": "1978",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15379289,
+      "title": "The Stranger = ストレンジャー / Movin' Out (Anthony's Song) = ムーヴィン・アウト",
+      "label": "CBS/Sony",
+      "catalog_number": "07SP 748",
+      "country": "Japan",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4709677,
+      "title": "The Stranger = ストレンジャー",
+      "label": "Sony Records",
+      "catalog_number": "SRDS 8306",
+      "country": "Japan",
+      "year": "1995",
+      "format": "Single, Mini",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 9,
+  "countries": [
+    "Australia",
+    "Europe",
+    "Japan",
+    "New Zealand"
+  ],
+  "years_range": {
+    "earliest": "1977",
+    "latest": "1995"
+  }
+}

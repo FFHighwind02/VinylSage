@@ -1,0 +1,186 @@
+{
+  "album": "Fragile",
+  "artist": "Yes",
+  "source": "discogs",
+  "master": {
+    "master_id": 396729,
+    "title": "In The Present (Live From Lyon)",
+    "year": 2011,
+    "artists": [
+      "Yes"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Siberian Khatru",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "I've Seen All Good People",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Tempus Fugit",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Onward",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Astral Traveller",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "Yours Is No Disgrace",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "title": "And You And I",
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "title": "Corkscrew (Acoustic Solo)",
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "title": "Owner Of A Lonely Heart",
+        "duration": ""
+      },
+      {
+        "position": "D3",
+        "title": "South Side Of The Sky",
+        "duration": ""
+      },
+      {
+        "position": "E1",
+        "title": "Machine Messiah",
+        "duration": ""
+      },
+      {
+        "position": "E2",
+        "title": "Heart Of The Sunrise",
+        "duration": ""
+      },
+      {
+        "position": "F1",
+        "title": "Roundabout",
+        "duration": ""
+      },
+      {
+        "position": "F2",
+        "title": "Starship Trooper",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 12.26,
+    "num_for_sale": 42,
+    "main_release": 3462143
+  },
+  "pressings": [
+    {
+      "release_id": 9926128,
+      "title": "In The Present (Live From Lyon)",
+      "label": "Avalon",
+      "catalog_number": "MICP-90056",
+      "country": "Japan",
+      "year": "2011",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3273972,
+      "title": "In The Present (Live From Lyon)",
+      "label": "Frontiers Records",
+      "catalog_number": "FR CDVD 537",
+      "country": "Italy",
+      "year": "2011",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3312577,
+      "title": "In The Present (Live From Lyon)",
+      "label": "Avalon",
+      "catalog_number": "MIZP-60032",
+      "country": "Japan",
+      "year": "2011",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3462143,
+      "title": "In The Present (Live From Lyon)",
+      "label": "Frontiers Records",
+      "catalog_number": "FR LP 537",
+      "country": "Italy",
+      "year": "2011",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26385356,
+      "title": "In The Present (Live From Lyon)",
+      "label": "Frontiers Records",
+      "catalog_number": "SR0716",
+      "country": "Mexico",
+      "year": "2011",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12439794,
+      "title": "In The Present Live From Lyon",
+      "label": "Radar Records (8)",
+      "catalog_number": "RAD 8011",
+      "country": "Brazil",
+      "year": "2012",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "Brazil",
+    "Italy",
+    "Japan",
+    "Mexico"
+  ],
+  "years_range": {
+    "earliest": "2011",
+    "latest": "2012"
+  }
+}

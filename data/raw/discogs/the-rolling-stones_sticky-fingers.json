@@ -1,0 +1,226 @@
+{
+  "album": "Sticky Fingers",
+  "artist": "The Rolling Stones",
+  "source": "discogs",
+  "master": {
+    "master_id": 875841,
+    "title": "Carol",
+    "year": 1964,
+    "artists": [
+      "The Rolling Stones",
+      "The Rolling Stones"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Rock & Roll",
+      "Blues Rock",
+      "Rhythm & Blues"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Carol",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "I Just Wanna Make Love To You",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Tell Me",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Route 66",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 20.0,
+    "num_for_sale": 53,
+    "main_release": 6251292
+  },
+  "pressings": [
+    {
+      "release_id": 10978423,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "45 - F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP, Jukebox",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33899388,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13194260,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7389228,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14877975,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9215424,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6251292,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15285285,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45 - F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9810429,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28631722,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "45 - F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP, Jukebox",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7402592,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9928819,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1964",
+      "format": "7\", 45 RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2401690,
+      "title": "Carol",
+      "label": "Decca",
+      "catalog_number": "F 11999, 45-F 11999",
+      "country": "Italy",
+      "year": "1971",
+      "format": "7\", 45 RPM, EP, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 13,
+  "countries": [
+    "Italy"
+  ],
+  "years_range": {
+    "earliest": "1964",
+    "latest": "1971"
+  }
+}

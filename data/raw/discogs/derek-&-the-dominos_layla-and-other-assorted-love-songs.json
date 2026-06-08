@@ -1,0 +1,83 @@
+{
+  "album": "Layla And Other Assorted Love Songs",
+  "artist": "Derek & The Dominos",
+  "source": "discogs",
+  "master": {
+    "master_id": 836205,
+    "title": "The Miami Sessions",
+    "year": 1990,
+    "artists": [
+      "Derek & The Dominos"
+    ],
+    "genres": [
+      "Rock",
+      "Funk / Soul",
+      "Blues"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Southern Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Miami Jam I",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Miami Jam II",
+        "duration": ""
+      },
+      {
+        "position": "C",
+        "title": "Miami Jam III",
+        "duration": ""
+      },
+      {
+        "position": "D",
+        "title": "Miami Jam IV",
+        "duration": ""
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 2290399
+  },
+  "pressings": [
+    {
+      "release_id": 2290399,
+      "title": "The Miami Sessions",
+      "label": "The Swingin' Pig",
+      "catalog_number": "TSP 045-2",
+      "country": "Luxembourg",
+      "year": "1990",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6726700,
+      "title": "The Miami Sessions",
+      "label": "The Swingin' Pig",
+      "catalog_number": "TSP-CD-045",
+      "country": "Luxembourg",
+      "year": "1990",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Luxembourg"
+  ],
+  "years_range": {
+    "earliest": "1990",
+    "latest": "1990"
+  }
+}

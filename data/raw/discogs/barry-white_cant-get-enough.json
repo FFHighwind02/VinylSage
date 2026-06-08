@@ -1,0 +1,97 @@
+{
+  "album": "Can't Get Enough",
+  "artist": "Barry White",
+  "source": "discogs",
+  "master": {
+    "master_id": 3359713,
+    "title": "As Time Goes By = アズ・タイム・ゴーズ・バイ",
+    "year": 1987,
+    "artists": [
+      "Barry White",
+      "Barry White"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "As Time Goes By = アズ・タイム・ゴーズ・バイ",
+        "duration": "5:51"
+      },
+      {
+        "position": "B",
+        "title": "Share = シェア",
+        "duration": "7:05"
+      }
+    ],
+    "lowest_price": 15.0,
+    "num_for_sale": 6,
+    "main_release": 29426761
+  },
+  "pressings": [
+    {
+      "release_id": 29426761,
+      "title": "As Time Goes By = アズ・タイム・ゴーズ・バイ",
+      "label": "A&M Records",
+      "catalog_number": "C12Y3215",
+      "country": "Japan",
+      "year": "1987",
+      "format": "12\", 45 RPM, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31188334,
+      "title": "As Time Goes By = アズ・タイム・ゴーズ・バイ",
+      "label": "A&M Records",
+      "catalog_number": "C12Y3215",
+      "country": "Japan",
+      "year": "1987",
+      "format": "12\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29428837,
+      "title": "As Time Goes By",
+      "label": "A&M Records",
+      "catalog_number": "7Y3071",
+      "country": "Japan",
+      "year": "1988",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9054882,
+      "title": "As Time Goes By",
+      "label": "A&M Records",
+      "catalog_number": "PR-114",
+      "country": "Japan",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1988"
+  }
+}

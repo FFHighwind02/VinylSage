@@ -1,0 +1,83 @@
+{
+  "album": "Abraxas",
+  "artist": "Santana",
+  "source": "discogs",
+  "master": {
+    "master_id": 10620,
+    "title": "Image",
+    "year": 2000,
+    "artists": [
+      "Theatre Of Tragedy"
+    ],
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "EBM",
+      "Electro",
+      "Goth Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Image",
+        "duration": "3:07"
+      },
+      {
+        "position": "2",
+        "title": "Machine",
+        "duration": "4:12"
+      },
+      {
+        "position": "3",
+        "title": "Fragment (Element Remix)",
+        "duration": "3:55"
+      },
+      {
+        "position": "4",
+        "title": "Machine (VNV Nation Remix)",
+        "duration": "6:23"
+      }
+    ],
+    "lowest_price": 4.0,
+    "num_for_sale": 12,
+    "main_release": 206047
+  },
+  "pressings": [
+    {
+      "release_id": 206047,
+      "title": "Image",
+      "label": "EastWest",
+      "catalog_number": "8573-84756-2",
+      "country": "Germany",
+      "year": "2000",
+      "format": "Maxi-Single, Limited Edition, Numbered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1189219,
+      "title": "Image (Version Française)",
+      "label": "Nuclear Blast",
+      "catalog_number": "NB 594-2",
+      "country": "Germany",
+      "year": "2000",
+      "format": "Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Germany"
+  ],
+  "years_range": {
+    "earliest": "2000",
+    "latest": "2000"
+  }
+}

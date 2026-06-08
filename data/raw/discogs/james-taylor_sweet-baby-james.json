@@ -1,0 +1,466 @@
+{
+  "album": "Sweet Baby James",
+  "artist": "James Taylor",
+  "source": "discogs",
+  "master": {
+    "master_id": 1582228,
+    "title": "The Warner Bros. Albums 1970-1976",
+    "year": 2019,
+    "artists": [
+      "James Taylor (2)"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Acoustic"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Sweet Baby James",
+        "duration": ""
+      },
+      {
+        "position": "A1",
+        "title": "Sweet Baby James",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Lo And Behold",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Sunny Skies",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Steamroller",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Country Road",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "title": "Oh Susannah",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Fire And Rain",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Blossom",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Anywhere Like Heaven",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Oh Baby, Don't You Loose Your Lip On Me",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Suite For 20 G",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Mud Slide Slim And The Blue Horizon",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "Love Has Brought Me Around",
+        "duration": "2:41"
+      },
+      {
+        "position": "C2",
+        "title": "You've Got A Friend",
+        "duration": "4:29"
+      },
+      {
+        "position": "C3",
+        "title": "Places In My Past",
+        "duration": "2:01"
+      },
+      {
+        "position": "C4",
+        "title": "Riding On A Railroad",
+        "duration": "2:41"
+      },
+      {
+        "position": "C5",
+        "title": "Soldiers",
+        "duration": "1:13"
+      },
+      {
+        "position": "C6",
+        "title": "Mud Slide Slim",
+        "duration": "5:20"
+      },
+      {
+        "position": "D1",
+        "title": "Hey Mister, That's Me Up On The Jukebox",
+        "duration": "3:46"
+      },
+      {
+        "position": "D2",
+        "title": "You Can Close Your Eyes",
+        "duration": "2:31"
+      },
+      {
+        "position": "D3",
+        "title": "Machine Gun Kelly",
+        "duration": "2:37"
+      },
+      {
+        "position": "D4",
+        "title": "Long Ago And Far Away",
+        "duration": "2:20"
+      },
+      {
+        "position": "D5",
+        "title": "Let Me Ride",
+        "duration": "2:42"
+      },
+      {
+        "position": "D6",
+        "title": "Highway Song",
+        "duration": "3:51"
+      },
+      {
+        "position": "D7",
+        "title": "Isn't It Nice To Be Home Again",
+        "duration": "0:55"
+      },
+      {
+        "position": "",
+        "title": "One Man Dog",
+        "duration": ""
+      },
+      {
+        "position": "E1",
+        "title": "One Man Parade",
+        "duration": "3:10"
+      },
+      {
+        "position": "E2",
+        "title": "Nobody But You",
+        "duration": "2:57"
+      },
+      {
+        "position": "E3",
+        "title": "Chili Dog",
+        "duration": "1:35"
+      },
+      {
+        "position": "E4",
+        "title": "Fool For You",
+        "duration": "1:42"
+      },
+      {
+        "position": "E5",
+        "title": "Instrumental I",
+        "duration": "0:55"
+      },
+      {
+        "position": "E6",
+        "title": "New Tune",
+        "duration": "1:35"
+      },
+      {
+        "position": "E7",
+        "title": "Back On The Street Again",
+        "duration": "3:00"
+      },
+      {
+        "position": "E8",
+        "title": "Don't Let Me Be Lonely Tonight",
+        "duration": "2:34"
+      },
+      {
+        "position": "F1",
+        "title": "Woh, Don't You Know",
+        "duration": "2:10"
+      },
+      {
+        "position": "F2",
+        "title": "One Morning In May",
+        "duration": "2:54"
+      },
+      {
+        "position": "F3",
+        "title": "Instrumental II",
+        "duration": "1:41"
+      },
+      {
+        "position": "F4",
+        "title": "Someone",
+        "duration": "3:36"
+      },
+      {
+        "position": "F5",
+        "title": "Hymn",
+        "duration": "2:24"
+      },
+      {
+        "position": "F6",
+        "title": "Fanfare",
+        "duration": "2:33"
+      },
+      {
+        "position": "F7",
+        "title": "Little David",
+        "duration": "1:00"
+      },
+      {
+        "position": "F8",
+        "title": "Mescalito",
+        "duration": "0:29"
+      },
+      {
+        "position": "F9",
+        "title": "Dance",
+        "duration": "2:07"
+      },
+      {
+        "position": "F10",
+        "title": "Jig",
+        "duration": "1:13"
+      },
+      {
+        "position": "",
+        "title": "Walking Man",
+        "duration": ""
+      },
+      {
+        "position": "G1",
+        "title": "Walking Man",
+        "duration": "3:30"
+      },
+      {
+        "position": "G2",
+        "title": "Rock 'N' Roll Is Music Now",
+        "duration": "3:25"
+      },
+      {
+        "position": "G3",
+        "title": "Let It All Fall Down",
+        "duration": "3:30"
+      },
+      {
+        "position": "G4",
+        "title": "Me And My Guitar",
+        "duration": "3:30"
+      },
+      {
+        "position": "G5",
+        "title": "Daddy's Baby",
+        "duration": "2:37"
+      },
+      {
+        "position": "H1",
+        "title": "Ain't No Song",
+        "duration": "3:28"
+      },
+      {
+        "position": "H2",
+        "title": "Hello Old Friend",
+        "duration": "2:45"
+      },
+      {
+        "position": "H3",
+        "title": "Migration",
+        "duration": "3:14"
+      },
+      {
+        "position": "H4",
+        "title": "The Promised Land",
+        "duration": "4:03"
+      },
+      {
+        "position": "H5",
+        "title": "Fading Away",
+        "duration": "3:32"
+      },
+      {
+        "position": "",
+        "title": "Gorilla",
+        "duration": ""
+      },
+      {
+        "position": "I1",
+        "title": "Mexico",
+        "duration": "2:57"
+      },
+      {
+        "position": "I2",
+        "title": "Music",
+        "duration": "3:46"
+      },
+      {
+        "position": "I3",
+        "title": "How Sweet It Is (To Be Loved By You)",
+        "duration": "3:33"
+      },
+      {
+        "position": "I4",
+        "title": "Wandering",
+        "duration": "2:40"
+      },
+      {
+        "position": "I5",
+        "title": "Gorilla",
+        "duration": "3:10"
+      },
+      {
+        "position": "I6",
+        "title": "You Make It Easy",
+        "duration": "4:10"
+      },
+      {
+        "position": "J1",
+        "title": "I Was A Fool To Care",
+        "duration": "3:19"
+      },
+      {
+        "position": "J2",
+        "title": "Lighthouse",
+        "duration": "3:15"
+      },
+      {
+        "position": "J3",
+        "title": "Angry Blues",
+        "duration": "3:25"
+      },
+      {
+        "position": "J4",
+        "title": "Love Songs",
+        "duration": "5:45"
+      },
+      {
+        "position": "J5",
+        "title": "Sarah Maria",
+        "duration": "2:46"
+      },
+      {
+        "position": "",
+        "title": "In The Pocket",
+        "duration": ""
+      },
+      {
+        "position": "K1",
+        "title": "Shower The People",
+        "duration": "4:32"
+      },
+      {
+        "position": "K2",
+        "title": "A Junkie's Lament",
+        "duration": "3:27"
+      },
+      {
+        "position": "K3",
+        "title": "Money Machine",
+        "duration": "4:35"
+      },
+      {
+        "position": "K4",
+        "title": "Slow Burning Love",
+        "duration": "3:43"
+      },
+      {
+        "position": "K5",
+        "title": "Everybody Has The Blues",
+        "duration": "2:01"
+      },
+      {
+        "position": "K6",
+        "title": "Daddy's All Gone",
+        "duration": "3:38"
+      },
+      {
+        "position": "L1",
+        "title": "Woman's Gotta Have It",
+        "duration": "4:20"
+      },
+      {
+        "position": "L2",
+        "title": "Captain Jim's Drunken Dream",
+        "duration": "4:00"
+      },
+      {
+        "position": "L3",
+        "title": "Don't Be Sad 'Cause Your Sun Is Down",
+        "duration": "3:28"
+      },
+      {
+        "position": "L4",
+        "title": "Nothing Like A Hundred Miles",
+        "duration": "3:35"
+      },
+      {
+        "position": "L5",
+        "title": "Family Man",
+        "duration": "3:34"
+      },
+      {
+        "position": "L6",
+        "title": "Golden Moments",
+        "duration": "3:35"
+      }
+    ],
+    "lowest_price": 19.95,
+    "num_for_sale": 24,
+    "main_release": 13916032
+  },
+  "pressings": [
+    {
+      "release_id": 13899287,
+      "title": "The Warner Bros. Albums 1970-1976",
+      "label": "Warner Bros. Records",
+      "catalog_number": "603497852390, R2 587550",
+      "country": "UK & Europe",
+      "year": "2019",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13916032,
+      "title": "The Warner Bros. Albums 1970-1976",
+      "label": "Warner Bros. Records",
+      "catalog_number": "603497852611, R1 587550",
+      "country": "UK & Europe",
+      "year": "2019",
+      "format": "LP, Album, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "UK & Europe"
+  ],
+  "years_range": {
+    "earliest": "2019",
+    "latest": "2019"
+  }
+}

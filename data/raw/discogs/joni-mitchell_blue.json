@@ -1,0 +1,649 @@
+{
+  "album": "Blue",
+  "artist": "Joni Mitchell",
+  "source": "discogs",
+  "master": {
+    "master_id": 1723968,
+    "title": "The Studio Albums 1968-1979",
+    "year": 2012,
+    "artists": [
+      "Joni Mitchell"
+    ],
+    "genres": [
+      "Jazz",
+      "Rock",
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk",
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Song To A Seagull",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Part One I Came To The City",
+        "duration": ""
+      },
+      {
+        "position": "1-1",
+        "title": "I Had A King",
+        "duration": ""
+      },
+      {
+        "position": "1-2",
+        "title": "Michael From Mountains",
+        "duration": ""
+      },
+      {
+        "position": "1-3",
+        "title": "Night In The City",
+        "duration": ""
+      },
+      {
+        "position": "1-4",
+        "title": "Marcie",
+        "duration": ""
+      },
+      {
+        "position": "1-5",
+        "title": "Nathan La Franeer",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Part Two Out Of The City And Down To The Seaside",
+        "duration": ""
+      },
+      {
+        "position": "1-6",
+        "title": "Sisotowbell Lane",
+        "duration": ""
+      },
+      {
+        "position": "1-7",
+        "title": "The Dawntreader",
+        "duration": ""
+      },
+      {
+        "position": "1-8",
+        "title": "The Pirate Of Penance",
+        "duration": ""
+      },
+      {
+        "position": "1-9",
+        "title": "Song To A Seagull",
+        "duration": ""
+      },
+      {
+        "position": "1-10",
+        "title": "Cactus Tree",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Clouds",
+        "duration": ""
+      },
+      {
+        "position": "2-1",
+        "title": "Tin Angel",
+        "duration": ""
+      },
+      {
+        "position": "2-2",
+        "title": "Chelsea Morning",
+        "duration": ""
+      },
+      {
+        "position": "2-3",
+        "title": "I Don't Know Where I Stand",
+        "duration": ""
+      },
+      {
+        "position": "2-4",
+        "title": "That Song About The Midway",
+        "duration": ""
+      },
+      {
+        "position": "2-5",
+        "title": "Roses Blue",
+        "duration": ""
+      },
+      {
+        "position": "2-6",
+        "title": "The Gallery",
+        "duration": ""
+      },
+      {
+        "position": "2-7",
+        "title": "I Think I Understand",
+        "duration": ""
+      },
+      {
+        "position": "2-8",
+        "title": "Songs To Aging Children Come",
+        "duration": ""
+      },
+      {
+        "position": "2-9",
+        "title": "The Fiddle And The Drum",
+        "duration": ""
+      },
+      {
+        "position": "2-10",
+        "title": "Both Sides, Now",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Ladies Of The Canyon",
+        "duration": ""
+      },
+      {
+        "position": "3-1",
+        "title": "Morning Morgantown",
+        "duration": ""
+      },
+      {
+        "position": "3-2",
+        "title": "For Free",
+        "duration": ""
+      },
+      {
+        "position": "3-3",
+        "title": "Conversation",
+        "duration": ""
+      },
+      {
+        "position": "3-4",
+        "title": "Ladies Of The Canyon",
+        "duration": ""
+      },
+      {
+        "position": "3-5",
+        "title": "Willy",
+        "duration": ""
+      },
+      {
+        "position": "3-6",
+        "title": "The Arrangement",
+        "duration": ""
+      },
+      {
+        "position": "3-7",
+        "title": "Rainy Night House",
+        "duration": ""
+      },
+      {
+        "position": "3-8",
+        "title": "The Priest",
+        "duration": ""
+      },
+      {
+        "position": "3-9",
+        "title": "Blue Boy",
+        "duration": ""
+      },
+      {
+        "position": "3-10",
+        "title": "Big Yellow Taxi",
+        "duration": ""
+      },
+      {
+        "position": "3-11",
+        "title": "Woodstock",
+        "duration": ""
+      },
+      {
+        "position": "3-12",
+        "title": "The Circle Game",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Blue",
+        "duration": ""
+      },
+      {
+        "position": "4-1",
+        "title": "All I Want",
+        "duration": ""
+      },
+      {
+        "position": "4-2",
+        "title": "My Old Man",
+        "duration": ""
+      },
+      {
+        "position": "4-3",
+        "title": "Little Green",
+        "duration": ""
+      },
+      {
+        "position": "4-4",
+        "title": "Carey",
+        "duration": ""
+      },
+      {
+        "position": "4-5",
+        "title": "Blue",
+        "duration": ""
+      },
+      {
+        "position": "4-6",
+        "title": "California",
+        "duration": ""
+      },
+      {
+        "position": "4-7",
+        "title": "This Flight Tonight",
+        "duration": ""
+      },
+      {
+        "position": "4-8",
+        "title": "River",
+        "duration": ""
+      },
+      {
+        "position": "4-9",
+        "title": "A Case Of You",
+        "duration": ""
+      },
+      {
+        "position": "4-10",
+        "title": "The Last Time I Saw Richard",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "For The Roses",
+        "duration": ""
+      },
+      {
+        "position": "5-1",
+        "title": "Banquet",
+        "duration": ""
+      },
+      {
+        "position": "5-2",
+        "title": "Cold Blue Steel And Sweet Fire",
+        "duration": ""
+      },
+      {
+        "position": "5-3",
+        "title": "Barangrill",
+        "duration": ""
+      },
+      {
+        "position": "5-4",
+        "title": "Lesson In Survival",
+        "duration": ""
+      },
+      {
+        "position": "5-5",
+        "title": "Let The Wind Carry Me",
+        "duration": ""
+      },
+      {
+        "position": "5-6",
+        "title": "For The Roses",
+        "duration": ""
+      },
+      {
+        "position": "5-7",
+        "title": "See You Sometime",
+        "duration": ""
+      },
+      {
+        "position": "5-8",
+        "title": "Electricity",
+        "duration": ""
+      },
+      {
+        "position": "5-9",
+        "title": "You Turn Me On I'm A Radio",
+        "duration": ""
+      },
+      {
+        "position": "5-10",
+        "title": "Blonde In The Bleachers",
+        "duration": ""
+      },
+      {
+        "position": "5-11",
+        "title": "Woman Of Heart And Mind",
+        "duration": ""
+      },
+      {
+        "position": "5-12",
+        "title": "Judgement Of The Moon And Stars (Ludwig's Tune)",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Court And Spark",
+        "duration": ""
+      },
+      {
+        "position": "6-1",
+        "title": "Court And Spark",
+        "duration": ""
+      },
+      {
+        "position": "6-2",
+        "title": "Help Me",
+        "duration": ""
+      },
+      {
+        "position": "6-3",
+        "title": "Free Man In Paris",
+        "duration": ""
+      },
+      {
+        "position": "6-4",
+        "title": "People's Parties",
+        "duration": ""
+      },
+      {
+        "position": "6-5",
+        "title": "The Same Situation",
+        "duration": ""
+      },
+      {
+        "position": "6-6",
+        "title": "Car On A Hill",
+        "duration": ""
+      },
+      {
+        "position": "6-7",
+        "title": "Down To You",
+        "duration": ""
+      },
+      {
+        "position": "6-8",
+        "title": "Just Like This Train",
+        "duration": ""
+      },
+      {
+        "position": "6-9",
+        "title": "Raised On Robbery",
+        "duration": ""
+      },
+      {
+        "position": "6-10",
+        "title": "Trouble Child",
+        "duration": ""
+      },
+      {
+        "position": "6-11",
+        "title": "Twisted",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "The Hissing Of Summer Lawns",
+        "duration": ""
+      },
+      {
+        "position": "7-1",
+        "title": "In France They Kiss On Main Street",
+        "duration": ""
+      },
+      {
+        "position": "7-2",
+        "title": "The Jungle Line",
+        "duration": ""
+      },
+      {
+        "position": "7-3",
+        "title": "Edith And The Kingpin",
+        "duration": ""
+      },
+      {
+        "position": "7-4",
+        "title": "Don't Interrupt The Sorrow",
+        "duration": ""
+      },
+      {
+        "position": "7-5",
+        "title": "Shades Of Scarlett Conquering",
+        "duration": ""
+      },
+      {
+        "position": "7-6",
+        "title": "The Hissing Of Summer Lawns",
+        "duration": ""
+      },
+      {
+        "position": "7-7",
+        "title": "The Boho Dance",
+        "duration": ""
+      },
+      {
+        "position": "7-8",
+        "title": "Harry's House / Centerpiece",
+        "duration": ""
+      },
+      {
+        "position": "7-9",
+        "title": "Sweet Bird",
+        "duration": ""
+      },
+      {
+        "position": "7-10",
+        "title": "Shadows And Light",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Hejira",
+        "duration": ""
+      },
+      {
+        "position": "8-1",
+        "title": "Coyote",
+        "duration": ""
+      },
+      {
+        "position": "8-2",
+        "title": "Amelia",
+        "duration": ""
+      },
+      {
+        "position": "8-3",
+        "title": "Furry Sings The Blues",
+        "duration": ""
+      },
+      {
+        "position": "8-4",
+        "title": "A Strange Boy",
+        "duration": ""
+      },
+      {
+        "position": "8-5",
+        "title": "Hejira",
+        "duration": ""
+      },
+      {
+        "position": "8-6",
+        "title": "Song For Sharon",
+        "duration": ""
+      },
+      {
+        "position": "8-7",
+        "title": "Black Crow",
+        "duration": ""
+      },
+      {
+        "position": "8-8",
+        "title": "Blue Motel Room",
+        "duration": ""
+      },
+      {
+        "position": "8-9",
+        "title": "Refuge Of The Roads",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Don Juan's Reckless Daughter",
+        "duration": ""
+      },
+      {
+        "position": "9-1",
+        "title": "Overture - Cotton Avenue",
+        "duration": ""
+      },
+      {
+        "position": "9-2",
+        "title": "Talk To Me",
+        "duration": ""
+      },
+      {
+        "position": "9-3",
+        "title": "Jericho",
+        "duration": ""
+      },
+      {
+        "position": "9-4",
+        "title": "Paprika Plains",
+        "duration": ""
+      },
+      {
+        "position": "9-5",
+        "title": "Otis And Marlena",
+        "duration": ""
+      },
+      {
+        "position": "9-6",
+        "title": "The Tenth World",
+        "duration": ""
+      },
+      {
+        "position": "9-7",
+        "title": "Dreamland",
+        "duration": ""
+      },
+      {
+        "position": "9-8",
+        "title": "Don Juan's Reckless Daughter",
+        "duration": ""
+      },
+      {
+        "position": "9-9",
+        "title": "Off Night Backstreet",
+        "duration": ""
+      },
+      {
+        "position": "9-10",
+        "title": "The Silky Veils Of Ardor",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Mingus",
+        "duration": ""
+      },
+      {
+        "position": "10-1",
+        "title": "Happy Birthday 1975 (Rap)",
+        "duration": ""
+      },
+      {
+        "position": "10-2",
+        "title": "God Must Be A Boogie Man",
+        "duration": ""
+      },
+      {
+        "position": "10-3",
+        "title": "Funeral (Rap)",
+        "duration": ""
+      },
+      {
+        "position": "10-4",
+        "title": "A Chair In The Sky",
+        "duration": ""
+      },
+      {
+        "position": "10-5",
+        "title": "The Wolf That Lives In Lindsey",
+        "duration": ""
+      },
+      {
+        "position": "10-6",
+        "title": "I's A Muggin' (Rap)",
+        "duration": ""
+      },
+      {
+        "position": "10-7",
+        "title": "Sweet Sucker Dance",
+        "duration": ""
+      },
+      {
+        "position": "10-8",
+        "title": "Coin In The Pocket (Rap)",
+        "duration": ""
+      },
+      {
+        "position": "10-9",
+        "title": "The Dry Cleaner From Des Moines",
+        "duration": ""
+      },
+      {
+        "position": "10-10",
+        "title": "Lucky (Rap)",
+        "duration": ""
+      },
+      {
+        "position": "10-11",
+        "title": "Goodbye Pork Pie Hat",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 12.9,
+    "num_for_sale": 71,
+    "main_release": 4019891
+  },
+  "pressings": [
+    {
+      "release_id": 4019891,
+      "title": "The Studio Albums 1968-1979",
+      "label": "Warner Music",
+      "catalog_number": "8122797178",
+      "country": "Europe",
+      "year": "2012",
+      "format": "HDCD, Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15173307,
+      "title": "The Studio Albums 1968-1979",
+      "label": "Warner",
+      "catalog_number": "8122797178",
+      "country": "Europe",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Europe"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2012"
+  }
+}

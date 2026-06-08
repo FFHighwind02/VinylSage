@@ -1,0 +1,73 @@
+{
+  "album": "2112",
+  "artist": "Rush",
+  "source": "discogs",
+  "master": {
+    "master_id": 1076372,
+    "title": "アフターイメージ = Afterimage",
+    "year": 1984,
+    "artists": [
+      "Rush",
+      "Rush"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock",
+      "Prog Rock",
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "アフターイメージ = Afterimage",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "ボディ・エレクトリック = The Body Electric",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 44.44,
+    "num_for_sale": 5,
+    "main_release": 6893843
+  },
+  "pressings": [
+    {
+      "release_id": 6893843,
+      "title": "アフターイメージ = Afterimage",
+      "label": "Epic",
+      "catalog_number": "07・5P-284",
+      "country": "Japan",
+      "year": "1984",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9218711,
+      "title": "アフターイメージ = Afterimage",
+      "label": "Epic",
+      "catalog_number": "07・5P-284",
+      "country": "Japan",
+      "year": "1984",
+      "format": "7\", 45 RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1984",
+    "latest": "1984"
+  }
+}

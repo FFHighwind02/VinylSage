@@ -1,0 +1,141 @@
+{
+  "album": "Curtis",
+  "artist": "Curtis Mayfield",
+  "source": "discogs",
+  "master": {
+    "master_id": 699923,
+    "title": "The Best Of Curtis Mayfield",
+    "year": 1974,
+    "artists": [
+      "Curtis Mayfield"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Move On Up",
+        "duration": "8:50"
+      },
+      {
+        "position": "A2",
+        "title": "Wild And Free",
+        "duration": "3:12"
+      },
+      {
+        "position": "A3",
+        "title": "Give Me Your Love",
+        "duration": "4:15"
+      },
+      {
+        "position": "A4",
+        "title": "Mighty Mighty",
+        "duration": "6:46"
+      },
+      {
+        "position": "A5",
+        "title": "Miss Black America",
+        "duration": "2:55"
+      },
+      {
+        "position": "B1",
+        "title": "Superfly",
+        "duration": "3:15"
+      },
+      {
+        "position": "B2",
+        "title": "Back To The World",
+        "duration": "6:48"
+      },
+      {
+        "position": "B3",
+        "title": "People Get Ready",
+        "duration": "3:35"
+      },
+      {
+        "position": "B4",
+        "title": "If I Were Only A Child Again",
+        "duration": "2:53"
+      },
+      {
+        "position": "B5",
+        "title": "We've Got To Have Peace",
+        "duration": "4:44"
+      },
+      {
+        "position": "B6",
+        "title": "Keep On Keeping On",
+        "duration": "5:08"
+      }
+    ],
+    "lowest_price": 8.02,
+    "num_for_sale": 15,
+    "main_release": 1750769
+  },
+  "pressings": [
+    {
+      "release_id": 16245994,
+      "title": "The Best Of Curtis Mayfield",
+      "label": "Buddah Records",
+      "catalog_number": "ZCBDS 4015",
+      "country": "UK",
+      "year": "1974",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1750769,
+      "title": "The Best Of Curtis Mayfield",
+      "label": "Buddah Records",
+      "catalog_number": "BDLP 4015",
+      "country": "UK",
+      "year": "1974",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29791939,
+      "title": "The Best Of Curtis Mayfield",
+      "label": "Buddah Records",
+      "catalog_number": "Y8BDS 4015",
+      "country": "UK",
+      "year": "1974",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5806599,
+      "title": "The Best Of Curtis Mayfield",
+      "label": "Buddah Records",
+      "catalog_number": "ZCBDS 4015",
+      "country": "UK",
+      "year": "1974",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1974",
+    "latest": "1974"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "album": "Fresh",
+  "artist": "Sly and the Family Stone",
+  "source": "discogs",
+  "master": {
+    "master_id": 300874,
+    "title": "Spaced Cowboy: The Best Of Sly And The Family Stone",
+    "year": 2009,
+    "artists": [
+      "Sly & The Family Stone"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "1-01",
+        "title": "Loose Booty",
+        "duration": "3:46"
+      },
+      {
+        "position": "1-02",
+        "title": "Everybody Is A Star",
+        "duration": "3:05"
+      },
+      {
+        "position": "1-03",
+        "title": "Into My Own Thing",
+        "duration": "2:13"
+      },
+      {
+        "position": "1-04",
+        "title": "Life",
+        "duration": "3:01"
+      },
+      {
+        "position": "1-05",
+        "title": "Family Affair",
+        "duration": "3:04"
+      },
+      {
+        "position": "1-06",
+        "title": "Just Like A Baby",
+        "duration": "5:12"
+      },
+      {
+        "position": "1-07",
+        "title": "Spaced Cowboy",
+        "duration": "3:48"
+      },
+      {
+        "position": "1-08",
+        "title": "Can't Strain My Brain",
+        "duration": "4:02"
+      },
+      {
+        "position": "1-09",
+        "title": "You Can Make It If You Try",
+        "duration": "3:40"
+      },
+      {
+        "position": "1-10",
+        "title": "Let Me Have It All",
+        "duration": "2:18"
+      },
+      {
+        "position": "1-11",
+        "title": "I Get High On You",
+        "duration": "3:14"
+      },
+      {
+        "position": "1-12",
+        "title": "What Would I Do",
+        "duration": "4:05"
+      },
+      {
+        "position": "1-13",
+        "title": "Say You Will",
+        "duration": "3:16"
+      },
+      {
+        "position": "1-14",
+        "title": "Underdog",
+        "duration": "3:58"
+      },
+      {
+        "position": "1-15",
+        "title": "Sex Machine",
+        "duration": "13:47"
+      },
+      {
+        "position": "2-01",
+        "title": "Crossword Puzzle",
+        "duration": "3:47"
+      },
+      {
+        "position": "2-02",
+        "title": "We Love All",
+        "duration": "4:32"
+      },
+      {
+        "position": "2-03",
+        "title": "Runnin' Away",
+        "duration": "2:52"
+      },
+      {
+        "position": "2-04",
+        "title": "Sing A Simple Song",
+        "duration": "3:58"
+      },
+      {
+        "position": "2-05",
+        "title": "Somebody's Watching You",
+        "duration": "3:21"
+      },
+      {
+        "position": "2-06",
+        "title": "Babies Makin Babies",
+        "duration": "3:37"
+      },
+      {
+        "position": "2-07",
+        "title": "Luv N' Haight",
+        "duration": "4:03"
+      },
+      {
+        "position": "2-08",
+        "title": "I Want To Take You Higher",
+        "duration": "5:24"
+      },
+      {
+        "position": "2-09",
+        "title": "Time",
+        "duration": "3:05"
+      },
+      {
+        "position": "2-10",
+        "title": "Que Sera Sera",
+        "duration": "5:22"
+      },
+      {
+        "position": "2-11",
+        "title": "Stand!",
+        "duration": "3:09"
+      },
+      {
+        "position": "2-12",
+        "title": "Trip To Your Heart",
+        "duration": "3:40"
+      },
+      {
+        "position": "2-13",
+        "title": "If This Room Could Talk",
+        "duration": "3:11"
+      },
+      {
+        "position": "2-14",
+        "title": "You Better Help Yourself",
+        "duration": "2:20"
+      },
+      {
+        "position": "2-15",
+        "title": "Dance To The Medley",
+        "duration": "12:12"
+      }
+    ],
+    "lowest_price": 4.58,
+    "num_for_sale": 12,
+    "main_release": 2404459
+  },
+  "pressings": [
+    {
+      "release_id": 2648534,
+      "title": "Spaced Cowboy: The Best Of Sly And The Family Stone",
+      "label": "Sony Music",
+      "catalog_number": "88697594802",
+      "country": "New Zealand",
+      "year": "2009",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2404459,
+      "title": "Spaced Cowboy: The Best Of Sly And The Family Stone",
+      "label": "Sony Music",
+      "catalog_number": "88697594802",
+      "country": "Europe",
+      "year": "2009",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3127085,
+      "title": "Spaced Cowboy: The Best Of Sly And The Family Stone",
+      "label": "Sony Music",
+      "catalog_number": "88697594802",
+      "country": "Europe",
+      "year": "2009",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Europe",
+    "New Zealand"
+  ],
+  "years_range": {
+    "earliest": "2009",
+    "latest": "2009"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "album": "Mothership Connection",
+  "artist": "Parliament",
+  "source": "discogs",
+  "master": {
+    "master_id": 914321,
+    "title": "Rhenium",
+    "year": 1990,
+    "artists": [
+      "Parliament"
+    ],
+    "genres": [
+      "Rock",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul",
+      "Funk",
+      "Psychedelic",
+      "P.Funk"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Breakdown",
+        "duration": "3:24"
+      },
+      {
+        "position": "A2",
+        "title": "I Call My Baby Pussycat",
+        "duration": "3:50"
+      },
+      {
+        "position": "A3",
+        "title": "Little Ole Country Boy",
+        "duration": "3:57"
+      },
+      {
+        "position": "A4",
+        "title": "Moonshine Heather",
+        "duration": "4:04"
+      },
+      {
+        "position": "A5",
+        "title": "Oh Lord, Why Lord / Prayer",
+        "duration": "4:59"
+      },
+      {
+        "position": "B1",
+        "title": "Red Hot Mama",
+        "duration": "2:36"
+      },
+      {
+        "position": "B2",
+        "title": "My Automobile",
+        "duration": "4:43"
+      },
+      {
+        "position": "B3",
+        "title": "Nothing Before Me But Thang",
+        "duration": "3:55"
+      },
+      {
+        "position": "B4",
+        "title": "Funky Woman",
+        "duration": "2:54"
+      },
+      {
+        "position": "B5",
+        "title": "Come In Out Of The Rain",
+        "duration": "2:41"
+      },
+      {
+        "position": "B6",
+        "title": "The Silent Boatman",
+        "duration": "5:50"
+      }
+    ],
+    "lowest_price": 4.3,
+    "num_for_sale": 57,
+    "main_release": 1563157
+  },
+  "pressings": [
+    {
+      "release_id": 6296967,
+      "title": "Rhenium",
+      "label": "HDH",
+      "catalog_number": "HDH CASS 008",
+      "country": "UK",
+      "year": "1990",
+      "format": "Album, Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1563157,
+      "title": "Rhenium",
+      "label": "HDH",
+      "catalog_number": "HDH LP 008",
+      "country": "UK",
+      "year": "1990",
+      "format": "LP, Album, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 545583,
+      "title": "Rhenium",
+      "label": "HDH",
+      "catalog_number": "HDH CD 008",
+      "country": "UK",
+      "year": "1990",
+      "format": "Album, Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11001675,
+      "title": "Rhenium",
+      "label": "HDH",
+      "catalog_number": "HDH CD 008",
+      "country": "UK",
+      "year": "1990",
+      "format": "Compilation, Limited Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1990",
+    "latest": "1990"
+  }
+}

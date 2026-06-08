@@ -1,0 +1,71 @@
+{
+  "album": "I Want to See the Bright Lights Tonight",
+  "artist": "Richard and Linda Thompson",
+  "source": "discogs",
+  "master": {
+    "master_id": 1946431,
+    "title": "Don't Renege On Our Love",
+    "year": 1982,
+    "artists": [
+      "Richard & Linda Thompson"
+    ],
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Don't Renege On Our Love",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Living In Luxury",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 4.3,
+    "num_for_sale": 11,
+    "main_release": 3580546
+  },
+  "pressings": [
+    {
+      "release_id": 17144104,
+      "title": "Don't Renege On Our Love",
+      "label": "Hannibal Records",
+      "catalog_number": "HNS 703",
+      "country": "UK",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3580546,
+      "title": "Don't Renege On Our Love",
+      "label": "Hannibal Records",
+      "catalog_number": "HNS 703",
+      "country": "UK",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1982",
+    "latest": "1982"
+  }
+}

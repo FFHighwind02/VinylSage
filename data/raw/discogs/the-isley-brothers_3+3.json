@@ -1,0 +1,231 @@
+{
+  "album": "3+3",
+  "artist": "The Isley Brothers",
+  "source": "discogs",
+  "master": {
+    "master_id": 418346,
+    "title": "Take Me In Your Arms (Rock Me A Little While)",
+    "year": 1968,
+    "artists": [
+      "The Isley Brothers"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Take Me In Your Arms (Rock Me A Little While)",
+        "duration": "2:39"
+      },
+      {
+        "position": "B",
+        "title": "Why When Love Is Gone",
+        "duration": "2:31"
+      }
+    ],
+    "lowest_price": 8.6,
+    "num_for_sale": 32,
+    "main_release": 4907640
+  },
+  "pressings": [
+    {
+      "release_id": 3408246,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla Motown",
+      "catalog_number": "GO 25.786",
+      "country": "Netherlands",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4907640,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla",
+      "catalog_number": "T-54164",
+      "country": "US",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7453260,
+      "title": "Take Me In Your Arms (Rock Me A Little While) / Why When Love Is Gone",
+      "label": "Tamla Motown",
+      "catalog_number": "FT 127",
+      "country": "France",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8858467,
+      "title": "Take Me In Your Arms (Rock Me A Little While) ",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 652",
+      "country": "UK",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16230293,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla",
+      "catalog_number": "T-54164",
+      "country": "US",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13638919,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla Motown",
+      "catalog_number": "T-54164",
+      "country": "Canada",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8258445,
+      "title": "Take Me In Your Arms (Rock Me A Little While) ",
+      "label": "Tamla",
+      "catalog_number": "T-54164",
+      "country": "US",
+      "year": "1968",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12972797,
+      "title": "Why When Love Is Gone / Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla Motown",
+      "catalog_number": "TMO-8328",
+      "country": "Australia",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12972702,
+      "title": "Why When Love Is Gone / Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla Motown",
+      "catalog_number": "TMO-8328",
+      "country": "Australia",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13431389,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla",
+      "catalog_number": "T-54164",
+      "country": "US",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18235414,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla",
+      "catalog_number": "T 54164",
+      "country": "US",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4096223,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 652",
+      "country": "UK",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15522411,
+      "title": "Take Me In Your Arms (Rock Me A Little While) ",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 652",
+      "country": "UK",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2633226,
+      "title": "Take Me In Your Arms (Rock Me A Little While)",
+      "label": "Tamla",
+      "catalog_number": "T 54164",
+      "country": "US",
+      "year": "1968",
+      "format": "7\", 45 RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 14,
+  "countries": [
+    "Australia",
+    "Canada",
+    "France",
+    "Netherlands",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1968",
+    "latest": "1968"
+  }
+}

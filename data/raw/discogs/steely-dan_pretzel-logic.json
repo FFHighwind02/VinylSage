@@ -1,0 +1,419 @@
+{
+  "album": "Pretzel Logic",
+  "artist": "Steely Dan",
+  "source": "discogs",
+  "master": {
+    "master_id": 17120,
+    "title": "Two Against Nature",
+    "year": 2000,
+    "artists": [
+      "Steely Dan"
+    ],
+    "genres": [
+      "Jazz",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Fusion"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Gaslighting Abbie",
+        "duration": "5:54"
+      },
+      {
+        "position": "2",
+        "title": "What A Shame About Me",
+        "duration": "5:15"
+      },
+      {
+        "position": "3",
+        "title": "Two Against Nature",
+        "duration": "6:18"
+      },
+      {
+        "position": "4",
+        "title": "Janie Runaway",
+        "duration": "4:08"
+      },
+      {
+        "position": "5",
+        "title": "Almost Gothic",
+        "duration": "4:10"
+      },
+      {
+        "position": "6",
+        "title": "Jack Of Speed",
+        "duration": "6:19"
+      },
+      {
+        "position": "7",
+        "title": "Cousin Dupree",
+        "duration": "5:28"
+      },
+      {
+        "position": "8",
+        "title": "Negative Girl",
+        "duration": "5:35"
+      },
+      {
+        "position": "9",
+        "title": "West Of Hollywood",
+        "duration": "8:21"
+      }
+    ],
+    "lowest_price": 0.86,
+    "num_for_sale": 649,
+    "main_release": 382042
+  },
+  "pressings": [
+    {
+      "release_id": 12794185,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-2",
+      "country": "US",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4016673,
+      "title": "Two Against Nature",
+      "label": "BMG",
+      "catalog_number": "BVCG-21003, 74321-62190-2",
+      "country": "Japan",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22206577,
+      "title": "Two Against Nature",
+      "label": "Giant Records (5)",
+      "catalog_number": "9 24719-2",
+      "country": "Russia",
+      "year": "2000",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9632993,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-2",
+      "country": "Australia",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 787959,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "74321 62190 2",
+      "country": "Europe",
+      "year": "2000",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23367371,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-2",
+      "country": "US",
+      "year": "2000",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 382042,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-2",
+      "country": "US",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21275749,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "74321621904",
+      "country": "Poland",
+      "year": "2000",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36988149,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 247192",
+      "country": "Indonesia",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19470700,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-2",
+      "country": "US",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19420417,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-4",
+      "country": "Thailand",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9783161,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "WG2 24719",
+      "country": "Canada",
+      "year": "2000",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6251956,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "CDGNT(WF)030",
+      "country": "South Africa",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22812593,
+      "title": "Two Against Nature",
+      "label": "BMG",
+      "catalog_number": "74321 62190-2",
+      "country": "Brazil",
+      "year": "2000",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2238634,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "CD 24719",
+      "country": "Canada",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5897009,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-4",
+      "country": "US",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28537771,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-2",
+      "country": "US",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12340776,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "9 24719-4, BMG 9054",
+      "country": "Indonesia",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3512585,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "2-24719-AB",
+      "country": "US",
+      "year": "2000",
+      "format": "Advance, Album, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11988140,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "743216219025",
+      "country": "Thailand",
+      "year": "2000",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3054898,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "74321 62190 1",
+      "country": "Europe",
+      "year": "2000",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16296929,
+      "title": "Two Against Nature",
+      "label": "BMG",
+      "catalog_number": " BVCG-21003,  74321-62190-2",
+      "country": "Japan",
+      "year": "2000",
+      "format": "Album, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11042814,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "74321 869309 0",
+      "country": "Europe",
+      "year": "2001",
+      "format": "DVD-Audio, Album",
+      "major_formats": [
+        "DVD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6806888,
+      "title": "Two Against Nature",
+      "label": "Riders On The Storm",
+      "catalog_number": "7599 24719-2",
+      "country": "Yugoslavia",
+      "year": "2001",
+      "format": "Album, Reissue, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15190505,
+      "title": "Two Against Nature",
+      "label": "Giant Records",
+      "catalog_number": "74321 62190 2, 74321 62190 2(I)",
+      "country": "India",
+      "year": "2001",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 25,
+  "countries": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Europe",
+    "India",
+    "Indonesia",
+    "Japan",
+    "Poland",
+    "Russia",
+    "South Africa",
+    "Thailand",
+    "US",
+    "Yugoslavia"
+  ],
+  "years_range": {
+    "earliest": "2000",
+    "latest": "2001"
+  }
+}

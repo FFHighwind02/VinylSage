@@ -1,0 +1,758 @@
+{
+  "album": "Entertainment!",
+  "artist": "Gang of Four",
+  "source": "discogs",
+  "master": {
+    "master_id": 6309,
+    "title": "Entertainment!",
+    "year": 1979,
+    "artists": [
+      "Gang Of Four"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Post-Punk",
+      "New Wave"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Ether",
+        "duration": "3:05"
+      },
+      {
+        "position": "A2",
+        "title": "Natural's Not In It",
+        "duration": "3:05"
+      },
+      {
+        "position": "A3",
+        "title": "Not Great Men",
+        "duration": "3:05"
+      },
+      {
+        "position": "A4",
+        "title": "Damaged Goods",
+        "duration": "3:30"
+      },
+      {
+        "position": "A5",
+        "title": "Return The Gift",
+        "duration": "3:04"
+      },
+      {
+        "position": "A6",
+        "title": "Guns Before Butter",
+        "duration": "3:43"
+      },
+      {
+        "position": "B1",
+        "title": "I Found That Essence Rare",
+        "duration": "3:50"
+      },
+      {
+        "position": "B2",
+        "title": "Glass",
+        "duration": "2:37"
+      },
+      {
+        "position": "B3",
+        "title": "Contract",
+        "duration": "2:40"
+      },
+      {
+        "position": "B4",
+        "title": "At Home He's A Tourist",
+        "duration": "3:30"
+      },
+      {
+        "position": "B5",
+        "title": "5-45",
+        "duration": "3:40"
+      },
+      {
+        "position": "B6",
+        "title": "Love Like Anthrax",
+        "duration": "4:20"
+      }
+    ],
+    "lowest_price": 4.58,
+    "num_for_sale": 444,
+    "main_release": 2379398
+  },
+  "pressings": [
+    {
+      "release_id": 4806543,
+      "title": "Entertainment ",
+      "label": "Warner Bros. Records",
+      "catalog_number": "M5 3446",
+      "country": "US",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13772359,
+      "title": "Entertainment!",
+      "label": "Sonopresse",
+      "catalog_number": "2S 068 63201",
+      "country": "France",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2379398,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMC 3313, 0C 062-63 201",
+      "country": "UK",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23441900,
+      "title": "Entertainment ",
+      "label": "Warner Bros. Records",
+      "catalog_number": "M5 3446",
+      "country": "US",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20450308,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMC 3313, 0C 062·63 201",
+      "country": "UK",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6675414,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "1A 062-63201",
+      "country": "Europe",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2437767,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMC 3313",
+      "country": "New Zealand",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16727979,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMC 3313",
+      "country": "UK",
+      "year": "1979",
+      "format": "LP, Album, White Label, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 608830,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "1A 062-63201",
+      "country": "Netherlands",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35317351,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TC-EMC 3313, 0C 262-63 201",
+      "country": "UK",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27558906,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "8E 274 - 63201",
+      "country": "Portugal",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1594194,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "XBS 3446",
+      "country": "Canada",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15625207,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TC-EMC 3313",
+      "country": "UK",
+      "year": "1979",
+      "format": "",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7308203,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "8E 074 63201",
+      "country": "Portugal",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4821205,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TC-EMC 3313, 0C 262-63 201",
+      "country": "UK",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13730831,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "XBS 3446",
+      "country": "Canada",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2650583,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMI ‎– 2S 068 63201",
+      "country": "France",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6879847,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "BSK 3446",
+      "country": "US",
+      "year": "1980",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5719736,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMS-81286",
+      "country": "Japan",
+      "year": "1980",
+      "format": "LP, Album, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8282601,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "BSK 3446",
+      "country": "US",
+      "year": "1980",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3184650,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "14C 062-63201",
+      "country": "Greece",
+      "year": "1980",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2896995,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMS-81286",
+      "country": "Japan",
+      "year": "1980",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29424793,
+      "title": "Entertainment ",
+      "label": "EMI",
+      "catalog_number": "TC-EMC-3313",
+      "country": "Australia",
+      "year": "1980",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2840377,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMC 3313",
+      "country": "Australia",
+      "year": "1980",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 449277,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "BSK 3446",
+      "country": "US",
+      "year": "1980",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4194393,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "BSK 3446",
+      "country": "US",
+      "year": "1980",
+      "format": "LP, Album, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6941703,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "EMC 3313",
+      "country": "New Zealand",
+      "year": "1980",
+      "format": "LP, Album, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27047130,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "BSK 3446",
+      "country": "US",
+      "year": "1983",
+      "format": "LP, Album, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15727060,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "7243 8 32146 2 4, CZ 541",
+      "country": "UK & Europe",
+      "year": "1995",
+      "format": "Album, Reissue, Remastered, Repress",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3478783,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "7243 8 32146 2 4, CZ 541",
+      "country": "UK",
+      "year": "1995",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1941252,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TOCP-8724",
+      "country": "Japan",
+      "year": "1995",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 334022,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "7243 8 32146 2 4, CZ 541",
+      "country": "Europe",
+      "year": "1995",
+      "format": "Album, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 811185,
+      "title": "Entertainment!",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R2 78428",
+      "country": "US",
+      "year": "2005",
+      "format": "Album, Remastered, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 807618,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "78428, R1 78428",
+      "country": "US",
+      "year": "2005",
+      "format": "LP, Album, Reissue, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15974621,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TOCP-53506",
+      "country": "Japan",
+      "year": "2005",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2245494,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TOCP-53506",
+      "country": "Japan",
+      "year": "2005",
+      "format": "Album, Limited Edition, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9955582,
+      "title": "Entertainment (Expanded & Remastered)",
+      "label": "Rhino Records (2)",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "2005",
+      "format": "Album, Promo, Reissue",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15353087,
+      "title": "Entertainment!",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R2 78428",
+      "country": "US",
+      "year": "2005",
+      "format": "MP3, Album",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17801395,
+      "title": "Entertainment!",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R2 78428",
+      "country": "US",
+      "year": "2005",
+      "format": "Album, Club Edition, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5890354,
+      "title": "Entertainment!",
+      "label": "EMI",
+      "catalog_number": "TOCP-67969",
+      "country": "Japan",
+      "year": "2006",
+      "format": "Album, Remastered, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4303642,
+      "title": "Entertainment!",
+      "label": "EMI (2)",
+      "catalog_number": "EMC 3313",
+      "country": "Germany",
+      "year": "2009",
+      "format": "LP, Album, Limited Edition, Reissue, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3280070,
+      "title": "Entertainment!",
+      "label": "EMI (2)",
+      "catalog_number": "EMC 3313",
+      "country": "UK",
+      "year": "2010",
+      "format": "LP, Album, Limited Edition, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17804341,
+      "title": "Entertainment!",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R2 78428",
+      "country": "US",
+      "year": "2010",
+      "format": "Album, Reissue, Remastered, Repress",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6011977,
+      "title": "Entertainment!",
+      "label": "Parlophone",
+      "catalog_number": "EMC 3313, 2564629702",
+      "country": "Europe",
+      "year": "2014",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8898492,
+      "title": "Entertainment!",
+      "label": "Parlophone",
+      "catalog_number": "WPCR-80056",
+      "country": "Japan",
+      "year": "2014",
+      "format": "Album, Remastered, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14002444,
+      "title": "Entertainment!",
+      "label": "Rhino Records (2)",
+      "catalog_number": "none",
+      "country": "Europe",
+      "year": "2015",
+      "format": "FLAC, Album, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7990097,
+      "title": "Entertainment!",
+      "label": "Warner Bros. Records",
+      "catalog_number": "78428",
+      "country": "US",
+      "year": "2016",
+      "format": "LP, Album, Limited Edition, Reissue, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10122384,
+      "title": "Entertainment!",
+      "label": "Rose Clouds",
+      "catalog_number": "RC008",
+      "country": "Poland",
+      "year": "2017",
+      "format": "Album, Reissue, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14187592,
+      "title": "Entertainment!",
+      "label": "Parlophone",
+      "catalog_number": "EMC 3313, 0190295471668",
+      "country": "UK",
+      "year": "2019",
+      "format": "LP, Album, Limited Edition, Numbered, Reissue, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22071433,
+      "title": "Entertainment!",
+      "label": "Matador",
+      "catalog_number": "OLE1742LP",
+      "country": "US",
+      "year": "2021",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "Canada",
+    "Europe",
+    "France",
+    "Germany",
+    "Greece",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Poland",
+    "Portugal",
+    "UK",
+    "UK & Europe",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1979",
+    "latest": "2021"
+  }
+}

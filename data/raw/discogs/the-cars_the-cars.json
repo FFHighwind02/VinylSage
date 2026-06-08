@@ -1,0 +1,247 @@
+{
+  "album": "The Cars",
+  "artist": "The Cars",
+  "source": "discogs",
+  "master": {
+    "master_id": 304111,
+    "title": "It's All I Can Do",
+    "year": 1979,
+    "artists": [
+      "The Cars"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "It's All I Can Do",
+        "duration": "3:45"
+      },
+      {
+        "position": "B",
+        "title": "Got A Lot On My Head",
+        "duration": "2:38"
+      }
+    ],
+    "lowest_price": 1.14,
+    "num_for_sale": 74,
+    "main_release": 1202808
+  },
+  "pressings": [
+    {
+      "release_id": 3944240,
+      "title": "Es Todo Cuanto Puedo Hacer = It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "F-ELK 0046546.7",
+      "country": "Peru",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8381328,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "P-495E",
+      "country": "Japan",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4635961,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E-46546-A",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM, Promo, Stereo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15736247,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E-46546-A",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Promo, Styrene, Stereo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11413663,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E-46546",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4415172,
+      "title": "All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E 46546",
+      "country": "Canada",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22488353,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "CA-10856",
+      "country": "El Salvador",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8381260,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "P-495E",
+      "country": "Japan",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6213080,
+      "title": "All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E 46546",
+      "country": "Canada",
+      "year": "1979",
+      "format": "7\", Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13142640,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E-46546",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Styrene, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12252545,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E 46546",
+      "country": "Australia",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8941971,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E-46546",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Styrene, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1202808,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E-46546",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Styrene, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2098533,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "K 12416",
+      "country": "UK",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10911814,
+      "title": "It's All I Can Do",
+      "label": "Elektra",
+      "catalog_number": "E 46 546",
+      "country": "New Zealand",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 15,
+  "countries": [
+    "Australia",
+    "Canada",
+    "El Salvador",
+    "Japan",
+    "New Zealand",
+    "Peru",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1979",
+    "latest": "1980"
+  }
+}

@@ -1,0 +1,759 @@
+{
+  "album": "What's Going On",
+  "artist": "Marvin Gaye",
+  "source": "discogs",
+  "master": {
+    "master_id": 66739,
+    "title": "I Want You",
+    "year": 1976,
+    "artists": [
+      "Marvin Gaye"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul",
+      "Disco"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "I Want You (Vocal)",
+        "duration": "4:35"
+      },
+      {
+        "position": "A2",
+        "title": "Come Live With Me Angel",
+        "duration": "6:28"
+      },
+      {
+        "position": "A3",
+        "title": "After The Dance (Instrumental)",
+        "duration": "4:21"
+      },
+      {
+        "position": "A4",
+        "title": "Feel All My Love Inside",
+        "duration": "3:23"
+      },
+      {
+        "position": "A5",
+        "title": "I Wanna Be Where You Are",
+        "duration": "1:17"
+      },
+      {
+        "position": "B1",
+        "title": "I Want You (Intro Jam)",
+        "duration": "0:20"
+      },
+      {
+        "position": "B2",
+        "title": "All The Way Around",
+        "duration": "3:45"
+      },
+      {
+        "position": "B3",
+        "title": "Since I Had You",
+        "duration": "4:05"
+      },
+      {
+        "position": "B4",
+        "title": "Soon I’ll Be Loving You Again",
+        "duration": "3:16"
+      },
+      {
+        "position": "B5",
+        "title": "I Want You (Intro Jam)",
+        "duration": "1:36"
+      },
+      {
+        "position": "B6",
+        "title": "After The Dance (Vocal)",
+        "duration": "4:40"
+      }
+    ],
+    "lowest_price": 1.3,
+    "num_for_sale": 596,
+    "main_release": 8010161
+  },
+  "pressings": [
+    {
+      "release_id": 1576883,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "T-342P1",
+      "country": "Canada",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4204244,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "2 C 066 97573 ",
+      "country": "France",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2246251,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "2J 062-97573",
+      "country": "Greece",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4907780,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T-7343-HC",
+      "country": "US",
+      "year": "1976",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1114224,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "STML 6147",
+      "country": "New Zealand",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5471745,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "LPS-88.623",
+      "country": "Venezuela",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31929556,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "Jamaica",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 412985,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Misprint",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12961291,
+      "title": "Te Quiero",
+      "label": "Tamla Motown",
+      "catalog_number": "SUP 732",
+      "country": "Argentina",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12259694,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T7-342-HT",
+      "country": "US",
+      "year": "1976",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13461206,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T7-342-HT",
+      "country": "US",
+      "year": "1976",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11216937,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "D 57.780",
+      "country": "Spain",
+      "year": "1976",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8010161,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11384615,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17642860,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17852698,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T7-342-HT, T-7342-HT",
+      "country": "US",
+      "year": "1976",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26368394,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "STMLO-10139",
+      "country": "Australia",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2930675,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "28.115 I",
+      "country": "Spain",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11547071,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "TC-STML 12025 , 0C 244 o 97573",
+      "country": "UK",
+      "year": "1976",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11461311,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "8X-STML 12025, 0C 344 o 97573",
+      "country": "UK",
+      "year": "1976",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35612374,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "T342-BT",
+      "country": "Canada",
+      "year": "1976",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 306699,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "1 C 062-97 573",
+      "country": "Germany",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6483749,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8118376,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6263697,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "STMLO 10139",
+      "country": "Australia",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5653695,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "3C 064-97573",
+      "country": "Italy",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13920749,
+      "title": "I Want You",
+      "label": "Rifi",
+      "catalog_number": "RMS 86267",
+      "country": "Italy",
+      "year": "1976",
+      "format": "Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4426970,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "5 C 062-97 573",
+      "country": "Netherlands",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10585572,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "VIP-6309",
+      "country": "Japan",
+      "year": "1976",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8120301,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "T7 342 HC",
+      "country": "US",
+      "year": "1976",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14600240,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5345812,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10441336,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "STML 12025, 0C 062 ◦ 97573",
+      "country": "UK",
+      "year": "1976",
+      "format": "LP, Album, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12973694,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "T6-342S1",
+      "country": "Israel",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33433478,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "TMC 5304 (T6-342S1)",
+      "country": "South Africa",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33353615,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "TM-2263",
+      "country": "Philippines",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24536954,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 685761,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "STML 12025, 0C 062 ○ 97573",
+      "country": "UK",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30573754,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "STML 12025",
+      "country": "UK",
+      "year": "1976",
+      "format": "LP, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3711403,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7254028,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "5 C 062-97573",
+      "country": "Netherlands",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2355499,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "TSM ST 60133",
+      "country": "Italy",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31153817,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13693614,
+      "title": "I Want You",
+      "label": "Tamla Motown",
+      "catalog_number": "12025",
+      "country": "Greece",
+      "year": "1976",
+      "format": "LP, Album, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2870856,
+      "title": "I Want You",
+      "label": "Motown",
+      "catalog_number": "VIP-6309",
+      "country": "Japan",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12754326,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "SE 80.006",
+      "country": "Peru",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17854027,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T7-342-HT",
+      "country": "US",
+      "year": "1976",
+      "format": "Album, Repress, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4171935,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "T6-342S1, T6 342S1",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10920117,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "MW 4119, MWS 4119",
+      "country": "Colombia",
+      "year": "1976",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24121838,
+      "title": "I Want You",
+      "label": "Tamla",
+      "catalog_number": "CRC 1R1 6522",
+      "country": "US",
+      "year": "1976",
+      "format": "3 ¾ ips, ¼\", 4-Track Stereo, 7\" Cine Reel, Album",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Canada",
+    "Colombia",
+    "France",
+    "Germany",
+    "Greece",
+    "Israel",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Peru",
+    "Philippines",
+    "South Africa",
+    "Spain",
+    "UK",
+    "US",
+    "Venezuela"
+  ],
+  "years_range": {
+    "earliest": "1976",
+    "latest": "1976"
+  }
+}

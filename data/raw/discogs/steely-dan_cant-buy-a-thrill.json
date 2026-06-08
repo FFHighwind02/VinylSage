@@ -1,0 +1,134 @@
+{
+  "album": "Can't Buy a Thrill",
+  "artist": "Steely Dan",
+  "source": "discogs",
+  "master": {
+    "master_id": 44737,
+    "title": "Marbles",
+    "year": 1993,
+    "artists": [
+      "Tindersticks"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Indie Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Marbles",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Joe Stumble",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "For Those...",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Benn",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 29.5,
+    "num_for_sale": 16,
+    "main_release": 1502121
+  },
+  "pressings": [
+    {
+      "release_id": 1088963,
+      "title": "Marbles",
+      "label": "No. 6 Records",
+      "catalog_number": "kar 028",
+      "country": "US",
+      "year": "1993",
+      "format": "7\", Single, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8527159,
+      "title": "Marbles",
+      "label": "Tippy Toe",
+      "catalog_number": "TIPPYCHE 02",
+      "country": "UK",
+      "year": "1993",
+      "format": "Single Sided, Single, Promo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1502121,
+      "title": "Marbles",
+      "label": "Tippy Toe",
+      "catalog_number": "TIPPY-CHE 2",
+      "country": "UK",
+      "year": "1993",
+      "format": "10\", 45 RPM, Limited Edition, Numbered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3406771,
+      "title": "Marbles",
+      "label": "No. 6 Records",
+      "catalog_number": "kar 028",
+      "country": "US",
+      "year": "1993",
+      "format": "7\", Single, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1919938,
+      "title": "Marbles",
+      "label": "No. 6 Records",
+      "catalog_number": "kar 028",
+      "country": "US",
+      "year": "1993",
+      "format": "7\", Single, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30290069,
+      "title": "Marbles EP (Expanded)",
+      "label": "Lucky Dog (3)",
+      "catalog_number": "none",
+      "country": "UK, Europe & US",
+      "year": "2022",
+      "format": "MP3, EP",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "UK",
+    "UK, Europe & US",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1993",
+    "latest": "2022"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "album": "3 + 3",
+  "artist": "The Isley Brothers",
+  "source": "discogs",
+  "master": {
+    "master_id": 242552,
+    "title": "Behind A Painted Smile",
+    "year": 1969,
+    "artists": [
+      "The Isley Brothers"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Behind A Painted Smile",
+        "duration": "2:45"
+      },
+      {
+        "position": "B",
+        "title": "One Too Many Heartaches",
+        "duration": "2:14"
+      }
+    ],
+    "lowest_price": 1.05,
+    "num_for_sale": 130,
+    "main_release": 2148674
+  },
+  "pressings": [
+    {
+      "release_id": 9544711,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TM 20 006",
+      "country": "Germany",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5876572,
+      "title": "Behind A Painted Smile ",
+      "label": "Tamla Motown",
+      "catalog_number": "TMM.719",
+      "country": "New Zealand",
+      "year": "1969",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13293057,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG(I)693",
+      "country": "Ireland",
+      "year": "1969",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2148674,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TM 25.981",
+      "country": "Netherlands",
+      "year": "1969",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13797227,
+      "title": "Behind A Painted Smile ",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 693",
+      "country": "UK",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12680617,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TM 25.981",
+      "country": "Netherlands",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6418632,
+      "title": "Behind A Painted Smile / One Too Many Heartaches",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 693",
+      "country": "Sweden",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4955512,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TM 25.981",
+      "country": "Netherlands",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15196622,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 693",
+      "country": "UK",
+      "year": "1969",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 659021,
+      "title": "Behind A Painted Smile ",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 693",
+      "country": "UK",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2691247,
+      "title": "Behind A Painted Smile / One Too Many Heartaches",
+      "label": "Tamla Motown",
+      "catalog_number": "TM 20 006",
+      "country": "Germany",
+      "year": "1969",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12863570,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 693",
+      "country": "Norway",
+      "year": "1969",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10619098,
+      "title": "Behind A Painted Smile",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 693",
+      "country": "Nigeria",
+      "year": "1969",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 13,
+  "countries": [
+    "Germany",
+    "Ireland",
+    "Netherlands",
+    "New Zealand",
+    "Nigeria",
+    "Norway",
+    "Sweden",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1969",
+    "latest": "1969"
+  }
+}

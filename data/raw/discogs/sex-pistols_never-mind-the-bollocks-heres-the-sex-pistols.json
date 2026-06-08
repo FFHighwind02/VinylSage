@@ -1,0 +1,141 @@
+{
+  "album": "Never Mind The Bollocks Here's The Sex Pistols",
+  "artist": "Sex Pistols",
+  "source": "discogs",
+  "master": {
+    "master_id": 2683202,
+    "title": "The Rare Best Of Sex Pistols = レア・ベスト",
+    "year": 1994,
+    "artists": [
+      "Sex Pistols",
+      "Sex Pistols"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Punk"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Anarchy In The U.K. = アナーキー・イン・ザ・Ｕ．Ｋ．",
+        "duration": "4:01"
+      },
+      {
+        "position": "2",
+        "title": "God Save The Queen = ゴッド・セイヴ・ザ・クイーン",
+        "duration": "3:39"
+      },
+      {
+        "position": "3",
+        "title": "Pretty Vacant = プリティ・ヴェイカント",
+        "duration": "3:29"
+      },
+      {
+        "position": "4",
+        "title": "I Wanna Be Me = アイ・ウォナ・ビー・ミー",
+        "duration": "3:12"
+      },
+      {
+        "position": "5",
+        "title": "Seventeen (I'm A Lazy Sod) = セヴンティーン",
+        "duration": "2:10"
+      },
+      {
+        "position": "6",
+        "title": "Problems = 怒りの日",
+        "duration": "4:21"
+      },
+      {
+        "position": "7",
+        "title": "Liar = ライアー",
+        "duration": "2:46"
+      },
+      {
+        "position": "8",
+        "title": "No Feelings = 分かってたまるか",
+        "duration": "2:53"
+      },
+      {
+        "position": "9",
+        "title": "Substitute = 恋のピンチ・ヒッター",
+        "duration": "3:01"
+      },
+      {
+        "position": "10",
+        "title": "No Fun = ノー・ファン",
+        "duration": "7:06"
+      },
+      {
+        "position": "11",
+        "title": "EMI = 拝啓ＥＭＩ殿",
+        "duration": "3:17"
+      },
+      {
+        "position": "12",
+        "title": "Don't Give Me No Lip Child = ドント・ギヴ・ミー・ノー・リップ・チャイルド",
+        "duration": "3:24"
+      },
+      {
+        "position": "13",
+        "title": "Satellite = サテライト",
+        "duration": "4:12"
+      },
+      {
+        "position": "14",
+        "title": "New York (Lookin' For A Kiss) = ニューヨーク",
+        "duration": "3:09"
+      },
+      {
+        "position": "15",
+        "title": "Submission = サブミッション",
+        "duration": "4:19"
+      },
+      {
+        "position": "16",
+        "title": "Anarchy In The U.K. (Different Version) = アナーキー・イン・ザ・Ｕ．Ｋ．（ディファレント・ヴァージョン）",
+        "duration": "4:10"
+      }
+    ],
+    "lowest_price": 4.47,
+    "num_for_sale": 16,
+    "main_release": 4950690
+  },
+  "pressings": [
+    {
+      "release_id": 23665544,
+      "title": "The Rare Best Of Sex Pistols = レア・ベスト",
+      "label": "Receiver Records Limited",
+      "catalog_number": "TECX-20699",
+      "country": "Japan",
+      "year": "1994",
+      "format": "Compilation, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4950690,
+      "title": "The Rare Best Of Sex Pistols = レア・ベスト",
+      "label": "Receiver Records Limited",
+      "catalog_number": "TECX-20699",
+      "country": "Japan",
+      "year": "1994",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1994",
+    "latest": "1994"
+  }
+}

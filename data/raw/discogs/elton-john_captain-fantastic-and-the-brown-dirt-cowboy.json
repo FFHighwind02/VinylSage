@@ -1,0 +1,620 @@
+{
+  "album": "Captain Fantastic and the Brown Dirt Cowboy",
+  "artist": "Elton John",
+  "source": "discogs",
+  "master": {
+    "master_id": 251150,
+    "title": "Your Song = Твоя Песня",
+    "year": 1987,
+    "artists": [
+      "Elton John",
+      "Elton John"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Твоя Песня = Your Song",
+        "duration": "3:58"
+      },
+      {
+        "position": "A2",
+        "title": "Сын Твоего Отца = Son Of Your Father",
+        "duration": "3:45"
+      },
+      {
+        "position": "A3",
+        "title": "Куда Теперь? = Where To Now, St Peter",
+        "duration": "4:10"
+      },
+      {
+        "position": "A4",
+        "title": "Разговор Старых Солдат = Talking Old Soldiers",
+        "duration": "4:02"
+      },
+      {
+        "position": "A5",
+        "title": "Баллада О Знаменитом Разбойнике = Ballad Of A Well-Known Gun",
+        "duration": "4:55"
+      },
+      {
+        "position": "B1",
+        "title": "Пограничная Песня = Border Song",
+        "duration": "3:18"
+      },
+      {
+        "position": "B2",
+        "title": "Маленькая Танцовщица = Tiny Dancer",
+        "duration": "6:13"
+      },
+      {
+        "position": "B3",
+        "title": "Деревенский Радости = Country Comfort",
+        "duration": "5:05"
+      },
+      {
+        "position": "B4",
+        "title": "Аморина = Amoreena",
+        "duration": "4:54"
+      },
+      {
+        "position": "B5",
+        "title": "Прощание = Good-Bye",
+        "duration": "1:44"
+      }
+    ],
+    "lowest_price": 1.71,
+    "num_for_sale": 81,
+    "main_release": 4693577
+  },
+  "pressings": [
+    {
+      "release_id": 14215711,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2979834,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6780549,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9303323,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10997252,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2305125,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4693577,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15636482,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2155271,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13552809,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17731372,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3595982,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9303373,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26334530,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6548305,
+      "title": "Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1009057,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11728377,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34899809,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3757570,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7467421,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7822605,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3757584,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6887985,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14269910,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32269299,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15220341,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "C60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11527393,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19868479,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16031591,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13970061,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33250644,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3851274,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32022035,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2895439,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35066867,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15807697,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18381292,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8452904,
+      "title": "Твоя Песня = Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7246090,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36294904,
+      "title": "Your Song",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8019520,
+      "title": "Your Song = Твоя Песня",
+      "label": "Мелодия",
+      "catalog_number": "С60 26031 002",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 41,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "1987",
+    "latest": "1991"
+  }
+}

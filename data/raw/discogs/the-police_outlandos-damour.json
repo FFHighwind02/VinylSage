@@ -1,0 +1,97 @@
+{
+  "album": "Outlandos d'Amour",
+  "artist": "The Police",
+  "source": "discogs",
+  "master": {
+    "master_id": 296044,
+    "title": "Born In The 50's",
+    "year": 1989,
+    "artists": [
+      "The Police"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "New Wave",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Can't Stand Losing You",
+        "duration": "6:44"
+      },
+      {
+        "position": "2",
+        "title": "Truth Hits Everybody",
+        "duration": "2:48"
+      },
+      {
+        "position": "3",
+        "title": "So Lonely",
+        "duration": "8:23"
+      },
+      {
+        "position": "4",
+        "title": "Fall Out",
+        "duration": "3:12"
+      },
+      {
+        "position": "5",
+        "title": "Born In The 50's",
+        "duration": "6:35"
+      },
+      {
+        "position": "6",
+        "title": "Hole In My Life",
+        "duration": "4:45"
+      },
+      {
+        "position": "7",
+        "title": "Sally - Be My Girl",
+        "duration": "4:23"
+      },
+      {
+        "position": "8",
+        "title": "Peanuts",
+        "duration": "4:13"
+      },
+      {
+        "position": "9",
+        "title": "Roxanne",
+        "duration": "12:48"
+      },
+      {
+        "position": "10",
+        "title": "Landlord",
+        "duration": "2:42"
+      },
+      {
+        "position": "11",
+        "title": "Next To You",
+        "duration": "5:00"
+      },
+      {
+        "position": "12",
+        "title": "Can't Stand Losing You",
+        "duration": "8:02"
+      },
+      {
+        "position": "13",
+        "title": "Born In The 50's",
+        "duration": "6:54"
+      }
+    ],
+    "lowest_price": 15.94,
+    "num_for_sale": 1,
+    "main_release": 2385211
+  },
+  "pressings": [],
+  "pressing_count": 0,
+  "countries": [],
+  "years_range": {
+    "earliest": null,
+    "latest": null
+  }
+}

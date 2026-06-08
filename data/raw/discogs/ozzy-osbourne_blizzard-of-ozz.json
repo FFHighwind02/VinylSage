@@ -1,0 +1,131 @@
+{
+  "album": "Blizzard of Ozz",
+  "artist": "Ozzy Osbourne",
+  "source": "discogs",
+  "master": {
+    "master_id": 26878,
+    "title": "In The Acts Of Violence",
+    "year": 2006,
+    "artists": [
+      "Dawn Of Ashes"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "EBM",
+      "Industrial"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Abyss",
+        "duration": "5:23"
+      },
+      {
+        "position": "2",
+        "title": "In The Acts Of Violence",
+        "duration": "4:11"
+      },
+      {
+        "position": "3",
+        "title": "Flat-Line",
+        "duration": "5:33"
+      },
+      {
+        "position": "4",
+        "title": "Diagnosis",
+        "duration": "4:34"
+      },
+      {
+        "position": "5",
+        "title": "Nightmare",
+        "duration": "5:54"
+      },
+      {
+        "position": "6",
+        "title": "Dark Reality",
+        "duration": "6:41"
+      },
+      {
+        "position": "7",
+        "title": "Killer Instinct",
+        "duration": "6:52"
+      },
+      {
+        "position": "8",
+        "title": "Naildriven",
+        "duration": "4:53"
+      },
+      {
+        "position": "9",
+        "title": "Disgraceful Treason",
+        "duration": "6:02"
+      },
+      {
+        "position": "10",
+        "title": "Maximum Damnation",
+        "duration": "5:30"
+      },
+      {
+        "position": "11",
+        "title": "Abyss (FGFC820-Remix)",
+        "duration": "5:44"
+      }
+    ],
+    "lowest_price": 3.0,
+    "num_for_sale": 15,
+    "main_release": 800307
+  },
+  "pressings": [
+    {
+      "release_id": 800307,
+      "title": "In The Acts Of Violence",
+      "label": "NoiTekk",
+      "catalog_number": "NTK022",
+      "country": "Germany",
+      "year": "2006",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 784437,
+      "title": "In The Acts Of Violence",
+      "label": "COP International",
+      "catalog_number": "COPCD 095",
+      "country": "US",
+      "year": "2006",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 942698,
+      "title": "In The Acts Of Violence",
+      "label": "Gravitator Records",
+      "catalog_number": "GRR 025",
+      "country": "Russia",
+      "year": "2007",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Germany",
+    "Russia",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2006",
+    "latest": "2007"
+  }
+}

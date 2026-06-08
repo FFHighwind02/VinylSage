@@ -1,0 +1,165 @@
+{
+  "album": "Band of Gypsys",
+  "artist": "Jimi Hendrix",
+  "source": "discogs",
+  "master": {
+    "master_id": 247047,
+    "title": "Martin Scorsese Presents The Blues",
+    "year": 2003,
+    "artists": [
+      "Jimi Hendrix"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Red House",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Voodoo Chile",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Come On (Let The Good Times Roll)",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Georgia Blues",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Country Blues",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "Hear My Train A Comin'",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "title": "It's Too Bad",
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "title": "My Friend",
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "title": "Blue Window",
+        "duration": ""
+      },
+      {
+        "position": "D3",
+        "title": "Midnight Lightning",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 6.02,
+    "num_for_sale": 51,
+    "main_release": 653041
+  },
+  "pressings": [
+    {
+      "release_id": 2272652,
+      "title": "Martin Scorsese Presents The Blues",
+      "label": "Classic Records",
+      "catalog_number": "B0000698-01",
+      "country": "US",
+      "year": "2003",
+      "format": "LP, Compilation, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7097740,
+      "title": "Martin Scorsese Presents The Blues",
+      "label": "Experience Hendrix",
+      "catalog_number": "B000069802",
+      "country": "Canada",
+      "year": "2003",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2702659,
+      "title": "Martin Scorsese Presents The Blues",
+      "label": "Experience Hendrix",
+      "catalog_number": "B0000698-02",
+      "country": "US",
+      "year": "2003",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 653041,
+      "title": "Martin Scorsese Presents The Blues",
+      "label": "Classic Records",
+      "catalog_number": "B0000698-01",
+      "country": "US",
+      "year": "2003",
+      "format": "LP, Limited Edition, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18717250,
+      "title": "Martin Scorsese Presents The Blues",
+      "label": "Classic Records",
+      "catalog_number": "B0000698-01",
+      "country": "US",
+      "year": "2003",
+      "format": "LP, Compilation, Limited Edition, Numbered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28795180,
+      "title": "Martin Scorsese Presents The Blues",
+      "label": "Experience Hendrix",
+      "catalog_number": "B000069801",
+      "country": "US",
+      "year": "2003",
+      "format": "LP, Compilation, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "Canada",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2003",
+    "latest": "2003"
+  }
+}

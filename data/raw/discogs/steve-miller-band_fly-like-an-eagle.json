@@ -1,0 +1,180 @@
+{
+  "album": "Fly Like an Eagle",
+  "artist": "Steve Miller Band",
+  "source": "discogs",
+  "master": {
+    "master_id": 282567,
+    "title": "Bongo Bongo",
+    "year": 1984,
+    "artists": [
+      "Steve Miller Band"
+    ],
+    "genres": [
+      "Jazz",
+      "Rock",
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "Side A",
+        "title": "Bongo Bongo ",
+        "duration": "3:15"
+      },
+      {
+        "position": "Side B",
+        "title": "Get On Home",
+        "duration": "3:58"
+      }
+    ],
+    "lowest_price": 0.35,
+    "num_for_sale": 191,
+    "main_release": 8497092
+  },
+  "pressings": [
+    {
+      "release_id": 4564223,
+      "title": "Bongo Bongo",
+      "label": "Capitol Records",
+      "catalog_number": "B-5442",
+      "country": "Canada",
+      "year": "1984",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2134829,
+      "title": "Bongo Bongo (Dance Mix)",
+      "label": "Mercury",
+      "catalog_number": "880524-1, 880524-1Q",
+      "country": "Germany",
+      "year": "1984",
+      "format": "12\", 45 RPM, Maxi-Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8497092,
+      "title": "Bongo Bongo",
+      "label": "Capitol Records",
+      "catalog_number": "B-5442",
+      "country": "US",
+      "year": "1984",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3588025,
+      "title": "Bongo Bongo",
+      "label": "Mercury",
+      "catalog_number": "Steve 8",
+      "country": "UK",
+      "year": "1984",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5348219,
+      "title": "Bongo Bongo",
+      "label": "Mercury",
+      "catalog_number": "880 524-7",
+      "country": "Netherlands",
+      "year": "1984",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10085048,
+      "title": "Bongo Bongo (Extended Club Mix)",
+      "label": "Capitol Records",
+      "catalog_number": "V-8632",
+      "country": "US",
+      "year": "1984",
+      "format": "12\", 33 ⅓ RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2501485,
+      "title": "Bongo Bongo",
+      "label": "Mercury",
+      "catalog_number": "880 524-7, 880 524-7 Q",
+      "country": "Germany",
+      "year": "1985",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 594045,
+      "title": "Bongo Bongo (Dance Mix)",
+      "label": "Mercury",
+      "catalog_number": "880 524-1",
+      "country": "Netherlands",
+      "year": "1985",
+      "format": "12\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6939673,
+      "title": "Bongo Bongo",
+      "label": "Mercury",
+      "catalog_number": "880 524-7",
+      "country": "Spain",
+      "year": "1985",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3745557,
+      "title": "Bongo Bongo",
+      "label": "Capitol Records",
+      "catalog_number": "P-B-5442",
+      "country": "US",
+      "year": "1985",
+      "format": "7\", 45 RPM, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 10,
+  "countries": [
+    "Canada",
+    "Germany",
+    "Netherlands",
+    "Spain",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1984",
+    "latest": "1985"
+  }
+}

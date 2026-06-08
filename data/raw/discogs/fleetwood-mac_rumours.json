@@ -1,0 +1,126 @@
+{
+  "album": "Rumours",
+  "artist": "Fleetwood Mac",
+  "source": "discogs",
+  "master": {
+    "master_id": 13337,
+    "title": "What's On Your Mind (House Party II Rap Theme)",
+    "year": 1991,
+    "artists": [
+      "Eric B. & Rakim"
+    ],
+    "genres": [
+      "Hip Hop",
+      "Stage & Screen"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "What's On Your Mind (House Party II Rap Theme) (Extended Vocal Version)",
+        "duration": "5:22"
+      },
+      {
+        "position": "B1",
+        "title": "What's On Your Mind (House Party II Rap Theme) (Instrumental)",
+        "duration": "5:35"
+      },
+      {
+        "position": "B2",
+        "title": "What's On Your Mind (House Party II Rap Theme) (Suite)",
+        "duration": "5:35"
+      }
+    ],
+    "lowest_price": 2.07,
+    "num_for_sale": 70,
+    "main_release": 537449
+  },
+  "pressings": [
+    {
+      "release_id": 1182187,
+      "title": "What's On Your Mind (House Party II Rap Theme)",
+      "label": "MCA Records",
+      "catalog_number": "L33-2035",
+      "country": "US",
+      "year": "1991",
+      "format": "12\", 33 ⅓ RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6461145,
+      "title": "What's On Your Mind (House Party II Rap Theme)",
+      "label": "MCA Records",
+      "catalog_number": "MCACS 54311",
+      "country": "US",
+      "year": "1991",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13557265,
+      "title": "What's On Your Mind (House Party II Rap Theme)",
+      "label": "MCA Records",
+      "catalog_number": "MCAM-54279",
+      "country": "US",
+      "year": "1991",
+      "format": "Maxi-Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1279562,
+      "title": "What's On Your Mind (House Party II Rap Theme)",
+      "label": "MCA Records",
+      "catalog_number": "CD45-2061",
+      "country": "US",
+      "year": "1991",
+      "format": "Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 537449,
+      "title": "What's On Your Mind (House Party II Rap Theme)",
+      "label": "MCA Records",
+      "catalog_number": "MCA12-54279, MCA12 54279",
+      "country": "US",
+      "year": "1991",
+      "format": "12\", Single, 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4366397,
+      "title": "What's On Your Mind (House Party II Rap Theme)",
+      "label": "MCA Records",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "2004",
+      "format": "",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1991",
+    "latest": "2004"
+  }
+}

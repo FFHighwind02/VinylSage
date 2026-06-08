@@ -1,0 +1,180 @@
+{
+  "album": "Back Stabbers",
+  "artist": "The O'Jays",
+  "source": "discogs",
+  "master": {
+    "master_id": 1511443,
+    "title": "The Very Best Of The O'Jays",
+    "year": 1998,
+    "artists": [
+      "The O'Jays"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul",
+      "Disco"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Backstabbers",
+        "duration": "3:05"
+      },
+      {
+        "position": "2",
+        "title": "Love Train",
+        "duration": "2:58"
+      },
+      {
+        "position": "3",
+        "title": "I Love Music",
+        "duration": "3:36"
+      },
+      {
+        "position": "4",
+        "title": "Darlin', Darlin', Baby (Sweet, Tender Love)",
+        "duration": "3:04"
+      },
+      {
+        "position": "5",
+        "title": "Used Ta Be My Girl",
+        "duration": "3:20"
+      },
+      {
+        "position": "6",
+        "title": "Brandy",
+        "duration": "3:34"
+      },
+      {
+        "position": "7",
+        "title": "Now That We Found Love",
+        "duration": "3:10"
+      },
+      {
+        "position": "8",
+        "title": "Put Our Heads Together",
+        "duration": "3:36"
+      },
+      {
+        "position": "9",
+        "title": "Message In Our Music",
+        "duration": "3:23"
+      },
+      {
+        "position": "10",
+        "title": "Sing A Happy Song",
+        "duration": "3:36"
+      },
+      {
+        "position": "11",
+        "title": "Extraordinary Girl",
+        "duration": "5:18"
+      },
+      {
+        "position": "12",
+        "title": "Give The People What They Want",
+        "duration": "4:12"
+      },
+      {
+        "position": "13",
+        "title": "For The Love Of Money",
+        "duration": "3:50"
+      },
+      {
+        "position": "14",
+        "title": "992 Arguments",
+        "duration": "2:25"
+      },
+      {
+        "position": "15",
+        "title": "Time To Get Down",
+        "duration": "2:52"
+      },
+      {
+        "position": "16",
+        "title": "Livin' For The Weekend",
+        "duration": "2:53"
+      },
+      {
+        "position": "17",
+        "title": "Looky, Looky (Look At Me Girl)",
+        "duration": "2:46"
+      },
+      {
+        "position": "18",
+        "title": "One Night Affair",
+        "duration": "2:19"
+      },
+      {
+        "position": "19",
+        "title": "Deeper (In Love With You)",
+        "duration": "2:39"
+      },
+      {
+        "position": "20",
+        "title": "Don't Call Me Brother",
+        "duration": "8:55"
+      },
+      {
+        "position": "21",
+        "title": "Love Train (Extended Version)",
+        "duration": "6:15"
+      }
+    ],
+    "lowest_price": 1.5,
+    "num_for_sale": 49,
+    "main_release": 457801
+  },
+  "pressings": [
+    {
+      "release_id": 457801,
+      "title": "The Very Best Of The O'Jays",
+      "label": "Epic",
+      "catalog_number": "489750 2",
+      "country": "Europe",
+      "year": "1998",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10802236,
+      "title": "The Very Best Of The O'Jays",
+      "label": "Epic",
+      "catalog_number": "489750 9, 4897509000",
+      "country": "UK",
+      "year": "1998",
+      "format": "Compilation, Limited Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29004922,
+      "title": "The Very Best Of The O'Jays",
+      "label": "Epic",
+      "catalog_number": "489750 2",
+      "country": "Europe",
+      "year": "0",
+      "format": "Compilation, Reissue, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Europe",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1998"
+  }
+}

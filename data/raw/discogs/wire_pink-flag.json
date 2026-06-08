@@ -1,0 +1,146 @@
+{
+  "album": "Pink Flag",
+  "artist": "Wire",
+  "source": "discogs",
+  "master": {
+    "master_id": 1671234,
+    "title": "Mind Hive",
+    "year": 2020,
+    "artists": [
+      "Wire"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Post-Punk"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Be Like Them",
+        "duration": "3:52"
+      },
+      {
+        "position": "2",
+        "title": "Cactused",
+        "duration": "3:35"
+      },
+      {
+        "position": "3",
+        "title": "Primed And Ready",
+        "duration": "2:44"
+      },
+      {
+        "position": "4",
+        "title": "Off The Beach",
+        "duration": "2:23"
+      },
+      {
+        "position": "5",
+        "title": "Unrepentant",
+        "duration": "5:02"
+      },
+      {
+        "position": "6",
+        "title": "Shadows",
+        "duration": "2:45"
+      },
+      {
+        "position": "7",
+        "title": "Oklahoma",
+        "duration": "3:08"
+      },
+      {
+        "position": "8",
+        "title": "Hung",
+        "duration": "7:54"
+      },
+      {
+        "position": "9",
+        "title": "Humming",
+        "duration": "3:29"
+      }
+    ],
+    "lowest_price": 5.6,
+    "num_for_sale": 120,
+    "main_release": 14682192
+  },
+  "pressings": [
+    {
+      "release_id": 14694873,
+      "title": "Mind Hive",
+      "label": "Pinkflag",
+      "catalog_number": "PF25LP",
+      "country": "UK & Europe",
+      "year": "2020",
+      "format": "LP, Album, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14682163,
+      "title": "Mind Hive",
+      "label": "Pinkflag",
+      "catalog_number": "PF25LP",
+      "country": "UK & Europe",
+      "year": "2020",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14878116,
+      "title": "Mind Hive",
+      "label": "Pinkflag",
+      "catalog_number": "none",
+      "country": "UK",
+      "year": "2020",
+      "format": "Album, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14682192,
+      "title": "Mind Hive",
+      "label": "Pinkflag",
+      "catalog_number": "PF25CD",
+      "country": "Europe",
+      "year": "2020",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14730292,
+      "title": "Mind Hive",
+      "label": "Pinkflag",
+      "catalog_number": "pf25d",
+      "country": "UK",
+      "year": "2020",
+      "format": "FLAC, Album, Stereo",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "Europe",
+    "UK",
+    "UK & Europe"
+  ],
+  "years_range": {
+    "earliest": "2020",
+    "latest": "2020"
+  }
+}

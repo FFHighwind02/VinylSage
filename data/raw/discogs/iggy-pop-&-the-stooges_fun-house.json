@@ -1,0 +1,426 @@
+{
+  "album": "Fun House",
+  "artist": "Iggy Pop & the Stooges",
+  "source": "discogs",
+  "master": {
+    "master_id": 158195,
+    "title": "No Fun",
+    "year": 1980,
+    "artists": [
+      "The Stooges",
+      "Iggy Pop"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "1969",
+        "duration": "4:05"
+      },
+      {
+        "position": "A2",
+        "title": "Real Cool Time",
+        "duration": "2:29"
+      },
+      {
+        "position": "A3",
+        "title": "No Fun",
+        "duration": "5:15"
+      },
+      {
+        "position": "A4",
+        "title": "Dirt",
+        "duration": "7:00"
+      },
+      {
+        "position": "B1",
+        "title": "Down On The Street",
+        "duration": "3:42"
+      },
+      {
+        "position": "B2",
+        "title": "Loose",
+        "duration": "3:33"
+      },
+      {
+        "position": "B3",
+        "title": "T.V. Eye",
+        "duration": "4:17"
+      },
+      {
+        "position": "B4",
+        "title": "I Wanna Be Your Dog",
+        "duration": "3:10"
+      },
+      {
+        "position": "B5",
+        "title": "1970",
+        "duration": "5:15"
+      }
+    ],
+    "lowest_price": 10.0,
+    "num_for_sale": 144,
+    "main_release": 3394678
+  },
+  "pressings": [
+    {
+      "release_id": 10178593,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELE 52234, EF 7095",
+      "country": "Portugal",
+      "year": "1980",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5835286,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "52234",
+      "country": "Greece",
+      "year": "1980",
+      "format": "LP, Compilation, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4041976,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "P-10904E",
+      "country": "Japan",
+      "year": "1980",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11623634,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234",
+      "country": "Germany",
+      "year": "1980",
+      "format": "LP, Compilation, Test Pressing, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11830697,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "P-10904E",
+      "country": "Japan",
+      "year": "1980",
+      "format": "LP, Compilation, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36581005,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "K52234",
+      "country": "UK",
+      "year": "1980",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6487175,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELE 452234",
+      "country": "Portugal",
+      "year": "1980",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3144179,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "52234",
+      "country": "Greece",
+      "year": "1980",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3394678,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "K52234",
+      "country": "UK",
+      "year": "1980",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1865484,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "X6E 7095",
+      "country": "Canada",
+      "year": "1980",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8509232,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234, (EF 7095)",
+      "country": "France",
+      "year": "1980",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11623487,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "K52234",
+      "country": "UK",
+      "year": "1980",
+      "format": "LP, Compilation, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11879973,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234, EF 7095",
+      "country": "Scandinavia",
+      "year": "1980",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5302687,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "EKS 7095",
+      "country": "Australia",
+      "year": "1980",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2145092,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234, EF 7095",
+      "country": "Germany",
+      "year": "1981",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32365380,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234",
+      "country": "Italy",
+      "year": "1981",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3261859,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "7559624421",
+      "country": "UK",
+      "year": "1999",
+      "format": "LP, Compilation, Reissue, Remastered, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25956517,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "7559624421",
+      "country": "UK",
+      "year": "1999",
+      "format": "LP, Compilation, Reissue, Test Pressing, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30700666,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "K 52 234, ELK 52 234",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Compilation, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14002583,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234, EF 7095",
+      "country": "Germany",
+      "year": "0",
+      "format": "LP, Compilation, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 609094,
+      "title": "No Fun",
+      "label": "WEA",
+      "catalog_number": "K 52 234, ELK 52 234",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14104120,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "52234",
+      "country": "Greece",
+      "year": "0",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29918800,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234, (EF 7095)",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12967961,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "ELK 52 234, (EF 7095)",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6050439,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "K 52 234, ELK 52 234 (EF 7095)",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Compilation, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7246893,
+      "title": "No Fun",
+      "label": "Elektra",
+      "catalog_number": "7559-60915-1, K 52 234",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Album, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 26,
+  "countries": [
+    "Australia",
+    "Canada",
+    "Europe",
+    "France",
+    "Germany",
+    "Greece",
+    "Italy",
+    "Japan",
+    "Portugal",
+    "Scandinavia",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1999"
+  }
+}

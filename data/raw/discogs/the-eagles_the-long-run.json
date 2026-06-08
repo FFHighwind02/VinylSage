@@ -1,0 +1,112 @@
+{
+  "album": "The Long Run",
+  "artist": "The Eagles",
+  "source": "discogs",
+  "master": {
+    "master_id": 248882,
+    "title": "Bristol Express",
+    "year": 1962,
+    "artists": [
+      "The Eagles"
+    ],
+    "genres": [
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Soundtrack"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Bristol Express",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Johnny's Tune",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 2.87,
+    "num_for_sale": 8,
+    "main_release": 2261737
+  },
+  "pressings": [
+    {
+      "release_id": 4019163,
+      "title": "Bristol Express",
+      "label": "Pye Records",
+      "catalog_number": "PYE-289",
+      "country": "Philippines",
+      "year": "1962",
+      "format": "10\", 78 RPM",
+      "major_formats": [
+        "Shellac"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4593513,
+      "title": "Bristol Express",
+      "label": "Pye Records",
+      "catalog_number": "7N 15451",
+      "country": "Norway",
+      "year": "1962",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2261737,
+      "title": "Bristol Express",
+      "label": "Pye Records",
+      "catalog_number": "7N.15451",
+      "country": "UK",
+      "year": "1962",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2886562,
+      "title": "Bristol Express",
+      "label": "Pye Records",
+      "catalog_number": "PYE-289",
+      "country": "Philippines",
+      "year": "1962",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2263025,
+      "title": "Bristol Express",
+      "label": "Gallant Records",
+      "catalog_number": "GT 3002",
+      "country": "US",
+      "year": "1962",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "Norway",
+    "Philippines",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1962",
+    "latest": "1962"
+  }
+}

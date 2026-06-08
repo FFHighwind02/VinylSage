@@ -1,0 +1,84 @@
+{
+  "album": "Modern Lovers",
+  "artist": "Modern Lovers",
+  "source": "discogs",
+  "master": {
+    "master_id": 3467791,
+    "title": "Road Runner / Pablo Picasso",
+    "year": 1977,
+    "artists": [
+      "The Modern Lovers"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Garage Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Roadrunner",
+        "duration": "4:02"
+      },
+      {
+        "position": "B",
+        "title": "Pablo Picasso",
+        "duration": "4:08"
+      }
+    ],
+    "lowest_price": 8.59,
+    "num_for_sale": 4,
+    "main_release": 30504085
+  },
+  "pressings": [
+    {
+      "release_id": 30504085,
+      "title": "Road Runner / Pablo Picasso",
+      "label": "Beserkley",
+      "catalog_number": "PA-205",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5256701,
+      "title": "Road Runner / Pablo Picasso",
+      "label": "Beserkley",
+      "catalog_number": "PA-205",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30462935,
+      "title": "Road Runner",
+      "label": "Wasabi Records (4)",
+      "catalog_number": "WSBPROMO-072",
+      "country": "Japan",
+      "year": "2023",
+      "format": "Mini, Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1977",
+    "latest": "2023"
+  }
+}

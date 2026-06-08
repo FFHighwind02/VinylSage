@@ -1,0 +1,123 @@
+{
+  "album": "Boston",
+  "artist": "Boston",
+  "source": "discogs",
+  "master": {
+    "master_id": 573665,
+    "title": "More Than A Feeling / Don't Look Back",
+    "year": 1981,
+    "artists": [
+      "Boston"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "More Than A Feeling",
+        "duration": "3:25"
+      },
+      {
+        "position": "B",
+        "title": "Don't Look Back",
+        "duration": "5:53"
+      }
+    ],
+    "lowest_price": 0.86,
+    "num_for_sale": 44,
+    "main_release": 4594563
+  },
+  "pressings": [
+    {
+      "release_id": 4594563,
+      "title": "More Than A Feeling / Don't Look Back",
+      "label": "Epic",
+      "catalog_number": "EPCA 1416",
+      "country": "Netherlands",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13593909,
+      "title": "More Than A Feeling / Don't Look Back",
+      "label": "Old Gold (2)",
+      "catalog_number": "OG 9299",
+      "country": "UK",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4296255,
+      "title": "More Than A Feeling / Don't Look Back",
+      "label": "BR Music",
+      "catalog_number": "45100",
+      "country": "Netherlands",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2462097,
+      "title": "More Than A Feeling / Don't Look Back",
+      "label": "Old Gold (2)",
+      "catalog_number": "OG 9299",
+      "country": "UK",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9587446,
+      "title": "More Than A Feeling / Don't Look Back",
+      "label": "Old Gold (2)",
+      "catalog_number": "OG 9299",
+      "country": "UK",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27101469,
+      "title": "More Than A Feeling / Don't Look Back",
+      "label": "Old Gold (2)",
+      "catalog_number": "OG 9299",
+      "country": "UK",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "Netherlands",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1983"
+  }
+}

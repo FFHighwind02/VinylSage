@@ -1,0 +1,119 @@
+{
+  "album": "Supernatural",
+  "artist": "Santana",
+  "source": "discogs",
+  "master": {
+    "master_id": 16539,
+    "title": "Dry",
+    "year": 1999,
+    "artists": [
+      "Surgeon"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Techno"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Untitled",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Untitled",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Untitled",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Untitled",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 3.44,
+    "num_for_sale": 25,
+    "main_release": 10986
+  },
+  "pressings": [
+    {
+      "release_id": 2995723,
+      "title": "Dry",
+      "label": "Dynamic Tension Records",
+      "catalog_number": "DTR006",
+      "country": "UK",
+      "year": "1999",
+      "format": "12\", White Label, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10986,
+      "title": "Dry",
+      "label": "Dynamic Tension Records",
+      "catalog_number": "DTR006",
+      "country": "UK",
+      "year": "1999",
+      "format": "12\", 33 ⅓ RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5819087,
+      "title": "Dry",
+      "label": "Dynamic Tension Records",
+      "catalog_number": "DTR006",
+      "country": "UK",
+      "year": "2005",
+      "format": "12\", EP, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10620798,
+      "title": "Dry",
+      "label": "Dynamic Tension Records",
+      "catalog_number": "DTR006",
+      "country": "UK",
+      "year": "0",
+      "format": "WAV, EP",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1262819,
+      "title": "Dry",
+      "label": "Dynamic Tension Records",
+      "catalog_number": "DTR006",
+      "country": "UK",
+      "year": "0",
+      "format": "MP3",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2005"
+  }
+}

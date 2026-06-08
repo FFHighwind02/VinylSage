@@ -1,0 +1,140 @@
+{
+  "album": "There's a Riot Goin' On",
+  "artist": "Sly and the Family Stone",
+  "source": "discogs",
+  "master": {
+    "master_id": 156364,
+    "title": "Remember Who You Are",
+    "year": 1979,
+    "artists": [
+      "Sly & The Family Stone"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul",
+      "Funk"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Remember Who You Are",
+        "duration": "3:13"
+      },
+      {
+        "position": "B",
+        "title": "Sheer Energy",
+        "duration": "3:33"
+      }
+    ],
+    "lowest_price": 3.44,
+    "num_for_sale": 51,
+    "main_release": 2537600
+  },
+  "pressings": [
+    {
+      "release_id": 13273027,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBS 49062",
+      "country": "Australia",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1052934,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBS 49062",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4789875,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "K 17474, WBS 49062",
+      "country": "UK",
+      "year": "1979",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 753523,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WB 17.474",
+      "country": "Netherlands",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1437847,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "PRO-A-830",
+      "country": "US",
+      "year": "1979",
+      "format": "12\", Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3620414,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBS 49062",
+      "country": "New Zealand",
+      "year": "1979",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2537600,
+      "title": "Remember Who You Are",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBS 49062",
+      "country": "US",
+      "year": "1979",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 7,
+  "countries": [
+    "Australia",
+    "Netherlands",
+    "New Zealand",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1979",
+    "latest": "1979"
+  }
+}

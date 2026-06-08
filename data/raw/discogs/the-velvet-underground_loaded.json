@@ -1,0 +1,73 @@
+{
+  "album": "Loaded",
+  "artist": "The Velvet Underground",
+  "source": "discogs",
+  "master": {
+    "master_id": 661761,
+    "title": "White Light/White Heat / Here She Comes Now",
+    "year": 1967,
+    "artists": [
+      "The Velvet Underground"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Rock & Roll",
+      "Art Rock",
+      "Noise Rock",
+      "Garage Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "White Light/White Heat",
+        "duration": "2:44"
+      },
+      {
+        "position": "B",
+        "title": "Here She Comes Now",
+        "duration": "2:00"
+      }
+    ],
+    "lowest_price": 128.99,
+    "num_for_sale": 7,
+    "main_release": 6293249
+  },
+  "pressings": [
+    {
+      "release_id": 6293249,
+      "title": "White Light/White Heat / Here She Comes Now",
+      "label": "Verve Records",
+      "catalog_number": "VK-10560",
+      "country": "US",
+      "year": "1967",
+      "format": "7\", 45 RPM, Single, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1900649,
+      "title": "White Light/White Heat / Here She Comes Now",
+      "label": "Verve Records",
+      "catalog_number": "VK-10560",
+      "country": "US",
+      "year": "1967",
+      "format": "7\", 45 RPM, Single, Promo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1967",
+    "latest": "1967"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "album": "Here Come the Warm Jets",
+  "artist": "Brian Eno",
+  "source": "discogs",
+  "master": {
+    "master_id": 32611,
+    "title": "Music For Films Volume 2",
+    "year": 1983,
+    "artists": [
+      "Brian Eno"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Ambient"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The Dove",
+        "duration": "1:30"
+      },
+      {
+        "position": "A2",
+        "title": "Roman Twilight",
+        "duration": "3:45"
+      },
+      {
+        "position": "A3",
+        "title": "Matta",
+        "duration": "2:25"
+      },
+      {
+        "position": "A4",
+        "title": "Dawn, Marshland",
+        "duration": "3:00"
+      },
+      {
+        "position": "A5",
+        "title": "Climate Study",
+        "duration": "3:20"
+      },
+      {
+        "position": "A6",
+        "title": "The Secret Place",
+        "duration": "3:00"
+      },
+      {
+        "position": "A7",
+        "title": "An Ending",
+        "duration": "3:45"
+      },
+      {
+        "position": "B1",
+        "title": "Always Returning I",
+        "duration": "4:30"
+      },
+      {
+        "position": "B2",
+        "title": "Signals",
+        "duration": "4:00"
+      },
+      {
+        "position": "B3",
+        "title": "Under Stars",
+        "duration": "4:25"
+      },
+      {
+        "position": "B4",
+        "title": "Drift Study",
+        "duration": "2:29"
+      },
+      {
+        "position": "B5",
+        "title": "Approaching Taidu",
+        "duration": "3:20"
+      },
+      {
+        "position": "B6",
+        "title": "Always Returning II",
+        "duration": "3:05"
+      }
+    ],
+    "lowest_price": 27.52,
+    "num_for_sale": 5,
+    "main_release": 2259091
+  },
+  "pressings": [
+    {
+      "release_id": 5881809,
+      "title": "Music For Films Volume 2",
+      "label": "Editions EG",
+      "catalog_number": "EGSP-2",
+      "country": "US",
+      "year": "1983",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2259091,
+      "title": "Music For Films Volume 2",
+      "label": "Editions EG",
+      "catalog_number": "EGBS 2",
+      "country": "US",
+      "year": "1983",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1668873,
+      "title": "Music For Films Volume 2",
+      "label": "Editions EG",
+      "catalog_number": "EGBS 2",
+      "country": "Canada",
+      "year": "1983",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10965135,
+      "title": "Music For Films Volume 2",
+      "label": "Editions EG",
+      "catalog_number": "EGBS 2",
+      "country": "US",
+      "year": "1983",
+      "format": "LP, Album, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Canada",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1983",
+    "latest": "1983"
+  }
+}

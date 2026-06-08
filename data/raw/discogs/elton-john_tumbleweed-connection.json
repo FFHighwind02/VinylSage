@@ -1,0 +1,599 @@
+{
+  "album": "Tumbleweed Connection",
+  "artist": "Elton John",
+  "source": "discogs",
+  "master": {
+    "master_id": 252346,
+    "title": "Honky Cat = Городской Бродяга",
+    "year": 1987,
+    "artists": [
+      "Elton John",
+      "Elton John"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Classic Rock",
+      "Glam"
+    ],
+    "tracklist": [
+      {
+        "position": "А1",
+        "title": "Ливон = Levon",
+        "duration": "5:21"
+      },
+      {
+        "position": "А2",
+        "title": "Некрасивое Лицо = Razor Face",
+        "duration": "4:41"
+      },
+      {
+        "position": "А3",
+        "title": "Злословие = All The Nasties",
+        "duration": "5:05"
+      },
+      {
+        "position": "А4",
+        "title": "Дэниел = Daniel",
+        "duration": "3:51"
+      },
+      {
+        "position": "В1",
+        "title": "Безумец На Том Берегу = Madman Across The Water",
+        "duration": "5:56"
+      },
+      {
+        "position": "В2",
+        "title": "Астронавт = Rocket Man",
+        "duration": "4:39"
+      },
+      {
+        "position": "В3",
+        "title": "Городской Бродяга = Honky Cat",
+        "duration": "5:11"
+      },
+      {
+        "position": "В4",
+        "title": "Рок-н-ролл «Крокодил» = Crocodile Rock",
+        "duration": "3:54"
+      }
+    ],
+    "lowest_price": 1.0,
+    "num_for_sale": 146,
+    "main_release": 9198287
+  },
+  "pressings": [
+    {
+      "release_id": 35698318,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9198287,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26535950,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2305119,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23931032,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4599853,
+      "title": "Honky Cat ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4384861,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1987",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 896710,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15453510,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10725084,
+      "title": "Городской бродяга - Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21885928,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28081357,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18555283,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27955950,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6544674,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27221073,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6636331,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9303842,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2979826,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9750674,
+      "title": "Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9137106,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2155245,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5000295,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12800426,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19866601,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4422260,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3851294,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26343101,
+      "title": "Городской Бродяга = Honky Cat ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11358521,
+      "title": "Городской Бродяга = Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8452869,
+      "title": "Городской Бродяга • Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11785795,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28149901,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35066924,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8050140,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26555525,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5461866,
+      "title": "Honky Cat  ‎– Городской Бродяга ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17778871,
+      "title": "Honky Cat  ‎– Городской Бродяга ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23290382,
+      "title": "Honky Cat = Городской Бродяга",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006 ",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6856304,
+      "title": "Honky Cat – Городской Бродяга ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "Latvia",
+      "year": "1992",
+      "format": "LP, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33977442,
+      "title": "Honky Cat",
+      "label": "Мелодия",
+      "catalog_number": "С60 26123 006",
+      "country": "USSR",
+      "year": "0",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 40,
+  "countries": [
+    "Latvia",
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1992"
+  }
+}

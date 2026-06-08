@@ -1,0 +1,86 @@
+{
+  "album": "Master of Reality",
+  "artist": "Black Sabbath",
+  "source": "discogs",
+  "master": {
+    "master_id": 550685,
+    "title": "発狂 = Am I Going Insane (Radio)",
+    "year": 1975,
+    "artists": [
+      "Black Sabbath",
+      "Black Sabbath"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Heavy Metal"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "発狂 = Am I Going Insane (Radio)",
+        "duration": "3:27"
+      },
+      {
+        "position": "B",
+        "title": "ホール・イン・ザ・スカイ = Hole In The Sky",
+        "duration": "3:49"
+      }
+    ],
+    "lowest_price": 7.45,
+    "num_for_sale": 13,
+    "main_release": 4313977
+  },
+  "pressings": [
+    {
+      "release_id": 10948485,
+      "title": "Am I Going Insane (Radio)",
+      "label": "Vertigo",
+      "catalog_number": "SFL-2060, 6165 300",
+      "country": "Japan",
+      "year": "1975",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4313977,
+      "title": "発狂 = Am I Going Insane (Radio)",
+      "label": "Vertigo",
+      "catalog_number": "SFL-2060, 6165 300",
+      "country": "Japan",
+      "year": "1975",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2816504,
+      "title": "Am I Going Insane (Radio)",
+      "label": "NEMS",
+      "catalog_number": "6165 300",
+      "country": "UK",
+      "year": "1976",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Japan",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1975",
+    "latest": "1976"
+  }
+}

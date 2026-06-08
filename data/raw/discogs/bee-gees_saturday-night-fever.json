@@ -1,0 +1,153 @@
+{
+  "album": "Saturday Night Fever",
+  "artist": "Bee Gees",
+  "source": "discogs",
+  "master": {
+    "master_id": 24441,
+    "title": "Melody Fair / First Of May = 小さな恋のメロディ / 若葉のころ",
+    "year": 1971,
+    "artists": [
+      "Bee Gees",
+      "Bee Gees"
+    ],
+    "genres": [
+      "Pop",
+      "Stage & Screen"
+    ],
+    "styles": [
+      "Vocal",
+      "Soundtrack",
+      "Light Music",
+      "Theme"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Melody Fair = 小さな恋のメロディ",
+        "duration": "3:45"
+      },
+      {
+        "position": "B",
+        "title": "First Of May = 若葉のころ",
+        "duration": "2:45"
+      }
+    ],
+    "lowest_price": 0.43,
+    "num_for_sale": 115,
+    "main_release": 1544729
+  },
+  "pressings": [
+    {
+      "release_id": 14684374,
+      "title": "Melody Fair / First Of May",
+      "label": "Polydor",
+      "catalog_number": "DP 1787",
+      "country": "Japan",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1544729,
+      "title": "Melody Fair / First Of May = 小さな恋のメロディ / 若葉のころ",
+      "label": "Polydor",
+      "catalog_number": "DP 1787",
+      "country": "Japan",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20097763,
+      "title": "Melody Fair / First Of May",
+      "label": "Polydor",
+      "catalog_number": "DW3005",
+      "country": "Japan",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1544727,
+      "title": "Melody Fair / First Of May",
+      "label": "RSO",
+      "catalog_number": "DW 3005",
+      "country": "Japan",
+      "year": "1976",
+      "format": "7\", Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1696407,
+      "title": "First Of May / Melody Fair",
+      "label": "RSO",
+      "catalog_number": "7DW 0006",
+      "country": "Japan",
+      "year": "1980",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4693669,
+      "title": "Melody Fair",
+      "label": "Polydor",
+      "catalog_number": "PODP-1118",
+      "country": "Japan",
+      "year": "1995",
+      "format": "Single, Mini",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8137702,
+      "title": "Melody Fair",
+      "label": "Polydor",
+      "catalog_number": "PODP-1118",
+      "country": "Japan",
+      "year": "1995",
+      "format": "Mini, Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14502957,
+      "title": "Melody Fair / First Of May",
+      "label": "RSO",
+      "catalog_number": "7DW 0006",
+      "country": "Japan",
+      "year": "0",
+      "format": "7\"",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 8,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1995"
+  }
+}

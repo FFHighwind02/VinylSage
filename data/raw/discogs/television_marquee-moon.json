@@ -1,0 +1,122 @@
+{
+  "album": "Marquee Moon",
+  "artist": "Television",
+  "source": "discogs",
+  "master": {
+    "master_id": 305382,
+    "title": "Arrow",
+    "year": 1980,
+    "artists": [
+      "Television"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Fire Engine",
+        "duration": "4:19"
+      },
+      {
+        "position": "A2",
+        "title": "Poor Circulation",
+        "duration": "5:31"
+      },
+      {
+        "position": "A3",
+        "title": "Little Johnny Jewel",
+        "duration": "14:44"
+      },
+      {
+        "position": "B1",
+        "title": "Knockin’ On Heaven’s Door",
+        "duration": "8:07"
+      },
+      {
+        "position": "B2",
+        "title": "Prove It",
+        "duration": "5:20"
+      },
+      {
+        "position": "B3",
+        "title": "Friction",
+        "duration": "4:58"
+      },
+      {
+        "position": "B4",
+        "title": "Satisfaction",
+        "duration": "7:11"
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 2676549
+  },
+  "pressings": [
+    {
+      "release_id": 8452871,
+      "title": "Arrow. Rerun",
+      "label": "Not On Label (Television)",
+      "catalog_number": "F.85",
+      "country": "US",
+      "year": "1980",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2676549,
+      "title": "Arrow",
+      "label": "Not On Label (Television)",
+      "catalog_number": "F-85",
+      "country": "US",
+      "year": "1980",
+      "format": "LP, Album, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3978515,
+      "title": "Arrow Head",
+      "label": "Aulica",
+      "catalog_number": "A.128",
+      "country": "Italy",
+      "year": "1992",
+      "format": "Unofficial Release, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2227464,
+      "title": "Arrow. Rerun",
+      "label": "Not On Label (Television)",
+      "catalog_number": "none",
+      "country": "",
+      "year": "0",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Italy",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1992"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "album": "Every Picture Tells a Story",
+  "artist": "Rod Stewart",
+  "source": "discogs",
+  "master": {
+    "master_id": 271012,
+    "title": "Maggie May / (I Know) I'm Losing You",
+    "year": 1973,
+    "artists": [
+      "Rod Stewart"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Maggie May",
+        "duration": "5:46"
+      },
+      {
+        "position": "B",
+        "title": "(I Know) I'm Losing You",
+        "duration": "3:36"
+      }
+    ],
+    "lowest_price": 0.84,
+    "num_for_sale": 88,
+    "main_release": 6272422
+  },
+  "pressings": [
+    {
+      "release_id": 6272422,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "Mercury",
+      "catalog_number": "CS-6001",
+      "country": "Canada",
+      "year": "1973",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13058742,
+      "title": "Maggie May",
+      "label": "Mercury",
+      "catalog_number": "CS-6001*",
+      "country": "Canada",
+      "year": "1973",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7227037,
+      "title": "Maggie May /  (I Know) I'm Losing You",
+      "label": "Mercury",
+      "catalog_number": "487",
+      "country": "Venezuela",
+      "year": "1973",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18357991,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "Collectables",
+      "catalog_number": "COL-8291",
+      "country": "US",
+      "year": "1993",
+      "format": "Single, Reissue",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1472991,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "Mercury",
+      "catalog_number": "C-30157",
+      "country": "US",
+      "year": "0",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4386799,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "Mercury",
+      "catalog_number": "6052 115",
+      "country": "Germany",
+      "year": "0",
+      "format": "7\", 45 RPM, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28247536,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "PolyGram",
+      "catalog_number": "874 036-4",
+      "country": "US",
+      "year": "0",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13999171,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "Mercury",
+      "catalog_number": "C-30157",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28075351,
+      "title": "Maggie May",
+      "label": "Mercury",
+      "catalog_number": "CS-6001",
+      "country": "Canada",
+      "year": "0",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2417901,
+      "title": "Maggie May / (I Know) I'm Losing You",
+      "label": "Mercury",
+      "catalog_number": "C-30157",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM, Reissue, Styrene",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 10,
+  "countries": [
+    "Canada",
+    "Germany",
+    "US",
+    "Venezuela"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1993"
+  }
+}

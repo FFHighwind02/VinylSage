@@ -1,0 +1,115 @@
+{
+  "album": "Layla and Other Assorted Love Songs",
+  "artist": "Derek and the Dominos",
+  "source": "discogs",
+  "master": {
+    "master_id": 1470365,
+    "title": "Superstarshine Vol. 33",
+    "year": 1973,
+    "artists": [
+      "Derek & The Dominos"
+    ],
+    "genres": [
+      "Rock",
+      "Blues",
+      "Pop"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Why Does Love Got To Be So Sad",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Anyday",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "It's Too Late",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Layla",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Key To The Highway",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Looked Away",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Nobody Knows You When You're Down And Out",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Bell Bottom Blues",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 5.0,
+    "num_for_sale": 21,
+    "main_release": 3191342
+  },
+  "pressings": [
+    {
+      "release_id": 3191342,
+      "title": "Superstarshine Vol. 33",
+      "label": "RSO",
+      "catalog_number": "2479 113",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12945187,
+      "title": "Superstarshine Vol. 33",
+      "label": "RSO",
+      "catalog_number": "2479 113",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15582805,
+      "title": "Superstarshine Vol. 33",
+      "label": "Karussell",
+      "catalog_number": "3197 073",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Netherlands"
+  ],
+  "years_range": {
+    "earliest": "1973",
+    "latest": "1973"
+  }
+}

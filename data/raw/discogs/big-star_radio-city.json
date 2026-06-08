@@ -1,0 +1,532 @@
+{
+  "album": "Radio City",
+  "artist": "Big Star",
+  "source": "discogs",
+  "master": {
+    "master_id": 1891464,
+    "title": "Complete Third",
+    "year": 2016,
+    "artists": [
+      "Big Star"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Garage Rock",
+      "Power Pop"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Vol. 1: Demos To Sessions To Roughs",
+        "duration": ""
+      },
+      {
+        "position": "1-1",
+        "title": "Like St. Joan (Kanga Roo) (Demo)",
+        "duration": "3:46"
+      },
+      {
+        "position": "1-2",
+        "title": "Lovely Day (Demo)",
+        "duration": "1:54"
+      },
+      {
+        "position": "1-3",
+        "title": "Downs (Demo)",
+        "duration": "1:28"
+      },
+      {
+        "position": "1-4",
+        "title": "Femme Fatale (Demo) ",
+        "duration": "2:53"
+      },
+      {
+        "position": "1-5",
+        "title": "Thank You Friends (Demo)",
+        "duration": "2:48"
+      },
+      {
+        "position": "1-6",
+        "title": "Holocaust (Demo)",
+        "duration": "3:38"
+      },
+      {
+        "position": "1-7",
+        "title": "Jesus Christ (Demo)",
+        "duration": "2:30"
+      },
+      {
+        "position": "1-8",
+        "title": "Blue Moon (Demo)",
+        "duration": "2:10"
+      },
+      {
+        "position": "1-9",
+        "title": "Nightime (Demo)",
+        "duration": "2:15"
+      },
+      {
+        "position": "1-10",
+        "title": "Take Care (Demo)",
+        "duration": "1:37"
+      },
+      {
+        "position": "1-11",
+        "title": "Big Black Car (Demo #2/Acoustic Take 1)",
+        "duration": "4:42"
+      },
+      {
+        "position": "1-12",
+        "title": "Don't Worry Baby",
+        "duration": "3:36"
+      },
+      {
+        "position": "1-13",
+        "title": "I'm In Love With A Girl",
+        "duration": "2:15"
+      },
+      {
+        "position": "1-14",
+        "title": "Big Black Car (Demo #3/Acoustic Take 2)",
+        "duration": "4:41"
+      },
+      {
+        "position": "1-15",
+        "title": "I'm So Tired",
+        "duration": "3:19"
+      },
+      {
+        "position": "1-16",
+        "title": "That's All It Took",
+        "duration": "3:05"
+      },
+      {
+        "position": "1-17",
+        "title": "Pre-Downs",
+        "duration": "5:27"
+      },
+      {
+        "position": "1-18",
+        "title": "Baby Strange",
+        "duration": "2:54"
+      },
+      {
+        "position": "1-19",
+        "title": "Big Black Car (Demo #1/Band)",
+        "duration": "6:08"
+      },
+      {
+        "position": "1-20",
+        "title": "Kizza Me (Dickinson Rough Mix/Alex Guide Vocal)",
+        "duration": "2:43"
+      },
+      {
+        "position": "1-21",
+        "title": "Till The End Of The Day (Dickinson Rough Mix/Alex Guide Vocal, Kept As Final Vocal)",
+        "duration": "2:19"
+      },
+      {
+        "position": "1-22",
+        "title": "Thank You Friends (Dickinson Rough Mix/Alex Guide Vocal)",
+        "duration": "3:14"
+      },
+      {
+        "position": "1-23",
+        "title": "O, Dana (DIckinson Rough Mix)",
+        "duration": "2:37"
+      },
+      {
+        "position": "1-24",
+        "title": "Dream Lover (Dickinson Rough Mix)",
+        "duration": "3:54"
+      },
+      {
+        "position": "",
+        "title": "Vol. 2: Roughs To Mixes",
+        "duration": ""
+      },
+      {
+        "position": "2-1",
+        "title": "Big Black Car (Dickinson Rough Mix/Alex Guide Vocal)",
+        "duration": "3:43"
+      },
+      {
+        "position": "2-2",
+        "title": "Whote Lotta Shakin' Goin' On (Dickinson Rough Mix)",
+        "duration": "3:30"
+      },
+      {
+        "position": "2-3",
+        "title": "Take Care (Dickinson Rough Mix)",
+        "duration": "3:00"
+      },
+      {
+        "position": "2-4",
+        "title": "Holocaust (Dickinson Rough Mix)",
+        "duration": "3:53"
+      },
+      {
+        "position": "2-5",
+        "title": "Nightime (Dickinson Rough Mix)",
+        "duration": "2:06"
+      },
+      {
+        "position": "2-6",
+        "title": "Thank You Friends (Dickinson Rough Mix)",
+        "duration": "3:13"
+      },
+      {
+        "position": "2-7",
+        "title": "Nature Boy (Dickinson Rough Mix)",
+        "duration": "2:32"
+      },
+      {
+        "position": "2-8",
+        "title": "After Hours",
+        "duration": "2:11"
+      },
+      {
+        "position": "2-9",
+        "title": "Stroke It Noel (Backwards Intro)",
+        "duration": "0:26"
+      },
+      {
+        "position": "2-10",
+        "title": "Lovely Day (Fry Rough Mix)",
+        "duration": "2:09"
+      },
+      {
+        "position": "2-11",
+        "title": "Nightime (Fry Rough Mix)",
+        "duration": "2:52"
+      },
+      {
+        "position": "2-12",
+        "title": "Blue Moon (Fry Rough Mix)",
+        "duration": "2:09"
+      },
+      {
+        "position": "2-13",
+        "title": "Till The End Of The Day (Alternate Mix #1)",
+        "duration": "2:15"
+      },
+      {
+        "position": "2-14",
+        "title": "Big Black Car (Fry Rough Mix)",
+        "duration": "3:42"
+      },
+      {
+        "position": "2-15",
+        "title": "Holocaust (Fry Alternate/Rough Mix)",
+        "duration": "4:14"
+      },
+      {
+        "position": "2-16",
+        "title": "Downs (Fry Rough Mix)",
+        "duration": "1:53"
+      },
+      {
+        "position": "2-17",
+        "title": "Kanga Roo (Fry Rough Mix)",
+        "duration": "3:51"
+      },
+      {
+        "position": "2-18",
+        "title": "Femme Fatale (Fry Rough Mix)",
+        "duration": "3:45"
+      },
+      {
+        "position": "2-19",
+        "title": "For You (Alternate Version/Alex Vocal)",
+        "duration": "2:28"
+      },
+      {
+        "position": "2-20",
+        "title": "Thank You Friends (Fry Rough Mix)",
+        "duration": "3:14"
+      },
+      {
+        "position": "2-21",
+        "title": "Take Care (Fry Rough Mix)",
+        "duration": "2:42"
+      },
+      {
+        "position": "2-22",
+        "title": "Kizza Me (Fry Rough Mix)",
+        "duration": "2:47"
+      },
+      {
+        "position": "2-23",
+        "title": "Till The End Of The Day (Fry Rough Mix #2)",
+        "duration": "2:23"
+      },
+      {
+        "position": "2-24",
+        "title": "Nature Boy (Fry Rough Mix)",
+        "duration": "2:46"
+      },
+      {
+        "position": "2-25",
+        "title": "Mañana ",
+        "duration": "0:49"
+      },
+      {
+        "position": "",
+        "title": "Vol. 3: Final Masters",
+        "duration": ""
+      },
+      {
+        "position": "3-1",
+        "title": "Stroke It Noel",
+        "duration": "2:07"
+      },
+      {
+        "position": "3-2",
+        "title": "Downs",
+        "duration": "1:50"
+      },
+      {
+        "position": "3-3",
+        "title": "Femme Fatale",
+        "duration": "3:31"
+      },
+      {
+        "position": "3-4",
+        "title": "Thank You Friends",
+        "duration": "3:08"
+      },
+      {
+        "position": "3-5",
+        "title": "Holocaust",
+        "duration": "3:51"
+      },
+      {
+        "position": "3-6",
+        "title": "Jesus Christ",
+        "duration": "2:39"
+      },
+      {
+        "position": "3-7",
+        "title": "Blue Moon",
+        "duration": "2:07"
+      },
+      {
+        "position": "3-8",
+        "title": "Kizza Me",
+        "duration": "2:43"
+      },
+      {
+        "position": "3-9",
+        "title": "For You",
+        "duration": "2:45"
+      },
+      {
+        "position": "3-10",
+        "title": "O, Dana",
+        "duration": "2:35"
+      },
+      {
+        "position": "3-11",
+        "title": "Nightime",
+        "duration": "2:53"
+      },
+      {
+        "position": "3-12",
+        "title": "Whole Lotta Shakin' Goin' On",
+        "duration": "3:24"
+      },
+      {
+        "position": "3-13",
+        "title": "Kanga Roo",
+        "duration": "3:49"
+      },
+      {
+        "position": "3-14",
+        "title": "Take Care",
+        "duration": "2:48"
+      },
+      {
+        "position": "3-15",
+        "title": "Big Black Car",
+        "duration": "3:38"
+      },
+      {
+        "position": "3-16",
+        "title": "Dream Lover",
+        "duration": "3:35"
+      },
+      {
+        "position": "3-17",
+        "title": "You Can't Have Me",
+        "duration": "3:18"
+      },
+      {
+        "position": "3-18",
+        "title": "Till The End Of The Day",
+        "duration": "2:14"
+      },
+      {
+        "position": "3-19",
+        "title": "Lovely Day",
+        "duration": "2:09"
+      },
+      {
+        "position": "3-20",
+        "title": "Nature Boy",
+        "duration": "2:40"
+      },
+      {
+        "position": "3-21",
+        "title": "Thank You Friends (New Remix / Vocals & Strings)",
+        "duration": "3:04"
+      }
+    ],
+    "lowest_price": 15.48,
+    "num_for_sale": 77,
+    "main_release": 9131586
+  },
+  "pressings": [
+    {
+      "release_id": 16649535,
+      "title": "Complete Third",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVCD-192",
+      "country": "",
+      "year": "2016",
+      "format": "AIFF",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9131586,
+      "title": "Complete Third",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVCD-192, 816651014613",
+      "country": "US",
+      "year": "2016",
+      "format": "",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15289141,
+      "title": "Complete Third",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVCD-192",
+      "country": "US",
+      "year": "2016",
+      "format": "FLAC, Album, Reissue, Stereo",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9411961,
+      "title": "Complete Third (Vol. 1: Demos To Sessions To Roughs)",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVLP-196, 816651014484",
+      "country": "US",
+      "year": "2016",
+      "format": "LP, Record Store Day, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27173733,
+      "title": "Complete Third: Vol. 3: Final Masters",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVLP-212",
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": "LP, Test Pressing, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10175605,
+      "title": "Complete Third: Vol. 3: Final Masters",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVLP-THIRD, OVLP-212",
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": "LP, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9849409,
+      "title": "Complete Third - Vol. 2: Roughs To Mixes",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVLP 202, 816651014217",
+      "country": "US",
+      "year": "2017",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10373577,
+      "title": "Complete Third: Vol. 3: Final Masters",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVLP-212, OVLP-212/816651014200",
+      "country": "USA & Canada",
+      "year": "2017",
+      "format": "LP, Etched, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24057152,
+      "title": "Complete Third",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVCD-192, 810075112054",
+      "country": "US",
+      "year": "2022",
+      "format": "",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36041908,
+      "title": "Complete Third (Vol. 1: Demos To Sessions To Roughs)",
+      "label": "Omnivore Recordings",
+      "catalog_number": "OVLP-196, 816651014484",
+      "country": "US",
+      "year": "0",
+      "format": "LP, Record Store Day, Mispress, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 10,
+  "countries": [
+    "US",
+    "USA & Canada"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2022"
+  }
+}

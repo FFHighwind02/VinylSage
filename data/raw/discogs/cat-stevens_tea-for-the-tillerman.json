@@ -1,0 +1,297 @@
+{
+  "album": "Tea for the Tillerman",
+  "artist": "Cat Stevens",
+  "source": "discogs",
+  "master": {
+    "master_id": 1109336,
+    "title": "Saturnight (Cat Stevens Live In Tokyo) = サタナイト/キャット・スティーヴンス《ライヴ・イン・ジャパン》",
+    "year": 1974,
+    "artists": [
+      "Cat Stevens",
+      "Cat Stevens"
+    ],
+    "genres": [
+      "Rock",
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Wild World = ワイルド・ワールド",
+        "duration": "2:52"
+      },
+      {
+        "position": "A2",
+        "title": "Oh Very Young = オー・ベリー・ヤング ",
+        "duration": "2:16"
+      },
+      {
+        "position": "A3",
+        "title": "Sitting = 人生はさすらい",
+        "duration": "3:06"
+      },
+      {
+        "position": "A4",
+        "title": "Where Do The Children Play = 子供達の園はどこへ?",
+        "duration": "3:33"
+      },
+      {
+        "position": "A5",
+        "title": "Lady D'Arbanville = 白いバラ",
+        "duration": "3:49"
+      },
+      {
+        "position": "A6",
+        "title": "Another Saturday Night = アナザー・サタデイ・ナイト",
+        "duration": "2:25"
+      },
+      {
+        "position": "B1",
+        "title": "Hard Headed Woman = 愛する貴女を求めて",
+        "duration": "3:37"
+      },
+      {
+        "position": "B2",
+        "title": "Peace Train = ピース・トレイン",
+        "duration": "3:11"
+      },
+      {
+        "position": "B3",
+        "title": "Father And Son = 父と子",
+        "duration": "3:25"
+      },
+      {
+        "position": "B4",
+        "title": "King Of Trees = 緑の神",
+        "duration": "3:39"
+      },
+      {
+        "position": "B5",
+        "title": "A Bad Penny = ア・バッド・ペニー",
+        "duration": "3:16"
+      },
+      {
+        "position": "B6",
+        "title": "Bitterblue = ビターブルー (冷たい恋人よ)",
+        "duration": "3:04"
+      }
+    ],
+    "lowest_price": 5.91,
+    "num_for_sale": 144,
+    "main_release": 2579624
+  },
+  "pressings": [
+    {
+      "release_id": 21803713,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "GP-228",
+      "country": "Japan",
+      "year": "1974",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2579624,
+      "title": "Saturnight (Cat Stevens Live In Tokyo) = サタナイト/キャット・スティーヴンス《ライヴ・イン・ジャパン》",
+      "label": "A&M Records",
+      "catalog_number": "GP-228",
+      "country": "Japan",
+      "year": "1974",
+      "format": "LP, Album, Numbered, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8856094,
+      "title": "Tour Of The Cat",
+      "label": "Oh Boy",
+      "catalog_number": "OH BOY 1-9053",
+      "country": "Luxembourg",
+      "year": "1990",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11541990,
+      "title": "Father & Son",
+      "label": "Stentor",
+      "catalog_number": "Sten 91088",
+      "country": "",
+      "year": "1993",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7738279,
+      "title": "Tea For Buddha",
+      "label": "Venus Music",
+      "catalog_number": "VM 015",
+      "country": "Europe",
+      "year": "1994",
+      "format": "Album, Limited Edition, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5464370,
+      "title": "Live",
+      "label": "D.V. More Record",
+      "catalog_number": "CDDV 5860",
+      "country": "Italy",
+      "year": "1995",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32233404,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "602468083009",
+      "country": "Europe",
+      "year": "2024",
+      "format": "LP, Album, Reissue, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32429751,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "602468083009",
+      "country": "US",
+      "year": "2024",
+      "format": "LP, Album, Record Store Day, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32454792,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "00602468083009",
+      "country": "Europe",
+      "year": "2024",
+      "format": "LP, Album, Record Store Day, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33908370,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "602468083023",
+      "country": "US",
+      "year": "2025",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33877335,
+      "title": "Saturnight ",
+      "label": "A&M Records",
+      "catalog_number": "00602468083047",
+      "country": "Europe",
+      "year": "2025",
+      "format": "Album, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33955278,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "00602468083030",
+      "country": "US",
+      "year": "2025",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 37449750,
+      "title": "Saturnight ",
+      "label": "A&M Records",
+      "catalog_number": "00602468083047",
+      "country": "Europe",
+      "year": "2025",
+      "format": "FLAC, Album",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14774701,
+      "title": "Bitterblue",
+      "label": "AAD Records",
+      "catalog_number": "P910074",
+      "country": "Germany",
+      "year": "0",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31035763,
+      "title": "Saturnight (Cat Stevens Live In Tokyo)",
+      "label": "A&M Records",
+      "catalog_number": "GP-228",
+      "country": "Japan",
+      "year": "0",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 15,
+  "countries": [
+    "Europe",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Luxembourg",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2025"
+  }
+}

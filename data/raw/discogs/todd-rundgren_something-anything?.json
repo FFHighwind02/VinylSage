@@ -1,0 +1,570 @@
+{
+  "album": "Something/Anything?",
+  "artist": "Todd Rundgren",
+  "source": "discogs",
+  "master": {
+    "master_id": 214950,
+    "title": "The Ever Popular Tortured Artist Effect",
+    "year": 1982,
+    "artists": [
+      "Todd Rundgren"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Power Pop",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Hideaway",
+        "duration": "4:58"
+      },
+      {
+        "position": "A2",
+        "title": "Influenza",
+        "duration": "4:29"
+      },
+      {
+        "position": "A3",
+        "title": "Don't Hurt Yourself",
+        "duration": "3:41"
+      },
+      {
+        "position": "A4",
+        "title": "There Goes Your Baybay",
+        "duration": "3:53"
+      },
+      {
+        "position": "B1",
+        "title": "Tin Soldier",
+        "duration": "3:10"
+      },
+      {
+        "position": "B2",
+        "title": "Emperor Of The Highway",
+        "duration": "1:39"
+      },
+      {
+        "position": "B3",
+        "title": "Bang The Drum All Day",
+        "duration": "3:32"
+      },
+      {
+        "position": "B4",
+        "title": "Drive",
+        "duration": "5:26"
+      },
+      {
+        "position": "B5",
+        "title": "Chant",
+        "duration": "4:20"
+      }
+    ],
+    "lowest_price": 1.19,
+    "num_for_sale": 293,
+    "main_release": 1393439
+  },
+  "pressings": [
+    {
+      "release_id": 9012368,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "25AP 2528",
+      "country": "Japan",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14751040,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "9 23732-1, 1-23732",
+      "country": "US",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5376336,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "BRLP 23732",
+      "country": "Italy",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2239148,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "L-37967, 1-23732",
+      "country": "Australia",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17831599,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "1-23732",
+      "country": "US",
+      "year": "1982",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9078552,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "9 23732-4, 4-23732",
+      "country": "US",
+      "year": "1982",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2087312,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "205 247, 205 247 -320",
+      "country": "Europe",
+      "year": "1982",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21605197,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "BEA 9 23732-4",
+      "country": "US",
+      "year": "1982",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2279137,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "92 37321",
+      "country": "Canada",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10034687,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "9 23732-1, 1-23732",
+      "country": "US",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1393439,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "9 23732-1, 1-23732",
+      "country": "US",
+      "year": "1982",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9463841,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "S154324",
+      "country": "US",
+      "year": "1982",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23756729,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "92-37324, 92 37324",
+      "country": "Canada",
+      "year": "1982",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16529352,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "25AP 2528",
+      "country": "Japan",
+      "year": "1982",
+      "format": "LP, Album, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2299166,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Lamborghini Records",
+      "catalog_number": "LMGLP 2000",
+      "country": "UK",
+      "year": "1983",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6602297,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "66005",
+      "country": "France",
+      "year": "1983",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7345242,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "92 37321",
+      "country": "Spain",
+      "year": "1983",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10051590,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "92 37321",
+      "country": "Spain",
+      "year": "1983",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11016659,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "R2 70876, RNCD 70876",
+      "country": "US",
+      "year": "1987",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25230382,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "RNCD 70876",
+      "country": "US",
+      "year": "1987",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16521057,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VDP-28030",
+      "country": "Japan",
+      "year": "1988",
+      "format": "Album, Promo, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3467201,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "RNLP 70876",
+      "country": "US",
+      "year": "1988",
+      "format": "LP, Album, Reissue, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13264933,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VDP-28030",
+      "country": "Japan",
+      "year": "1988",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3269903,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "R2 70876, RNCD 70876",
+      "country": "US",
+      "year": "1988",
+      "format": "Album, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8947691,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VICP-2018",
+      "country": "Japan",
+      "year": "1990",
+      "format": "Album, Reissue, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22413910,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VICP-60268",
+      "country": "Japan",
+      "year": "1998",
+      "format": "Album, Promo, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2414227,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Essential! Records",
+      "catalog_number": "ESM CD 706",
+      "country": "UK",
+      "year": "1999",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8243621,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VICP-63466",
+      "country": "Japan",
+      "year": "2006",
+      "format": "Album, Limited Edition, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4270499,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VICP-64220",
+      "country": "Japan",
+      "year": "2008",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9483766,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "VICP-70069",
+      "country": "Japan",
+      "year": "2009",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6921342,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Friday Music",
+      "catalog_number": "FRM-23732 ",
+      "country": "US",
+      "year": "2013",
+      "format": "LP, Album, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12387439,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "8122-70876-2",
+      "country": "Europe",
+      "year": "0",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25618345,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "1-23732",
+      "country": "US",
+      "year": "0",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11908923,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Rhino Records (2)",
+      "catalog_number": "RNC 70876",
+      "country": "US",
+      "year": "0",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23071817,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R4 70876",
+      "country": "US",
+      "year": "0",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11108996,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "R2 70876, RNCD 70876",
+      "country": "US",
+      "year": "0",
+      "format": "Album, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23430002,
+      "title": "The Ever Popular Tortured Artist Effect",
+      "label": "Bearsville",
+      "catalog_number": "R2 70876, RNCD 70876",
+      "country": "US",
+      "year": "0",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 37,
+  "countries": [
+    "Australia",
+    "Canada",
+    "Europe",
+    "France",
+    "Italy",
+    "Japan",
+    "Spain",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2013"
+  }
+}

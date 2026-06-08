@@ -1,0 +1,92 @@
+{
+  "album": "Sheer Heart Attack",
+  "artist": "Queen",
+  "source": "discogs",
+  "master": {
+    "master_id": 27641,
+    "title": "On This Day",
+    "year": 2007,
+    "artists": [
+      "Shifted Reality",
+      "Santerna",
+      "Tiff Lacey"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Progressive House",
+      "Trance",
+      "Progressive Trance"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "On This Day (Abbott & Chambers Vocal Mix)",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "On This Day (Original Mix)",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "On This Day (Chad Cisneros Remix)",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 5.68,
+    "num_for_sale": 8,
+    "main_release": 1132027
+  },
+  "pressings": [
+    {
+      "release_id": 1945154,
+      "title": "On This Day",
+      "label": "Alter Ego Records",
+      "catalog_number": "ae010cd",
+      "country": "UK",
+      "year": "2007",
+      "format": "Single",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1507894,
+      "title": "On This Day",
+      "label": "Alter Ego Records",
+      "catalog_number": "AE010",
+      "country": "UK",
+      "year": "2007",
+      "format": "MP3, Single",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1132027,
+      "title": "On This Day",
+      "label": "Alter Ego Records",
+      "catalog_number": "ae010",
+      "country": "UK",
+      "year": "2007",
+      "format": "12\"",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "2007",
+    "latest": "2007"
+  }
+}

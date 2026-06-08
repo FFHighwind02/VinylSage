@@ -1,0 +1,70 @@
+{
+  "album": "Goodbye Yellow Brick Road",
+  "artist": "Elton John",
+  "source": "discogs",
+  "master": {
+    "master_id": 21690,
+    "title": "Embrace / Beautiful",
+    "year": 2005,
+    "artists": [
+      "Orkidea"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Trance"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Embrace (Orkidea vs Super8 Mix)",
+        "duration": "10:16"
+      },
+      {
+        "position": "B",
+        "title": "Beautiful (Marc Mitchell Remix)",
+        "duration": "10:38"
+      }
+    ],
+    "lowest_price": 20.45,
+    "num_for_sale": 1,
+    "main_release": 500983
+  },
+  "pressings": [
+    {
+      "release_id": 500983,
+      "title": "Embrace / Beautiful",
+      "label": "Five AM",
+      "catalog_number": "FAM 035",
+      "country": "UK",
+      "year": "2005",
+      "format": "12\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 501680,
+      "title": "Embrace / Beautiful",
+      "label": "Five AM",
+      "catalog_number": "FAM035",
+      "country": "UK",
+      "year": "2005",
+      "format": "Promo",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "2005",
+    "latest": "2005"
+  }
+}

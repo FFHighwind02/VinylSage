@@ -1,0 +1,111 @@
+{
+  "album": "Eat a Peach",
+  "artist": "The Allman Brothers Band",
+  "source": "discogs",
+  "master": {
+    "master_id": 1874799,
+    "title": "Fillmore West 1-31-71",
+    "year": 2020,
+    "artists": [
+      "The Allman Brothers Band"
+    ],
+    "genres": [
+      "Rock",
+      "Blues"
+    ],
+    "styles": [
+      "Blues Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Statesboro Blues",
+        "duration": "4:29"
+      },
+      {
+        "position": "A2",
+        "title": "Trouble No More",
+        "duration": "4:05"
+      },
+      {
+        "position": "A3",
+        "title": "Don't Keep Me Wonderin'",
+        "duration": "3:41"
+      },
+      {
+        "position": "A4",
+        "title": "In Memory Of Elizabeth Reed",
+        "duration": "12:27"
+      },
+      {
+        "position": "B1",
+        "title": "Midnight Rider",
+        "duration": "3:05"
+      },
+      {
+        "position": "B2",
+        "title": "Hoochie Coochie Man",
+        "duration": "4:55"
+      },
+      {
+        "position": "B3",
+        "title": "Dreams",
+        "duration": "10:49"
+      },
+      {
+        "position": "C1",
+        "title": "You Don't Love Me",
+        "duration": "17:10"
+      },
+      {
+        "position": "C2",
+        "title": "Hot 'Lanta",
+        "duration": "5:31"
+      },
+      {
+        "position": "D",
+        "title": "Whipping Post",
+        "duration": "20:53"
+      }
+    ],
+    "lowest_price": 17.2,
+    "num_for_sale": 44,
+    "main_release": 15928154
+  },
+  "pressings": [
+    {
+      "release_id": 15928154,
+      "title": "Fillmore West 1-31-71",
+      "label": "The Allman Brothers Band Recording Company",
+      "catalog_number": "ABBR-00017",
+      "country": "USA & Europe",
+      "year": "2020",
+      "format": "LP, Record Store Day, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16501815,
+      "title": "Fillmore West 1-31-71",
+      "label": "The Allman Brothers Band Recording Company",
+      "catalog_number": "ABBR-00017",
+      "country": "USA & Europe",
+      "year": "2020",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "USA & Europe"
+  ],
+  "years_range": {
+    "earliest": "2020",
+    "latest": "2020"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "album": "Queen II",
+  "artist": "Queen",
+  "source": "discogs",
+  "master": {
+    "master_id": 883965,
+    "title": "Teo Toriatte (Let Us Cling Together) = 手をとりあって",
+    "year": 1977,
+    "artists": [
+      "Queen",
+      "Queen"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Teo Toriatte (Let Us Cling Together) (手をとりあって)",
+        "duration": "4:55"
+      },
+      {
+        "position": "B",
+        "title": "Good Old Fashioned Lover Boy (懐かしのラヴァー・ボーイ)",
+        "duration": "2:53"
+      }
+    ],
+    "lowest_price": 13.49,
+    "num_for_sale": 19,
+    "main_release": 972656
+  },
+  "pressings": [
+    {
+      "release_id": 972656,
+      "title": "Teo Toriatte (Let Us Cling Together) = 手をとりあって",
+      "label": "Elektra",
+      "catalog_number": "P-157E",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7461061,
+      "title": "手をとりあって = Teo Toriatte (Let Us Cling Together)",
+      "label": "Elektra",
+      "catalog_number": "P-157E",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3392774,
+      "title": "Teo Torriatte (Let Us Cling Together)",
+      "label": "Parlophone",
+      "catalog_number": "PCD-3071",
+      "country": "Japan",
+      "year": "2005",
+      "format": "Single, Promo, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16647765,
+      "title": "Teo Toriatte (Let Us Cling Together) = 手をとりあって",
+      "label": "Elektra",
+      "catalog_number": "P-157E",
+      "country": "Japan",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2005"
+  }
+}

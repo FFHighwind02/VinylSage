@@ -1,0 +1,248 @@
+{
+  "album": "Electric Warrior",
+  "artist": "T. Rex",
+  "source": "discogs",
+  "master": {
+    "master_id": 324047,
+    "title": "Light Of Love",
+    "year": 1974,
+    "artists": [
+      "T. Rex"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Glam"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Light Of Love",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Explosive Mouth",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 1.15,
+    "num_for_sale": 135,
+    "main_release": 26735474
+  },
+  "pressings": [
+    {
+      "release_id": 967955,
+      "title": "Light Of Love",
+      "label": "T. Rex",
+      "catalog_number": "MARC 8",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2800637,
+      "title": "Light Of Love / Explosive Mouth",
+      "label": "CBS",
+      "catalog_number": "REX 2608",
+      "country": "France",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7728957,
+      "title": "ライト・オヴ・ラヴ = Light Of Love",
+      "label": "EMI",
+      "catalog_number": "EMR-10610",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5673230,
+      "title": "Light Of Love",
+      "label": "T. REX",
+      "catalog_number": "MARC 8",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10383097,
+      "title": "Light Of Love",
+      "label": "T. REX",
+      "catalog_number": "T.REX-10563",
+      "country": "Australia",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27798381,
+      "title": "ライト・オヴ・ラヴ = Light Of Love",
+      "label": "EMI",
+      "catalog_number": "EMR-10610",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26735474,
+      "title": "Light Of Love",
+      "label": "T. REX",
+      "catalog_number": "T.REX-10563",
+      "country": "Australia",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13966276,
+      "title": "Light Of Love",
+      "label": "T. Rex",
+      "catalog_number": "MARCJ 8",
+      "country": "South Africa",
+      "year": "1974",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32789181,
+      "title": "Light Of Love",
+      "label": "T. REX",
+      "catalog_number": "none",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Test Pressing, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15136436,
+      "title": "Light Of Love",
+      "label": "T. Rex",
+      "catalog_number": "MARC 8",
+      "country": "Ireland",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5968600,
+      "title": "Light Of Love",
+      "label": "T. Rex",
+      "catalog_number": "MARC 8",
+      "country": "New Zealand",
+      "year": "1974",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8107356,
+      "title": "Light Of Love",
+      "label": "T. REX",
+      "catalog_number": "3C 006 - 95719, 3C 006 95719",
+      "country": "Italy",
+      "year": "1974",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3216970,
+      "title": "Light Of Love / Venus Loon",
+      "label": "Ariola",
+      "catalog_number": "13 565 AT",
+      "country": "Germany",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9725008,
+      "title": "Light Of Love",
+      "label": "EMI",
+      "catalog_number": "4C006-95719, 4 C006_95719",
+      "country": "Belgium",
+      "year": "1974",
+      "format": "7\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28260421,
+      "title": "Light Of Love",
+      "label": "T. Rex",
+      "catalog_number": "MARC 8",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 15,
+  "countries": [
+    "Australia",
+    "Belgium",
+    "France",
+    "Germany",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "New Zealand",
+    "South Africa",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1974",
+    "latest": "1974"
+  }
+}

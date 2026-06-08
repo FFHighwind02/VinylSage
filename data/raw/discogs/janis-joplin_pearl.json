@@ -1,0 +1,125 @@
+{
+  "album": "Pearl",
+  "artist": "Janis Joplin",
+  "source": "discogs",
+  "master": {
+    "master_id": 441399,
+    "title": "Highlights From The Pearl Sessions",
+    "year": 2012,
+    "artists": [
+      "Janis Joplin"
+    ],
+    "genres": [
+      "Rock",
+      "Funk / Soul",
+      "Blues"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Psychedelic Rock",
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Get It While You Can (Take 3 - 7.27.70)",
+        "duration": "3:39"
+      },
+      {
+        "position": "A2",
+        "title": "Move Over (Take 6 - 7.27.70)",
+        "duration": "4:07"
+      },
+      {
+        "position": "A3",
+        "title": "Me And Bobby McGee (Demo Version - 7.28.70)",
+        "duration": "4:48"
+      },
+      {
+        "position": "B1",
+        "title": "Cry Baby (Alternate Version - 9.5.70)",
+        "duration": "4:59"
+      },
+      {
+        "position": "B2",
+        "title": "A Woman Left Lonely (Alternate Vocal - 9.9.70)",
+        "duration": "3:36"
+      },
+      {
+        "position": "B3",
+        "title": "My Baby (Alternate Take - 9.9.70)",
+        "duration": "3:57"
+      },
+      {
+        "position": "C1",
+        "title": "Move Over (Take 13 - 7.28.70)",
+        "duration": "4:32"
+      },
+      {
+        "position": "C2",
+        "title": "Me And Bobby McGee (Take 5 - Alternate - 7.28.70)",
+        "duration": "4:51"
+      },
+      {
+        "position": "C3",
+        "title": "Get It While You Can (Take 5 - 7.27.70)",
+        "duration": "3:47"
+      },
+      {
+        "position": "D1",
+        "title": "My Baby (Alternate Take - 9.24.70)",
+        "duration": "4:01"
+      },
+      {
+        "position": "D2",
+        "title": "Get It While You Can (Take 3 - 9.11.70)",
+        "duration": "3:34"
+      },
+      {
+        "position": "D3",
+        "title": "Pearl (Instrumental - 10.10.70)",
+        "duration": "4:27"
+      }
+    ],
+    "lowest_price": 19.94,
+    "num_for_sale": 14,
+    "main_release": 3549546
+  },
+  "pressings": [
+    {
+      "release_id": 3549546,
+      "title": "Highlights From The Pearl Sessions",
+      "label": "Columbia",
+      "catalog_number": "88691956967",
+      "country": "US",
+      "year": "2012",
+      "format": "LP, 10\", Record Store Day, Compilation, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13714855,
+      "title": "Highlights From The Pearl Sessions",
+      "label": "Columbia",
+      "catalog_number": "MOV10003",
+      "country": "Europe",
+      "year": "2012",
+      "format": "LP, 10\", Compilation, Limited Edition, Numbered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Europe",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2012",
+    "latest": "2012"
+  }
+}

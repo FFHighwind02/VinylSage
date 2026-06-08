@@ -1,0 +1,126 @@
+{
+  "album": "Animals",
+  "artist": "Pink Floyd",
+  "source": "discogs",
+  "master": {
+    "master_id": 1770377,
+    "title": "Not Now John / Your Possible Pasts = ノット・ナウ・ジョン／ユア・ポッシブル・パスツ",
+    "year": 1983,
+    "artists": [
+      "Pink Floyd",
+      "Pink Floyd"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Not Now John = ノット・ナウ・ジョン",
+        "duration": "4:49"
+      },
+      {
+        "position": "B",
+        "title": "Your Possible Pasts = ユア・ポッシブル・パスツ",
+        "duration": "4:20"
+      }
+    ],
+    "lowest_price": 69.33,
+    "num_for_sale": 7,
+    "main_release": 3834541
+  },
+  "pressings": [
+    {
+      "release_id": 3834541,
+      "title": "Not Now John / Your Possible Pasts = ノット・ナウ・ジョン／ユア・ポッシブル・パスツ",
+      "label": "CBS/Sony",
+      "catalog_number": "XDSP 93036, 07SP 647",
+      "country": "Japan",
+      "year": "1983",
+      "format": "7\", Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25064008,
+      "title": "Not Now John / Your Possible Pasts = ノット・ナウ・ジョン／ユア・ポッシブル・パスツ",
+      "label": "CBS/Sony (2)",
+      "catalog_number": "XDSP 93036",
+      "country": "Japan",
+      "year": "2021",
+      "format": "7\", 45 RPM, Single, Limited Edition, Numbered, Promo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18859615,
+      "title": "Not Now John / Your Possible Pasts = ノット・ナウ・ジョン／ユア・ポッシブル・パスツ",
+      "label": "CBS/Sony (2)",
+      "catalog_number": "XDSP 93036, 07SP 647",
+      "country": "Italy",
+      "year": "2021",
+      "format": "7\", Single, Limited Edition, Numbered, Promo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19384537,
+      "title": "Not Now John / Your Possible Pasts = ノット・ナウ・ジョン／ユア・ポッシブル・パスツ",
+      "label": "CBS/Sony (2)",
+      "catalog_number": "XDSP 93036, 07SP 647",
+      "country": "",
+      "year": "2021",
+      "format": "7\", Single, Limited Edition, Numbered, Promo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15542946,
+      "title": "Not Now John / Your Possible Pasts ",
+      "label": "CBS/Sony (2)",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 33 ⅓ RPM, Numbered, Picture Disc, Special Edition, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15609595,
+      "title": "Not Now John / Your Possible Pasts ",
+      "label": "CBS/Sony (2)",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 33 ⅓ RPM, Numbered, Special Edition, Test Pressing, Unofficial Release, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "Italy",
+    "Japan",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2021"
+  }
+}

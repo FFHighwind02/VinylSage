@@ -1,0 +1,71 @@
+{
+  "album": "At Budokan",
+  "artist": "Cheap Trick",
+  "source": "discogs",
+  "master": {
+    "master_id": 1357738,
+    "title": "暴走ハイウェイ = (Love Comes) A-Tumblin' Down",
+    "year": 1980,
+    "artists": [
+      "Cheap Trick",
+      "Cheap Trick"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "暴走ハイウェイ = (Love Comes) A-Tumblin' Down",
+        "duration": "3:06"
+      },
+      {
+        "position": "B",
+        "title": "ワールズ・グレイテスト・ラヴァー = World's Greatest Lover",
+        "duration": "4:52"
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 11939776
+  },
+  "pressings": [
+    {
+      "release_id": 6456094,
+      "title": "暴走ハイウェイ = (Love Comes) A-Tumblin' Down",
+      "label": "Epic",
+      "catalog_number": "07・5P-132",
+      "country": "Japan",
+      "year": "1980",
+      "format": "7\", 45 RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11939776,
+      "title": "暴走ハイウェイ = (Love Comes) A-Tumblin' Down",
+      "label": "Epic",
+      "catalog_number": "07•5P-132",
+      "country": "Japan",
+      "year": "1980",
+      "format": "7\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1980",
+    "latest": "1980"
+  }
+}

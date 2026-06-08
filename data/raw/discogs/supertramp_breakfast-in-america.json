@@ -1,0 +1,225 @@
+{
+  "album": "Breakfast in America",
+  "artist": "Supertramp",
+  "source": "discogs",
+  "master": {
+    "master_id": 405607,
+    "title": "Live",
+    "year": 1976,
+    "artists": [
+      "Supertramp"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Art Rock",
+      "Pop Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "School",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Bloody Well Right",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Sister Moonshine",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Ain't Nobody But Me",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Dreamer",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Rudy",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "A Soapbox Opera",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Lady",
+        "duration": ""
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 3377176
+  },
+  "pressings": [
+    {
+      "release_id": 4930371,
+      "title": "Live",
+      "label": "Spaceward Records (2)",
+      "catalog_number": "ST 500123",
+      "country": "Netherlands",
+      "year": "1976",
+      "format": "LP, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15508973,
+      "title": "Live",
+      "label": "Ze Anonym Plattenspieler",
+      "catalog_number": "ZAP 7871",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3377176,
+      "title": "Live",
+      "label": "Ze Anonym Plattenspieler",
+      "catalog_number": "ZAP 7871",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4780822,
+      "title": "Lady Tour 1976",
+      "label": "Super Groups In Concert",
+      "catalog_number": "PPD 3/905",
+      "country": "",
+      "year": "1976",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23828783,
+      "title": "Live",
+      "label": "Ze Anonym Plattenspieler",
+      "catalog_number": "ZAP 7871",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2473223,
+      "title": "The 1976 Amercain Tour",
+      "label": "The Amazing Kornyfone Record Label",
+      "catalog_number": "TAKRL 905",
+      "country": "US",
+      "year": "1978",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5261264,
+      "title": "Alien",
+      "label": "Saturated Recordworks",
+      "catalog_number": "1S-602",
+      "country": "Australia",
+      "year": "1979",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9942818,
+      "title": "Lady Tour",
+      "label": "Rarities & Few",
+      "catalog_number": "TKCD 1056",
+      "country": "Europe",
+      "year": "1991",
+      "format": "Album, Limited Edition, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5283742,
+      "title": "Easy Guitar",
+      "label": "Over Load",
+      "catalog_number": "OLC 123",
+      "country": "Italy",
+      "year": "1993",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32310336,
+      "title": "Easy Guitar",
+      "label": "Over Load",
+      "catalog_number": "OLM 123",
+      "country": "Italy",
+      "year": "1993",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7257861,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 900.129",
+      "country": "Germany",
+      "year": "0",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 11,
+  "countries": [
+    "Australia",
+    "Europe",
+    "Germany",
+    "Italy",
+    "Netherlands",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1993"
+  }
+}

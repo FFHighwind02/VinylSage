@@ -1,0 +1,112 @@
+{
+  "album": "Fullingness First Finale",
+  "artist": "Stevie Wonder",
+  "source": "discogs",
+  "master": {
+    "master_id": 436740,
+    "title": "You Haven't Done Nothin'",
+    "year": 1974,
+    "artists": [
+      "Stevie Wonder"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "You Haven't Done Nothin'",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Happier Than The Morning Sun",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.75,
+    "num_for_sale": 150,
+    "main_release": 3325092
+  },
+  "pressings": [
+    {
+      "release_id": 731357,
+      "title": "You Haven't Done Nothin'",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 921",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3510367,
+      "title": "You Haven't Done Nothin'",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 921",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3325092,
+      "title": "You Haven't Done Nothin'",
+      "label": "Tamla Motown",
+      "catalog_number": "TMATS 5042",
+      "country": "Portugal",
+      "year": "1974",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7026313,
+      "title": "You Haven't Done Nothin'",
+      "label": "Tamla Motown",
+      "catalog_number": "006-95989",
+      "country": "Greece",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15199064,
+      "title": "You Haven't Done Nothin'",
+      "label": "Tamla Motown",
+      "catalog_number": "TMG 921",
+      "country": "Ireland",
+      "year": "1974",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "Greece",
+    "Ireland",
+    "Portugal",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1974",
+    "latest": "1974"
+  }
+}

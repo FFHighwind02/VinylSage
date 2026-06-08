@@ -1,0 +1,332 @@
+{
+  "album": "Look-Ka Py Py",
+  "artist": "The Meters",
+  "source": "discogs",
+  "master": {
+    "master_id": 2404972,
+    "title": "Original Album Series",
+    "year": 2014,
+    "artists": [
+      "The Meters"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Bayou Funk",
+      "Soul",
+      "Funk"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Cabbage Alley",
+        "duration": ""
+      },
+      {
+        "position": "1-1",
+        "title": "You've Got To Change - You've Got To Reform",
+        "duration": "5:16"
+      },
+      {
+        "position": "1-2",
+        "title": "Stay Away ",
+        "duration": "5:22"
+      },
+      {
+        "position": "1-3",
+        "title": "Birds",
+        "duration": "4:28"
+      },
+      {
+        "position": "1-4",
+        "title": "The Flower Song",
+        "duration": "4:52"
+      },
+      {
+        "position": "1-5",
+        "title": "Soul Island",
+        "duration": "3:12"
+      },
+      {
+        "position": "1-6",
+        "title": "Do The Dirt",
+        "duration": "2:38"
+      },
+      {
+        "position": "1-7",
+        "title": "Smiling",
+        "duration": "3:09"
+      },
+      {
+        "position": "1-8",
+        "title": "Lonesome And Unwanted People ",
+        "duration": "4:39"
+      },
+      {
+        "position": "1-9",
+        "title": "Gettin' Funkier All The Time",
+        "duration": "3:19"
+      },
+      {
+        "position": "1-10",
+        "title": "Cabbage Alley",
+        "duration": "3:33"
+      },
+      {
+        "position": "",
+        "title": "Rejuvenation",
+        "duration": ""
+      },
+      {
+        "position": "2-1",
+        "title": "People Say",
+        "duration": "5:19"
+      },
+      {
+        "position": "2-2",
+        "title": "Love Is For Me",
+        "duration": "3:55"
+      },
+      {
+        "position": "2-3",
+        "title": "Just Kissed My Baby",
+        "duration": "4:44"
+      },
+      {
+        "position": "2-4",
+        "title": "What'cha Say",
+        "duration": "3:29"
+      },
+      {
+        "position": "2-5",
+        "title": "Jungle Man",
+        "duration": "3:27"
+      },
+      {
+        "position": "2-6",
+        "title": "Hey Pocky A-way",
+        "duration": "4:07"
+      },
+      {
+        "position": "2-7",
+        "title": "It Ain't No Use",
+        "duration": "11:51"
+      },
+      {
+        "position": "2-8",
+        "title": "Loving You Is On My Mind ",
+        "duration": "3:20"
+      },
+      {
+        "position": "2-9",
+        "title": "Africa",
+        "duration": "4:01"
+      },
+      {
+        "position": "",
+        "title": "Fire On The Bayou",
+        "duration": ""
+      },
+      {
+        "position": "3-1",
+        "title": "Out In The Country",
+        "duration": "3:39"
+      },
+      {
+        "position": "3-2",
+        "title": "Fire On The Bayou",
+        "duration": "4:10"
+      },
+      {
+        "position": "3-3",
+        "title": "Love Slip Upon Ya",
+        "duration": "4:59"
+      },
+      {
+        "position": "3-4",
+        "title": "Talkin' 'bout New Orleans",
+        "duration": "3:38"
+      },
+      {
+        "position": "3-5",
+        "title": "They All Ask'd About You",
+        "duration": "4:12"
+      },
+      {
+        "position": "3-6",
+        "title": "Can You Do Without ?",
+        "duration": "3:52"
+      },
+      {
+        "position": "3-7",
+        "title": "Liar",
+        "duration": "5:13"
+      },
+      {
+        "position": "3-8",
+        "title": "You're A Friend Of Mine ",
+        "duration": "4:11"
+      },
+      {
+        "position": "3-9",
+        "title": "Middle Of The Road",
+        "duration": "7:58"
+      },
+      {
+        "position": "3-10",
+        "title": "Running Fast",
+        "duration": "1:27"
+      },
+      {
+        "position": "3-11",
+        "title": "Mardi Gras Mambo",
+        "duration": "2:39"
+      },
+      {
+        "position": "",
+        "title": "Trick Bag",
+        "duration": ""
+      },
+      {
+        "position": "4-1",
+        "title": "Disco In The Thing Today ",
+        "duration": "4:22"
+      },
+      {
+        "position": "4-2",
+        "title": "Find Yourself",
+        "duration": "4:12"
+      },
+      {
+        "position": "4-3",
+        "title": "All These Things",
+        "duration": "3:33"
+      },
+      {
+        "position": "4-4",
+        "title": "I Want To Be Loved By You",
+        "duration": "5:25"
+      },
+      {
+        "position": "4-5",
+        "title": "Suite For 20g",
+        "duration": "4:33"
+      },
+      {
+        "position": "4-6",
+        "title": "Doodle Loop - The World Is A Little Bit Under The Weather",
+        "duration": "3:53"
+      },
+      {
+        "position": "4-7",
+        "title": "Trick Bag",
+        "duration": "3:21"
+      },
+      {
+        "position": "4-8",
+        "title": "Mister Moon",
+        "duration": "4:03"
+      },
+      {
+        "position": "4-9",
+        "title": "Chug-a-lug ",
+        "duration": "3:22"
+      },
+      {
+        "position": "4-10",
+        "title": "Hang 'em High ",
+        "duration": "2:18"
+      },
+      {
+        "position": "4-11",
+        "title": "Honkey Tonk Women ",
+        "duration": "3:16"
+      },
+      {
+        "position": "",
+        "title": "New Directions",
+        "duration": ""
+      },
+      {
+        "position": "5-1",
+        "title": "No More Okey Doke",
+        "duration": "4:21"
+      },
+      {
+        "position": "5-2",
+        "title": "I'm Gone",
+        "duration": "4:29"
+      },
+      {
+        "position": "5-3",
+        "title": "Be My Lady",
+        "duration": "6:28"
+      },
+      {
+        "position": "5-4",
+        "title": "My Name Up In Lights",
+        "duration": "5:23"
+      },
+      {
+        "position": "5-5",
+        "title": "Funkify Your Life",
+        "duration": "5:42"
+      },
+      {
+        "position": "5-6",
+        "title": "Stop That Train",
+        "duration": "4:51"
+      },
+      {
+        "position": "5-7",
+        "title": "We Got The Kind Of A Love",
+        "duration": "5:20"
+      },
+      {
+        "position": "5-8",
+        "title": "Give It What You Can",
+        "duration": "4:36"
+      }
+    ],
+    "lowest_price": 6.3,
+    "num_for_sale": 20,
+    "main_release": 6522893
+  },
+  "pressings": [
+    {
+      "release_id": 6522893,
+      "title": "Original Album Series",
+      "label": "Warner Bros. Records",
+      "catalog_number": "8122796156",
+      "country": "Europe",
+      "year": "2014",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21209584,
+      "title": "Original Album Series",
+      "label": "Warner Bros. Records",
+      "catalog_number": "8122796156",
+      "country": "Europe",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Europe"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2014"
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "album": "Darkness on the Edge of Town",
+  "artist": "Bruce Springsteen",
+  "source": "discogs",
+  "master": {
+    "master_id": 853732,
+    "title": "Columbia Records Radio Hour",
+    "year": 1995,
+    "artists": [
+      "Bruce Springsteen"
+    ],
+    "genres": [
+      "Rock",
+      "Non-Music",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Acoustic",
+      "Folk Rock",
+      "Interview"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "A Conversation With Bruce Springsteen",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Live & Acoustic From The Tower Theatre In Philadelphia",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "The Ghost Of Tom Joad",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Straight Time",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Darkness On The Edge Of Town",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Born In The U.S.A.",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Youngstown",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "title": "Sinaloa Cowboys",
+        "duration": ""
+      },
+      {
+        "position": "B7",
+        "title": "Balboa Park",
+        "duration": ""
+      },
+      {
+        "position": "B8",
+        "title": "Does This Bus Stop At 82nd Street?",
+        "duration": ""
+      },
+      {
+        "position": "B9",
+        "title": "This Hard Land",
+        "duration": ""
+      },
+      {
+        "position": "B10",
+        "title": "Streets Of Philadelphia",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 16.0,
+    "num_for_sale": 21,
+    "main_release": 7751968
+  },
+  "pressings": [
+    {
+      "release_id": 10593481,
+      "title": "The Philadelphia Story",
+      "label": "Not On Label (Bruce Springsteen)",
+      "catalog_number": "none",
+      "country": "USA & Europe",
+      "year": "1995",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7752006,
+      "title": "Columbia Records Radio Hour",
+      "label": "Columbia",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "1995",
+      "format": "Promo, Transcription",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7751968,
+      "title": "Columbia Records Radio Hour",
+      "label": "Columbia",
+      "catalog_number": "CAT 7698",
+      "country": "US",
+      "year": "1995",
+      "format": "Promo, Transcription",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16081193,
+      "title": "Live From The Tower Theatre In Philadelphia",
+      "label": "Columbia",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "1995",
+      "format": "Promo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6189089,
+      "title": "Railroad Tracks",
+      "label": "Oxygen (2)",
+      "catalog_number": "OXY 027",
+      "country": "Czech Republic",
+      "year": "1996",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2001783,
+      "title": "Philadelphia Night",
+      "label": "Crystal Cat Records",
+      "catalog_number": "CC 382",
+      "country": "Europe",
+      "year": "1996",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4039247,
+      "title": "Misunderstood",
+      "label": "Primadonna",
+      "catalog_number": "PD127",
+      "country": "Italy",
+      "year": "1996",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13984931,
+      "title": "The Arms Of God - Solo Acoustic Tour 2",
+      "label": "E. ST. Records",
+      "catalog_number": "ES-29",
+      "country": "",
+      "year": "1996",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4542744,
+      "title": "The Evocator",
+      "label": "Flashback World Productions",
+      "catalog_number": "Flash 02.96.0268, Flashback 02.96.0268",
+      "country": "Luxembourg",
+      "year": "1996",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5446317,
+      "title": "A Journey To Nowhere",
+      "label": "Sea Monkey",
+      "catalog_number": "SM-1902-1",
+      "country": "",
+      "year": "1996",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8949664,
+      "title": "Bruce Springsteen 1995 Radio Hour The Tom Joad Sessions",
+      "label": "Good Ship Funke",
+      "catalog_number": "GSF020",
+      "country": "",
+      "year": "2016",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8882305,
+      "title": "Upper Darby Theater '95",
+      "label": "Rox Vox",
+      "catalog_number": "RVCD2045",
+      "country": "UK",
+      "year": "2016",
+      "format": "Album, Remastered, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11503553,
+      "title": "1995 Radio Hour - The Tom Joad Sessions",
+      "label": "Parachute Recording Company",
+      "catalog_number": "PARA155LP",
+      "country": "Europe",
+      "year": "2017",
+      "format": "LP, Numbered, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11511155,
+      "title": "Youngstown",
+      "label": "Roxborough Music Broadcasts",
+      "catalog_number": "ROXMB018",
+      "country": "UK",
+      "year": "2018",
+      "format": "LP, Numbered, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30442709,
+      "title": "Upper Darby Theatre 1995",
+      "label": "Expensive Woodland Recordings",
+      "catalog_number": "EWR023",
+      "country": "Europe",
+      "year": "2023",
+      "format": "LP, Album, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30026524,
+      "title": "One Night Stand - Live In Philadelphia 1995",
+      "label": "Columbia Records Radio Hour",
+      "catalog_number": "SRFM0045ME / 9003829976984",
+      "country": "Europe",
+      "year": "2024",
+      "format": "LP, Limited Edition, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30178292,
+      "title": "One Night Stand - Live In Philadelphia 1995",
+      "label": "Second Records",
+      "catalog_number": "SRFM0045, SRFM0045ME",
+      "country": "Europe",
+      "year": "2024",
+      "format": "LP, Limited Edition, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30371624,
+      "title": "One Night Stand - Live In Philadelphia 1995",
+      "label": "Columbia Records Radio Hour",
+      "catalog_number": "SRFM0045ME / 9003829976984",
+      "country": "Europe",
+      "year": "2024",
+      "format": "LP, Limited Edition, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31823096,
+      "title": "One Night Stand - Live In Philadelphia 1995",
+      "label": "Second Records",
+      "catalog_number": "SRFM0045LTD",
+      "country": "",
+      "year": "0",
+      "format": "LP, Limited Edition, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7149229,
+      "title": "The Highway Is Alive Tonight",
+      "label": "ANC - Records",
+      "catalog_number": "ANC 111",
+      "country": "",
+      "year": "0",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 20,
+  "countries": [
+    "Czech Republic",
+    "Europe",
+    "Italy",
+    "Luxembourg",
+    "UK",
+    "US",
+    "USA & Europe"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2024"
+  }
+}

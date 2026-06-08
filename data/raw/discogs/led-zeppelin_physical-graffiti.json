@@ -1,0 +1,723 @@
+{
+  "album": "Physical Graffiti",
+  "artist": "Led Zeppelin",
+  "source": "discogs",
+  "master": {
+    "master_id": 187551,
+    "title": "Stairway To Heaven = Лестница На Небеса",
+    "year": 1988,
+    "artists": [
+      "Led Zeppelin",
+      "Led Zeppelin"
+    ],
+    "genres": [
+      "Rock",
+      "Blues"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Blues Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Immigrant Song = Песня Иммигрантов",
+        "duration": "2:24"
+      },
+      {
+        "position": "A2",
+        "title": "Gallows Pole = Виселица",
+        "duration": "4:55"
+      },
+      {
+        "position": "A3",
+        "title": "Since I've Been Loving You = С Тех Пор, Как Я Тебя Люблю",
+        "duration": "7:23"
+      },
+      {
+        "position": "A4",
+        "title": "Black Dog = Черный Пес",
+        "duration": "4:53"
+      },
+      {
+        "position": "B1",
+        "title": "When The Levee Breaks = Когда Рухнет Плотина",
+        "duration": "7:08"
+      },
+      {
+        "position": "B2",
+        "title": "Rock And Roll = Рок-н-ролл",
+        "duration": "3:39"
+      },
+      {
+        "position": "B3",
+        "title": "Stairway To Heaven = Лестница На Небеса",
+        "duration": "8:00"
+      }
+    ],
+    "lowest_price": 1.5,
+    "num_for_sale": 107,
+    "main_release": 12740303
+  },
+  "pressings": [
+    {
+      "release_id": 14218640,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 661526,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6039123,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5947773,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9807298,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21885478,
+      "title": "Лестница На Небеса = Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5081192,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10137224,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3907791,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14472112,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19617070,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26636582,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4012555,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4612848,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6260821,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15522062,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33250752,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12740303,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14324485,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7042159,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5311720,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5311752,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8050259,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4613176,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2709404,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9987295,
+      "title": "Stairway To Heaven = Лестница На Небеса ‎",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20219089,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11134827,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16188003,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11673656,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4613145,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19866496,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16188049,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1962962,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6039305,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6628601,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3081724,
+      "title": "Лестница На Небеса = Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4613330,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12867531,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2386112,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4012514,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9307187,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35733784,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "С60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8327574,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6700075,
+      "title": "Лестница На Небеса  (Stairway To Heaven)",
+      "label": "Мелодия",
+      "catalog_number": "С 60 27501 005",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10944899,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11536056,
+      "title": "Лестница На Небеса  (Stairway To Heaven)",
+      "label": "Мелодия",
+      "catalog_number": "С 60 27501 005",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4613295,
+      "title": "Stairway To Heaven",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28220353,
+      "title": "Stairway To Heaven = Лестница На Небеса",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17017140,
+      "title": "Stairway To Heaven = Лестница на небеса",
+      "label": "Мелодия",
+      "catalog_number": "C60 27501 005",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "1988",
+    "latest": "1990"
+  }
+}

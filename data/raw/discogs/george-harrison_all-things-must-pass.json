@@ -1,0 +1,776 @@
+{
+  "album": "All Things Must Pass",
+  "artist": "George Harrison",
+  "source": "discogs",
+  "master": {
+    "master_id": 56172,
+    "title": "The Best Of George Harrison",
+    "year": 1976,
+    "artists": [
+      "George Harrison"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Soft Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Something",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "If I Needed Someone",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Here Comes The Sun",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Taxman",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Think For Yourself",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "title": "For You Blue",
+        "duration": ""
+      },
+      {
+        "position": "A7",
+        "title": "While My Guitar Gently Weeps",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "My Sweet Lord",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Give Me Love",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "You",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Bangla Desh",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Dark Horse",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "title": "What Is Life",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 1.14,
+    "num_for_sale": 702,
+    "main_release": 1423535
+  },
+  "pressings": [
+    {
+      "release_id": 13630675,
+      "title": "Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "TC-PAS-10011",
+      "country": "Australia",
+      "year": "1976",
+      "format": "Album, Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9312998,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "4XT-11578",
+      "country": "US",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23969717,
+      "title": "The Best Of George Harrison",
+      "label": "EMI",
+      "catalog_number": "CLEM-692",
+      "country": "Mexico",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26686319,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "ZR23-354",
+      "country": "Japan",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14898653,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "ST-11578",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Compilation, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1423535,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011, 0C 064-06 249",
+      "country": "UK",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2018825,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "1 C 062-06 249",
+      "country": "Germany",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2595782,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "EAS-80720",
+      "country": "Japan",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2008007,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "5C 062.06249",
+      "country": "Netherlands",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35118053,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "8XT-11578, 8XT 11578",
+      "country": "US",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5073782,
+      "title": "The Best Of George Harrison",
+      "label": "Apple Records",
+      "catalog_number": "8E 068 06249",
+      "country": "Portugal",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6402150,
+      "title": "The Best Of George Harrison",
+      "label": "EMI",
+      "catalog_number": "11496",
+      "country": "Colombia",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31848167,
+      "title": "The Best Of George Harrison",
+      "label": "Apple Records",
+      "catalog_number": "8E 266 06249",
+      "country": "Portugal",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19335091,
+      "title": "The Best Of",
+      "label": "Apple Records",
+      "catalog_number": "ELD 02.08.461",
+      "country": "Peru",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28429471,
+      "title": "Los Mas Grandes Exitos de George Harrison",
+      "label": "EMI",
+      "catalog_number": "60.094",
+      "country": "Argentina",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10502724,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "SMOFB 493, SMOFB-493",
+      "country": "Brazil",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16158997,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "4XT-11578",
+      "country": "Canada",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4522638,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "7C 064-06249",
+      "country": "Scandinavia",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33282876,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011, 0C 064-06 249",
+      "country": "Singapore",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 472363,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011",
+      "country": "India",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4043082,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "8XT-11578, 8XT 11578",
+      "country": "US",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35351632,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011, 0C 064-06 249",
+      "country": "Philippines",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4665384,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011",
+      "country": "New Zealand",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4754697,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011",
+      "country": "Australia",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34819139,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "8XT-11578, 8XT 11578",
+      "country": "US",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32325510,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "PAS 10011, 0C 064-06 249",
+      "country": "UK",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15868878,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "1 C 064-06 249",
+      "country": "Germany",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5261307,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "8X-PAS 10011",
+      "country": "UK",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14098438,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "7C 264-06249, 7C 264 06249",
+      "country": "Sweden",
+      "year": "1976",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14650113,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "1 C 064-06 249",
+      "country": "Europe",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5096608,
+      "title": "The Best Of George Harrison",
+      "label": "EMI",
+      "catalog_number": "EMIs 7491",
+      "country": "Venezuela",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1840295,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "ST-11578",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3563610,
+      "title": "The Best Of George Harrison",
+      "label": "EMI",
+      "catalog_number": "2J 064-06249",
+      "country": "Greece",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19022293,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "1 C 064-06 249",
+      "country": "Germany",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24028934,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "EAS-80720",
+      "country": "Japan",
+      "year": "1976",
+      "format": "LP, Compilation, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13514524,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "10C 264-06.249",
+      "country": "Spain",
+      "year": "1976",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5711615,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "ST-11578",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1728627,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "ST-11578",
+      "country": "Canada",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5024996,
+      "title": "Los Mas Grandes Exitos de George Harrison",
+      "label": "EMI",
+      "catalog_number": "8037",
+      "country": "Argentina",
+      "year": "1976",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5480871,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "3C 064 06249",
+      "country": "Italy",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6762103,
+      "title": "The Best Of George Harrison",
+      "label": "EMI-Odeon, S.A.",
+      "catalog_number": "10 C 064-06249",
+      "country": "Spain",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15459812,
+      "title": "The Best Of George Harrison",
+      "label": "Odeon",
+      "catalog_number": "1 C 064-06 249",
+      "country": "Europe",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4067614,
+      "title": "The Best Of George Harrison",
+      "label": "Parlophone",
+      "catalog_number": "2C 068-06249",
+      "country": "France",
+      "year": "1976",
+      "format": "LP, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4587759,
+      "title": "The Best Of George Harrison",
+      "label": "EMI",
+      "catalog_number": "SLEM-692",
+      "country": "Mexico",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5836929,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "ST-11578",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10348450,
+      "title": "Lo Mejor De George Harrison",
+      "label": "Emi",
+      "catalog_number": "SLPE 500675",
+      "country": "Uruguay",
+      "year": "1977",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4347948,
+      "title": "The Best Of George Harrison",
+      "label": "Capitol Records",
+      "catalog_number": "ST-11578",
+      "country": "US",
+      "year": "1977",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6713859,
+      "title": "The Best Of George Harrison",
+      "label": "Ifesa",
+      "catalog_number": "302-0068, S-49 20-OD-12",
+      "country": "Ecuador",
+      "year": "1977",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35129837,
+      "title": "Lo Mejor De George Harrison",
+      "label": "EMI",
+      "catalog_number": "19157",
+      "country": "Argentina",
+      "year": "1977",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22974863,
+      "title": "The Best Of George Harrison",
+      "label": "EMI",
+      "catalog_number": "7491",
+      "country": "Venezuela",
+      "year": "1977",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Colombia",
+    "Ecuador",
+    "Europe",
+    "France",
+    "Germany",
+    "Greece",
+    "India",
+    "Italy",
+    "Japan",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Peru",
+    "Philippines",
+    "Portugal",
+    "Scandinavia",
+    "Singapore",
+    "Spain",
+    "Sweden",
+    "UK",
+    "US",
+    "Uruguay",
+    "Venezuela"
+  ],
+  "years_range": {
+    "earliest": "1976",
+    "latest": "1977"
+  }
+}

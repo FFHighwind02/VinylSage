@@ -1,0 +1,188 @@
+{
+  "album": "Aja",
+  "artist": "Steely Dan",
+  "source": "discogs",
+  "master": {
+    "master_id": 14526,
+    "title": "Ντισκολάτα",
+    "year": 1993,
+    "artists": [
+      "Στέρεο Νόβα"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Freestyle",
+      "Leftfield",
+      "Electro",
+      "Downtempo"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Νέα Ζωή 705",
+        "duration": "4:59"
+      },
+      {
+        "position": "2",
+        "title": "Το Παζλ Στον Αέρα",
+        "duration": "3:59"
+      },
+      {
+        "position": "3",
+        "title": "Μικρό Αγόρι",
+        "duration": "3:31"
+      },
+      {
+        "position": "4",
+        "title": "Ένας Μεγάλος Κόσμος",
+        "duration": "5:02"
+      },
+      {
+        "position": "5",
+        "title": "Πλάβο Σρέντα",
+        "duration": "4:45"
+      },
+      {
+        "position": "6",
+        "title": "Ντισκολάτα",
+        "duration": "5:17"
+      },
+      {
+        "position": "7",
+        "title": "Το Κρεβάτι + Ο Σκύλος",
+        "duration": "5:19"
+      },
+      {
+        "position": "8",
+        "title": "Το Ταξίδι Της Φάλαινας",
+        "duration": "5:38"
+      },
+      {
+        "position": "9",
+        "title": "Ποπ Κατσαρίδα",
+        "duration": "5:11"
+      },
+      {
+        "position": "10",
+        "title": "Βόλτα Με Την Πιούζυ",
+        "duration": "4:49"
+      },
+      {
+        "position": "11",
+        "title": "6:00 π.μ.",
+        "duration": "2:32"
+      },
+      {
+        "position": "12",
+        "title": "Σόνικα Τριπ",
+        "duration": "6:10"
+      }
+    ],
+    "lowest_price": 11.02,
+    "num_for_sale": 26,
+    "main_release": 879348
+  },
+  "pressings": [
+    {
+      "release_id": 879348,
+      "title": "Ντισκολάτα",
+      "label": "Graffiti",
+      "catalog_number": "GRAFFITI 162",
+      "country": "Greece",
+      "year": "1993",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1168288,
+      "title": "Ντισκολάτα",
+      "label": "Graffiti",
+      "catalog_number": "GR 162, Graffiti 162",
+      "country": "Greece",
+      "year": "1993",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2946119,
+      "title": "Ντισκολάτα",
+      "label": "Graffiti",
+      "catalog_number": "GR 162, G.R.162",
+      "country": "Greece",
+      "year": "1993",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7022019,
+      "title": "Ντισκολάτα",
+      "label": "FM Records",
+      "catalog_number": "FM 162",
+      "country": "Greece",
+      "year": "2013",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29283844,
+      "title": "Ντισκολάτα",
+      "label": "Inner Ear",
+      "catalog_number": "INN246L, none",
+      "country": "Greece",
+      "year": "2023",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29283820,
+      "title": "Ντισκολάτα",
+      "label": "Inner Ear",
+      "catalog_number": "INN246L, none",
+      "country": "Greece",
+      "year": "2023",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21758500,
+      "title": "Ντισκολάτα",
+      "label": "Graffiti",
+      "catalog_number": "GRAFFITI 162",
+      "country": "Greece",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 7,
+  "countries": [
+    "Greece"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2023"
+  }
+}

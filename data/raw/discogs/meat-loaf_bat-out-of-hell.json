@@ -1,0 +1,137 @@
+{
+  "album": "Bat Out of Hell",
+  "artist": "Meat Loaf",
+  "source": "discogs",
+  "master": {
+    "master_id": 299646,
+    "title": "If You Really Want To",
+    "year": 1983,
+    "artists": [
+      "Meat Loaf"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "If You Really Want To",
+        "duration": "3:38"
+      },
+      {
+        "position": "B",
+        "title": "Keep Driving",
+        "duration": "3:30"
+      }
+    ],
+    "lowest_price": 1.14,
+    "num_for_sale": 108,
+    "main_release": 1510176
+  },
+  "pressings": [
+    {
+      "release_id": 4502667,
+      "title": "If You Really Want To (Alternative Version)",
+      "label": "Epic",
+      "catalog_number": "TA 3357",
+      "country": "UK",
+      "year": "1983",
+      "format": "12\", Single, Special Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2637666,
+      "title": "If You Really Want To",
+      "label": "Epic",
+      "catalog_number": "A 3357",
+      "country": "UK",
+      "year": "1983",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4707967,
+      "title": "If You Really Want To",
+      "label": "Epic",
+      "catalog_number": "EPC A-3357",
+      "country": "Spain",
+      "year": "1983",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1510176,
+      "title": "If You Really Want To",
+      "label": "Epic",
+      "catalog_number": "A-3357, EPCA 3357",
+      "country": "Europe",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2371418,
+      "title": "If You Really Want To (Alternative Version)",
+      "label": "Epic",
+      "catalog_number": "WA 3357",
+      "country": "UK",
+      "year": "1983",
+      "format": "12\", 45 RPM, Single, Picture Disc, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2907103,
+      "title": "If You Really Want To",
+      "label": "Epic",
+      "catalog_number": "A 3357",
+      "country": "UK",
+      "year": "1983",
+      "format": "7\", Single, Promo, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5267121,
+      "title": "If You Really Want To",
+      "label": "Epic",
+      "catalog_number": "EPC A 3357",
+      "country": "Spain",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single Sided, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 7,
+  "countries": [
+    "Europe",
+    "Spain",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1983",
+    "latest": "1983"
+  }
+}

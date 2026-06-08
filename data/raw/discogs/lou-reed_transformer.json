@@ -1,0 +1,444 @@
+{
+  "album": "Transformer",
+  "artist": "Lou Reed",
+  "source": "discogs",
+  "master": {
+    "master_id": 2435128,
+    "title": "Original Album Series",
+    "year": 2013,
+    "artists": [
+      "Lou Reed"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Garage Rock",
+      "Pop Rock",
+      "Rock & Roll",
+      "Punk",
+      "Art Rock",
+      "Glam",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "New York",
+        "duration": ""
+      },
+      {
+        "position": "1-1",
+        "title": "Romeo Had Juliette",
+        "duration": "3:10"
+      },
+      {
+        "position": "1-2",
+        "title": "Halloween Parade",
+        "duration": "3:33"
+      },
+      {
+        "position": "1-3",
+        "title": "Dirty Blvd.",
+        "duration": "3:29"
+      },
+      {
+        "position": "1-4",
+        "title": "Endless Cycle",
+        "duration": "4:03"
+      },
+      {
+        "position": "1-5",
+        "title": "There Is No Time",
+        "duration": "3:46"
+      },
+      {
+        "position": "1-6",
+        "title": "Last Great American Whale",
+        "duration": "3:42"
+      },
+      {
+        "position": "1-7",
+        "title": "Beginning Of A Great Adventure",
+        "duration": "4:57"
+      },
+      {
+        "position": "1-8",
+        "title": "Busload Of Faith",
+        "duration": "4:50"
+      },
+      {
+        "position": "1-9",
+        "title": "Sick Of You",
+        "duration": "3:26"
+      },
+      {
+        "position": "1-10",
+        "title": "Hold On",
+        "duration": "3:25"
+      },
+      {
+        "position": "1-11",
+        "title": "Good Evening Mr. Waldheim",
+        "duration": "4:37"
+      },
+      {
+        "position": "1-12",
+        "title": "Xmas In February",
+        "duration": "2:57"
+      },
+      {
+        "position": "1-13",
+        "title": "Strawman",
+        "duration": "5:54"
+      },
+      {
+        "position": "1-14",
+        "title": "Dime Store Mystery",
+        "duration": "5:04"
+      },
+      {
+        "position": "",
+        "title": "Songs For Drella",
+        "duration": ""
+      },
+      {
+        "position": "2-1",
+        "title": "Smalltown",
+        "duration": "2:04"
+      },
+      {
+        "position": "2-2",
+        "title": "Open House",
+        "duration": "4:17"
+      },
+      {
+        "position": "2-3",
+        "title": "Style It Takes",
+        "duration": "2:54"
+      },
+      {
+        "position": "2-4",
+        "title": "Work",
+        "duration": "2:37"
+      },
+      {
+        "position": "2-5",
+        "title": "Trouble With Classicists",
+        "duration": "3:41"
+      },
+      {
+        "position": "2-6",
+        "title": "Starlight",
+        "duration": "3:28"
+      },
+      {
+        "position": "2-7",
+        "title": "Faces And Names",
+        "duration": "4:12"
+      },
+      {
+        "position": "2-8",
+        "title": "Images",
+        "duration": "3:30"
+      },
+      {
+        "position": "2-9",
+        "title": "Slip Away (A Warning)",
+        "duration": "3:05"
+      },
+      {
+        "position": "2-10",
+        "title": "It Wasn't Me",
+        "duration": "3:30"
+      },
+      {
+        "position": "2-11",
+        "title": "I Believe",
+        "duration": "3:18"
+      },
+      {
+        "position": "2-12",
+        "title": "Nobody But You",
+        "duration": "3:46"
+      },
+      {
+        "position": "2-13",
+        "title": "A Dream",
+        "duration": "6:33"
+      },
+      {
+        "position": "2-14",
+        "title": "Forever Changed",
+        "duration": "4:52"
+      },
+      {
+        "position": "2-15",
+        "title": "Hello It's Me",
+        "duration": "3:04"
+      },
+      {
+        "position": "",
+        "title": "Magic And Loss",
+        "duration": ""
+      },
+      {
+        "position": "3-1",
+        "title": "Dorita (The Spirit)",
+        "duration": "1:07"
+      },
+      {
+        "position": "3-2",
+        "title": "What's Good (The Thesis)",
+        "duration": "3:22"
+      },
+      {
+        "position": "3-3",
+        "title": "Power And Glory (The Situation)",
+        "duration": "4:24"
+      },
+      {
+        "position": "3-4",
+        "title": "Magician (Internally)",
+        "duration": "6:23"
+      },
+      {
+        "position": "3-5",
+        "title": "Sword Of Damocles (Externally)",
+        "duration": "3:42"
+      },
+      {
+        "position": "3-6",
+        "title": "Goodby Mass (In A Chapel Bodily Termination)",
+        "duration": "4:26"
+      },
+      {
+        "position": "3-7",
+        "title": "Cremation (Ashes To Ashes)",
+        "duration": "2:54"
+      },
+      {
+        "position": "3-8",
+        "title": "Dreamin' (Escape)",
+        "duration": "5:10"
+      },
+      {
+        "position": "3-9",
+        "title": "No Chance (Regret)",
+        "duration": "3:15"
+      },
+      {
+        "position": "3-10",
+        "title": "Warrior King (Revenge)",
+        "duration": "4:27"
+      },
+      {
+        "position": "3-11",
+        "title": "Harry's Circumcision (Reverie Gone Astray)",
+        "duration": "5:29"
+      },
+      {
+        "position": "3-12",
+        "title": "Gassed And Stoked (Loss)",
+        "duration": "4:19"
+      },
+      {
+        "position": "3-13",
+        "title": "Power And Glory Part II (Magic - Transformation)",
+        "duration": "2:57"
+      },
+      {
+        "position": "3-14",
+        "title": "Magic And Loss (The Summation)",
+        "duration": "6:40"
+      },
+      {
+        "position": "",
+        "title": "Set The Twilight Reeling",
+        "duration": ""
+      },
+      {
+        "position": "4-1",
+        "title": "Egg Cream",
+        "duration": "5:18"
+      },
+      {
+        "position": "4-2",
+        "title": "NYC Man ",
+        "duration": "4:56"
+      },
+      {
+        "position": "4-3",
+        "title": "Finish Line",
+        "duration": "3:24"
+      },
+      {
+        "position": "4-4",
+        "title": "Trade In",
+        "duration": "4:59"
+      },
+      {
+        "position": "4-5",
+        "title": "Hang On To Your Emotions",
+        "duration": "3:46"
+      },
+      {
+        "position": "4-6",
+        "title": "Sex With Your Parents (Motherfucker) Part II",
+        "duration": "3:38"
+      },
+      {
+        "position": "4-7",
+        "title": "HookyWooky",
+        "duration": "4:19"
+      },
+      {
+        "position": "4-8",
+        "title": "The Proposition",
+        "duration": "3:27"
+      },
+      {
+        "position": "4-9",
+        "title": "Adventurer",
+        "duration": "4:18"
+      },
+      {
+        "position": "4-10",
+        "title": "Riptide",
+        "duration": "7:47"
+      },
+      {
+        "position": "4-11",
+        "title": "Set The Twilight Reeling",
+        "duration": "5:04"
+      },
+      {
+        "position": "",
+        "title": "Ecstasy",
+        "duration": ""
+      },
+      {
+        "position": "5-1",
+        "title": "Paranoia Key Of E",
+        "duration": "4:28"
+      },
+      {
+        "position": "5-2",
+        "title": "Mystic Child",
+        "duration": "5:02"
+      },
+      {
+        "position": "5-3",
+        "title": "Mad",
+        "duration": "4:29"
+      },
+      {
+        "position": "5-4",
+        "title": "Ecstasy",
+        "duration": "4:25"
+      },
+      {
+        "position": "5-5",
+        "title": "Modern Dance",
+        "duration": "4:10"
+      },
+      {
+        "position": "5-6",
+        "title": "Tatters",
+        "duration": "5:56"
+      },
+      {
+        "position": "5-7",
+        "title": "Future Farmers Of America",
+        "duration": "3:02"
+      },
+      {
+        "position": "5-8",
+        "title": "Turning Time Around",
+        "duration": "4:22"
+      },
+      {
+        "position": "5-9",
+        "title": "White Prism",
+        "duration": "4:00"
+      },
+      {
+        "position": "5-10",
+        "title": "Rock Minuet",
+        "duration": "6:57"
+      },
+      {
+        "position": "5-11",
+        "title": "Baton Rouge",
+        "duration": "4:55"
+      },
+      {
+        "position": "5-12",
+        "title": "Like A Possum",
+        "duration": "18:03"
+      },
+      {
+        "position": "5-13",
+        "title": "Rouge",
+        "duration": "1:01"
+      },
+      {
+        "position": "5-14",
+        "title": "Big Sky",
+        "duration": "6:33"
+      }
+    ],
+    "lowest_price": 6.88,
+    "num_for_sale": 57,
+    "main_release": 4586449
+  },
+  "pressings": [
+    {
+      "release_id": 4586449,
+      "title": "Original Album Series",
+      "label": "Rhino Records (2)",
+      "catalog_number": "8122-79744-7",
+      "country": "Europe",
+      "year": "2013",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21462223,
+      "title": "Original Album Series",
+      "label": "Rhino Records (2)",
+      "catalog_number": "8122-79744-7",
+      "country": "Europe",
+      "year": "2017",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31913296,
+      "title": "Original Album Series",
+      "label": "Sire",
+      "catalog_number": "8122-79744-7",
+      "country": "Europe",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Europe"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2017"
+  }
+}

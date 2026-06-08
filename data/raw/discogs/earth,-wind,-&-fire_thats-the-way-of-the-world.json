@@ -1,0 +1,85 @@
+{
+  "album": "That's the Way of the World",
+  "artist": "Earth, Wind, & Fire",
+  "source": "discogs",
+  "master": {
+    "master_id": 1829279,
+    "title": "Remix 2000",
+    "year": 1999,
+    "artists": [
+      "Earth, Wind & Fire",
+      "Earth, Wind & Fire"
+    ],
+    "genres": [
+      "Electronic",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Disco",
+      "Funk",
+      "Soul",
+      "House"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "September '99  (Radio Edit)",
+        "duration": "3:42"
+      },
+      {
+        "position": "2",
+        "title": "Let's Groove (Merchant Of Menace Remix)",
+        "duration": "3:45"
+      },
+      {
+        "position": "3",
+        "title": "Boogie Wonderland (Stretch & Vern Remix)",
+        "duration": "3:44"
+      },
+      {
+        "position": "",
+        "title": "Megamix (Radio Edit)",
+        "duration": "3:53"
+      }
+    ],
+    "lowest_price": 1.71,
+    "num_for_sale": 20,
+    "main_release": 4657029
+  },
+  "pressings": [
+    {
+      "release_id": 16120741,
+      "title": "Remix 2000",
+      "label": "SME Records",
+      "catalog_number": "SRCS 2157",
+      "country": "Japan",
+      "year": "1999",
+      "format": "Maxi-Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4657029,
+      "title": "Remix 2000",
+      "label": "SME Records",
+      "catalog_number": "SRCS 2157",
+      "country": "Japan",
+      "year": "1999",
+      "format": "Maxi-Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1999",
+    "latest": "1999"
+  }
+}

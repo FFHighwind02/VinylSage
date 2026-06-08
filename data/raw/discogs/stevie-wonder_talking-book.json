@@ -1,0 +1,526 @@
+{
+  "album": "Talking Book",
+  "artist": "Stevie Wonder",
+  "source": "discogs",
+  "master": {
+    "master_id": 183102,
+    "title": "Sunshine Of My Life = Солнце Моей Жизни",
+    "year": 1988,
+    "artists": [
+      "Stevie Wonder",
+      "Stevie Wonder"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Jazz-Funk",
+      "Soul",
+      "Funk"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Место Под Солнцем = A Place In The Sun",
+        "duration": "2:48"
+      },
+      {
+        "position": "A2",
+        "title": "Я Не Понимаю = I'm Wondering",
+        "duration": "2:53"
+      },
+      {
+        "position": "A3",
+        "title": "Я Был Создан, Чтобы Любить Ее = I Was Made To Love Her",
+        "duration": "2:35"
+      },
+      {
+        "position": "A4",
+        "title": "Моя Дорогая Возлюбленная = My Cherie Amour",
+        "duration": "2:50"
+      },
+      {
+        "position": "A5",
+        "title": "Не Знаю, Почему Я тебя Люблю = Don't Know Why I Love You",
+        "duration": "2:45"
+      },
+      {
+        "position": "A6",
+        "title": "Мои Сны Никогда Не Сбываются = Never Had A Dream Come True",
+        "duration": "3:11"
+      },
+      {
+        "position": "B1",
+        "title": "Я - Твой = Signed, Sealed, Delivered I'm Yours",
+        "duration": "2:39"
+      },
+      {
+        "position": "B2",
+        "title": "Я Никогда Не Думал, Что Ты Уйдешь Летом = Never Dreamed You'd Leave In Summer",
+        "duration": "2:54"
+      },
+      {
+        "position": "B3",
+        "title": "Если Ты Действительно Меня Любишь = If You Really Love Me",
+        "duration": "2:56"
+      },
+      {
+        "position": "B4",
+        "title": "Пока Ты Не Вернешься Ко Мне = Until You Come Back To Me",
+        "duration": "2:59"
+      },
+      {
+        "position": "B5",
+        "title": "Суеверие = Superstition",
+        "duration": "4:10"
+      },
+      {
+        "position": "B6",
+        "title": "Ты - Солнце Моей Жизни = You Are The Sunshine Of My Life",
+        "duration": "2:50"
+      }
+    ],
+    "lowest_price": 1.0,
+    "num_for_sale": 65,
+    "main_release": 405438
+  },
+  "pressings": [
+    {
+      "release_id": 2035253,
+      "title": "Sunshine Of My Life = Солнце Моей Жизни",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6450271,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20809078,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15010905,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6000548,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13692036,
+      "title": "Sunshine Of My Life ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1941812,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2983818,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8532786,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15636409,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18543430,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6540397,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3875400,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11728221,
+      "title": "Sunshine Of My Life ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16635423,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24686972,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18876229,
+      "title": "Sunshine Of My Life ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 405438,
+      "title": "Sunshine Of My Life = Солнце Моей Жизни",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5727928,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16635516,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16022071,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14456889,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11790572,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13935004,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35673070,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21707983,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5477190,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13556191,
+      "title": "Sunshine Of My Life = Солнце Моей Жизни",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6345644,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5477179,
+      "title": "Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12856203,
+      "title": "Солнце Моей Жизни = Sunshine Of My Life",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7977453,
+      "title": "Солнце Моей Жизни",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18829213,
+      "title": "Солнце Моей Жизни",
+      "label": "Мелодия",
+      "catalog_number": "С60 26825 009",
+      "country": "USSR",
+      "year": "0",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 33,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1991"
+  }
+}

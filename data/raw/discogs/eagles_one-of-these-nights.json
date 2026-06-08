@@ -1,0 +1,230 @@
+{
+  "album": "One of These Nights",
+  "artist": "Eagles",
+  "source": "discogs",
+  "master": {
+    "master_id": 18118,
+    "title": "Red Line Highway",
+    "year": 2004,
+    "artists": [
+      "Scott Bond",
+      "Solarstone"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Trance",
+      "Progressive Trance"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Red Line Highway (Original Mix)",
+        "duration": "11:55"
+      },
+      {
+        "position": "B",
+        "title": "Red Line Highway (Alucard's Route 44 Mix)",
+        "duration": "11:37"
+      }
+    ],
+    "lowest_price": 8.9,
+    "num_for_sale": 11,
+    "main_release": 340991
+  },
+  "pressings": [
+    {
+      "release_id": 340991,
+      "title": "Red Line Highway",
+      "label": "Made In England",
+      "catalog_number": "MIE04",
+      "country": "UK",
+      "year": "2004",
+      "format": "12\", 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1773543,
+      "title": "Red Line Highway",
+      "label": "Made In England",
+      "catalog_number": "MIE 04",
+      "country": "UK",
+      "year": "2004",
+      "format": "12\", White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 347348,
+      "title": "Red Line Highway",
+      "label": "Made In England",
+      "catalog_number": "MIE04CD",
+      "country": "UK",
+      "year": "2004",
+      "format": "Single",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5238673,
+      "title": "Red Line Highway",
+      "label": "Made In England",
+      "catalog_number": "MIE CD 04",
+      "country": "UK",
+      "year": "2005",
+      "format": "MP3",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 438784,
+      "title": "Red Line Highway (Remixes)",
+      "label": "Made In England",
+      "catalog_number": "MIE04R",
+      "country": "UK",
+      "year": "2005",
+      "format": "12\", 33 ⅓ RPM, 45 RPM, Promo, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 471332,
+      "title": "Red Line Highway",
+      "label": "Made In England",
+      "catalog_number": "MIECD04",
+      "country": "UK",
+      "year": "2005",
+      "format": "Single",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3070407,
+      "title": "Red Line Highway (Remixes Disc 1)",
+      "label": "Not On Label (Solarstone Self-released)",
+      "catalog_number": "SOLARCDRLH1",
+      "country": "UK",
+      "year": "2010",
+      "format": "Limited Edition",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3745257,
+      "title": "Red Line Highway",
+      "label": "Armada Digital",
+      "catalog_number": "ARDI3081",
+      "country": "Netherlands",
+      "year": "2012",
+      "format": "MP3",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32791434,
+      "title": "Red Line Highway",
+      "label": "Armada Digital",
+      "catalog_number": "ARDI3081",
+      "country": "Netherlands",
+      "year": "2012",
+      "format": "WAV",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11441046,
+      "title": "Red Line Highway",
+      "label": "Armada Digital",
+      "catalog_number": "ARDI3938B, ARDI 3938B",
+      "country": "Netherlands",
+      "year": "2018",
+      "format": "WAV",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13748107,
+      "title": "Red Line Highway",
+      "label": "Not On Label (Solarstone Self-released)",
+      "catalog_number": "RDI3938",
+      "country": "Europe",
+      "year": "2018",
+      "format": "",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11440737,
+      "title": "Red Line Highway",
+      "label": "Armada Digital",
+      "catalog_number": "ARDI3938",
+      "country": "Netherlands",
+      "year": "2018",
+      "format": "MP3",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11440761,
+      "title": "Red Line Highway",
+      "label": "Armada Digital",
+      "catalog_number": "ARDI3938",
+      "country": "Netherlands",
+      "year": "2018",
+      "format": "WAV",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11441028,
+      "title": "Red Line Highway",
+      "label": "Armada Digital",
+      "catalog_number": "ARDI3938B, ARDI 3938B",
+      "country": "Netherlands",
+      "year": "2018",
+      "format": "MP3",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 14,
+  "countries": [
+    "Europe",
+    "Netherlands",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "2004",
+    "latest": "2018"
+  }
+}

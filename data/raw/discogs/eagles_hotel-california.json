@@ -1,0 +1,754 @@
+{
+  "album": "Hotel California",
+  "artist": "Eagles",
+  "source": "discogs",
+  "master": {
+    "master_id": 59277,
+    "title": "Desperado",
+    "year": 1973,
+    "artists": [
+      "Eagles"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Country Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Doolin-Dalton",
+        "duration": "3:26"
+      },
+      {
+        "position": "A2",
+        "title": "Twenty-One",
+        "duration": "2:11"
+      },
+      {
+        "position": "A3",
+        "title": "Out Of Control",
+        "duration": "3:04"
+      },
+      {
+        "position": "A4",
+        "title": "Tequila Sunrise",
+        "duration": "2:52"
+      },
+      {
+        "position": "A5",
+        "title": "Desperado",
+        "duration": "3:33"
+      },
+      {
+        "position": "B1",
+        "title": "Certain Kind Of Fool",
+        "duration": "3:02"
+      },
+      {
+        "position": "B2",
+        "title": "Doolin-Dalton (Instrumental)",
+        "duration": "0:48"
+      },
+      {
+        "position": "B3",
+        "title": "Outlaw Man",
+        "duration": "3:34"
+      },
+      {
+        "position": "B4",
+        "title": "Saturday Night",
+        "duration": "3:20"
+      },
+      {
+        "position": "B5",
+        "title": "Bitter Creek",
+        "duration": "5:00"
+      },
+      {
+        "position": "B6",
+        "title": "Doolin-Dalton / Desperado (Reprise)",
+        "duration": "4:50"
+      }
+    ],
+    "lowest_price": 0.82,
+    "num_for_sale": 1834,
+    "main_release": 2398669
+  },
+  "pressings": [
+    {
+      "release_id": 5390450,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11524870,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SYL 9011",
+      "country": "New Zealand",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33648783,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "5C 062-94 386",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13178211,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SLEM-474",
+      "country": "Mexico",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33362948,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "TP-5068",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33362033,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "TP-5068",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7295658,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "LAYJ 506",
+      "country": "South Africa",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36781903,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13679026,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "2C 064-94.386",
+      "country": "France",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8596075,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SYL-9011, SYL.9011",
+      "country": "Australia",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4298059,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "1J 062-94.386",
+      "country": "Spain",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21506641,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "5C 062-94 386",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Album, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11881554,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1578120,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "2C 064 94386",
+      "country": "France",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3046645,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "5C 062-94386, 5C 062-94 386",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4816697,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "5C 062-94 386",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3120746,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "1C 062-94386, 1C062-94 386, 1 C062-94386",
+      "country": "Germany",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6084391,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "TP-5068",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29383744,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SYL 9011, 0C 062 ○ 94386",
+      "country": "UK",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12717999,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "1C 062-94 386",
+      "country": "Germany",
+      "year": "1973",
+      "format": "LP, Album, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2613456,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "IAP-80812",
+      "country": "Japan",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22723046,
+      "title": "Desperado",
+      "label": "耕韻",
+      "catalog_number": "PM-A-26",
+      "country": "Taiwan",
+      "year": "1973",
+      "format": "LP, Album, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1543115,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2590947,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "IAP-80812",
+      "country": "Japan",
+      "year": "1973",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10416911,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "M5E 5068",
+      "country": "Australia",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1591729,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "3C 064 - 94386, 3 C064-94386",
+      "country": "Italy",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12420588,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "5068",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Promo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21018103,
+      "title": "Desperado",
+      "label": "Giant (5)",
+      "catalog_number": "TD-1242",
+      "country": "Taiwan",
+      "year": "1973",
+      "format": "LP, Album, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6800188,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7851139,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15516006,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "TP-5068",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23590436,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "3C 244 94386, 3C 244-94386",
+      "country": "Italy",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34389745,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "CS 5068, CS-5068",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Club Edition, Reissue",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2398669,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4324245,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SYL 9011, 0C 062 ◦ 94386",
+      "country": "UK",
+      "year": "1973",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22927211,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "AS 53008",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6784533,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "ASM CS 5068",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12094281,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SYL.9011, SYL-9011",
+      "country": "Australia",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11659608,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "TC-SYL 9011, 0C 244 ০ 94386",
+      "country": "UK",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5455029,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1380270,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "ASY 53008",
+      "country": "Portugal",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35530027,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "Philippines",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9560234,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11688898,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "K 53008, SD5068",
+      "country": "Italy",
+      "year": "1974",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11192076,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SYL 9011, 0C 062 ◦ 94386",
+      "country": "UK",
+      "year": "1974",
+      "format": "LP, Album, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16376973,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "AS 53 008, SD 5068",
+      "country": "Germany",
+      "year": "1974",
+      "format": "LP, Album, Promo, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31427255,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "453 008-X, SD 5068, AS 453 008-X",
+      "country": "Germany",
+      "year": "1974",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10886895,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5079421,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29390536,
+      "title": "Desperado",
+      "label": "Asylum Records",
+      "catalog_number": "SD 5068",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "Canada",
+    "France",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Philippines",
+    "Portugal",
+    "South Africa",
+    "Spain",
+    "Taiwan",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1973",
+    "latest": "1974"
+  }
+}

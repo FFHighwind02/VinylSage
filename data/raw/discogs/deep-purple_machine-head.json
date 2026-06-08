@@ -1,0 +1,98 @@
+{
+  "album": "Machine Head",
+  "artist": "Deep Purple",
+  "source": "discogs",
+  "master": {
+    "master_id": 848954,
+    "title": "嵐の女 = Lady Double Dealer",
+    "year": 1974,
+    "artists": [
+      "Deep Purple",
+      "Deep Purple"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Heavy Metal"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "嵐の女 = Lady Double Dealer",
+        "duration": "3:19"
+      },
+      {
+        "position": "B",
+        "title": "ユー・キャント・ドゥ・イット・ライト = You Can't Do It Right (With The One You Love)",
+        "duration": "3:24"
+      }
+    ],
+    "lowest_price": 4.79,
+    "num_for_sale": 51,
+    "main_release": 7130734
+  },
+  "pressings": [
+    {
+      "release_id": 7130734,
+      "title": "嵐の女 = Lady Double Dealer",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-1353W",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8298931,
+      "title": "Lady Double Dealer",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-1353W",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3687871,
+      "title": "Lady Double Dealer",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-143W",
+      "country": "Japan",
+      "year": "1976",
+      "format": "7\", 45 RPM, Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8728479,
+      "title": "Lady Double Dealer",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WPCR-1591",
+      "country": "Japan",
+      "year": "1998",
+      "format": "Single, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1974",
+    "latest": "1998"
+  }
+}

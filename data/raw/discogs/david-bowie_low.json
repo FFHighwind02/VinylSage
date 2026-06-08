@@ -1,0 +1,369 @@
+{
+  "album": "Low",
+  "artist": "David Bowie",
+  "source": "discogs",
+  "master": {
+    "master_id": 183818,
+    "title": "Человек Со Звезд = Starman",
+    "year": 1990,
+    "artists": [
+      "David Bowie",
+      "David Bowie"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Странное Космическое Путешествие = Space Oddity",
+        "duration": "5:13"
+      },
+      {
+        "position": "A2",
+        "title": "Я Хорошая Женщина = God Knows I'm Good",
+        "duration": "3:16"
+      },
+      {
+        "position": "A3",
+        "title": "Все Эти Безумцы = All The Madmen",
+        "duration": "5:38"
+      },
+      {
+        "position": "A4",
+        "title": "Черная Скала = Black Country Rock",
+        "duration": "3:33"
+      },
+      {
+        "position": "B1",
+        "title": "Пять Лет = Five Years / Возвышенная Любовь = Soul Love / Сон Наяву В Лунный Век = Moonage Daydream",
+        "duration": "12:51"
+      },
+      {
+        "position": "B2",
+        "title": "Человек Со Звезд = Starman",
+        "duration": "4:14"
+      },
+      {
+        "position": "B3",
+        "title": "Леди «Звездная Пыль» = Lady Stardust",
+        "duration": "3:18"
+      }
+    ],
+    "lowest_price": 6.01,
+    "num_for_sale": 21,
+    "main_release": 1944775
+  },
+  "pressings": [
+    {
+      "release_id": 7559878,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6331259,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "С60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5038409,
+      "title": "Starman = Человек Со Звезд",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10580783,
+      "title": "Starman = Человек Со Звезд",
+      "label": "Мелодия",
+      "catalog_number": "С60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8651041,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9302658,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8312905,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6548389,
+      "title": "Starman = Человек Со Звезд",
+      "label": "Мелодия",
+      "catalog_number": "С60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6636350,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3414114,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4545285,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6972236,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2386057,
+      "title": "Starman = Человек Со Звёзд",
+      "label": "Мелодия",
+      "catalog_number": "С60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15191501,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5221478,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16778841,
+      "title": "Starman ",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1944775,
+      "title": "Человек Со Звезд = Starman",
+      "label": "Мелодия",
+      "catalog_number": "С60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1049294,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16072080,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15213727,
+      "title": "Starman = Человек Со Звезд",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6506484,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11269640,
+      "title": "Starman = Человек Со Звезд",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4545302,
+      "title": "Starman",
+      "label": "Мелодия",
+      "catalog_number": "C60 26469 001",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 23,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "1990",
+    "latest": "1990"
+  }
+}

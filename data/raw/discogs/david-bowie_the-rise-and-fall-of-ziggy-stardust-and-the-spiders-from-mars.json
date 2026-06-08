@@ -1,0 +1,72 @@
+{
+  "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+  "artist": "David Bowie",
+  "source": "discogs",
+  "master": {
+    "master_id": 1551330,
+    "title": "Soul Love = ソウル・ラブ / Blackout = ブラックアウト",
+    "year": 1978,
+    "artists": [
+      "David Bowie",
+      "David Bowie"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Glam",
+      "Art Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Soul Love = ソウル・ラブ",
+        "duration": "2:55"
+      },
+      {
+        "position": "B",
+        "title": "Blackout = ブラックアウト",
+        "duration": "4:02"
+      }
+    ],
+    "lowest_price": 28.0,
+    "num_for_sale": 13,
+    "main_release": 1506679
+  },
+  "pressings": [
+    {
+      "release_id": 1506679,
+      "title": "Soul Love = ソウル・ラブ / Blackout = ブラックアウト",
+      "label": "RCA",
+      "catalog_number": "SS-3166",
+      "country": "Japan",
+      "year": "1978",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13649266,
+      "title": "Soul Love = ソウル・ラブ / Blackout = ブラックアウト",
+      "label": "RCA",
+      "catalog_number": "SS-3166",
+      "country": "Japan",
+      "year": "1978",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1978",
+    "latest": "1978"
+  }
+}

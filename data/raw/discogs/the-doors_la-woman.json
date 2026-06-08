@@ -1,0 +1,492 @@
+{
+  "album": "L.A. Woman",
+  "artist": "The Doors",
+  "source": "discogs",
+  "master": {
+    "master_id": 264329,
+    "title": "Light My Fire = Зажги Во Мне Огонь",
+    "year": 1988,
+    "artists": [
+      "The Doors",
+      "The Doors"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Psychedelic Rock",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Зажги Во Мне Огонь = Light My Fire",
+        "duration": "6:50"
+      },
+      {
+        "position": "A2",
+        "title": "В Ожидании Солнца = Waiting For The Sun",
+        "duration": "3:58"
+      },
+      {
+        "position": "A3",
+        "title": "Ты Вдыхаешь В Меня Жизнь = You Make Me Real",
+        "duration": "2:50"
+      },
+      {
+        "position": "A4",
+        "title": "Блюз Придорожной Закусочной = Roadhouse Blues",
+        "duration": "4:04"
+      },
+      {
+        "position": "A5",
+        "title": "Ты Любишь Ее Безумно = Love Her Madly",
+        "duration": "3:18"
+      },
+      {
+        "position": "B1",
+        "title": "Грустное Воскресенье = Blue Sunday",
+        "duration": "2:08"
+      },
+      {
+        "position": "B2",
+        "title": "Мчащиеся В Грозу = Riders On The Storm",
+        "duration": "7:14"
+      },
+      {
+        "position": "B3",
+        "title": "Конец = The End",
+        "duration": "11:35"
+      }
+    ],
+    "lowest_price": 0.5,
+    "num_for_sale": 63,
+    "main_release": 6781484
+  },
+  "pressings": [
+    {
+      "release_id": 4384722,
+      "title": "Зажги Во Мне Огонь = Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27956478,
+      "title": "Зажги Во Мне Огонь = Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "C60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 662782,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2375881,
+      "title": "Зажги Во Мне Огонь = Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26334593,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6988215,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11527892,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "C60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4617288,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14257878,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6711430,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15371151,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9118983,
+      "title": "Light My Fire (Зажги Во Мне Огонь)",
+      "label": "Мелодия",
+      "catalog_number": "C60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15153914,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "C60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6781484,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14543714,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8822450,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11081960,
+      "title": "Зажги Во Мне Огонь = Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4978496,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8081552,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34518559,
+      "title": "Зажги Во Мне Огонь = Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5356553,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15966139,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13392840,
+      "title": "Light My Fire ",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007 ",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8412693,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8581044,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5858702,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26463662,
+      "title": "Light My Fire = Зажги Во Мне Огонь",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6260752,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19445167,
+      "title": "Зажги Во Мне Огонь = Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Unofficial Release, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32181195,
+      "title": "Light My Fire ",
+      "label": "Мелодия",
+      "catalog_number": "C60 26467",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3839098,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Unofficial Release, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17248414,
+      "title": "Light My Fire",
+      "label": "Мелодия",
+      "catalog_number": "С60 26467 007",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 32,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "1988",
+    "latest": "1991"
+  }
+}

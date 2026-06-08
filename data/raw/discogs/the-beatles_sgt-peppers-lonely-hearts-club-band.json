@@ -1,0 +1,768 @@
+{
+  "album": "Sgt. Pepper's Lonely Hearts Club Band",
+  "artist": "The Beatles",
+  "source": "discogs",
+  "master": {
+    "master_id": 23934,
+    "title": "Sgt. Pepper's Lonely Hearts Club Band",
+    "year": 1967,
+    "artists": [
+      "The Beatles"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Rock & Roll",
+      "Psychedelic Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Sgt. Pepper's Lonely Hearts Club Band",
+        "duration": "2:02"
+      },
+      {
+        "position": "A2",
+        "title": "With A Little Help From My Friends",
+        "duration": "2:44"
+      },
+      {
+        "position": "A3",
+        "title": "Lucy In The Sky With Diamonds",
+        "duration": "3:28"
+      },
+      {
+        "position": "A4",
+        "title": "Getting Better",
+        "duration": "2:47"
+      },
+      {
+        "position": "A5",
+        "title": "Fixing A Hole",
+        "duration": "2:37"
+      },
+      {
+        "position": "A6",
+        "title": "She's Leaving Home",
+        "duration": "3:23"
+      },
+      {
+        "position": "A7",
+        "title": "Being For The Benefit Of Mr. Kite !",
+        "duration": "2:35"
+      },
+      {
+        "position": "B1",
+        "title": "Within You Without You",
+        "duration": "5:06"
+      },
+      {
+        "position": "B2",
+        "title": "When I'm Sixty-Four",
+        "duration": "2:38"
+      },
+      {
+        "position": "B3",
+        "title": "Lovely Rita",
+        "duration": "2:44"
+      },
+      {
+        "position": "B4",
+        "title": "Good Morning Good Morning",
+        "duration": "2:36"
+      },
+      {
+        "position": "B5",
+        "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)",
+        "duration": "1:19"
+      },
+      {
+        "position": "B6",
+        "title": "A Day In The Life",
+        "duration": "5:02"
+      }
+    ],
+    "lowest_price": 0.78,
+    "num_for_sale": 9145,
+    "main_release": 499497
+  },
+  "pressings": [
+    {
+      "release_id": 8991748,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "SMAS 2653",
+      "country": "US",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13890482,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6683079,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "SMAS 2653, SMAS-2653, 2653",
+      "country": "US",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4454129,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "Netherlands",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3894275,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMCO-7027",
+      "country": "Australia",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15396167,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5366785,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "MOFL 9000",
+      "country": "Spain",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4113076,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "France",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20762236,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "France",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5031222,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "TA-PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "3 ¾ ips, Album, Mono",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7674900,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "Israel",
+      "year": "1967",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5131448,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "8006",
+      "country": "Venezuela",
+      "year": "1967",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6759509,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon Del Peru",
+      "catalog_number": "PCS 7027",
+      "country": "Peru",
+      "year": "1967",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35361967,
+      "title": "Sgt Pepper's Lonely Hearts Club Band ",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35696662,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "TC-PCS 7027, 244-04177",
+      "country": "Sweden",
+      "year": "1967",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36681847,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "MAS-2653",
+      "country": "US",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4751661,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "SMAS-2653",
+      "country": "Canada",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3036239,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "BTX 1004",
+      "country": "Brazil",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6456531,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "SMAS 2653",
+      "country": "US",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10895904,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "Netherlands",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14476203,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16279065,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "SBTX-1004",
+      "country": "Brazil",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12100643,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "LDC - 36623",
+      "country": "Chile",
+      "year": "1967",
+      "format": "LP, Mono, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23719235,
+      "title": "Sgt Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "Netherlands",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3799695,
+      "title": "Sgt: Peppers Lonely Hearts Club Band",
+      "label": "Bell Song Record",
+      "catalog_number": "SWL-1123",
+      "country": "Taiwan",
+      "year": "1967",
+      "format": "LP, Album, Stereo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23719235,
+      "title": "Sgt Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "Netherlands",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3799695,
+      "title": "Sgt: Peppers Lonely Hearts Club Band",
+      "label": "Bell Song Record",
+      "catalog_number": "SWL-1123",
+      "country": "Taiwan",
+      "year": "1967",
+      "format": "LP, Album, Stereo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19498567,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "MOFL 9000, MOFL 9.000",
+      "country": "Spain",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28793134,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "MOFL 9000, MOFL 9.000",
+      "country": "Spain",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33141900,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "Netherlands",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35812474,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophon",
+      "catalog_number": "PMCQ 31512",
+      "country": "Italy",
+      "year": "1967",
+      "format": "LP, Mono, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33285591,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "MOFL 9.000",
+      "country": "Spain",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4180609,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "SMAS 2653, SMAS-2653, 2653",
+      "country": "US",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3246248,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "MAS-2653",
+      "country": "Canada",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6125011,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "PCS 7027 S",
+      "country": "France",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7076167,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15403163,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12202387,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "BTX 1004",
+      "country": "Brazil",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9258109,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "India",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4128676,
+      "title": "Sgt: Peppep's Loney Hearts Club Band",
+      "label": "Leico Record",
+      "catalog_number": "PLS-3161",
+      "country": "Taiwan",
+      "year": "1967",
+      "format": "LP, Album, Stereo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14636583,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Odeon",
+      "catalog_number": "MOFL 9.000",
+      "country": "Spain",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29312917,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4156823,
+      "title": "The Golden Hits By Beatls 67'",
+      "label": "Large World",
+      "catalog_number": "LW-299",
+      "country": "Taiwan",
+      "year": "1967",
+      "format": "LP, Album, Stereo, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33398891,
+      "title": "Sgt. Pepper's Lonely Hearts Club",
+      "label": "Odeon",
+      "catalog_number": "BTX 1004",
+      "country": "Brazil",
+      "year": "1967",
+      "format": "LP, Album, Misprint, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34968998,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35242261,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "TC-PCSM 7027",
+      "country": "New Zealand",
+      "year": "1967",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 499497,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5177950,
+      "title": "Sgt. Peppers Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PMC 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8571222,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Parlophone",
+      "catalog_number": "PCS 7027",
+      "country": "UK",
+      "year": "1967",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6032114,
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "label": "Capitol Records",
+      "catalog_number": "MAS 2653, MAS-2653",
+      "country": "US",
+      "year": "1967",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Chile",
+    "France",
+    "India",
+    "Israel",
+    "Italy",
+    "Netherlands",
+    "New Zealand",
+    "Peru",
+    "Spain",
+    "Sweden",
+    "Taiwan",
+    "UK",
+    "US",
+    "Venezuela"
+  ],
+  "years_range": {
+    "earliest": "1967",
+    "latest": "1967"
+  }
+}

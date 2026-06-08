@@ -1,0 +1,559 @@
+{
+  "album": "Cosmo's Factory",
+  "artist": "Creedence Clearwater Revival",
+  "source": "discogs",
+  "master": {
+    "master_id": 259699,
+    "title": "Traveling Band = Бродячий Оркестр",
+    "year": 1988,
+    "artists": [
+      "Creedence Clearwater Revival",
+      "Creedence Clearwater Revival"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock",
+      "Country Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Down On The Corner = На Углу",
+        "duration": "2:43"
+      },
+      {
+        "position": "A2",
+        "title": "Cotton Fields = Хлопковые Поля",
+        "duration": "2:53"
+      },
+      {
+        "position": "A3",
+        "title": "Fortunate Son = Счастливый Наследник",
+        "duration": "2:17"
+      },
+      {
+        "position": "A4",
+        "title": "Who'll Stop The Rain = Кто Остановит Дождь",
+        "duration": "2:27"
+      },
+      {
+        "position": "A5",
+        "title": "Up Around The Bend = За Поворотом",
+        "duration": "2:40"
+      },
+      {
+        "position": "A6",
+        "title": "My Baby Left Me = Моя Возлюбленная Меня Бросила",
+        "duration": "2:17"
+      },
+      {
+        "position": "A7",
+        "title": "As Long As I Can See The Light = Пока Я Вижу Свет",
+        "duration": "3:32"
+      },
+      {
+        "position": "B1",
+        "title": "Traveling Band = Бродячий Оркестр",
+        "duration": "2:06"
+      },
+      {
+        "position": "B2",
+        "title": "Looking Out My Back Door = Выглянув За Дверь",
+        "duration": "2:30"
+      },
+      {
+        "position": "B3",
+        "title": "Run Through The Jungle = Беги Через Джунгли",
+        "duration": "3:04"
+      },
+      {
+        "position": "B4",
+        "title": "I Heard It Through The Grapevine = До Меня Дошли Слухи",
+        "duration": "11:03"
+      }
+    ],
+    "lowest_price": 1.0,
+    "num_for_sale": 128,
+    "main_release": 7257026
+  },
+  "pressings": [
+    {
+      "release_id": 5851682,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26334032,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2347189,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18656647,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2376321,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4031809,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8126961,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5729264,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15453443,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33574983,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14606805,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8241591,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17401177,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11038297,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8373864,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36353422,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "C60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21072721,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19134832,
+      "title": "Бродячий Оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14115226,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26647778,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27284304,
+      "title": "Бродячий оркестр = Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7257026,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6544376,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3119156,
+      "title": "Travelling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 663430,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20539834,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10211300,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10854665,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10131288,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16224199,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4031821,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4845804,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24809336,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10295769,
+      "title": "Traveling Band = Бродячий Оркестр",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6001122,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5851488,
+      "title": "Traveling Band",
+      "label": "Мелодия",
+      "catalog_number": "С60 27093 009",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 36,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "1988",
+    "latest": "1990"
+  }
+}

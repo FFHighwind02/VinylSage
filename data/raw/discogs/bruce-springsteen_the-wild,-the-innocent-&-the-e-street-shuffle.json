@@ -1,0 +1,95 @@
+{
+  "album": "The Wild, the Innocent & the E Street Shuffle",
+  "artist": "Bruce Springsteen",
+  "source": "discogs",
+  "master": {
+    "master_id": 853732,
+    "title": "Columbia Records Radio Hour",
+    "year": 1995,
+    "artists": [
+      "Bruce Springsteen"
+    ],
+    "genres": [
+      "Rock",
+      "Non-Music",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Acoustic",
+      "Folk Rock",
+      "Interview"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "A Conversation With Bruce Springsteen",
+        "duration": ""
+      },
+      {
+        "position": "",
+        "title": "Live & Acoustic From The Tower Theatre In Philadelphia",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "The Ghost Of Tom Joad",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Straight Time",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Darkness On The Edge Of Town",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Born In The U.S.A.",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Youngstown",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "title": "Sinaloa Cowboys",
+        "duration": ""
+      },
+      {
+        "position": "B7",
+        "title": "Balboa Park",
+        "duration": ""
+      },
+      {
+        "position": "B8",
+        "title": "Does This Bus Stop At 82nd Street?",
+        "duration": ""
+      },
+      {
+        "position": "B9",
+        "title": "This Hard Land",
+        "duration": ""
+      },
+      {
+        "position": "B10",
+        "title": "Streets Of Philadelphia",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 16.0,
+    "num_for_sale": 21,
+    "main_release": 7751968
+  },
+  "pressings": [],
+  "pressing_count": 0,
+  "countries": [],
+  "years_range": {
+    "earliest": null,
+    "latest": null
+  }
+}

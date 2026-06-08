@@ -1,0 +1,73 @@
+{
+  "album": "Saturday Night Fever Soundtrack",
+  "artist": "The Bee Gees",
+  "source": "discogs",
+  "master": {
+    "master_id": 1885395,
+    "title": "It Ain't No Big Thing / More Than A Woman",
+    "year": 0,
+    "artists": [
+      "The Radiants",
+      "Bee Gees"
+    ],
+    "genres": [
+      "Funk / Soul",
+      "Pop"
+    ],
+    "styles": [
+      "Soul",
+      "Vocal"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "It Ain't No Big Thing",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "More Than A Woman",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 2.55,
+    "num_for_sale": 4,
+    "main_release": 16035653
+  },
+  "pressings": [
+    {
+      "release_id": 13461792,
+      "title": "It Ain’t No Big Thing / More Than A Woman ",
+      "label": "Chief (5)",
+      "catalog_number": "3000",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16035653,
+      "title": "It Ain't No Big Thing / More Than A Woman",
+      "label": "Good Old Gold",
+      "catalog_number": "C 3000",
+      "country": "",
+      "year": "0",
+      "format": "7\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "0"
+  }
+}

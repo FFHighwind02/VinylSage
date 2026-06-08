@@ -1,0 +1,142 @@
+{
+  "album": "Trans-Europe Express",
+  "artist": "Kraftwerk",
+  "source": "discogs",
+  "master": {
+    "master_id": 409576,
+    "title": "Schöne Neue Welt - Re-Mix, Re-Model",
+    "year": 0,
+    "artists": [
+      "Kraftwerk"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Electro"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Electric Cafe (Mixx-It-Remix)",
+        "duration": "5:04"
+      },
+      {
+        "position": "2",
+        "title": "Die Roboter (US-Rap-Mix)",
+        "duration": "5:33"
+      },
+      {
+        "position": "3",
+        "title": "Sex Objekt (Demo Mix)",
+        "duration": "4:17"
+      },
+      {
+        "position": "4",
+        "title": "Computerwelt (US-DJ-Promo-Mix By Razormaid)",
+        "duration": "10:00"
+      },
+      {
+        "position": "5",
+        "title": "Powerwork Megamix",
+        "duration": "9:09"
+      },
+      {
+        "position": "6",
+        "title": "Telephone-Mix",
+        "duration": "10:00"
+      },
+      {
+        "position": "7",
+        "title": "Re-Worked (Music Factory Mastermix)",
+        "duration": "4:40"
+      },
+      {
+        "position": "8",
+        "title": "Razormaid / Gridlock Mixmedley",
+        "duration": "13:24"
+      },
+      {
+        "position": "9",
+        "title": "Sex Objekt (US-DJ-Promo-Mix By Raizormaid)",
+        "duration": "7:34"
+      },
+      {
+        "position": "10",
+        "title": "Housephone",
+        "duration": "4:56"
+      },
+      {
+        "position": "11",
+        "title": "The Telephone Call (Re-Mix)",
+        "duration": "3:46"
+      }
+    ],
+    "lowest_price": 29.0,
+    "num_for_sale": 6,
+    "main_release": 1243477
+  },
+  "pressings": [
+    {
+      "release_id": 2761279,
+      "title": "Schöne Neue Welt - Re-Mix, Re-Model",
+      "label": "To Jail Records",
+      "catalog_number": "TJR-001",
+      "country": "Spain",
+      "year": "2011",
+      "format": "LP, Unofficial Release, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26850185,
+      "title": "Schöne Neue Welt - Re-Mix, Re-Model",
+      "label": "Not On Label (Kraftwerk)",
+      "catalog_number": "Ping Pong 9401",
+      "country": "Europe",
+      "year": "0",
+      "format": "Unofficial Release, Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15385776,
+      "title": "Schöne Neue Welt - Re-Mix, Re-Model",
+      "label": "Not On Label (Kraftwerk)",
+      "catalog_number": "Ping Pong 9401",
+      "country": "Europe",
+      "year": "0",
+      "format": "Unofficial Release, Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1243477,
+      "title": "Schöne Neue Welt - Re-Mix, Re-Model",
+      "label": "Not On Label (Kraftwerk)",
+      "catalog_number": "Ping Pong 9401",
+      "country": "Europe",
+      "year": "0",
+      "format": "Unofficial Release, Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Europe",
+    "Spain"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2011"
+  }
+}

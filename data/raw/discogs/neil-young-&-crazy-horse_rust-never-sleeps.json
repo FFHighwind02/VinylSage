@@ -1,0 +1,68 @@
+{
+  "album": "Rust Never Sleeps",
+  "artist": "Neil Young & Crazy Horse",
+  "source": "discogs",
+  "master": {
+    "master_id": 628999,
+    "title": "Sunset Cowboy",
+    "year": 1989,
+    "artists": [
+      "Neil Young",
+      "Crazy Horse"
+    ],
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Come On Baby Let's Go Downtown",
+        "duration": "3:45"
+      },
+      {
+        "position": "2",
+        "title": "Wonderin'",
+        "duration": "2:30"
+      },
+      {
+        "position": "3",
+        "title": "Everybody Knows This Is Nowhere",
+        "duration": "3:32"
+      },
+      {
+        "position": "4",
+        "title": "Down By The River",
+        "duration": "12:08"
+      },
+      {
+        "position": "5",
+        "title": "Winterlong",
+        "duration": "3:33"
+      },
+      {
+        "position": "6",
+        "title": "Cinnamon Girl",
+        "duration": "4:06"
+      },
+      {
+        "position": "7",
+        "title": "Cowgirl In The Sand",
+        "duration": "14:44"
+      }
+    ],
+    "lowest_price": 1.0,
+    "num_for_sale": 3,
+    "main_release": 5017713
+  },
+  "pressings": [],
+  "pressing_count": 0,
+  "countries": [],
+  "years_range": {
+    "earliest": null,
+    "latest": null
+  }
+}

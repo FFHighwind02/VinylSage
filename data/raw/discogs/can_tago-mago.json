@@ -1,0 +1,106 @@
+{
+  "album": "Tago Mago",
+  "artist": "Can",
+  "source": "discogs",
+  "master": {
+    "master_id": 27316,
+    "title": "European Rainbow",
+    "year": 1986,
+    "artists": [
+      "Can Can (2)"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Lover For A Night",
+        "duration": "3:35"
+      },
+      {
+        "position": "A2",
+        "title": "Worn Out Shoes",
+        "duration": "3:37"
+      },
+      {
+        "position": "A3",
+        "title": "Lost Our Love. Please Call!",
+        "duration": "3:34"
+      },
+      {
+        "position": "A4",
+        "title": "Independent Woman",
+        "duration": "3:32"
+      },
+      {
+        "position": "A5",
+        "title": "Ruby",
+        "duration": "4:12"
+      },
+      {
+        "position": "B1",
+        "title": "Don't Cross The River",
+        "duration": "4:35"
+      },
+      {
+        "position": "B2",
+        "title": "This Is A Lovesong",
+        "duration": "5:13"
+      },
+      {
+        "position": "B3",
+        "title": "Talking To A Friend",
+        "duration": "5:09"
+      },
+      {
+        "position": "B4",
+        "title": "Blood From A Stone",
+        "duration": "3:38"
+      }
+    ],
+    "lowest_price": 3.56,
+    "num_for_sale": 15,
+    "main_release": 1627088
+  },
+  "pressings": [
+    {
+      "release_id": 787116,
+      "title": "European Rainbow",
+      "label": "Transmission (5)",
+      "catalog_number": "TR MC 947-3",
+      "country": "Norway",
+      "year": "1986",
+      "format": "",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1627088,
+      "title": "European Rainbow",
+      "label": "Transmission (5)",
+      "catalog_number": "TR 947-3",
+      "country": "Norway",
+      "year": "1986",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Norway"
+  ],
+  "years_range": {
+    "earliest": "1986",
+    "latest": "1986"
+  }
+}

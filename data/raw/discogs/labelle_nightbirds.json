@@ -1,0 +1,172 @@
+{
+  "album": "Nightbirds",
+  "artist": "LaBelle",
+  "source": "discogs",
+  "master": {
+    "master_id": 154220,
+    "title": "Turn It Out",
+    "year": 1995,
+    "artists": [
+      "LaBelle"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "House",
+      "Garage House"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Turn It Out (The Bomb Mix)",
+        "duration": "9:44"
+      },
+      {
+        "position": "A2",
+        "title": "Turn It Out (Miss Thing's Runway Dub)",
+        "duration": "6:01"
+      },
+      {
+        "position": "B1",
+        "title": "Turn It Out (Shep's Totally Turnt Out Twelve Inch Anthem Mix)",
+        "duration": "10:25"
+      },
+      {
+        "position": "B2",
+        "title": "Turn It Out (Shep's Totally Turnt Dub)",
+        "duration": "8:30"
+      }
+    ],
+    "lowest_price": 0.57,
+    "num_for_sale": 194,
+    "main_release": 180191
+  },
+  "pressings": [
+    {
+      "release_id": 1898871,
+      "title": "Turn It Out",
+      "label": "MCA Soundtracks",
+      "catalog_number": "MCADM-55113",
+      "country": "US",
+      "year": "1995",
+      "format": "Maxi-Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13091512,
+      "title": "Turn It Out",
+      "label": "MCA Soundtracks",
+      "catalog_number": "MCAM-55113",
+      "country": "US",
+      "year": "1995",
+      "format": "Maxi-Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2000983,
+      "title": "Turn It Out",
+      "label": "MCA Soundtracks",
+      "catalog_number": "MCA5P-3496",
+      "country": "US",
+      "year": "1995",
+      "format": "Maxi-Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1224433,
+      "title": "Turn It Out",
+      "label": "MCA Records",
+      "catalog_number": "MCA8P 3505",
+      "country": "US",
+      "year": "1995",
+      "format": "12\", Promo, 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14181394,
+      "title": "Turn It Out",
+      "label": "MCA Soundtracks",
+      "catalog_number": "MCACS-55115",
+      "country": "US",
+      "year": "1995",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 180191,
+      "title": "Turn It Out",
+      "label": "MCA Soundtracks",
+      "catalog_number": "MCA12 55113, MCA 12-55113",
+      "country": "US",
+      "year": "1995",
+      "format": "12\", 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3706845,
+      "title": "Turn It Out",
+      "label": "MCA Records",
+      "catalog_number": "MCA8P 3504",
+      "country": "US",
+      "year": "1995",
+      "format": "12\", Promo, 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1239996,
+      "title": "Turn It Out",
+      "label": "MCA Soundtracks",
+      "catalog_number": "MCADM-55113",
+      "country": "US",
+      "year": "1995",
+      "format": "Maxi-Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8399097,
+      "title": "Turn It Out",
+      "label": "QuickRef",
+      "catalog_number": "none",
+      "country": "",
+      "year": "0",
+      "format": "12\", 45 RPM, Single Sided",
+      "major_formats": [
+        "Acetate"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 9,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1995"
+  }
+}

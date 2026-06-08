@@ -1,0 +1,765 @@
+{
+  "album": "Fleetwood Mac",
+  "artist": "Fleetwood Mac",
+  "source": "discogs",
+  "master": {
+    "master_id": 119888,
+    "title": "Greatest Hits",
+    "year": 1988,
+    "artists": [
+      "Fleetwood Mac"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Rhiannon",
+        "duration": "4:10"
+      },
+      {
+        "position": "A2",
+        "title": "Don't Stop",
+        "duration": "3:12"
+      },
+      {
+        "position": "A3",
+        "title": "Go Your Own Way",
+        "duration": "3:38"
+      },
+      {
+        "position": "A4",
+        "title": "Hold Me",
+        "duration": "3:43"
+      },
+      {
+        "position": "A5",
+        "title": "Everywhere",
+        "duration": "3:41"
+      },
+      {
+        "position": "A6",
+        "title": "Gypsy",
+        "duration": "4:22"
+      },
+      {
+        "position": "A7",
+        "title": "As Long As You Follow",
+        "duration": "4:17"
+      },
+      {
+        "position": "B1",
+        "title": "Say You Love Me",
+        "duration": "4:09"
+      },
+      {
+        "position": "B2",
+        "title": "Dreams",
+        "duration": "4:12"
+      },
+      {
+        "position": "B3",
+        "title": "Little Lies",
+        "duration": "3:36"
+      },
+      {
+        "position": "B4",
+        "title": "Sara",
+        "duration": "6:26"
+      },
+      {
+        "position": "B5",
+        "title": "Tusk",
+        "duration": "3:36"
+      },
+      {
+        "position": "B6",
+        "title": "No Questions Asked",
+        "duration": "4:36"
+      }
+    ],
+    "lowest_price": 0.26,
+    "num_for_sale": 1778,
+    "main_release": 783640
+  },
+  "pressings": [
+    {
+      "release_id": 32064939,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBC 1651",
+      "country": "Zimbabwe",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10207088,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25838-4",
+      "country": "Indonesia",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14974364,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WX 221, 925 801-1",
+      "country": "Europe",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4410767,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-2",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3539212,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "7599-25838-2, 925 838-2",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3502913,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W4 25801, 4-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20200789,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 838-4, WX221C, WX 221 C",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20747743,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 838-4, WX221C, WX 221 C",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3585044,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W1-25801, 9 W1-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "LP, Compilation, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24475424,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-2",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4631987,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "LDWB-6792",
+      "country": "Mexico",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21643903,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-2",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2065943,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W2 25801",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 719174,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-4, 4-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4905291,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "92 5801-1",
+      "country": "Italy",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2451814,
+      "title": "Greatest Hits",
+      "label": "Gong",
+      "catalog_number": "SLPXL 37255",
+      "country": "Hungary",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4595463,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 838-4, WX221C, WX 221 C",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21256852,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-2",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4853608,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WB BAN 925801-1",
+      "country": "Israel",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 783640,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 801-1, WX 221",
+      "country": "Europe",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17409196,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925801-1",
+      "country": "Germany",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5889809,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBCD 1651",
+      "country": "South Africa",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2827774,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 838-4",
+      "country": "France",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15650570,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W8 25801",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Club Edition",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16223880,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 801-1",
+      "country": "Europe",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14798123,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-2",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20953090,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-2",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5295604,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "92 58014",
+      "country": "Canada",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14214982,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WX221C, 925 838-4, WX 221 C",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6736225,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBC 1651",
+      "country": "South Africa",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7825393,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-4",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13815587,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 838-2",
+      "country": "Israel",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6199106,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 801-1",
+      "country": "Greece",
+      "year": "1988",
+      "format": "LP, Compilation, Test Pressing, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25177471,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-4, 4-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16878216,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "92 58014",
+      "country": "Canada",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1826649,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "7599-25838-4",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4846865,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25P2-2390",
+      "country": "Japan",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26958674,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25838-4",
+      "country": "New Zealand",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3820318,
+      "title": "Greatest Hits",
+      "label": "Gong",
+      "catalog_number": "MKL 37255",
+      "country": "Hungary",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18387001,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "92 58014",
+      "country": "Canada",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19501219,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "ZWBC 1651",
+      "country": "South Africa",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2962258,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WX221C, 925 838-4, WX 221 C",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1334300,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-1, 1-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8358915,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-1, 1-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5169173,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W1-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2765945,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "7599-25838-2",
+      "country": "Europe",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3514866,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W1-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5788116,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9258011",
+      "country": "Portugal",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12625090,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25801-4, 4-25801",
+      "country": "US",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4564159,
+      "title": "Greatest Hits",
+      "label": "Warner Bros. Records",
+      "catalog_number": "Warner 3268",
+      "country": "Venezuela",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Canada",
+    "Europe",
+    "France",
+    "Germany",
+    "Greece",
+    "Hungary",
+    "Indonesia",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Mexico",
+    "New Zealand",
+    "Portugal",
+    "South Africa",
+    "US",
+    "Venezuela",
+    "Zimbabwe"
+  ],
+  "years_range": {
+    "earliest": "1988",
+    "latest": "1988"
+  }
+}

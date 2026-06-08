@@ -1,0 +1,115 @@
+{
+  "album": "The World Is a Ghetto",
+  "artist": "War",
+  "source": "discogs",
+  "master": {
+    "master_id": 2997875,
+    "title": "I Saw An Angel, I Buried Its Body",
+    "year": 2017,
+    "artists": [
+      "War War War"
+    ],
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Ambient",
+      "Folk"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Séance In Nevada (Under Charleston's Shadow)",
+        "duration": "9:18"
+      },
+      {
+        "position": "2",
+        "title": "She Calls My Name",
+        "duration": "4:25"
+      },
+      {
+        "position": "3",
+        "title": "On The Eve Of Our Death We Went On",
+        "duration": "6:21"
+      },
+      {
+        "position": "4",
+        "title": "They Said The House Was Empty",
+        "duration": "5:32"
+      },
+      {
+        "position": "5",
+        "title": "Show Mercy",
+        "duration": "4:37"
+      },
+      {
+        "position": "6",
+        "title": "Saw An Angel",
+        "duration": "6:24"
+      },
+      {
+        "position": "7",
+        "title": "Dreams Of Nevada (From A Hotel In Michigan)",
+        "duration": "7:18"
+      },
+      {
+        "position": "8",
+        "title": "Together",
+        "duration": "9:35"
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 26255759
+  },
+  "pressings": [
+    {
+      "release_id": 26255726,
+      "title": "I Saw An Angel, I Buried Its Body",
+      "label": "This Deadly House",
+      "catalog_number": "TDH13",
+      "country": "US",
+      "year": "2017",
+      "format": "Album, Limited Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26255753,
+      "title": "I Saw An Angel, I Buried Its Body",
+      "label": "This Deadly House",
+      "catalog_number": "TDH13",
+      "country": "US",
+      "year": "2017",
+      "format": "Album, Limited Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26255759,
+      "title": "I Saw An Angel, I Buried Its Body",
+      "label": "This Deadly House",
+      "catalog_number": "TDH13",
+      "country": "US",
+      "year": "2017",
+      "format": "WAV, Album",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2017",
+    "latest": "2017"
+  }
+}

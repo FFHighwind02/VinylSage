@@ -1,0 +1,475 @@
+{
+  "album": "My Aim Is True",
+  "artist": "Elvis Costello",
+  "source": "discogs",
+  "master": {
+    "master_id": 219895,
+    "title": "2½ Years",
+    "year": 1993,
+    "artists": [
+      "Elvis Costello"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Punk",
+      "Alternative Rock",
+      "Pop Rock",
+      "Rock & Roll",
+      "New Wave"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "My Aim Is True",
+        "duration": ""
+      },
+      {
+        "position": "1-1",
+        "title": "Welcome To The Working Week",
+        "duration": "1:22"
+      },
+      {
+        "position": "1-2",
+        "title": "Miracle Man",
+        "duration": "3:31"
+      },
+      {
+        "position": "1-3",
+        "title": "No Dancing",
+        "duration": "2:39"
+      },
+      {
+        "position": "1-4",
+        "title": "Blame It On Cain",
+        "duration": "2:49"
+      },
+      {
+        "position": "1-5",
+        "title": "Alison",
+        "duration": "3:21"
+      },
+      {
+        "position": "1-6",
+        "title": "Sneaky Feelings",
+        "duration": "2:09"
+      },
+      {
+        "position": "1-7",
+        "title": "(The Angels Wanna Wear My) Red Shoes",
+        "duration": "2:47"
+      },
+      {
+        "position": "1-8",
+        "title": "Less Than Zero",
+        "duration": "3:15"
+      },
+      {
+        "position": "1-9",
+        "title": "Mystery Dance",
+        "duration": "1:38"
+      },
+      {
+        "position": "1-10",
+        "title": "Pay It Back",
+        "duration": "2:33"
+      },
+      {
+        "position": "1-11",
+        "title": "I'm Not Angry",
+        "duration": "2:57"
+      },
+      {
+        "position": "1-12",
+        "title": "Waiting For The End Of The World",
+        "duration": "3:22"
+      },
+      {
+        "position": "1-13",
+        "title": "Watching The Detectives",
+        "duration": "3:45"
+      },
+      {
+        "position": "",
+        "title": "Extended Play",
+        "duration": ""
+      },
+      {
+        "position": "1-14",
+        "title": "Radio Sweetheart",
+        "duration": "2:25"
+      },
+      {
+        "position": "1-15",
+        "title": "Stranger In The House",
+        "duration": "3:01"
+      },
+      {
+        "position": "1-16",
+        "title": "Imagination (Is A Powerfull Deceiver)",
+        "duration": "3:38"
+      },
+      {
+        "position": "1-17",
+        "title": "Mystery Dance",
+        "duration": "2:13"
+      },
+      {
+        "position": "1-18",
+        "title": "Cheap Reward",
+        "duration": "2:15"
+      },
+      {
+        "position": "1-19",
+        "title": "Jump Up",
+        "duration": "2:06"
+      },
+      {
+        "position": "1-20",
+        "title": "Wave A White Flag",
+        "duration": "1:53"
+      },
+      {
+        "position": "1-21",
+        "title": "Blame It On Cain",
+        "duration": "3:30"
+      },
+      {
+        "position": "1-22",
+        "title": "Poison Moon",
+        "duration": "1:53"
+      },
+      {
+        "position": "",
+        "title": "This Years Model",
+        "duration": ""
+      },
+      {
+        "position": "2-1",
+        "title": "No Action",
+        "duration": "1:58"
+      },
+      {
+        "position": "2-2",
+        "title": "This Year's Girl",
+        "duration": "3:17"
+      },
+      {
+        "position": "2-3",
+        "title": "The Beat",
+        "duration": "3:45"
+      },
+      {
+        "position": "2-4",
+        "title": "Pump It Up",
+        "duration": "3:14"
+      },
+      {
+        "position": "2-5",
+        "title": "Little Triggers",
+        "duration": "2:40"
+      },
+      {
+        "position": "2-6",
+        "title": "You Belong To Me",
+        "duration": "2:22"
+      },
+      {
+        "position": "2-7",
+        "title": "Hand In Hand",
+        "duration": "2:33"
+      },
+      {
+        "position": "2-8",
+        "title": "(I Don't Want To Go To) Chelsea",
+        "duration": "3:07"
+      },
+      {
+        "position": "2-9",
+        "title": "Lip Service",
+        "duration": "2:36"
+      },
+      {
+        "position": "2-10",
+        "title": "Living In Paradise",
+        "duration": "3:52"
+      },
+      {
+        "position": "2-11",
+        "title": "Lipstick Vogue",
+        "duration": "3:29"
+      },
+      {
+        "position": "2-12",
+        "title": "Night Rally",
+        "duration": "2:41"
+      },
+      {
+        "position": "",
+        "title": "Extended Play",
+        "duration": ""
+      },
+      {
+        "position": "2-13",
+        "title": "Radio, Radio",
+        "duration": "3:05"
+      },
+      {
+        "position": "2-14",
+        "title": "Big Tears",
+        "duration": "3:09"
+      },
+      {
+        "position": "2-15",
+        "title": "Crawling To The USA",
+        "duration": "2:53"
+      },
+      {
+        "position": "2-16",
+        "title": "Running Out Of Angels",
+        "duration": "2:02"
+      },
+      {
+        "position": "2-17",
+        "title": "Greenshirt",
+        "duration": "2:20"
+      },
+      {
+        "position": "2-18",
+        "title": "Big Boys",
+        "duration": "3:00"
+      },
+      {
+        "position": "",
+        "title": "Armed Forces",
+        "duration": ""
+      },
+      {
+        "position": "3-1",
+        "title": "Accidents Will Happen",
+        "duration": "3:00"
+      },
+      {
+        "position": "3-2",
+        "title": "Senior Service",
+        "duration": "2:17"
+      },
+      {
+        "position": "3-3",
+        "title": "Oliver's Army",
+        "duration": "2:58"
+      },
+      {
+        "position": "3-4",
+        "title": "Big Boys",
+        "duration": "2:54"
+      },
+      {
+        "position": "3-5",
+        "title": "Green Shirt",
+        "duration": "2:42"
+      },
+      {
+        "position": "3-6",
+        "title": "Party Girl",
+        "duration": "3:20"
+      },
+      {
+        "position": "3-7",
+        "title": "Goon Squad",
+        "duration": "3:14"
+      },
+      {
+        "position": "3-8",
+        "title": "Busy Bodies",
+        "duration": "3:33"
+      },
+      {
+        "position": "3-9",
+        "title": "Sunday's Best",
+        "duration": "3:22"
+      },
+      {
+        "position": "3-10",
+        "title": "Moods For Moderns",
+        "duration": "2:48"
+      },
+      {
+        "position": "3-11",
+        "title": "Chemistry Class",
+        "duration": "2:55"
+      },
+      {
+        "position": "3-12",
+        "title": "Two Little Hitlers",
+        "duration": "3:10"
+      },
+      {
+        "position": "3-13",
+        "title": "(What's So Funny 'Bout) Peace, Love And Understanding?",
+        "duration": "3:31"
+      },
+      {
+        "position": "",
+        "title": "Extended Play",
+        "duration": ""
+      },
+      {
+        "position": "3-14",
+        "title": "My Funny Valentine",
+        "duration": "1:28"
+      },
+      {
+        "position": "3-15",
+        "title": "Tiny Steps",
+        "duration": "2:42"
+      },
+      {
+        "position": "3-16",
+        "title": "Clean Money",
+        "duration": "1:57"
+      },
+      {
+        "position": "3-17",
+        "title": "Talking In The Dark",
+        "duration": "1:56"
+      },
+      {
+        "position": "3-18",
+        "title": "Wednesday Week",
+        "duration": "2:01"
+      },
+      {
+        "position": "3-19",
+        "title": "Accidents Will Happen (Live)",
+        "duration": "3:23"
+      },
+      {
+        "position": "3-20",
+        "title": "Alison (Live)",
+        "duration": "3:06"
+      },
+      {
+        "position": "3-21",
+        "title": "Watching The Detectives (Live)",
+        "duration": "6:08"
+      },
+      {
+        "position": "",
+        "title": "Live At El Mocambo",
+        "duration": ""
+      },
+      {
+        "position": "4-1",
+        "title": "Mystery Dance",
+        "duration": "2:19"
+      },
+      {
+        "position": "4-2",
+        "title": "Waiting For The End Of The World",
+        "duration": "3:52"
+      },
+      {
+        "position": "4-3",
+        "title": "Welcome To The Working Week",
+        "duration": "1:20"
+      },
+      {
+        "position": "4-4",
+        "title": "Less Than Zero",
+        "duration": "4:08"
+      },
+      {
+        "position": "4-5",
+        "title": "The Beat",
+        "duration": "3:34"
+      },
+      {
+        "position": "4-6",
+        "title": "Lip Service",
+        "duration": "2:26"
+      },
+      {
+        "position": "4-7",
+        "title": "(I Don't Want To Go To) Chelsea",
+        "duration": "3:56"
+      },
+      {
+        "position": "4-8",
+        "title": "Little Triggers",
+        "duration": "2:48"
+      },
+      {
+        "position": "4-9",
+        "title": "Radio, Radio",
+        "duration": "2:34"
+      },
+      {
+        "position": "4-10",
+        "title": "Lipstick Vogue",
+        "duration": "4:46"
+      },
+      {
+        "position": "4-11",
+        "title": "Watching The Detectives",
+        "duration": "5:48"
+      },
+      {
+        "position": "4-12",
+        "title": "Miracle Man/Band Introduction",
+        "duration": "4:08"
+      },
+      {
+        "position": "4-13",
+        "title": "You Belong To Me",
+        "duration": "2:32"
+      },
+      {
+        "position": "4-14",
+        "title": "Pump It Up",
+        "duration": "4:42"
+      }
+    ],
+    "lowest_price": 7.0,
+    "num_for_sale": 48,
+    "main_release": 1936365
+  },
+  "pressings": [
+    {
+      "release_id": 2108428,
+      "title": "2½ Years",
+      "label": "Demon Records",
+      "catalog_number": "DPAM BOX 1",
+      "country": "UK",
+      "year": "1993",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1936365,
+      "title": "2½ Years",
+      "label": "Rykodisc",
+      "catalog_number": "RCD 90271/74",
+      "country": "USA & Canada",
+      "year": "1993",
+      "format": "Compilation",
+      "major_formats": [
+        "Box Set"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "UK",
+    "USA & Canada"
+  ],
+  "years_range": {
+    "earliest": "1993",
+    "latest": "1993"
+  }
+}

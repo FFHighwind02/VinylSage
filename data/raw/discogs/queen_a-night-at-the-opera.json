@@ -1,0 +1,301 @@
+{
+  "album": "A Night at the Opera",
+  "artist": "Queen",
+  "source": "discogs",
+  "master": {
+    "master_id": 27645,
+    "title": "Your Imagination",
+    "year": 1981,
+    "artists": [
+      "Daryl Hall & John Oates"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Synth-pop"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Your Imagination",
+        "duration": "3:27"
+      },
+      {
+        "position": "B",
+        "title": "Sara Smile",
+        "duration": "3:07"
+      }
+    ],
+    "lowest_price": 0.51,
+    "num_for_sale": 243,
+    "main_release": 848567
+  },
+  "pressings": [
+    {
+      "release_id": 4975487,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "JH-13252",
+      "country": "US",
+      "year": "1981",
+      "format": "7\", Single, Promo, Stereo, Mono, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2275321,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "JD-13253",
+      "country": "US",
+      "year": "1981",
+      "format": "12\", 33 ⅓ RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5010004,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "RCA 239, PB 3252",
+      "country": "Ireland",
+      "year": "1981",
+      "format": "7\"",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12758595,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PB-13252",
+      "country": "US",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single, Styrene",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6529094,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "RCA 239 PROMO",
+      "country": "UK",
+      "year": "1981",
+      "format": "7\", 45 RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30827031,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PB-13252",
+      "country": "Barbados",
+      "year": "1981",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1424074,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PB-13252",
+      "country": "US",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3902409,
+      "title": "Your Imagination / Sara Smile",
+      "label": "RCA",
+      "catalog_number": "PB-3252",
+      "country": "Netherlands",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1025130,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PC 3253",
+      "country": "Germany",
+      "year": "1981",
+      "format": "12\"",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1166988,
+      "title": "Your Imagination",
+      "label": "RCA Victor",
+      "catalog_number": "PD-13253",
+      "country": "US",
+      "year": "1981",
+      "format": "12\", 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3669097,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PB-13252",
+      "country": "Canada",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8694221,
+      "title": "Your Imagination",
+      "label": "RCA Victor",
+      "catalog_number": "104016",
+      "country": "New Zealand",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6166362,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PC-3253",
+      "country": "Netherlands",
+      "year": "1981",
+      "format": "12\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 848567,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "PB 3252",
+      "country": "Germany",
+      "year": "1981",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15318144,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "XRPBO 1169",
+      "country": "Peru",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 541936,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "RCAT 239, PC 3252",
+      "country": "UK",
+      "year": "1982",
+      "format": "12\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12123400,
+      "title": "Your Imagination",
+      "label": "RCA Victor",
+      "catalog_number": "104016",
+      "country": "Australia",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15210738,
+      "title": "Your Imagination",
+      "label": "RCA Victor",
+      "catalog_number": "TRS 416",
+      "country": "South Africa",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2915558,
+      "title": "Your Imagination",
+      "label": "RCA",
+      "catalog_number": "RCA 239, PB 3252",
+      "country": "UK",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 19,
+  "countries": [
+    "Australia",
+    "Barbados",
+    "Canada",
+    "Germany",
+    "Ireland",
+    "Netherlands",
+    "New Zealand",
+    "Peru",
+    "South Africa",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1981",
+    "latest": "1982"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "album": "Parallel Lines",
+  "artist": "Blondie",
+  "source": "discogs",
+  "master": {
+    "master_id": 1290686,
+    "title": "夢みるキッドナッパー = Kidnapper",
+    "year": 1977,
+    "artists": [
+      "Blondie",
+      "Blondie"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "New Wave"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Kidnapper (夢みるキッドナッパー)",
+        "duration": "2:35"
+      },
+      {
+        "position": "B",
+        "title": "Cautious Lip (妖しい唇)",
+        "duration": "4:22"
+      }
+    ],
+    "lowest_price": 12.89,
+    "num_for_sale": 19,
+    "main_release": 1949714
+  },
+  "pressings": [
+    {
+      "release_id": 11344890,
+      "title": "夢みるキッドナッパー = Kidnapper",
+      "label": "Chrysalis",
+      "catalog_number": "WWR-20373",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1949714,
+      "title": "夢みるキッドナッパー = Kidnapper",
+      "label": "Chrysalis",
+      "catalog_number": "WWR-20373",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11344896,
+      "title": "夢みるキッドナッパー = Kidnapper",
+      "label": "Chrysalis",
+      "catalog_number": "WWR-20373",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1977",
+    "latest": "1977"
+  }
+}

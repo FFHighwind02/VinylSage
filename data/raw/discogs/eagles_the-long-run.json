@@ -1,0 +1,136 @@
+{
+  "album": "The Long Run",
+  "artist": "Eagles",
+  "source": "discogs",
+  "master": {
+    "master_id": 1144004,
+    "title": "Hotel California In Concert",
+    "year": 2016,
+    "artists": [
+      "Eagles"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Country Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Hotel California",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "One Of These Nights",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Take It To The Limit",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Already Gone ",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Tequila Sunrise",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Witchy Woman",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Rocky Mountain Way",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "The Best Of My Love",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "James Dean",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Desperado",
+        "duration": ""
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 9919256
+  },
+  "pressings": [
+    {
+      "release_id": 9675067,
+      "title": " Hotel California In Concert",
+      "label": "Coda Publishing",
+      "catalog_number": "CPLVNYDC202",
+      "country": "Europe",
+      "year": "2016",
+      "format": "LP, Limited Edition, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13809963,
+      "title": "Hotel California In Concert",
+      "label": "Coda Publishing",
+      "catalog_number": "CPLVNYDC202",
+      "country": "Europe",
+      "year": "2016",
+      "format": "LP, Limited Edition, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9919256,
+      "title": "Hotel California In Concert",
+      "label": "Coda Publishing",
+      "catalog_number": "CPLVNYA202",
+      "country": "Europe",
+      "year": "2016",
+      "format": "LP, Limited Edition, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9447032,
+      "title": " Hotel California In Concert",
+      "label": "Coda Publishing",
+      "catalog_number": "CPLPD202",
+      "country": "Europe",
+      "year": "0",
+      "format": "LP, Picture Disc, Special Edition, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Europe"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2016"
+  }
+}

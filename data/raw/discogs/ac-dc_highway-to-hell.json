@@ -1,0 +1,230 @@
+{
+  "album": "Highway to Hell",
+  "artist": "AC/DC",
+  "source": "discogs",
+  "master": {
+    "master_id": 534222,
+    "title": "Trip Wires",
+    "year": 1979,
+    "artists": [
+      "AC/DC"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Live Wire",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Problem Child",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Sin City",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Bad Boy Boogie",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Whole Lotta Rosie",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "I'm A Rocker",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Let There Be Rock",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 50.0,
+    "num_for_sale": 1,
+    "main_release": 2079261
+  },
+  "pressings": [
+    {
+      "release_id": 2079261,
+      "title": "Trip Wires",
+      "label": "PolarVox (2)",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7817707,
+      "title": "Trip Wires",
+      "label": "Wildsau Records",
+      "catalog_number": "none",
+      "country": "Germany",
+      "year": "1985",
+      "format": "LP, Reissue, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4389185,
+      "title": "Trip Wires",
+      "label": "Not On Label (AC/DC)",
+      "catalog_number": "none",
+      "country": "Germany",
+      "year": "1997",
+      "format": "LP, Picture Disc, Unofficial Release, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3097445,
+      "title": "The BBC Tapes Vol. 2",
+      "label": "Not On Label (AC/DC)",
+      "catalog_number": "ACBEB-2 7678",
+      "country": "Europe",
+      "year": "2007",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1929831,
+      "title": "Blow Up The Beeb! (Volume One)",
+      "label": "Greaser Records",
+      "catalog_number": "GR 090501-2",
+      "country": "Europe",
+      "year": "2009",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7155670,
+      "title": "Rock Goes To College",
+      "label": "Legend Records (4)",
+      "catalog_number": "LEGEND067",
+      "country": "Spain",
+      "year": "2015",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9879302,
+      "title": "Rock Goes To College",
+      "label": "Legend Records (4)",
+      "catalog_number": "LEGEND067",
+      "country": "Japan",
+      "year": "2015",
+      "format": "LP, Unofficial Release, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16261343,
+      "title": "Rock Goes To College",
+      "label": "Legend Records (4)",
+      "catalog_number": "LEGEND067",
+      "country": "Japan",
+      "year": "2015",
+      "format": "LP, Unofficial Release, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15928251,
+      "title": "Rock Goes To College",
+      "label": "Legend Records (4)",
+      "catalog_number": "LEGEND067",
+      "country": "Japan",
+      "year": "2015",
+      "format": "LP, Limited Edition, Numbered, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4408834,
+      "title": "In Memoriam Bon Scott Vol. 1",
+      "label": "Banana Records (2)",
+      "catalog_number": "AC281078",
+      "country": "Austria",
+      "year": "0",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12671136,
+      "title": "Rock Goes To College",
+      "label": "Legend Records (4)",
+      "catalog_number": "none",
+      "country": "Japan",
+      "year": "0",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9056919,
+      "title": "Rock Goes To College",
+      "label": "Legend Records (4)",
+      "catalog_number": "LEGEND067",
+      "country": "",
+      "year": "0",
+      "format": "LP, Unofficial Release, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 12,
+  "countries": [
+    "Austria",
+    "Europe",
+    "Germany",
+    "Japan",
+    "Spain",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2015"
+  }
+}

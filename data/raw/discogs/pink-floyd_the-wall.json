@@ -1,0 +1,574 @@
+{
+  "album": "The Wall",
+  "artist": "Pink Floyd",
+  "source": "discogs",
+  "master": {
+    "master_id": 17036,
+    "title": "Los Grandes Éxitos En Español",
+    "year": 1999,
+    "artists": [
+      "Cypress Hill"
+    ],
+    "genres": [
+      "Hip Hop"
+    ],
+    "styles": [
+      "Gangsta"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Yo Quiero Fumar (I Wanna Get High)",
+        "duration": ""
+      },
+      {
+        "position": "2",
+        "title": "Loco En El Coco (Insane In The Brain)",
+        "duration": ""
+      },
+      {
+        "position": "3",
+        "title": "No Entiendes La Onda (How I Could Just Kill A Man)",
+        "duration": ""
+      },
+      {
+        "position": "4",
+        "title": "Dr. Dedoverde (Dr. Greenthumb)",
+        "duration": ""
+      },
+      {
+        "position": "5",
+        "title": "Latino Lingo (Latin Lingo)",
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "title": "Puercos (Pigs)",
+        "duration": ""
+      },
+      {
+        "position": "7",
+        "title": "Marijuano Locos (Stoned Raiders)",
+        "duration": ""
+      },
+      {
+        "position": "8",
+        "title": "Tú No Ajaunta (Checkmate)",
+        "duration": ""
+      },
+      {
+        "position": "9",
+        "title": "Ilusiones (Illusions)",
+        "duration": ""
+      },
+      {
+        "position": "10",
+        "title": "Muévete (Make A Move)",
+        "duration": ""
+      },
+      {
+        "position": "11",
+        "title": "No Pierdo Nada (Nothin' To Lose)",
+        "duration": ""
+      },
+      {
+        "position": "12",
+        "title": "Tequila (Tequila Sunrise)",
+        "duration": ""
+      },
+      {
+        "position": "13",
+        "title": "Tres Equis",
+        "duration": ""
+      },
+      {
+        "position": "14",
+        "title": "Siempre Peligroso",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.5,
+    "num_for_sale": 273,
+    "main_release": 1168464
+  },
+  "pressings": [
+    {
+      "release_id": 9799882,
+      "title": "Los Grandes Exitos En Espanol",
+      "label": "Ruffhouse Records",
+      "catalog_number": "CK 63712",
+      "country": "",
+      "year": "1999",
+      "format": "Album, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1233788,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "C 63712",
+      "country": "US",
+      "year": "1999",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22198003,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "2063712",
+      "country": "Peru",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5125573,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": " 2-496287",
+      "country": "Brazil",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3760000,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records LP",
+      "catalog_number": "2-496287",
+      "country": "Argentina",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22027561,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "2-496287",
+      "country": "Brazil",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25842061,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287040",
+      "country": "Costa Rica",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 170225,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287 2, COL 496287 2, 4962872003, 4962872000",
+      "country": "Europe",
+      "year": "1999",
+      "format": "Album, Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1168464,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "CK 63712",
+      "country": "US",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3053452,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Sony Music",
+      "catalog_number": "none",
+      "country": "Czech Republic",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6907094,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Interscope Records",
+      "catalog_number": "CYH 2023",
+      "country": "Australia",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11715728,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287 4, COL 496287 4",
+      "country": "Turkey",
+      "year": "1999",
+      "format": "",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13015933,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "52 496287",
+      "country": "Colombia",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21954220,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Gold Lion",
+      "catalog_number": "none",
+      "country": "Ukraine",
+      "year": "1999",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14284403,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "CT 63712",
+      "country": "US",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8256647,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "CDMI 63712",
+      "country": "Mexico",
+      "year": "1999",
+      "format": "Album, Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15995898,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287 4, COL 496287 4",
+      "country": "Netherlands",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2513075,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287 4, COL 496287 4",
+      "country": "Poland",
+      "year": "1999",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2744972,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287 9, COL 496287 9",
+      "country": "Europe",
+      "year": "1999",
+      "format": "Album, Limited Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8948692,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Moon Records (2)",
+      "catalog_number": "none",
+      "country": "Ukraine",
+      "year": "1999",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 453798,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "496287 1, COL 496287-1",
+      "country": "Europe",
+      "year": "1999",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4073627,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Astra",
+      "catalog_number": "770",
+      "country": "Russia",
+      "year": "1999",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13172145,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "CSK 46309",
+      "country": "US",
+      "year": "1999",
+      "format": "Advance, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18485800,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Columbia (2)",
+      "catalog_number": "COL 496287 2",
+      "country": "Europe",
+      "year": "1999",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10801043,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Columbia",
+      "catalog_number": "4-496287",
+      "country": "Chile",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18485800,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Columbia (2)",
+      "catalog_number": "COL 496287 2",
+      "country": "Europe",
+      "year": "1999",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10801043,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Columbia",
+      "catalog_number": "4-496287",
+      "country": "Chile",
+      "year": "1999",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28289689,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Sony Music Special Marketing",
+      "catalog_number": "2 496287",
+      "country": "Chile",
+      "year": "2003",
+      "format": "Album, Reissue, Repress",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9474488,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Music On Vinyl",
+      "catalog_number": "MOVLP1726",
+      "country": "Europe",
+      "year": "2016",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21371791,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "0",
+      "format": "AAC, Album",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3219884,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Sony BMG Music Entertainment",
+      "catalog_number": "82876 87320 2",
+      "country": "Russia",
+      "year": "0",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15040609,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "2-496287",
+      "country": "Brazil",
+      "year": "0",
+      "format": "Album, Repress",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14011042,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Ruffhouse Records",
+      "catalog_number": "none",
+      "country": "",
+      "year": "0",
+      "format": "FLAC, Album",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9448506,
+      "title": "Los Grandes Exitos En Espanol",
+      "label": "Umbrella Records (3)",
+      "catalog_number": "none",
+      "country": "Ukraine",
+      "year": "0",
+      "format": "Compilation, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17593741,
+      "title": "Los Grandes Éxitos En Español",
+      "label": "Columbia",
+      "catalog_number": "COL 496287 2, 4962872000, 496287 2",
+      "country": "Russia",
+      "year": "0",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 35,
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Brazil",
+    "Chile",
+    "Colombia",
+    "Costa Rica",
+    "Czech Republic",
+    "Europe",
+    "Mexico",
+    "Netherlands",
+    "Peru",
+    "Poland",
+    "Russia",
+    "Turkey",
+    "US",
+    "Ukraine"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2016"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "album": "Moondance",
+  "artist": "Van Morrison",
+  "source": "discogs",
+  "master": {
+    "master_id": 1533285,
+    "title": "Astral Weeks (Alternative)",
+    "year": 2019,
+    "artists": [
+      "Van Morrison"
+    ],
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Beside You (Take 1)",
+        "duration": "5:49"
+      },
+      {
+        "position": "A2",
+        "title": "Madame George (Take 4)",
+        "duration": "8:20"
+      },
+      {
+        "position": "B1",
+        "title": "Ballerina (Long Version)",
+        "duration": "8:00"
+      },
+      {
+        "position": "B2",
+        "title": "Slim Slow Slider (Long Version)",
+        "duration": "4:55"
+      }
+    ],
+    "lowest_price": 11.59,
+    "num_for_sale": 76,
+    "main_release": 13475171
+  },
+  "pressings": [
+    {
+      "release_id": 13475171,
+      "title": "Astral Weeks (Alternative)",
+      "label": "Schwaid-Merenstein",
+      "catalog_number": "603497854158",
+      "country": "Europe",
+      "year": "2019",
+      "format": "10\", 33 ⅓ RPM, Record Store Day, Limited Edition, Reissue, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13494233,
+      "title": "Astral Weeks (Alternative)",
+      "label": "Warner Bros. Records",
+      "catalog_number": "R1 585206",
+      "country": "USA & Canada",
+      "year": "2019",
+      "format": "10\", 33 ⅓ RPM, Mini-Album, Record Store Day, Limited Edition, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Europe",
+    "USA & Canada"
+  ],
+  "years_range": {
+    "earliest": "2019",
+    "latest": "2019"
+  }
+}

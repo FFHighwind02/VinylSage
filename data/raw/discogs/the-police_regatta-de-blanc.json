@@ -1,0 +1,790 @@
+{
+  "album": "Regatta de Blanc",
+  "artist": "The Police",
+  "source": "discogs",
+  "master": {
+    "master_id": 109113,
+    "title": "Greatest Hits",
+    "year": 1992,
+    "artists": [
+      "The Police"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Roxanne",
+        "duration": "3:13"
+      },
+      {
+        "position": "2",
+        "title": "Can't Stand Losing You",
+        "duration": "2:49"
+      },
+      {
+        "position": "3",
+        "title": "So Lonely",
+        "duration": "4:48"
+      },
+      {
+        "position": "4",
+        "title": "Message In A Bottle",
+        "duration": "4:50"
+      },
+      {
+        "position": "5",
+        "title": "Walking On The Moon",
+        "duration": "5:01"
+      },
+      {
+        "position": "6",
+        "title": "The Bed's Too Big Without You",
+        "duration": "4:25"
+      },
+      {
+        "position": "7",
+        "title": "Don't Stand So Close To Me",
+        "duration": "4:02"
+      },
+      {
+        "position": "8",
+        "title": "De Do Do Do, De Da Da Da",
+        "duration": "4:08"
+      },
+      {
+        "position": "9",
+        "title": "Every Little Thing She Does Is Magic",
+        "duration": "4:20"
+      },
+      {
+        "position": "10",
+        "title": "Invisible Sun",
+        "duration": "3:44"
+      },
+      {
+        "position": "11",
+        "title": "Spirits In The Material World",
+        "duration": "2:58"
+      },
+      {
+        "position": "12",
+        "title": "Synchronicity II",
+        "duration": "5:01"
+      },
+      {
+        "position": "13",
+        "title": "Every Breath You Take",
+        "duration": "4:13"
+      },
+      {
+        "position": "14",
+        "title": "King Of Pain",
+        "duration": "4:58"
+      },
+      {
+        "position": "15",
+        "title": "Wrapped Around Your Finger",
+        "duration": "5:14"
+      },
+      {
+        "position": "16",
+        "title": "Tea In The Sahara",
+        "duration": "4:14"
+      }
+    ],
+    "lowest_price": 0.46,
+    "num_for_sale": 831,
+    "main_release": 4733886
+  },
+  "pressings": [
+    {
+      "release_id": 9898622,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "Portugal",
+      "year": "1992",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28014633,
+      "title": "Greatest Hits",
+      "label": "Professional Communication",
+      "catalog_number": "716",
+      "country": "Poland",
+      "year": "1992",
+      "format": "Compilation, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3151345,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Canada",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4237223,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Europe",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11584716,
+      "title": "The Best",
+      "label": "A&M Records (2)",
+      "catalog_number": "0485",
+      "country": "Bulgaria",
+      "year": "1992",
+      "format": "Compilation, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1691090,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "UK & Europe",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21177631,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "LON/AM 50-505",
+      "country": "Bolivia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4478431,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "France",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12905593,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Australasia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2394255,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "Greece",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19649554,
+      "title": "Greatest Hits",
+      "label": "PolyTel",
+      "catalog_number": "540 030-4",
+      "country": "Canada",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12957890,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "88073",
+      "country": "Ecuador",
+      "year": "1992",
+      "format": "Compilation, Reissue",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8817550,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Indonesia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15275382,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "188064, 540030-4",
+      "country": "Chile",
+      "year": "1992",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6822348,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Greece",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30799950,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Europe",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31611268,
+      "title": "Greatest Hits",
+      "label": "MG Records (2)",
+      "catalog_number": "MG 2430-314",
+      "country": "Poland",
+      "year": "1992",
+      "format": "Compilation, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4733886,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Europe",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6666484,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "Europe",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9425327,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "88073",
+      "country": "Ecuador",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8999281,
+      "title": "Los Mas Grandes Exitos",
+      "label": "A&M Records",
+      "catalog_number": "69460, 540030-4",
+      "country": "Argentina",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9623269,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "UK",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28218841,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Europe",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13761772,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "MCD-PAM 5400304",
+      "country": "Peru",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12514865,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "India",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30707747,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Malaysia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2313072,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Europe",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3542802,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2 DJ",
+      "country": "UK",
+      "year": "1992",
+      "format": "Compilation, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4300504,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "LP-88.073, 540 030-2-1/4",
+      "country": "Ecuador",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11273703,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Turkey",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22274641,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Indonesia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8477189,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Canada",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5832215,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "Greece",
+      "year": "1992",
+      "format": "LP, Compilation, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14404148,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Uruguay",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11006586,
+      "title": "Greatest Hits",
+      "label": "MG Records (2)",
+      "catalog_number": "MG 2430-314",
+      "country": "Poland",
+      "year": "1992",
+      "format": "Compilation, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15675528,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "LP-88.073, 540 030-2-1/4",
+      "country": "Ecuador",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6442495,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "Spain",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12085859,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Thailand",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9242065,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "UK",
+      "year": "1992",
+      "format": "LP, Compilation, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30878466,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Indonesia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3584697,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Argentina",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6442518,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-1",
+      "country": "Spain",
+      "year": "1992",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8155736,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Europe",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9061103,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "POCM-1010",
+      "country": "Japan",
+      "year": "1992",
+      "format": "Compilation, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16510980,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-2",
+      "country": "Israel",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15873421,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Australasia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11217787,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "none",
+      "country": "UK",
+      "year": "1992",
+      "format": "Compilation, Promo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24985210,
+      "title": "Greatest Hits",
+      "label": "Megastar",
+      "catalog_number": "155261",
+      "country": "Saudi Arabia",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13588147,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-5",
+      "country": "Netherlands",
+      "year": "1992",
+      "format": "Compilation",
+      "major_formats": [
+        "DCC"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11550703,
+      "title": "Greatest Hits",
+      "label": "A&M Records",
+      "catalog_number": "540 030-4",
+      "country": "Spain",
+      "year": "1993",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Argentina",
+    "Australasia",
+    "Bolivia",
+    "Bulgaria",
+    "Canada",
+    "Chile",
+    "Ecuador",
+    "Europe",
+    "France",
+    "Greece",
+    "India",
+    "Indonesia",
+    "Israel",
+    "Japan",
+    "Malaysia",
+    "Netherlands",
+    "Peru",
+    "Poland",
+    "Portugal",
+    "Saudi Arabia",
+    "Spain",
+    "Thailand",
+    "Turkey",
+    "UK",
+    "UK & Europe",
+    "Uruguay"
+  ],
+  "years_range": {
+    "earliest": "1992",
+    "latest": "1993"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "album": "Something/Anything",
+  "artist": "Todd Rundgren",
+  "source": "discogs",
+  "master": {
+    "master_id": 3249559,
+    "title": "Bang Bang",
+    "year": 2019,
+    "artists": [
+      "Todd Rundgren"
+    ],
+    "genres": [
+      "Electronic",
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Synth-pop",
+      "Alternative Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Bang Bang",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Bang Bang (Instrumental)",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 2.49,
+    "num_for_sale": 37,
+    "main_release": 14465006
+  },
+  "pressings": [
+    {
+      "release_id": 14465006,
+      "title": "Bang Bang",
+      "label": "Yep Roc Records",
+      "catalog_number": "SI-YEP-2663",
+      "country": "US",
+      "year": "2019",
+      "format": "7\", 45 RPM, Record Store Day, Single, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28376098,
+      "title": "Bang Bang",
+      "label": "Yep Roc Records",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "2020",
+      "format": "MP3, Single",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2019",
+    "latest": "2020"
+  }
+}

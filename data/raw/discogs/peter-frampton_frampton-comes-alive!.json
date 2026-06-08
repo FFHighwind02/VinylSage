@@ -1,0 +1,160 @@
+{
+  "album": "Frampton Comes Alive!",
+  "artist": "Peter Frampton",
+  "source": "discogs",
+  "master": {
+    "master_id": 1074942,
+    "title": "Icon",
+    "year": 2011,
+    "artists": [
+      "Peter Frampton"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Show Me The Way (Live)",
+        "duration": ""
+      },
+      {
+        "position": "2",
+        "title": "I Can't Stand It No More",
+        "duration": ""
+      },
+      {
+        "position": "3",
+        "title": "It's A Plain Shame",
+        "duration": ""
+      },
+      {
+        "position": "4",
+        "title": "Baby I Love Your Way (Live)",
+        "duration": ""
+      },
+      {
+        "position": "5",
+        "title": "Signed, Sealed, Delivered I'm Yours",
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "title": "(I'll Give You) Money",
+        "duration": ""
+      },
+      {
+        "position": "7",
+        "title": "Lines On My Face",
+        "duration": ""
+      },
+      {
+        "position": "8",
+        "title": "Baby (Somethin's Happening)",
+        "duration": ""
+      },
+      {
+        "position": "9",
+        "title": "Breaking All The Rules",
+        "duration": ""
+      },
+      {
+        "position": "10",
+        "title": "All I Want To Be (Is By Your Side)",
+        "duration": ""
+      },
+      {
+        "position": "11",
+        "title": "(Putting My) Heart On The Line",
+        "duration": ""
+      },
+      {
+        "position": "12",
+        "title": "Do You Feel Like We Do (Live)",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 1.06,
+    "num_for_sale": 39,
+    "main_release": 9202533
+  },
+  "pressings": [
+    {
+      "release_id": 9202533,
+      "title": "Icon",
+      "label": "A&M Records",
+      "catalog_number": "B0015267-02",
+      "country": "US",
+      "year": "2011",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10606821,
+      "title": "Icon",
+      "label": "A&M Records",
+      "catalog_number": "0602527620978",
+      "country": "Europe",
+      "year": "2011",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8417089,
+      "title": "Icon",
+      "label": "Universal Music Group International",
+      "catalog_number": "533 853-8",
+      "country": "Indonesia",
+      "year": "2012",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17824435,
+      "title": "Icon",
+      "label": "Universal Music Group International",
+      "catalog_number": "5338538",
+      "country": "Europe",
+      "year": "2012",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12942523,
+      "title": "Icon",
+      "label": "A&M Records",
+      "catalog_number": "060252762097",
+      "country": "Brazil",
+      "year": "2015",
+      "format": "Compilation, Reissue, Repress",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "Brazil",
+    "Europe",
+    "Indonesia",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2011",
+    "latest": "2015"
+  }
+}

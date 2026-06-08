@@ -1,0 +1,71 @@
+{
+  "album": "Van Halen",
+  "artist": "Van Halen",
+  "source": "discogs",
+  "master": {
+    "master_id": 761989,
+    "title": "必殺のハード・ラヴ = Somebody Get Me A Doctor",
+    "year": 1979,
+    "artists": [
+      "Van Halen",
+      "Van Halen"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Somebody Get Me A Doctor = 必殺のハード・ラヴ",
+        "duration": "2:52"
+      },
+      {
+        "position": "B",
+        "title": "Women In Love = ウィメン・イン・ラヴ",
+        "duration": "4:07"
+      }
+    ],
+    "lowest_price": 10.79,
+    "num_for_sale": 7,
+    "main_release": 5721459
+  },
+  "pressings": [
+    {
+      "release_id": 5721459,
+      "title": "必殺のハード・ラヴ = Somebody Get Me A Doctor",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-458W",
+      "country": "Japan",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6338204,
+      "title": "必殺のハード・ラヴ = Somebody Get Me A Doctor",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-458W",
+      "country": "Japan",
+      "year": "1979",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1979",
+    "latest": "1979"
+  }
+}

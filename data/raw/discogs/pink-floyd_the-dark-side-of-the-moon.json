@@ -1,0 +1,756 @@
+{
+  "album": "The Dark Side of the Moon",
+  "artist": "Pink Floyd",
+  "source": "discogs",
+  "master": {
+    "master_id": 10362,
+    "title": "The Dark Side Of The Moon",
+    "year": 1973,
+    "artists": [
+      "Pink Floyd"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Psychedelic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Speak To Me",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Breathe In The Air",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "On The Run",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Time",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "The Great Gig In The Sky",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Money",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Us And Them",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Any Colour You Like",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Brain Damage",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Eclipse",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.01,
+    "num_for_sale": 8619,
+    "main_release": 1873013
+  },
+  "pressings": [
+    {
+      "release_id": 8136235,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SMAS-11163",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10255816,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "5C062-05 249, 5C 062-05249",
+      "country": "Netherlands",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24571544,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SHVL 804",
+      "country": "UK",
+      "year": "1973",
+      "format": "LP, Album, Misprint, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4035953,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SHVLQ 804",
+      "country": "New Zealand",
+      "year": "1973",
+      "format": "LP, Album, Quadraphonic",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8030481,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "4XW-11163",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6442139,
+      "title": "El Lado Oscuro De La Luna",
+      "label": "Harvest",
+      "catalog_number": "6273",
+      "country": "Argentina",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13655729,
+      "title": "El Lado Oscuro De La Luna",
+      "label": "EMI",
+      "catalog_number": "ELD 02.21.257",
+      "country": "Peru",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3422671,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "TC-SHVL.804",
+      "country": "New Zealand",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9746184,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "8X-SHVL 804",
+      "country": "UK",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23773439,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "8XW-11163, 8XW 11163",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5892031,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "8X-SHVL 804, OC 346 o 05249",
+      "country": "UK",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14090263,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "4TCS-SHVL 804",
+      "country": "India",
+      "year": "1973",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23016464,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "TC-SHVL-804",
+      "country": "Australia",
+      "year": "1973",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31117199,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "4XW-11163",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26376899,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1C 346-05 249",
+      "country": "Germany",
+      "year": "1973",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9755577,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "TC-SHVL 804, OC 244 ◦ 05249",
+      "country": "Ireland",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15675557,
+      "title": "El Lado Oscuro De La Luna",
+      "label": "Harvest",
+      "catalog_number": "16273",
+      "country": "Argentina",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24532949,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "4C244 05249",
+      "country": "Belgium",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8314502,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SMAS-11163",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5281428,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SMAS 11163 , SMAS-11163",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9689531,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "EOP-80778",
+      "country": "Japan",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19629586,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1 C 062-05 249, SHVL 804, 1E 064 o 05249",
+      "country": "Germany",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13177743,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1C 064 05249, SHVL 804",
+      "country": "Sweden",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9165896,
+      "title": "El Lado Oscuro De La Luna - The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "6273",
+      "country": "Argentina",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15503610,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SHVL 804",
+      "country": "Philippines",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11915966,
+      "title": "The Dark Side Of The Moon",
+      "label": "Jugoton",
+      "catalog_number": "LQEMI 73009, Q4SHVL 804",
+      "country": "Yugoslavia",
+      "year": "1973",
+      "format": "LP, Album, Quadraphonic",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8746393,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "2C 244 05249, C 244-05.249",
+      "country": "France",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11185491,
+      "title": "The Dark Side Of The Moon ",
+      "label": "Harvest",
+      "catalog_number": "3C 244 05249",
+      "country": "Italy",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9097161,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "3C 344-05249",
+      "country": "Italy",
+      "year": "1973",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22506872,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SHVL 804, 1E 064 o 05249",
+      "country": "Singapore, Malaysia, Hong Kong & Thailand",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28774546,
+      "title": "The Dark Side Of The Moon",
+      "label": "Jugoton",
+      "catalog_number": "LQEMI 73009, Q4SHVL 804",
+      "country": "Yugoslavia",
+      "year": "1973",
+      "format": "LP, Album, Quadraphonic",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28799077,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "8XW-11163, 8XW 11163",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20754691,
+      "title": "El Lado Oscuro De la Luna",
+      "label": "Harvest",
+      "catalog_number": "26273",
+      "country": "Argentina",
+      "year": "1973",
+      "format": "Album, Misprint, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31232896,
+      "title": "El Lado Oscuro De la Luna",
+      "label": "Harvest",
+      "catalog_number": "26273",
+      "country": "Argentina",
+      "year": "1973",
+      "format": "Album, Misprint, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 37301394,
+      "title": "The Dark Side Of The Moon",
+      "label": "EMI",
+      "catalog_number": "11520",
+      "country": "Colombia",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 370444,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1 C 062-05 249",
+      "country": "Germany",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3417275,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SMAS-11163",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2846030,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1 C 062-05 249",
+      "country": "Germany",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2473535,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "TC-SHVL 804, 0C 244 o 05249",
+      "country": "UK",
+      "year": "1973",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4157353,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SHVL 804",
+      "country": "Greece",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4365837,
+      "title": "The Dark Side Of The Moon",
+      "label": "Jugoton",
+      "catalog_number": "LQEMI 73009, Q4SHVL 804",
+      "country": "Yugoslavia",
+      "year": "1973",
+      "format": "LP, Album, Quadraphonic",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5083571,
+      "title": "The Dark Side Of The Moon",
+      "label": "Jugoton",
+      "catalog_number": "LQEMI 73009, Q4SHVL 804",
+      "country": "Yugoslavia",
+      "year": "1973",
+      "format": "LP, Album, Quadraphonic",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5276304,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "3C 264 05249",
+      "country": "Italy",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30636433,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SMAS-11163",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9426522,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "SHVL 804",
+      "country": "Israel",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9196031,
+      "title": "The Dark Side Of The Moon ",
+      "label": "Harvest",
+      "catalog_number": "3C24405249",
+      "country": "Italy",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33137082,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1 C 062-05 249",
+      "country": "Germany",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14915709,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "7C 244 05249, 7C 244-05249",
+      "country": "Sweden",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21020308,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "64 1 052494, 3C 264 05249",
+      "country": "Italy",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12158989,
+      "title": "The Dark Side Of The Moon",
+      "label": "Harvest",
+      "catalog_number": "1C 244-05 249, 1c 244-05 249",
+      "country": "Germany",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Belgium",
+    "Canada",
+    "Colombia",
+    "France",
+    "Germany",
+    "Greece",
+    "India",
+    "Ireland",
+    "Israel",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Peru",
+    "Philippines",
+    "Singapore, Malaysia, Hong Kong & Thailand",
+    "Sweden",
+    "UK",
+    "US",
+    "Yugoslavia"
+  ],
+  "years_range": {
+    "earliest": "1973",
+    "latest": "1973"
+  }
+}

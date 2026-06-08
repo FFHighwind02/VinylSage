@@ -1,0 +1,353 @@
+{
+  "album": "Tubular Bells",
+  "artist": "Mike Oldfield",
+  "source": "discogs",
+  "master": {
+    "master_id": 340605,
+    "title": "Elements",
+    "year": 1993,
+    "artists": [
+      "Mike Oldfield"
+    ],
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Rock & Roll",
+      "Pop Rock",
+      "Prog Rock",
+      "Modern Classical",
+      "New Age",
+      "Soft Rock",
+      "Symphonic Rock",
+      "Classic Rock",
+      "Synth-pop",
+      "Experimental",
+      "Art Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Elements One",
+        "duration": ""
+      },
+      {
+        "position": "1-1",
+        "title": "Tubular Bells (Pt 1)",
+        "duration": "25:28"
+      },
+      {
+        "position": "1-2",
+        "title": "Tubular Bells (Pt 2)",
+        "duration": "23:19"
+      },
+      {
+        "position": "1-3",
+        "title": "Hergest Ridge (Excerpt)",
+        "duration": "9:30"
+      },
+      {
+        "position": "1-4",
+        "title": "In Dulci Jubilo",
+        "duration": "2:49"
+      },
+      {
+        "position": "1-5",
+        "title": "Portsmouth",
+        "duration": "2:01"
+      },
+      {
+        "position": "1-6",
+        "title": "Vivaldi (Concerto In C)",
+        "duration": "3:52"
+      },
+      {
+        "position": "",
+        "title": "Elements Two",
+        "duration": ""
+      },
+      {
+        "position": "2-1",
+        "title": "Ommadawn (Pt 1)",
+        "duration": "19:12"
+      },
+      {
+        "position": "2-2",
+        "title": "On Horseback",
+        "duration": "3:22"
+      },
+      {
+        "position": "2-3",
+        "title": "William Tell Overture",
+        "duration": "3:52"
+      },
+      {
+        "position": "2-4",
+        "title": "Argiers",
+        "duration": "3:57"
+      },
+      {
+        "position": "2-5",
+        "title": "First Excursion",
+        "duration": "5:53"
+      },
+      {
+        "position": "2-6",
+        "title": "Sailor's Hornpipe",
+        "duration": "1:31"
+      },
+      {
+        "position": "2-7",
+        "title": "Incantations (Pt 2 Excerpt)",
+        "duration": "12:15"
+      },
+      {
+        "position": "2-8",
+        "title": "Guilty",
+        "duration": "4:00"
+      },
+      {
+        "position": "2-9",
+        "title": "The Path",
+        "duration": "3:27"
+      },
+      {
+        "position": "2-10",
+        "title": "Blue Peter",
+        "duration": "2:05"
+      },
+      {
+        "position": "2-11",
+        "title": "Woodhenge",
+        "duration": "4:06"
+      },
+      {
+        "position": "2-12",
+        "title": "Punkadiddle (Live)",
+        "duration": "5:53"
+      },
+      {
+        "position": "2-13",
+        "title": "Polka (Live)",
+        "duration": "3:34"
+      },
+      {
+        "position": "",
+        "title": "Elements Three",
+        "duration": ""
+      },
+      {
+        "position": "3-1",
+        "title": "Platinum 3 & 4",
+        "duration": "7:59"
+      },
+      {
+        "position": "3-2",
+        "title": "Arrival",
+        "duration": "2:46"
+      },
+      {
+        "position": "3-3",
+        "title": "Taurus 1",
+        "duration": "10:15"
+      },
+      {
+        "position": "3-4",
+        "title": "QE2",
+        "duration": "7:38"
+      },
+      {
+        "position": "3-5",
+        "title": "Wonderful Land",
+        "duration": "2:48"
+      },
+      {
+        "position": "3-6",
+        "title": "Sheba",
+        "duration": "3:33"
+      },
+      {
+        "position": "3-7",
+        "title": "Five Miles Out",
+        "duration": "4:15"
+      },
+      {
+        "position": "3-8",
+        "title": "Taurus 2 (Excerpt)",
+        "duration": "7:57"
+      },
+      {
+        "position": "3-9",
+        "title": "Family Man",
+        "duration": "3:44"
+      },
+      {
+        "position": "3-10",
+        "title": "Mount Teidi",
+        "duration": "4:09"
+      },
+      {
+        "position": "3-11",
+        "title": "Waldberg (The Peak)",
+        "duration": "3:22"
+      },
+      {
+        "position": "3-12",
+        "title": "Crises (Excerpt)",
+        "duration": "5:25"
+      },
+      {
+        "position": "3-13",
+        "title": "Moonlight Shadow",
+        "duration": "3:36"
+      },
+      {
+        "position": "3-14",
+        "title": "Foreign Affair",
+        "duration": "3:53"
+      },
+      {
+        "position": "",
+        "title": "Elements Four",
+        "duration": ""
+      },
+      {
+        "position": "4-1",
+        "title": "Shadow On The Wall",
+        "duration": "5:05"
+      },
+      {
+        "position": "4-2",
+        "title": "Taurus 3",
+        "duration": "2:24"
+      },
+      {
+        "position": "4-3",
+        "title": "Crime Of Passion",
+        "duration": "3:37"
+      },
+      {
+        "position": "4-4",
+        "title": "Jungle Gardenia",
+        "duration": "2:41"
+      },
+      {
+        "position": "4-5",
+        "title": "To France",
+        "duration": "4:41"
+      },
+      {
+        "position": "4-6",
+        "title": "Afghan",
+        "duration": "2:38"
+      },
+      {
+        "position": "4-7",
+        "title": "Tricks Of The Light (Instrumental)",
+        "duration": "3:53"
+      },
+      {
+        "position": "4-8",
+        "title": "Etude",
+        "duration": "3:03"
+      },
+      {
+        "position": "4-9",
+        "title": "Evacuation",
+        "duration": "5:10"
+      },
+      {
+        "position": "4-10",
+        "title": "Legend",
+        "duration": "2:20"
+      },
+      {
+        "position": "4-11",
+        "title": "Islands",
+        "duration": "4:16"
+      },
+      {
+        "position": "4-12",
+        "title": "The Wind Chimes (Pt 1)",
+        "duration": "2:26"
+      },
+      {
+        "position": "4-13",
+        "title": "Flying Start",
+        "duration": "3:34"
+      },
+      {
+        "position": "4-14",
+        "title": "Magic Touch",
+        "duration": "4:10"
+      },
+      {
+        "position": "4-15",
+        "title": "Earth Moving",
+        "duration": "3:59"
+      },
+      {
+        "position": "4-16",
+        "title": "Far Country",
+        "duration": "4:24"
+      },
+      {
+        "position": "4-17",
+        "title": "One Glance Is Holy (Hard And Holy Mix)",
+        "duration": "3:42"
+      },
+      {
+        "position": "4-18",
+        "title": "Amarok (Excerpt)",
+        "duration": "6:16"
+      },
+      {
+        "position": "4-19",
+        "title": "Heaven's Open",
+        "duration": "4:28"
+      }
+    ],
+    "lowest_price": 11.47,
+    "num_for_sale": 47,
+    "main_release": 737437
+  },
+  "pressings": [
+    {
+      "release_id": 737437,
+      "title": "Elements",
+      "label": "Virgin",
+      "catalog_number": "7243 8 39089 2 9, CDBOX2",
+      "country": "UK & Europe",
+      "year": "1993",
+      "format": "Compilation, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2916744,
+      "title": "Elements",
+      "label": "Virgin",
+      "catalog_number": "CDBOXY 2, 07243 811412 2 9",
+      "country": "Europe",
+      "year": "0",
+      "format": "Compilation, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Europe",
+    "UK & Europe"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1993"
+  }
+}

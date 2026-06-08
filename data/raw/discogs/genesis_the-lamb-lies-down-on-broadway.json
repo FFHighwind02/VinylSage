@@ -1,0 +1,128 @@
+{
+  "album": "The Lamb Lies Down on Broadway",
+  "artist": "Genesis",
+  "source": "discogs",
+  "master": {
+    "master_id": 1353246,
+    "title": "The Story Of Genesis = ジェネシス・ストーリー",
+    "year": 1978,
+    "artists": [
+      "Genesis",
+      "Genesis"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Prog Rock",
+      "Art Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "The Knife = ナイフ",
+        "duration": "8:57"
+      },
+      {
+        "position": "A2",
+        "title": "The Musical Box = 怪奇のオルゴール",
+        "duration": "10:28"
+      },
+      {
+        "position": "A3",
+        "title": "Watcher Of The Skies = ウォッチャー・アブ・ザ・スカイズ",
+        "duration": "7:23"
+      },
+      {
+        "position": "",
+        "title": "Supper's Ready = サパーズ・レディー",
+        "duration": "22:59"
+      },
+      {
+        "position": "B2",
+        "title": "I Know What I Like (In Your Wardrobe) = アイ・ノウ・ファット・アイ・ライク",
+        "duration": "4:08"
+      },
+      {
+        "position": "C1",
+        "title": "The Lamb Lies Down On Broadway = 眩惑のブロードウェイ",
+        "duration": "4:49"
+      },
+      {
+        "position": "C2",
+        "title": "Dance On A Volcano = ダンス・オン・ア・ボルケーノ",
+        "duration": "5:54"
+      },
+      {
+        "position": "C3",
+        "title": "Squonk = スコンク",
+        "duration": "6:29"
+      },
+      {
+        "position": "C4",
+        "title": "Ripples = さざなみ",
+        "duration": "8:05"
+      },
+      {
+        "position": "D1",
+        "title": "Eleventh Earl Of Mar = イレブンス・アール・オブ・マー",
+        "duration": "7:40"
+      },
+      {
+        "position": "D2",
+        "title": "Your Own Special Way = ユア・オウン・スペシャル・ウェイ",
+        "duration": "6:16"
+      },
+      {
+        "position": "D3",
+        "title": "Burning Rope = バーニング・ロープ",
+        "duration": "7:09"
+      },
+      {
+        "position": "D4",
+        "title": "Follow You Follow Me = フォロー・ユー・フォロー・ミー",
+        "duration": "4:00"
+      }
+    ],
+    "lowest_price": 11.46,
+    "num_for_sale": 77,
+    "main_release": 1883828
+  },
+  "pressings": [
+    {
+      "release_id": 11900066,
+      "title": "The Story Of Genesis",
+      "label": "Charisma",
+      "catalog_number": "SFX-10061~2",
+      "country": "Japan",
+      "year": "1978",
+      "format": "LP, Compilation, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1883828,
+      "title": "The Story Of Genesis = ジェネシス・ストーリー",
+      "label": "Charisma",
+      "catalog_number": "SFX-10061~2",
+      "country": "Japan",
+      "year": "1978",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1978",
+    "latest": "1978"
+  }
+}

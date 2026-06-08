@@ -1,0 +1,328 @@
+{
+  "album": "Tapestry",
+  "artist": "Carole King",
+  "source": "discogs",
+  "master": {
+    "master_id": 283237,
+    "title": "So Far Away / Smackwater Jack",
+    "year": 1971,
+    "artists": [
+      "Carole King"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Soft Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "So Far Away",
+        "duration": "3:55"
+      },
+      {
+        "position": "B",
+        "title": "Smackwater Jack",
+        "duration": "3:39"
+      }
+    ],
+    "lowest_price": 0.85,
+    "num_for_sale": 167,
+    "main_release": 3932266
+  },
+  "pressings": [
+    {
+      "release_id": 5276060,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "AMS 867",
+      "country": "UK",
+      "year": "1971",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2158778,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "10453 AT, 10 453 AT",
+      "country": "Netherlands",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9449638,
+      "title": "So Far Away",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "US",
+      "year": "1971",
+      "format": "7\", 45 RPM, Promo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3620039,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "A&M Records",
+      "catalog_number": "AMS 867",
+      "country": "Scandinavia",
+      "year": "1971",
+      "format": "7\", Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6996110,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "Ode Records (2)",
+      "catalog_number": "N-35-29",
+      "country": "Portugal",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13559872,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "ODK-4366",
+      "country": "Australia",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5954808,
+      "title": "So Far Away",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "Canada",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2061476,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "A&M Records",
+      "catalog_number": "AMS 867",
+      "country": "US",
+      "year": "1971",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5905757,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "66.019",
+      "country": "France",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22422595,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "AMS 867",
+      "country": "UK",
+      "year": "1971",
+      "format": "7\", 45 RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7521742,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "10453 AT",
+      "country": "Germany",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3932266,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "US",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5170543,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "US",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10204275,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "AM-96",
+      "country": "Japan",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11147870,
+      "title": "So Far Away",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "US",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31196776,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "Canada",
+      "year": "1971",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13613808,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "ODK-4366",
+      "country": "New Zealand",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5872684,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "US",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30410861,
+      "title": "So Far Away",
+      "label": "Ode Records (2)",
+      "catalog_number": "ODE-66019",
+      "country": "Canada",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9537232,
+      "title": "So Far Away",
+      "label": "A&M Records",
+      "catalog_number": "AM-96",
+      "country": "Japan",
+      "year": "1971",
+      "format": "7\", Single, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3000798,
+      "title": "So Far Away / Smackwater Jack",
+      "label": "Ode Records (2)",
+      "catalog_number": "AMS 867ODE-66019",
+      "country": "US",
+      "year": "0",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 21,
+  "countries": [
+    "Australia",
+    "Canada",
+    "France",
+    "Germany",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Portugal",
+    "Scandinavia",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1971"
+  }
+}

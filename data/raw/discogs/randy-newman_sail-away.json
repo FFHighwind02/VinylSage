@@ -1,0 +1,85 @@
+{
+  "album": "Sail Away",
+  "artist": "Randy Newman",
+  "source": "discogs",
+  "master": {
+    "master_id": 863238,
+    "title": "Short People / Baltimore",
+    "year": 0,
+    "artists": [
+      "Randy Newman"
+    ],
+    "genres": [
+      "Pop",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Vocal"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Short People",
+        "duration": "2:54"
+      },
+      {
+        "position": "B",
+        "title": "Baltimore (Edit)",
+        "duration": "3:35"
+      }
+    ],
+    "lowest_price": 0.77,
+    "num_for_sale": 42,
+    "main_release": 7266264
+  },
+  "pressings": [
+    {
+      "release_id": 3504820,
+      "title": "Short People / Baltimore (Edit)",
+      "label": "Warner Bros. Records",
+      "catalog_number": "GWB 0356",
+      "country": "US",
+      "year": "1982",
+      "format": "7\", 45 RPM, Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6394827,
+      "title": "Short People / Baltimore",
+      "label": "Warner Bros. Records",
+      "catalog_number": "GS 45156",
+      "country": "Canada",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7266264,
+      "title": "Short People / Baltimore",
+      "label": "Warner Bros. Records",
+      "catalog_number": "GWB 0356",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM, Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Canada",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1982"
+  }
+}

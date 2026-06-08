@@ -1,0 +1,122 @@
+{
+  "album": "Aqualung",
+  "artist": "Jethro Tull",
+  "source": "discogs",
+  "master": {
+    "master_id": 4112887,
+    "title": "Golden Jethro Tull = ゴールデン・ジェスロ・タル",
+    "year": 1970,
+    "artists": [
+      "Jethro Tull",
+      "Jethro Tull"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Prog Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Bourée = ブーレ",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Witch's Promise = 悪魔の約束",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Sweet Dream = スウィート・ドリーム",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Beggar's Farm = ベガーズ・ファーム ",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Driving Song = ドライビングソング",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "title": "Serenade To A Cuckoo = カッコー・セレナーデ",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Love Story = ラブ・ストーリー",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Living In The Past = 思い出に生きて",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "My Sunday Feeling = 日曜日の印象",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Fat Man = ファット・マン",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Teacher = ザ・ティーチャー",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "title": "For A Thousand Mothers = フォー・ア・サウザンド・マザーズ",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 30.1,
+    "num_for_sale": 6,
+    "main_release": 7478192
+  },
+  "pressings": [
+    {
+      "release_id": 36331579,
+      "title": "Golden Jethro Tull = ゴールデン・ジェス",
+      "label": "Reprise Records",
+      "catalog_number": "SWG-7183",
+      "country": "Japan",
+      "year": "1970",
+      "format": "LP, Compilation, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7478192,
+      "title": "Golden Jethro Tull = ゴールデン・ジェスロ・タル",
+      "label": "Reprise Records",
+      "catalog_number": "SWG-7183",
+      "country": "Japan",
+      "year": "1970",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1970",
+    "latest": "1970"
+  }
+}

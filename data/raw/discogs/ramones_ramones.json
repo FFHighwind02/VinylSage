@@ -1,0 +1,71 @@
+{
+  "album": "Ramones",
+  "artist": "Ramones",
+  "source": "discogs",
+  "master": {
+    "master_id": 2120329,
+    "title": "Suzy Is A Headbanger = 好き好きスージー!!",
+    "year": 1977,
+    "artists": [
+      "Ramones",
+      "Ramones"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Punk"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Suzy Is A Headbanger",
+        "duration": "2:10"
+      },
+      {
+        "position": "B",
+        "title": "What's Your Game",
+        "duration": "2:35"
+      }
+    ],
+    "lowest_price": 688.0,
+    "num_for_sale": 3,
+    "main_release": 18671965
+  },
+  "pressings": [
+    {
+      "release_id": 18671965,
+      "title": "Suzy Is A Headbanger = 好き好きスージー!!",
+      "label": "Philips",
+      "catalog_number": "SFL-2152",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4392687,
+      "title": "Suzy Is A Headbanger",
+      "label": "Philips",
+      "catalog_number": "SFL-2152",
+      "country": "Japan",
+      "year": "1977",
+      "format": "7\", 45 RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1977",
+    "latest": "1977"
+  }
+}

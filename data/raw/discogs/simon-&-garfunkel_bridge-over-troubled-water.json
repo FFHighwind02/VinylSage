@@ -1,0 +1,71 @@
+{
+  "album": "Bridge Over Troubled Water",
+  "artist": "Simon & Garfunkel",
+  "source": "discogs",
+  "master": {
+    "master_id": 1885557,
+    "title": "America = アメリカ",
+    "year": 1972,
+    "artists": [
+      "Simon & Garfunkel",
+      "Simon & Garfunkel"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "America = アメリカ",
+        "duration": "3:34"
+      },
+      {
+        "position": "B",
+        "title": "Old Friends = オールド・フレンド（旧友)",
+        "duration": "2:36"
+      }
+    ],
+    "lowest_price": 1.26,
+    "num_for_sale": 27,
+    "main_release": 4577869
+  },
+  "pressings": [
+    {
+      "release_id": 16600722,
+      "title": "アメリカ = America / オールド・フレンド（旧友） = Old Friends",
+      "label": "CBS/Sony",
+      "catalog_number": "CBSA 82117",
+      "country": "Japan",
+      "year": "1972",
+      "format": "7\", 45 RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4577869,
+      "title": "America = アメリカ",
+      "label": "CBS/Sony",
+      "catalog_number": "CBSA 82117",
+      "country": "Japan",
+      "year": "1972",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1972",
+    "latest": "1972"
+  }
+}

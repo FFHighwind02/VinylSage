@@ -1,0 +1,286 @@
+{
+  "album": "Dreamboat Annie",
+  "artist": "Heart",
+  "source": "discogs",
+  "master": {
+    "master_id": 106527,
+    "title": "I Didn't Want To Need You",
+    "year": 1990,
+    "artists": [
+      "Heart"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Arena Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "I Didn't Want To Need You",
+        "duration": "4:05"
+      },
+      {
+        "position": "B",
+        "title": "The Night",
+        "duration": "4:53"
+      }
+    ],
+    "lowest_price": 0.43,
+    "num_for_sale": 336,
+    "main_release": 1499927
+  },
+  "pressings": [
+    {
+      "release_id": 29869786,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "TCCP 2428",
+      "country": "Australasia",
+      "year": "1990",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2813075,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "CL 580",
+      "country": "UK",
+      "year": "1990",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5334740,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "06 2039087",
+      "country": "Italy",
+      "year": "1990",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2733892,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "12CLP 580",
+      "country": "UK",
+      "year": "1990",
+      "format": "12\", Single, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4136330,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "060-20 3908 6, 060 20 3908 6",
+      "country": "Europe",
+      "year": "1990",
+      "format": "12\", Maxi-Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21878509,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "NR-44553",
+      "country": "US",
+      "year": "1990",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1780836,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "TCCL 580, TC-CL 580",
+      "country": "UK",
+      "year": "1990",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1723709,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "NR-44553",
+      "country": "US",
+      "year": "1990",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5933545,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "4JM-44553",
+      "country": "Canada",
+      "year": "1990",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3804593,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "4JM-44553",
+      "country": "US",
+      "year": "1990",
+      "format": "Single",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19109782,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "CP 2428",
+      "country": "Australasia",
+      "year": "1990",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33630840,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "14 2039086",
+      "country": "Italy",
+      "year": "1990",
+      "format": "12\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1966714,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "CDP 560-20 3908 2",
+      "country": "Germany",
+      "year": "1990",
+      "format": "Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1499927,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "006-20 3908 7",
+      "country": "Europe",
+      "year": "1990",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6246334,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "12CL 580",
+      "country": "UK",
+      "year": "1990",
+      "format": "12\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3423456,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "CDCL 580, 20 3908 2",
+      "country": "UK",
+      "year": "1990",
+      "format": "Single, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8471163,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "DPRO-79073",
+      "country": "US",
+      "year": "1990",
+      "format": "Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5305769,
+      "title": "I Didn't Want To Need You",
+      "label": "Capitol Records",
+      "catalog_number": "TODP-2195",
+      "country": "Japan",
+      "year": "1990",
+      "format": "Mini, Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 18,
+  "countries": [
+    "Australasia",
+    "Canada",
+    "Europe",
+    "Germany",
+    "Italy",
+    "Japan",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1990",
+    "latest": "1990"
+  }
+}

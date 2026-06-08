@@ -1,0 +1,121 @@
+{
+  "album": "Close to You",
+  "artist": "The Carpenters",
+  "source": "discogs",
+  "master": {
+    "master_id": 2405233,
+    "title": "What Heaven Means To Me",
+    "year": 1969,
+    "artists": [
+      "The Carpenters (2)"
+    ],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Country",
+      "Gospel"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "What Heaven Means To Me",
+        "duration": "2:42"
+      },
+      {
+        "position": "A2",
+        "title": "Grey Hairs In Mother's Head",
+        "duration": "3:11"
+      },
+      {
+        "position": "A3",
+        "title": "His Grace Is Sufficient",
+        "duration": "2:07"
+      },
+      {
+        "position": "A4",
+        "title": "Too Much To Gain To Lose",
+        "duration": "3:12"
+      },
+      {
+        "position": "A5",
+        "title": "That Same Road",
+        "duration": "2:31"
+      },
+      {
+        "position": "A6",
+        "title": "Jesus Is Coming Soon",
+        "duration": "1:42"
+      },
+      {
+        "position": "B1",
+        "title": "That's Just His Way",
+        "duration": "2:22"
+      },
+      {
+        "position": "B2",
+        "title": "Had It Not Been",
+        "duration": "2:11"
+      },
+      {
+        "position": "B3",
+        "title": "He Filled The Longing",
+        "duration": "1:55"
+      },
+      {
+        "position": "B4",
+        "title": "One More Valley",
+        "duration": "2:04"
+      },
+      {
+        "position": "B5",
+        "title": "Sometimes A Mountain",
+        "duration": "2:23"
+      },
+      {
+        "position": "B6",
+        "title": "He Really Cares For You",
+        "duration": "2:15"
+      }
+    ],
+    "lowest_price": 10.75,
+    "num_for_sale": 2,
+    "main_release": 14080432
+  },
+  "pressings": [
+    {
+      "release_id": 14080432,
+      "title": "What Heaven Means To Me",
+      "label": "Jewel Records (4)",
+      "catalog_number": "LPS 159",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21212302,
+      "title": "What Heaven Means To Me",
+      "label": "Jewel Records (4)",
+      "catalog_number": "LPS 159",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1969",
+    "latest": "1969"
+  }
+}

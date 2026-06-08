@@ -1,0 +1,199 @@
+{
+  "album": "Grievous Angel",
+  "artist": "Gram Parsons",
+  "source": "discogs",
+  "master": {
+    "master_id": 761009,
+    "title": "Cosmic American Music",
+    "year": 1995,
+    "artists": [
+      "Gram Parsons"
+    ],
+    "genres": [
+      "Rock",
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Country Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Song For You",
+        "duration": "0:27"
+      },
+      {
+        "position": "2",
+        "title": "Kentucky Blues",
+        "duration": "3:05"
+      },
+      {
+        "position": "3",
+        "title": "Streets Of Baltimore",
+        "duration": "2:54"
+      },
+      {
+        "position": "4",
+        "title": "Folsom Prison Blues",
+        "duration": "2:54"
+      },
+      {
+        "position": "5",
+        "title": "Lovesick Blues",
+        "duration": "0:43"
+      },
+      {
+        "position": "6",
+        "title": "The New Soft Shoe",
+        "duration": "4:44"
+      },
+      {
+        "position": "7",
+        "title": "How Much I've Lied",
+        "duration": "3:15"
+      },
+      {
+        "position": "8",
+        "title": "Still Feeling Blue",
+        "duration": "0:32"
+      },
+      {
+        "position": "9",
+        "title": "Still Feeling Blues",
+        "duration": "2:34"
+      },
+      {
+        "position": "10",
+        "title": "Ain't No Beatle, Ain't No Rolling Stone",
+        "duration": "5:28"
+      },
+      {
+        "position": "",
+        "title": "Medley",
+        "duration": "4:38"
+      },
+      {
+        "position": "12",
+        "title": "A Song For You",
+        "duration": "9:47"
+      },
+      {
+        "position": "13",
+        "title": "Streets Of Baltimore",
+        "duration": "4:04"
+      },
+      {
+        "position": "14",
+        "title": "That's All It Took",
+        "duration": "2:55"
+      },
+      {
+        "position": "15",
+        "title": "Somebody's Back In Town",
+        "duration": "2:02"
+      },
+      {
+        "position": "16",
+        "title": "More And More",
+        "duration": "2:55"
+      },
+      {
+        "position": "17",
+        "title": "Teaching Emmy To Sweep Out The Ashes",
+        "duration": "1:40"
+      },
+      {
+        "position": "18",
+        "title": "Daddy's Fiddle",
+        "duration": "6:58"
+      },
+      {
+        "position": "19",
+        "title": "We'll Sweep Out The Ashes In The Morning",
+        "duration": "2:57"
+      },
+      {
+        "position": "20",
+        "title": "Cold Cold Heart",
+        "duration": "5:19"
+      },
+      {
+        "position": "21",
+        "title": "That's All It Took",
+        "duration": "3:20"
+      },
+      {
+        "position": "22",
+        "title": "A Song For You",
+        "duration": "5:18"
+      }
+    ],
+    "lowest_price": 6.88,
+    "num_for_sale": 27,
+    "main_release": 5743005
+  },
+  "pressings": [
+    {
+      "release_id": 5743005,
+      "title": "Cosmic American Music",
+      "label": "The Magnum Music Group",
+      "catalog_number": "CDSD 077",
+      "country": "UK",
+      "year": "1995",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4561367,
+      "title": "Cosmic American Music",
+      "label": "Magnum America",
+      "catalog_number": "MACD 019",
+      "country": "US",
+      "year": "1996",
+      "format": "Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5671319,
+      "title": "The Lost Recordings",
+      "label": "Cowboy Music (2)",
+      "catalog_number": "CMLR0101",
+      "country": "UK",
+      "year": "2003",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19875610,
+      "title": "Cosmic American Music",
+      "label": "Magnum America",
+      "catalog_number": "MACD 019",
+      "country": "US",
+      "year": "0",
+      "format": "Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2003"
+  }
+}

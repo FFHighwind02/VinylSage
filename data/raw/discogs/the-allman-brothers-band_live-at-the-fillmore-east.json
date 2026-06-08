@@ -1,0 +1,748 @@
+{
+  "album": "Live at the Fillmore East",
+  "artist": "The Allman Brothers Band",
+  "source": "discogs",
+  "master": {
+    "master_id": 17245,
+    "title": "Eat A Peach",
+    "year": 1972,
+    "artists": [
+      "The Allman Brothers Band"
+    ],
+    "genres": [
+      "Rock",
+      "Blues"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Southern Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Ain't Wastin' Time No More",
+        "duration": "3:40"
+      },
+      {
+        "position": "A2",
+        "title": "Les Brers In A Minor",
+        "duration": "9:03"
+      },
+      {
+        "position": "A3",
+        "title": "Melissa",
+        "duration": "3:54"
+      },
+      {
+        "position": "B",
+        "title": "Mountain Jam",
+        "duration": "19:37"
+      },
+      {
+        "position": "C1",
+        "title": "One Way Out",
+        "duration": "4:58"
+      },
+      {
+        "position": "C2",
+        "title": "Trouble No More",
+        "duration": "3:43"
+      },
+      {
+        "position": "C3",
+        "title": "Stand Back",
+        "duration": "3:24"
+      },
+      {
+        "position": "C4",
+        "title": "Blue Sky",
+        "duration": "5:09"
+      },
+      {
+        "position": "C5",
+        "title": "Little Martha",
+        "duration": "2:07"
+      },
+      {
+        "position": "D",
+        "title": "Mountain Jam Cont'd.",
+        "duration": "15:06"
+      }
+    ],
+    "lowest_price": 0.85,
+    "num_for_sale": 1585,
+    "main_release": 1284784
+  },
+  "pressings": [
+    {
+      "release_id": 16675701,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "K 67501 ",
+      "country": "UK",
+      "year": "1972",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12074983,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CST 0102-P-DP",
+      "country": "US",
+      "year": "1972",
+      "format": "3 ¾ ips, 7 ½ ips, ¼\", 4-Track Stereo, 7\" Cine Reel, Album",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12497681,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "0102, CAP J8 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11795461,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25332595,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5168902,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP - 0102",
+      "country": "Australia",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17655934,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "K 67501 , CAP 67 501",
+      "country": "UK",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6402316,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "500-9/10",
+      "country": "Spain",
+      "year": "1972",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18326635,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CAP J8 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14122121,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20345719,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9867447,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "K 67501",
+      "country": "UK",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12480272,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "0102, CAR J 80102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7753237,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WBLP-5.009",
+      "country": "Brazil",
+      "year": "1972",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9407409,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CST 0102-P-DP",
+      "country": "US",
+      "year": "1972",
+      "format": "7 ½ ips, 4-Track Stereo, 7\" Cine Reel, Album",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33412565,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP - 0102",
+      "country": "Australia",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4018525,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2 CP 0102",
+      "country": "Canada",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7942269,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2 CP 0102",
+      "country": "Canada",
+      "year": "1972",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14215323,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "67 501",
+      "country": "France",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 37398873,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "0102, J 80102, 94379",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3631657,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "STBO-94379, 2CP 0102 , 94379",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8272798,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23103137,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15762766,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-5047~8W",
+      "country": "Japan",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13978583,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "K 67501",
+      "country": "UK",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31474922,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "0102, J50102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4950679,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "K 67501",
+      "country": "UK",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8020816,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "K67501",
+      "country": "Italy",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2199798,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CND 25010, 2CP 0102",
+      "country": "South Africa",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16695204,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "J 80102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13678188,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "2CP 0102",
+      "country": "Australia",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3904543,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "P-5047~8W",
+      "country": "Japan",
+      "year": "1972",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14076686,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CAJ 80102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4854818,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13833477,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CAP 67 501, 2 CP 0102",
+      "country": "Germany",
+      "year": "1972",
+      "format": "LP, Album, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4496717,
+      "title": "Eat A Peach",
+      "label": "Polydor",
+      "catalog_number": "M5N-2-0102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12348141,
+      "title": "Eat A Peach",
+      "label": "Warner Bros. Records",
+      "catalog_number": "150.001-2",
+      "country": "Venezuela",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15549099,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1403129,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "67501, 67 501",
+      "country": "France",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20146018,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5347890,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "Philippines",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21853081,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "0102, J50102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30828405,
+      "title": "Eat A Peach",
+      "label": "Polydor",
+      "catalog_number": "M5N-2-0102, M5N-0102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6782319,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "CAP 67 501, 2 CP 0102",
+      "country": "Germany",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4068360,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2 CP 0102",
+      "country": "Canada",
+      "year": "1972",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33030810,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12613939,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "J 80102, 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33518069,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP - 0102",
+      "country": "Australia",
+      "year": "1972",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5067720,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12301599,
+      "title": "Eat A Peach",
+      "label": "Capricorn Records",
+      "catalog_number": "2CP 0102",
+      "country": "US",
+      "year": "1972",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "France",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Philippines",
+    "South Africa",
+    "Spain",
+    "UK",
+    "US",
+    "Venezuela"
+  ],
+  "years_range": {
+    "earliest": "1972",
+    "latest": "1972"
+  }
+}

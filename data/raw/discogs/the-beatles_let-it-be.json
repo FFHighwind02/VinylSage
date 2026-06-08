@@ -1,0 +1,143 @@
+{
+  "album": "Let It Be",
+  "artist": "The Beatles",
+  "source": "discogs",
+  "master": {
+    "master_id": 2653064,
+    "title": "Perfect Collection Vol. 4 (1964) = パーフェクト・コレクション 4",
+    "year": 1987,
+    "artists": [
+      "The Beatles",
+      "The Beatles"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Beat",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "家に帰れば = When I Get Home",
+        "duration": "2:17"
+      },
+      {
+        "position": "2",
+        "title": "アイル・ビー・バック = I'll Be Back",
+        "duration": "2:22"
+      },
+      {
+        "position": "3",
+        "title": "アイ・フィール・ファイン = I Feel Fine",
+        "duration": "2:19"
+      },
+      {
+        "position": "4",
+        "title": "ノー・リプライ = No Reply",
+        "duration": "2:16"
+      },
+      {
+        "position": "5",
+        "title": "アイム・ア・ルーザー = I'm A Loser",
+        "duration": "2:30"
+      },
+      {
+        "position": "6",
+        "title": "ベイビーズ・イン・ブラック = Baby's In Black",
+        "duration": "2:05"
+      },
+      {
+        "position": "7",
+        "title": "ロック・アンド・ロール・ミュージック = Rock And Roll Music",
+        "duration": "2:32"
+      },
+      {
+        "position": "8",
+        "title": "アイル・フォロー・ザ・サン = I'll Follow The Sun",
+        "duration": "1:49"
+      },
+      {
+        "position": "9",
+        "title": "ミスター・ムーンライト = Mr. Moonlight",
+        "duration": "2:39"
+      },
+      {
+        "position": "10",
+        "title": "カンサス・シティ = Kansas City - Hey, Hey, Hey, Hey",
+        "duration": "2:39"
+      },
+      {
+        "position": "11",
+        "title": "エイト・デイズ・ア・ウィーク = Eight Days A Week",
+        "duration": "2:44"
+      },
+      {
+        "position": "12",
+        "title": "ワーズ・オブ・ラヴ = Words Of Love",
+        "duration": "2:05"
+      },
+      {
+        "position": "13",
+        "title": "ハニー・ドント = Honey Don't",
+        "duration": "2:58"
+      },
+      {
+        "position": "14",
+        "title": "エヴリー リトル・シング = Every Little Thing",
+        "duration": "2:04"
+      },
+      {
+        "position": "15",
+        "title": "パーティはそのままに = I Don't Want To Spoil The Party",
+        "duration": "2:34"
+      },
+      {
+        "position": "16",
+        "title": "ホワット・ユー・アー・ドゥーイング = What You're Doing",
+        "duration": "2:32"
+      }
+    ],
+    "lowest_price": 142.76,
+    "num_for_sale": 1,
+    "main_release": 3676340
+  },
+  "pressings": [
+    {
+      "release_id": 23400797,
+      "title": "Perfect Collection Vol. 4 (1964)",
+      "label": "TF",
+      "catalog_number": "TC-1009",
+      "country": "Japan",
+      "year": "1987",
+      "format": "Compilation, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3676340,
+      "title": "Perfect Collection Vol. 4 (1964) = パーフェクト・コレクション 4",
+      "label": "TF",
+      "catalog_number": "T-1814",
+      "country": "Japan",
+      "year": "1987",
+      "format": "Compilation, Reissue, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1987",
+    "latest": "1987"
+  }
+}

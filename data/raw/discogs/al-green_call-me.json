@@ -1,0 +1,157 @@
+{
+  "album": "Call Me",
+  "artist": "Al Green",
+  "source": "discogs",
+  "master": {
+    "master_id": 457571,
+    "title": "Hi Life - The Best Of Al Green",
+    "year": 1988,
+    "artists": [
+      "Al Green"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Let's Stay Together",
+        "duration": "4:45"
+      },
+      {
+        "position": "A2",
+        "title": "Tired Of Being Alone",
+        "duration": "2:50"
+      },
+      {
+        "position": "A3",
+        "title": "Sha La La (Make Me Happy)",
+        "duration": "2:55"
+      },
+      {
+        "position": "A4",
+        "title": "Look What You Done For Me",
+        "duration": "3:04"
+      },
+      {
+        "position": "A5",
+        "title": "How Can You Mend A Broken Heart",
+        "duration": "6:22"
+      },
+      {
+        "position": "A6",
+        "title": "Full Of Fire",
+        "duration": "5:09"
+      },
+      {
+        "position": "A7",
+        "title": "Take Me To The River",
+        "duration": "3:43"
+      },
+      {
+        "position": "B1",
+        "title": "Love And Happiness",
+        "duration": "5:05"
+      },
+      {
+        "position": "B2",
+        "title": "I'm Still In Love With You",
+        "duration": "3:12"
+      },
+      {
+        "position": "B3",
+        "title": "You Ought To Be With Me",
+        "duration": "3:15"
+      },
+      {
+        "position": "B4",
+        "title": "Call Me (Come Back Home)",
+        "duration": "3:03"
+      },
+      {
+        "position": "B5",
+        "title": "Here I Am (Come And Take Me)",
+        "duration": "4:15"
+      },
+      {
+        "position": "B6",
+        "title": "Let's Get Married",
+        "duration": "5:34"
+      },
+      {
+        "position": "B7",
+        "title": "L.O.V.E. (Love)",
+        "duration": "3:03"
+      }
+    ],
+    "lowest_price": 2.01,
+    "num_for_sale": 32,
+    "main_release": 1248437
+  },
+  "pressings": [
+    {
+      "release_id": 1248437,
+      "title": "Hi Life - The Best Of Al Green",
+      "label": "K-Tel",
+      "catalog_number": "NE 1420",
+      "country": "UK",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3145102,
+      "title": "Hi Life - The Best Of Al Green",
+      "label": "K-tel",
+      "catalog_number": "NCD 3420",
+      "country": "UK & Ireland",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4185364,
+      "title": "Hi Life - The Best Of Al Green",
+      "label": "K-Tel",
+      "catalog_number": "CE 2420",
+      "country": "UK",
+      "year": "1988",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15082724,
+      "title": "Hi Life - The Best Of Al Green",
+      "label": "K-Tel",
+      "catalog_number": "NE 1420",
+      "country": "UK",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "UK",
+    "UK & Ireland"
+  ],
+  "years_range": {
+    "earliest": "1988",
+    "latest": "1988"
+  }
+}

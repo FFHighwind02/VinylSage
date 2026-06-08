@@ -1,0 +1,190 @@
+{
+  "album": "Q: Are We Not Men? A: We Are Devo!",
+  "artist": "Devo",
+  "source": "discogs",
+  "master": {
+    "master_id": 1693080,
+    "title": "Social Fools (The Virgin Singles 1978 - 1982)",
+    "year": 2015,
+    "artists": [
+      "Devo"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "New Wave",
+      "Punk"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Come Back Jonee",
+        "duration": "3:25"
+      },
+      {
+        "position": "2",
+        "title": "Social Fools",
+        "duration": "2:55"
+      },
+      {
+        "position": "3",
+        "title": "The Day My Baby Gave Me A Surprize",
+        "duration": "2:44"
+      },
+      {
+        "position": "4",
+        "title": "Penetration In The Centrefold",
+        "duration": "2:30"
+      },
+      {
+        "position": "5",
+        "title": "Secret Agent Man",
+        "duration": "3:38"
+      },
+      {
+        "position": "6",
+        "title": "Soo Bawlz",
+        "duration": "2:24"
+      },
+      {
+        "position": "7",
+        "title": "Girl U Want",
+        "duration": "2:59"
+      },
+      {
+        "position": "8",
+        "title": "Turn Around",
+        "duration": "2:15"
+      },
+      {
+        "position": "9",
+        "title": "Whip It",
+        "duration": "2:40"
+      },
+      {
+        "position": "10",
+        "title": "Snowball",
+        "duration": "2:31"
+      },
+      {
+        "position": "11",
+        "title": "Gates Of Steel",
+        "duration": "3:30"
+      },
+      {
+        "position": "12",
+        "title": "Through Being Cool",
+        "duration": "3:14"
+      },
+      {
+        "position": "13",
+        "title": "Race Of Doom",
+        "duration": "3:45"
+      },
+      {
+        "position": "14",
+        "title": "Working In A Coalmine",
+        "duration": "2:52"
+      },
+      {
+        "position": "15",
+        "title": "Enough Said",
+        "duration": "3:29"
+      },
+      {
+        "position": "16",
+        "title": "Beautiful World",
+        "duration": "3:36"
+      },
+      {
+        "position": "17",
+        "title": "The Super Thing",
+        "duration": "4:22"
+      },
+      {
+        "position": "18",
+        "title": "Peek-A-Boo!",
+        "duration": "3:02"
+      },
+      {
+        "position": "19",
+        "title": "Find Out",
+        "duration": "3:25"
+      },
+      {
+        "position": "",
+        "title": "Bonus Tracks",
+        "duration": ""
+      },
+      {
+        "position": "20",
+        "title": "Peek-A-Boo! (Dance Velocity)",
+        "duration": "4:40"
+      },
+      {
+        "position": "21",
+        "title": "Peek-A-Boo! (Devo Dub)",
+        "duration": "5:26"
+      },
+      {
+        "position": "22",
+        "title": "Flimsy Wrap",
+        "duration": "3:38"
+      }
+    ],
+    "lowest_price": 7.17,
+    "num_for_sale": 21,
+    "main_release": 7741035
+  },
+  "pressings": [
+    {
+      "release_id": 32224956,
+      "title": "Social Fools: The Virgin Singles 1978 - 1982",
+      "label": "Virgin",
+      "catalog_number": "none",
+      "country": "Italy",
+      "year": "2015",
+      "format": "MP3, Compilation",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7741035,
+      "title": "Social Fools (The Virgin Singles 1978 - 1982)",
+      "label": "Virgin EMI Records",
+      "catalog_number": "CAROLR023CD, 00600753641149",
+      "country": "Europe",
+      "year": "2015",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14874424,
+      "title": "Social Fools (The Virgin Singles 1978 - 1982)",
+      "label": "Virgin EMI Records",
+      "catalog_number": "CAROLR023CD, 00600753641149",
+      "country": "Europe",
+      "year": "0",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Europe",
+    "Italy"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2015"
+  }
+}

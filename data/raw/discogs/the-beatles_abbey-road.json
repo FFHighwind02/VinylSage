@@ -1,0 +1,791 @@
+{
+  "album": "Abbey Road",
+  "artist": "The Beatles",
+  "source": "discogs",
+  "master": {
+    "master_id": 24047,
+    "title": "Abbey Road",
+    "year": 1969,
+    "artists": [
+      "The Beatles"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Come Together",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Something",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Maxwell's Silver Hammer",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Oh! Darling",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Octopus's Garden",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "title": "I Want You (She's So Heavy)",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Here Comes The Sun",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Because",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "You Never Give Me Your Money",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Sun King",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Mean Mr. Mustard",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "title": "Polythene Pam",
+        "duration": ""
+      },
+      {
+        "position": "B7",
+        "title": "She Came In Through The Bathroom Window",
+        "duration": ""
+      },
+      {
+        "position": "B8",
+        "title": "Golden Slumbers",
+        "duration": ""
+      },
+      {
+        "position": "B9",
+        "title": "Carry That Weight",
+        "duration": ""
+      },
+      {
+        "position": "B10",
+        "title": "The End",
+        "duration": ""
+      },
+      {
+        "position": "B11",
+        "title": "Her Majesty",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.62,
+    "num_for_sale": 5943,
+    "main_release": 2607424
+  },
+  "pressings": [
+    {
+      "release_id": 733049,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "1 C 062-04 243",
+      "country": "Germany",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11355957,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7801798,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 806769,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "2 C 062-04243, 2C 062-04243",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 612916,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "3C 062-04243, PMCQ 31520",
+      "country": "Italy",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6416427,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "5C 062.04243",
+      "country": "Netherlands",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20607994,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2716956,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "Denmark",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14581605,
+      "title": "Abbey Road",
+      "label": "Les Industries Musicales Et Electriques Pathé Marconi",
+      "catalog_number": "2 C 062-04243",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3975130,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "34/44-6010",
+      "country": "Argentina",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10414228,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "LPSV-P-379",
+      "country": "Yugoslavia",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28282912,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCSO-7088",
+      "country": "Australia",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6220984,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "TC-PCS 7088",
+      "country": "Sweden",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29300917,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PMCQ 31520, 3C 062-04243",
+      "country": "Italy",
+      "year": "1969",
+      "format": "LP, Album, Misprint",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19044229,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "4XT-383, 4XT 383",
+      "country": "Canada",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2498807,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1896042,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "Canada",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3635655,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "Norway",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13677209,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCSO-7088",
+      "country": "Australia",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6970029,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "Norway",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7037600,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "4XT-383, 4XT 383",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22780097,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29331103,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3444767,
+      "title": "Abbey Road",
+      "label": "First Record",
+      "catalog_number": "FL-1777",
+      "country": "Taiwan",
+      "year": "1969",
+      "format": "LP, Album, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31540111,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9742520,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "Clem-179",
+      "country": "Mexico",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29631025,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "Singapore, Malaysia & Hong Kong",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23869019,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "34-6010",
+      "country": "Argentina",
+      "year": "1969",
+      "format": "LP, Album, Promo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28767799,
+      "title": "Abbey Road",
+      "label": "Taedo",
+      "catalog_number": "EU 253",
+      "country": "South Korea",
+      "year": "1969",
+      "format": "LP, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31865258,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PMC 7088",
+      "country": "Philippines",
+      "year": "1969",
+      "format": "LP, Album, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7313452,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6479999,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36235480,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "Canada",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35808250,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PMCQ 31520, 3C 062-04243",
+      "country": "Italy",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8165169,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "2 C 062-04243, 2C 062-04243",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11146250,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3842192,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCSM.7088",
+      "country": "New Zealand",
+      "year": "1969",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25292800,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCSO-7088",
+      "country": "Australia",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23491685,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Misprint, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20505643,
+      "title": "Abbey Road",
+      "label": "Parlophone",
+      "catalog_number": "PPCS 7088",
+      "country": "Kenya",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10343950,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SAPL 30506",
+      "country": "Uruguay",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8179114,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "8XT-383, 8XT 383",
+      "country": "Canada",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9113289,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "TA-PMC 7088",
+      "country": "UK",
+      "year": "1969",
+      "format": "3 ¾ ips, 2-Track Mono, Album",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3972811,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3964466,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10654583,
+      "title": "Abby Road",
+      "label": "KAMA (3)",
+      "catalog_number": "KLP-100",
+      "country": "Iran",
+      "year": "1969",
+      "format": "LP, Album, Reissue, Unofficial Release, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4062967,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2660094,
+      "title": "Abbey Road",
+      "label": "Parlophone",
+      "catalog_number": "PCSJ 7088",
+      "country": "South Africa",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4799104,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "SO-383",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4838753,
+      "title": "Abbey Road",
+      "label": "Apple Records",
+      "catalog_number": "PCS 7088",
+      "country": "Singapore, Malaysia & Hong Kong",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Canada",
+    "Denmark",
+    "France",
+    "Germany",
+    "Iran",
+    "Italy",
+    "Kenya",
+    "Mexico",
+    "Netherlands",
+    "New Zealand",
+    "Norway",
+    "Philippines",
+    "Singapore, Malaysia & Hong Kong",
+    "South Africa",
+    "South Korea",
+    "Sweden",
+    "Taiwan",
+    "UK",
+    "US",
+    "Uruguay",
+    "Yugoslavia"
+  ],
+  "years_range": {
+    "earliest": "1969",
+    "latest": "1969"
+  }
+}

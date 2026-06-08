@@ -1,0 +1,129 @@
+{
+  "album": "Horses",
+  "artist": "Patti Smith",
+  "source": "discogs",
+  "master": {
+    "master_id": 1423217,
+    "title": "Live At Bottom Line",
+    "year": 0,
+    "artists": [
+      "Patti Smith"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "New Wave"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "We Gonna A Real Good Time Together",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Set Me Free",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Spunky",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Redondo Beach",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Free Money",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "title": "Blue Eyes - Louie Louie",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Mafia",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Birdland",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Horses-Gloria",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Time Is On My Side",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "My Generation",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 13.0,
+    "num_for_sale": 16,
+    "main_release": 1310818
+  },
+  "pressings": [
+    {
+      "release_id": 33328989,
+      "title": "Live At Bottom Line",
+      "label": "Free Flight (2)",
+      "catalog_number": "50.153 Y",
+      "country": "Germany",
+      "year": "0",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12524234,
+      "title": "Live At Bottom Line",
+      "label": "Free Flight (2)",
+      "catalog_number": "50.153 Y",
+      "country": "Germany",
+      "year": "0",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1310818,
+      "title": "Live At Bottom Line",
+      "label": "Free Flight (2)",
+      "catalog_number": "50.153 Y",
+      "country": "Germany",
+      "year": "0",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Germany"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "0"
+  }
+}

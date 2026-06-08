@@ -1,0 +1,97 @@
+{
+  "album": "Let's Get It On",
+  "artist": "Marvin Gaye",
+  "source": "discogs",
+  "master": {
+    "master_id": 1592193,
+    "title": "Mercy Mercy Me (The Ecology) / Chained",
+    "year": 0,
+    "artists": [
+      "Marvin Gaye"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Mercy Mercy Me (The Ecology)",
+        "duration": "2:39"
+      },
+      {
+        "position": "B",
+        "title": "Chained",
+        "duration": "2:35"
+      }
+    ],
+    "lowest_price": 2.49,
+    "num_for_sale": 13,
+    "main_release": 14013219
+  },
+  "pressings": [
+    {
+      "release_id": 2372604,
+      "title": "Mercy Mercy Me (The Ecology) / Chained",
+      "label": "Motown",
+      "catalog_number": "Y 532F",
+      "country": "US",
+      "year": "1973",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 615555,
+      "title": "Mercy Mercy Me (The Ecology)",
+      "label": "Collectables",
+      "catalog_number": "COL-532",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14013219,
+      "title": "Mercy Mercy Me (The Ecology) / Chained",
+      "label": "Motown",
+      "catalog_number": "Y 532F",
+      "country": "Canada",
+      "year": "0",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3730152,
+      "title": "Mercy Mercy Me (The Ecology) / Chained",
+      "label": "Collectables",
+      "catalog_number": "MOT 00532",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Canada",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1973"
+  }
+}

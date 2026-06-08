@@ -1,0 +1,97 @@
+{
+  "album": "Exile on Main St.",
+  "artist": "The Rolling Stones",
+  "source": "discogs",
+  "master": {
+    "master_id": 944305,
+    "title": "テル・ミー  = Tell Me",
+    "year": 1968,
+    "artists": [
+      "The Rolling Stones",
+      "The Rolling Stones"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Tell Me = テル・ミー",
+        "duration": "3:49"
+      },
+      {
+        "position": "B",
+        "title": "Time Is On My Side = タイム・イズ・オン・マイ・サイド",
+        "duration": "3:03"
+      }
+    ],
+    "lowest_price": 2.57,
+    "num_for_sale": 107,
+    "main_release": 7983950
+  },
+  "pressings": [
+    {
+      "release_id": 8049518,
+      "title": "テル・ミー  = Tell Me / Time Is On My Side",
+      "label": "London Records",
+      "catalog_number": "TOP-1242",
+      "country": "Japan",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1693725,
+      "title": "テル・ミー",
+      "label": "London Records",
+      "catalog_number": "TOP-1242",
+      "country": "Japan",
+      "year": "1968",
+      "format": "7\", Single, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7983950,
+      "title": "テル・ミー  = Tell Me",
+      "label": "London Records",
+      "catalog_number": "TOP-1242",
+      "country": "Japan",
+      "year": "1968",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9252598,
+      "title": "Tell Me/Time Is On My Side",
+      "label": "London Records",
+      "catalog_number": "S07P 1032",
+      "country": "Japan",
+      "year": "1983",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1968",
+    "latest": "1983"
+  }
+}

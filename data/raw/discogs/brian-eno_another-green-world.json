@@ -1,0 +1,749 @@
+{
+  "album": "Another Green World",
+  "artist": "Brian Eno",
+  "source": "discogs",
+  "master": {
+    "master_id": 6152,
+    "title": "Here Come The Warm Jets",
+    "year": 1974,
+    "artists": [
+      "Brian Eno"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Art Rock",
+      "Glam"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Needles In The Camel's Eye",
+        "duration": "3:25"
+      },
+      {
+        "position": "A2",
+        "title": "The Paw Paw Negro Blowtorch",
+        "duration": "3:00"
+      },
+      {
+        "position": "A3",
+        "title": "Baby's On Fire",
+        "duration": "5:15"
+      },
+      {
+        "position": "A4",
+        "title": "Cindy Tells Me",
+        "duration": "3:30"
+      },
+      {
+        "position": "A5",
+        "title": "Driving Me Backwards",
+        "duration": "5:15"
+      },
+      {
+        "position": "B6",
+        "title": "On Some Faraway Beach",
+        "duration": "4:40"
+      },
+      {
+        "position": "B7",
+        "title": "Blank Frank",
+        "duration": "3:35"
+      },
+      {
+        "position": "B8",
+        "title": "Dead Finks Don't Talk",
+        "duration": "4:20"
+      },
+      {
+        "position": "B9",
+        "title": "Some Of Them Are Old",
+        "duration": "4:40"
+      },
+      {
+        "position": "B10",
+        "title": "Here Come The Warm Jets",
+        "duration": "4:00"
+      }
+    ],
+    "lowest_price": 2.95,
+    "num_for_sale": 796,
+    "main_release": 35610
+  },
+  "pressings": [
+    {
+      "release_id": 31458203,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Canada",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 839120,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "6396 032",
+      "country": "France",
+      "year": "1974",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2786023,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Sweden",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4557475,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "87665-I, 87.665 - I",
+      "country": "Spain",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4796757,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album, Test Pressing",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16258257,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ZCI 9268",
+      "country": "UK",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2062742,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1801316,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Canada",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2881936,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268, 87 665 IT",
+      "country": "Netherlands",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3683594,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "410.042",
+      "country": "Brazil",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2489132,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ZCI 9268",
+      "country": "UK",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11867525,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16885971,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ZCI 9268",
+      "country": "UK",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9487360,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILS-80061",
+      "country": "Japan",
+      "year": "1974",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32230155,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "UK",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11694253,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24424052,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Scandinavia",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15283303,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ZCI-9268",
+      "country": "US",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6446448,
+      "title": "Here Come The Warm Jets = イーノ、その妖艶な世界",
+      "label": "Island Records",
+      "catalog_number": "ICL-63",
+      "country": "Japan",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17874097,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "Y81-9268",
+      "country": "US",
+      "year": "1974",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12414160,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILS-80061",
+      "country": "Japan",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1993678,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 19268",
+      "country": "Italy",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5542570,
+      "title": "Here Come The Warm Jets",
+      "label": "Jugoton",
+      "catalog_number": "LSI 70604",
+      "country": "Yugoslavia",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12769491,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILK 719268",
+      "country": "Italy",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15535853,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "Y81-9268",
+      "country": "Canada",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1686128,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "87 665 IT",
+      "country": "Germany",
+      "year": "1974",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13690714,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6952241,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "Y81 9268",
+      "country": "UK",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9806678,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 35610,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "UK",
+      "year": "1974",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18123388,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1974",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3613779,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "Y81-9268",
+      "country": "US",
+      "year": "1974",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5576629,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1975",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 36249478,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1975",
+      "format": "LP, Album, Club Edition, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12260027,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "L-35654",
+      "country": "New Zealand",
+      "year": "1975",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10324682,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1975",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15164374,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "US",
+      "year": "1975",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11836953,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Canada",
+      "year": "1975",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4798203,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "L-35654",
+      "country": "Australia",
+      "year": "1975",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18165472,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Canada",
+      "year": "1976",
+      "format": "LP, Album, Reissue, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13566321,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "3100 363",
+      "country": "Germany",
+      "year": "1977",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 222274,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2302 063",
+      "country": "Germany",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7862755,
+      "title": "Here Come The Warm Jets",
+      "label": "Island Records",
+      "catalog_number": "ILPS 9268",
+      "country": "Canada",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 915230,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2344 095",
+      "country": "Germany",
+      "year": "1977",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2842181,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2302-063, 2302 063",
+      "country": "UK",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3971199,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2310 574",
+      "country": "Italy",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12772541,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2302 063, 2302-063",
+      "country": "UK",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1044137,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2310 574",
+      "country": "New Zealand",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1429603,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2459 351",
+      "country": "Germany",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14436224,
+      "title": "Here Come The Warm Jets",
+      "label": "Polydor",
+      "catalog_number": "2344 095",
+      "country": "Germany",
+      "year": "1977",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "Brazil",
+    "Canada",
+    "France",
+    "Germany",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Scandinavia",
+    "Spain",
+    "Sweden",
+    "UK",
+    "US",
+    "Yugoslavia"
+  ],
+  "years_range": {
+    "earliest": "1974",
+    "latest": "1977"
+  }
+}

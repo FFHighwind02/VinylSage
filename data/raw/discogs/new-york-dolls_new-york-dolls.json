@@ -1,0 +1,97 @@
+{
+  "album": "New York Dolls",
+  "artist": "New York Dolls",
+  "source": "discogs",
+  "master": {
+    "master_id": 556841,
+    "title": "Dance Like A Monkey",
+    "year": 2006,
+    "artists": [
+      "New York Dolls"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Punk"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Dance Like A Monkey (Radio Edit)",
+        "duration": "3:19"
+      },
+      {
+        "position": "2",
+        "title": "Dance Like A Monkey (Album Version)",
+        "duration": "3:38"
+      }
+    ],
+    "lowest_price": 1.71,
+    "num_for_sale": 22,
+    "main_release": 2782646
+  },
+  "pressings": [
+    {
+      "release_id": 2782646,
+      "title": "Dance Like A Monkey",
+      "label": "Roadrunner Records",
+      "catalog_number": "RR PROMO 935",
+      "country": "Europe",
+      "year": "2006",
+      "format": "Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13017456,
+      "title": "Dance Like A Monkey",
+      "label": "Roadrunner Records",
+      "catalog_number": "none",
+      "country": "US",
+      "year": "2006",
+      "format": "Single, Promo",
+      "major_formats": [
+        "CDr"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2657983,
+      "title": "Dance Like A Monkey",
+      "label": "Roadrunner Records",
+      "catalog_number": "RDRR 10167-1",
+      "country": "US",
+      "year": "2006",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11563165,
+      "title": "Dance Like A Monkey",
+      "label": "Roadrunner Records",
+      "catalog_number": "RDRR 10161-2",
+      "country": "US",
+      "year": "2006",
+      "format": "Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Europe",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2006",
+    "latest": "2006"
+  }
+}

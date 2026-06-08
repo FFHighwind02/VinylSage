@@ -1,0 +1,222 @@
+{
+  "album": "Young, Gifted and Black",
+  "artist": "Aretha Franklin",
+  "source": "discogs",
+  "master": {
+    "master_id": 965183,
+    "title": "The Collection",
+    "year": 1986,
+    "artists": [
+      "Aretha Franklin"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Rhythm & Blues",
+      "Soul"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Walk On By",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "It Ain't Necessarily So",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Exactly Like You",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Try A Little Tenderness",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "I'm Sitting On The Top Of The World",
+        "duration": ""
+      },
+      {
+        "position": "A6",
+        "title": "Skylark",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Solitude",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Where Are You",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "What A Difference A Day Made (Live)",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Once In A Lifetime (Live)",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Love For Sale (Live)",
+        "duration": ""
+      },
+      {
+        "position": "B6",
+        "title": "Swanee",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "Over The Rainbow",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "title": "You Made Me Love You",
+        "duration": ""
+      },
+      {
+        "position": "C3",
+        "title": "I Surrender Dear",
+        "duration": ""
+      },
+      {
+        "position": "C4",
+        "title": "Look For The Silver Lining",
+        "duration": ""
+      },
+      {
+        "position": "C5",
+        "title": "Lover Come Back To Me",
+        "duration": ""
+      },
+      {
+        "position": "C6",
+        "title": "Make Someone Happy",
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "title": "Say It Isn't So",
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "title": "Unforgettable",
+        "duration": ""
+      },
+      {
+        "position": "D3",
+        "title": "My Guy",
+        "duration": ""
+      },
+      {
+        "position": "D4",
+        "title": "Misty",
+        "duration": ""
+      },
+      {
+        "position": "D5",
+        "title": "Ol Man River",
+        "duration": ""
+      },
+      {
+        "position": "D6",
+        "title": "I Apologise",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.94,
+    "num_for_sale": 74,
+    "main_release": 955968
+  },
+  "pressings": [
+    {
+      "release_id": 8442342,
+      "title": "The Aretha Franklin Collection",
+      "label": "Castle Communications PLC",
+      "catalog_number": "CCSMC 152",
+      "country": "UK",
+      "year": "1986",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 955968,
+      "title": "The Collection",
+      "label": "Castle Communications",
+      "catalog_number": "CCSLP 152",
+      "country": "UK",
+      "year": "1986",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11141614,
+      "title": "The Collection Part 2",
+      "label": "Castle Communications",
+      "catalog_number": "CCSMC 152-2",
+      "country": "Europe",
+      "year": "1986",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 757805,
+      "title": "The Collection",
+      "label": "Castle Communications PLC",
+      "catalog_number": "CCSCD 152",
+      "country": "UK",
+      "year": "1987",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 27703923,
+      "title": "The Collection",
+      "label": "Castle Communications PLC",
+      "catalog_number": "CCSCD 152",
+      "country": "Australia",
+      "year": "1992",
+      "format": "Compilation, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "Australia",
+    "Europe",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1986",
+    "latest": "1992"
+  }
+}

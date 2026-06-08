@@ -1,0 +1,71 @@
+{
+  "album": "Risque",
+  "artist": "Chic",
+  "source": "discogs",
+  "master": {
+    "master_id": 937106,
+    "title": "Le Freak / I Want Your Love",
+    "year": 1978,
+    "artists": [
+      "Chic"
+    ],
+    "genres": [
+      "Electronic",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Disco"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Le Freak",
+        "duration": "3:30"
+      },
+      {
+        "position": "B",
+        "title": "I Want Your Love",
+        "duration": "3:28"
+      }
+    ],
+    "lowest_price": 0.95,
+    "num_for_sale": 35,
+    "main_release": 6519137
+  },
+  "pressings": [
+    {
+      "release_id": 6519137,
+      "title": "Le Freak / I Want Your Love",
+      "label": "Atlantic",
+      "catalog_number": "OS 13215",
+      "country": "US",
+      "year": "1978",
+      "format": "7\", 45 RPM, Single, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1539826,
+      "title": "Le Freak / I Want Your Love",
+      "label": "Atlantic",
+      "catalog_number": "OS 13215",
+      "country": "US",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1978",
+    "latest": "1980"
+  }
+}

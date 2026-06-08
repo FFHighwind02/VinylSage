@@ -1,0 +1,72 @@
+{
+  "album": "Quadrophenia",
+  "artist": "The Who",
+  "source": "discogs",
+  "master": {
+    "master_id": 1257899,
+    "title": "Out In The Street = アウト・イン・ザ・ストリート",
+    "year": 1966,
+    "artists": [
+      "The Who",
+      "The Who"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Mod"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Out In The Street",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Please, Please, Please",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 27.84,
+    "num_for_sale": 9,
+    "main_release": 3914562
+  },
+  "pressings": [
+    {
+      "release_id": 3914562,
+      "title": "Out In The Street = アウト・イン・ザ・ストリート",
+      "label": "Decca",
+      "catalog_number": "DS-457",
+      "country": "Japan",
+      "year": "1966",
+      "format": "7\", 45 RPM, Single, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11054461,
+      "title": "アウト・イン・ザ・ストリート/プリーズ・プリーズ・プリーズ = Out In The Street / Please Please Please",
+      "label": "Polydor",
+      "catalog_number": "UICY-78496, DS-457",
+      "country": "Japan",
+      "year": "2017",
+      "format": "Single, Limited Edition, Reissue, Remastered, Mono",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1966",
+    "latest": "2017"
+  }
+}

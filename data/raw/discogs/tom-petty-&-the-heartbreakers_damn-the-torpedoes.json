@@ -1,0 +1,572 @@
+{
+  "album": "Damn The Torpedoes",
+  "artist": "Tom Petty & the Heartbreakers",
+  "source": "discogs",
+  "master": {
+    "master_id": 1119790,
+    "title": "The Complete Studio Albums Volume 1 (1976-1991)",
+    "year": 2016,
+    "artists": [
+      "Tom Petty And The Heartbreakers"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Southern Rock",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Tom Petty And The Heartbreakers",
+        "duration": ""
+      },
+      {
+        "position": "A1",
+        "title": "Rockin' Around (With You) ",
+        "duration": "2:26"
+      },
+      {
+        "position": "A2",
+        "title": "Breakdown",
+        "duration": "2:42"
+      },
+      {
+        "position": "A3",
+        "title": "Hometown Blues",
+        "duration": "2:14"
+      },
+      {
+        "position": "A4",
+        "title": "The Wild One, Forever",
+        "duration": "3:01"
+      },
+      {
+        "position": "A5",
+        "title": "Anything That's Rock 'N' Roll",
+        "duration": "2:23"
+      },
+      {
+        "position": "B1",
+        "title": "Strangered In The Night",
+        "duration": "3:32"
+      },
+      {
+        "position": "B2",
+        "title": "Fooled Again (I Don't Like It)",
+        "duration": "3:54"
+      },
+      {
+        "position": "B3",
+        "title": "Mystery Man",
+        "duration": "3:04"
+      },
+      {
+        "position": "B4",
+        "title": "Luna",
+        "duration": "3:59"
+      },
+      {
+        "position": "B5",
+        "title": "American Girl",
+        "duration": "3:33"
+      },
+      {
+        "position": "",
+        "title": "You're Gonna Get It!",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "When The Time Comes",
+        "duration": "2:48"
+      },
+      {
+        "position": "C2",
+        "title": "You're Gonna Get It",
+        "duration": "2:57"
+      },
+      {
+        "position": "C3",
+        "title": "Hurt",
+        "duration": "3:17"
+      },
+      {
+        "position": "C4",
+        "title": "Magnolia",
+        "duration": "2:59"
+      },
+      {
+        "position": "C5",
+        "title": "Too Much Ain't Enough",
+        "duration": "2:46"
+      },
+      {
+        "position": "D1",
+        "title": "I Need To Know",
+        "duration": "2:23"
+      },
+      {
+        "position": "D2",
+        "title": "Listen To Her Heart",
+        "duration": "3:01"
+      },
+      {
+        "position": "D3",
+        "title": "No Second Thoughts",
+        "duration": "2:38"
+      },
+      {
+        "position": "D4",
+        "title": "Restless",
+        "duration": "3:22"
+      },
+      {
+        "position": "D5",
+        "title": "Baby's A Rock 'N' Roller",
+        "duration": "2:54"
+      },
+      {
+        "position": "",
+        "title": "Damn The Torpedoes",
+        "duration": ""
+      },
+      {
+        "position": "E1",
+        "title": "Refugee",
+        "duration": "3:21"
+      },
+      {
+        "position": "E2",
+        "title": "Here Comes My Girl",
+        "duration": "4:33"
+      },
+      {
+        "position": "E3",
+        "title": "Even The Losers",
+        "duration": "3:35"
+      },
+      {
+        "position": "E4",
+        "title": "Shadow Of A Doubt (A Complex Kid)",
+        "duration": "4:53"
+      },
+      {
+        "position": "E5",
+        "title": "Century City",
+        "duration": "3:40"
+      },
+      {
+        "position": "F1",
+        "title": "Don't Do Me Like That",
+        "duration": "2:40"
+      },
+      {
+        "position": "F2",
+        "title": "You Tell Me",
+        "duration": "4:32"
+      },
+      {
+        "position": "F3",
+        "title": "What Are You Doin' In My Life",
+        "duration": "3:25"
+      },
+      {
+        "position": "F4",
+        "title": "Louisiana Rain",
+        "duration": "4:46"
+      },
+      {
+        "position": "",
+        "title": "Hard Promises",
+        "duration": ""
+      },
+      {
+        "position": "G1",
+        "title": "The Waiting",
+        "duration": "3:54"
+      },
+      {
+        "position": "G2",
+        "title": "A Woman In Love (It's Not Me)",
+        "duration": "4:21"
+      },
+      {
+        "position": "G3",
+        "title": "Nightwatchman",
+        "duration": "3:58"
+      },
+      {
+        "position": "G4",
+        "title": "Something Big",
+        "duration": "4:45"
+      },
+      {
+        "position": "G5",
+        "title": "Kings Road",
+        "duration": "3:21"
+      },
+      {
+        "position": "H1",
+        "title": "Letting You Go",
+        "duration": "3:22"
+      },
+      {
+        "position": "H2",
+        "title": "A Thing About You",
+        "duration": "3:32"
+      },
+      {
+        "position": "H3",
+        "title": "Insider",
+        "duration": "4:21"
+      },
+      {
+        "position": "H4",
+        "title": "The Criminal Kind",
+        "duration": "3:55"
+      },
+      {
+        "position": "H5",
+        "title": "You Can Still Change Your Mind",
+        "duration": "4:01"
+      },
+      {
+        "position": "",
+        "title": "Long After Dark",
+        "duration": ""
+      },
+      {
+        "position": "I1",
+        "title": "A One Story Town",
+        "duration": "3:05"
+      },
+      {
+        "position": "I2",
+        "title": "You Got Lucky",
+        "duration": "3:37"
+      },
+      {
+        "position": "I3",
+        "title": "Deliver Me",
+        "duration": "3:27"
+      },
+      {
+        "position": "I4",
+        "title": "Change Of Heart",
+        "duration": "3:19"
+      },
+      {
+        "position": "I5",
+        "title": "Finding Out",
+        "duration": "3:35"
+      },
+      {
+        "position": "J1",
+        "title": "We Stand A Chance",
+        "duration": "3:37"
+      },
+      {
+        "position": "J2",
+        "title": "Straight Into Darkness",
+        "duration": "3:48"
+      },
+      {
+        "position": "J3",
+        "title": "The Same Old You",
+        "duration": "3:29"
+      },
+      {
+        "position": "J4",
+        "title": "Between Two Worlds",
+        "duration": "5:10"
+      },
+      {
+        "position": "J5",
+        "title": "A Wasted Life",
+        "duration": "4:37"
+      },
+      {
+        "position": "",
+        "title": "Southern Accents",
+        "duration": ""
+      },
+      {
+        "position": "K1",
+        "title": "Rebels",
+        "duration": "5:29"
+      },
+      {
+        "position": "K2",
+        "title": "It Ain't Nothin' To Me",
+        "duration": "5:10"
+      },
+      {
+        "position": "K3",
+        "title": "Don't Come Around Here No More",
+        "duration": "5:06"
+      },
+      {
+        "position": "K4",
+        "title": "Southern Accents",
+        "duration": "3:11"
+      },
+      {
+        "position": "L1",
+        "title": "Make It Better (Forget About Me)",
+        "duration": "4:17"
+      },
+      {
+        "position": "L2",
+        "title": "Spike",
+        "duration": "3:32"
+      },
+      {
+        "position": "L3",
+        "title": "Dogs On The Run",
+        "duration": "3:39"
+      },
+      {
+        "position": "L4",
+        "title": "Mary's New Car",
+        "duration": "3:45"
+      },
+      {
+        "position": "L5",
+        "title": "The Best Of Everything",
+        "duration": "3:59"
+      },
+      {
+        "position": "",
+        "title": "\"Let Me Up (I've Had Enough)\"",
+        "duration": ""
+      },
+      {
+        "position": "M1",
+        "title": "Jammin' Me",
+        "duration": "4:09"
+      },
+      {
+        "position": "M2",
+        "title": "Runaway Trains",
+        "duration": "5:13"
+      },
+      {
+        "position": "M3",
+        "title": "The Damage You've Done",
+        "duration": "3:53"
+      },
+      {
+        "position": "M4",
+        "title": "It'll All Work Out",
+        "duration": "3:11"
+      },
+      {
+        "position": "M5",
+        "title": "My Life / Your World",
+        "duration": "4:40"
+      },
+      {
+        "position": "N1",
+        "title": "Think About Me",
+        "duration": "3:45"
+      },
+      {
+        "position": "N2",
+        "title": "All Mixed Up",
+        "duration": "3:42"
+      },
+      {
+        "position": "N3",
+        "title": "A Self-Made Man",
+        "duration": "3:02"
+      },
+      {
+        "position": "N4",
+        "title": "Ain't Love Strange",
+        "duration": "2:40"
+      },
+      {
+        "position": "N5",
+        "title": "How Many More Days",
+        "duration": "3:18"
+      },
+      {
+        "position": "N6",
+        "title": "Let Me Up (I've Had Enough)\t",
+        "duration": "3:31"
+      },
+      {
+        "position": "",
+        "title": "Full Moon Fever",
+        "duration": ""
+      },
+      {
+        "position": "O1",
+        "title": "Free Fallin' ",
+        "duration": "4:14"
+      },
+      {
+        "position": "O2",
+        "title": "I Won't Back Down",
+        "duration": "2:56"
+      },
+      {
+        "position": "O3",
+        "title": "Love Is A Long Road",
+        "duration": "4:06"
+      },
+      {
+        "position": "O4",
+        "title": "A Face In The Crowd",
+        "duration": "3:58"
+      },
+      {
+        "position": "O5",
+        "title": "Runnin' Down A Dream",
+        "duration": "4:23"
+      },
+      {
+        "position": "P1",
+        "title": "Feel A Whole Lot Better",
+        "duration": "2:47"
+      },
+      {
+        "position": "P2",
+        "title": "Yer So Bad",
+        "duration": "3:05"
+      },
+      {
+        "position": "P3",
+        "title": "Depending On You ",
+        "duration": "2:47"
+      },
+      {
+        "position": "P4",
+        "title": "The Apartment Song",
+        "duration": "2:31"
+      },
+      {
+        "position": "P5",
+        "title": "Alright For Now",
+        "duration": "2:00"
+      },
+      {
+        "position": "P6",
+        "title": "A Mind With A Heart Of Its Own",
+        "duration": "3:29"
+      },
+      {
+        "position": "P7",
+        "title": "Zombie Zoo",
+        "duration": "2:58"
+      },
+      {
+        "position": "",
+        "title": "Into The Great Wide Open",
+        "duration": ""
+      },
+      {
+        "position": "Q1",
+        "title": "Learning To Fly",
+        "duration": "4:01"
+      },
+      {
+        "position": "Q2",
+        "title": "King's Highway",
+        "duration": "3:05"
+      },
+      {
+        "position": "Q3",
+        "title": "Into The Great Wide Open",
+        "duration": "3:42"
+      },
+      {
+        "position": "Q4",
+        "title": "Two Gunslingers",
+        "duration": "3:08"
+      },
+      {
+        "position": "Q5",
+        "title": "The Dark Of The Sun",
+        "duration": "3:23"
+      },
+      {
+        "position": "Q6",
+        "title": "All Or Nothin'",
+        "duration": "4:05"
+      },
+      {
+        "position": "R1",
+        "title": "All The Wrong Reasons",
+        "duration": "3:44"
+      },
+      {
+        "position": "R2",
+        "title": "Too Good To Be True",
+        "duration": "3:58"
+      },
+      {
+        "position": "R3",
+        "title": "Out In The Cold",
+        "duration": "3:41"
+      },
+      {
+        "position": "R4",
+        "title": "You And I Will Meet Again",
+        "duration": "3:45"
+      },
+      {
+        "position": "R5",
+        "title": "Makin' Some Noise",
+        "duration": "3:25"
+      },
+      {
+        "position": "R6",
+        "title": "Built To Last",
+        "duration": "3:59"
+      }
+    ],
+    "lowest_price": 17.2,
+    "num_for_sale": 19,
+    "main_release": 9521857
+  },
+  "pressings": [
+    {
+      "release_id": 11037403,
+      "title": "The Complete Studio Albums Volume 1 (1976-1991)",
+      "label": "UMe",
+      "catalog_number": "B0025178-01",
+      "country": "US",
+      "year": "2016",
+      "format": "Compilation, Limited Edition",
+      "major_formats": [
+        "Box Set"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9521857,
+      "title": "The Complete Studio Albums Volume 1 (1976-1991)",
+      "label": "UMe",
+      "catalog_number": "00602547952158",
+      "country": "Europe",
+      "year": "2016",
+      "format": "Compilation, Limited Edition",
+      "major_formats": [
+        "Box Set"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Europe",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2016",
+    "latest": "2016"
+  }
+}

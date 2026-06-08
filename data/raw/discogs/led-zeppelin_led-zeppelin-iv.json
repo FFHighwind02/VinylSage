@@ -1,0 +1,94 @@
+{
+  "album": "Led Zeppelin IV",
+  "artist": "Led Zeppelin",
+  "source": "discogs",
+  "master": {
+    "master_id": 4172,
+    "title": "Perversions E.P.",
+    "year": 1996,
+    "artists": [
+      "Lenk"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Techno",
+      "Minimal"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "XXX",
+        "duration": "3:58"
+      },
+      {
+        "position": "A2",
+        "title": "Sex",
+        "duration": "5:27"
+      },
+      {
+        "position": "B1",
+        "title": "Xes",
+        "duration": "4:18"
+      },
+      {
+        "position": "B2",
+        "title": "YYY",
+        "duration": "4:41"
+      }
+    ],
+    "lowest_price": 4.29,
+    "num_for_sale": 20,
+    "main_release": 56993
+  },
+  "pressings": [
+    {
+      "release_id": 56993,
+      "title": "Perversions E.P.",
+      "label": "Blank LTD",
+      "catalog_number": "BLANK 002",
+      "country": "Sweden",
+      "year": "1996",
+      "format": "12\", EP, 33 ⅓ RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1077956,
+      "title": "Perversions EP",
+      "label": "Blank LTD",
+      "catalog_number": "BL002",
+      "country": "Sweden",
+      "year": "1996",
+      "format": "12\", White Label, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1603550,
+      "title": "Perversions EP",
+      "label": "Blank LTD",
+      "catalog_number": "BL002",
+      "country": "Sweden",
+      "year": "1996",
+      "format": "12\", White Label, Promo, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Sweden"
+  ],
+  "years_range": {
+    "earliest": "1996",
+    "latest": "1996"
+  }
+}

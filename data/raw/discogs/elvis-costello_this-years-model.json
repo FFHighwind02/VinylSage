@@ -1,0 +1,772 @@
+{
+  "album": "This Year's Model",
+  "artist": "Elvis Costello",
+  "source": "discogs",
+  "master": {
+    "master_id": 39511,
+    "title": "Spike",
+    "year": 1989,
+    "artists": [
+      "Elvis Costello"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Alternative Rock",
+      "Rock & Roll"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "...This Town...",
+        "duration": "4:26"
+      },
+      {
+        "position": "A2",
+        "title": "Let Him Dangle",
+        "duration": "4:44"
+      },
+      {
+        "position": "A3",
+        "title": "Deep Dark Truthful Mirror",
+        "duration": "4:03"
+      },
+      {
+        "position": "A4",
+        "title": "Veronica",
+        "duration": "3:10"
+      },
+      {
+        "position": "A5",
+        "title": "God's Comic",
+        "duration": "5:27"
+      },
+      {
+        "position": "A6",
+        "title": "Chewing Gum",
+        "duration": "3:43"
+      },
+      {
+        "position": "A7",
+        "title": "Tramp The Dirt Down",
+        "duration": "5:40"
+      },
+      {
+        "position": "B1",
+        "title": "Stalin Malone",
+        "duration": "4:04"
+      },
+      {
+        "position": "B2",
+        "title": "Satellite",
+        "duration": "5:42"
+      },
+      {
+        "position": "B3",
+        "title": "Pads, Paws And Claws",
+        "duration": "2:54"
+      },
+      {
+        "position": "B4",
+        "title": "Baby Plays Around",
+        "duration": "2:48"
+      },
+      {
+        "position": "B5",
+        "title": "Miss MacBeth",
+        "duration": "4:22"
+      },
+      {
+        "position": "B6",
+        "title": "Any King's Shilling",
+        "duration": "6:03"
+      },
+      {
+        "position": "B7",
+        "title": "Last Boat Leaving",
+        "duration": "3:15"
+      }
+    ],
+    "lowest_price": 0.43,
+    "num_for_sale": 1221,
+    "main_release": 1069989
+  },
+  "pressings": [
+    {
+      "release_id": 33021711,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25848",
+      "country": "US",
+      "year": "1989",
+      "format": "Album, Promo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3351752,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W2 25848",
+      "country": "US",
+      "year": "1989",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3024167,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-1",
+      "country": "Greece",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1579107,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "92 58481",
+      "country": "Canada",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4940352,
+      "title": "Spike",
+      "label": "Jugoton",
+      "catalog_number": "CAWB 9431",
+      "country": "Yugoslavia",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15386375,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "90133",
+      "country": "Argentina",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12705452,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25848-4, 4-25848",
+      "country": "US",
+      "year": "1989",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15141552,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-4",
+      "country": "Spain",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14289011,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "4-25848, 9 25848-4",
+      "country": "US",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1724716,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "92 58484",
+      "country": "Canada",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13165985,
+      "title": "Spike = スパイク",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25P2-2491",
+      "country": "Japan",
+      "year": "1989",
+      "format": "Album, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12829744,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W4 25848",
+      "country": "Canada",
+      "year": "1989",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12800790,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-1",
+      "country": "Israel",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20630206,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25848-4",
+      "country": "Australia",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21158347,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-4",
+      "country": "Greece",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1931040,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "1-25848, 9 25848-1",
+      "country": "US",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4174183,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WX 238C, 925 848-4",
+      "country": "Europe",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12306488,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25848-2",
+      "country": "US",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31021243,
+      "title": "Spike = スパイク",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25P2-2491",
+      "country": "Japan",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10967555,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-1",
+      "country": "Portugal",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4619807,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-1",
+      "country": "Spain",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9842734,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25848-2",
+      "country": "US",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3643457,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25848-1",
+      "country": "US",
+      "year": "1989",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6189404,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-1",
+      "country": "Greece",
+      "year": "1989",
+      "format": "LP, Album, Test Pressing, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 576857,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 848-2",
+      "country": "Europe",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23147897,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9258484",
+      "country": "Portugal",
+      "year": "1989",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2393356,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "CD 25848",
+      "country": "Canada",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14615318,
+      "title": " Spike ",
+      "label": "Warner Bros. Records",
+      "catalog_number": "1-25848",
+      "country": "South Korea",
+      "year": "1989",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24783656,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W0182-9, 9 25848-4",
+      "country": "Indonesia",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2980435,
+      "title": "Album Sampler",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-1-A",
+      "country": "UK",
+      "year": "1989",
+      "format": "LP, Promo, White Label, Sampler",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18867340,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925848-2",
+      "country": "Israel",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3022925,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "25848-1, 25848.1",
+      "country": "Australia",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3151162,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "670-9019",
+      "country": "Brazil",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1065931,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25848-2",
+      "country": "US",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18031225,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 848-1, WX 238",
+      "country": "UK & Europe",
+      "year": "1989",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9472656,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9-25848-2, 9258482",
+      "country": "Australia",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7447761,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "LDXB-6883",
+      "country": "Mexico",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2103499,
+      "title": "Spike",
+      "label": "Jugoton",
+      "catalog_number": "LSWB 73288, 925848-1",
+      "country": "Yugoslavia",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1069989,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 848-1, WX 238",
+      "country": "Europe",
+      "year": "1989",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12281932,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "1-25848, 9 25848-1",
+      "country": "US",
+      "year": "1989",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12760002,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "925 848-1, WX 238",
+      "country": "UK & Europe",
+      "year": "1989",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3175907,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "4-25848, 9 25848-4",
+      "country": "US",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1198881,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "9 25848-2, W2 25848",
+      "country": "US",
+      "year": "1989",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13440682,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "4-25848, 9 25848-4",
+      "country": "Singapore",
+      "year": "1989",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2369909,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "PRO-CD-3426",
+      "country": "US",
+      "year": "1989",
+      "format": "Album, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24240686,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W2 25848, 9 25848-2",
+      "country": "US",
+      "year": "1989",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5100906,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "W1-25848",
+      "country": "US",
+      "year": "1989",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3471079,
+      "title": "Spike",
+      "label": "Warner Bros. Records",
+      "catalog_number": "7599-25848-2",
+      "country": "Europe",
+      "year": "1990",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4576516,
+      "title": "Spike = スパイク",
+      "label": "Warner Bros. Records",
+      "catalog_number": "WPCR-351",
+      "country": "Japan",
+      "year": "1995",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1343501,
+      "title": "Spike",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R2 74286",
+      "country": "US",
+      "year": "2001",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Argentina",
+    "Australia",
+    "Brazil",
+    "Canada",
+    "Europe",
+    "Greece",
+    "Indonesia",
+    "Israel",
+    "Japan",
+    "Mexico",
+    "Portugal",
+    "Singapore",
+    "South Korea",
+    "Spain",
+    "UK",
+    "UK & Europe",
+    "US",
+    "Yugoslavia"
+  ],
+  "years_range": {
+    "earliest": "1989",
+    "latest": "2001"
+  }
+}

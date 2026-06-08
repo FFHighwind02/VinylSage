@@ -1,0 +1,129 @@
+{
+  "album": "Exile On Main Street",
+  "artist": "Rolling Stones",
+  "source": "discogs",
+  "master": {
+    "master_id": 2255875,
+    "title": "Heartbreakers 14 Rock & Shake = ハートブレイカーズ 14 ロック&シェイク",
+    "year": 1981,
+    "artists": [
+      "The Rolling Stones",
+      "The Rolling Stones"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Route 66",
+        "duration": "2:22"
+      },
+      {
+        "position": "A2",
+        "title": "Bye Bye Johnny",
+        "duration": "2:10"
+      },
+      {
+        "position": "A3",
+        "title": "Get Off of My Cloud",
+        "duration": "2:58"
+      },
+      {
+        "position": "A4",
+        "title": "I Just Wanna Make Love to You",
+        "duration": "2:17"
+      },
+      {
+        "position": "A5",
+        "title": "Oh! Baby",
+        "duration": "2:08"
+      },
+      {
+        "position": "A6",
+        "title": "It's All Over Now",
+        "duration": "3:29"
+      },
+      {
+        "position": "A7",
+        "title": "Walking the Dog",
+        "duration": "3:12"
+      },
+      {
+        "position": "B1",
+        "title": "Around and Around",
+        "duration": "3:06"
+      },
+      {
+        "position": "B2",
+        "title": "Come On",
+        "duration": "1:48"
+      },
+      {
+        "position": "B3",
+        "title": "Down The Road Apiece",
+        "duration": "2:56"
+      },
+      {
+        "position": "B4",
+        "title": "She Said \"Yeah\"",
+        "duration": "1:38"
+      },
+      {
+        "position": "B5",
+        "title": "Poison Ivy",
+        "duration": "2:05"
+      },
+      {
+        "position": "B6",
+        "title": "Mercy Mercy",
+        "duration": "2:24"
+      },
+      {
+        "position": "B7",
+        "title": "Susie Q",
+        "duration": "1:51"
+      }
+    ],
+    "lowest_price": 9.73,
+    "num_for_sale": 34,
+    "main_release": 9413056
+  },
+  "pressings": [
+    {
+      "release_id": 19524574,
+      "title": "Heartbreakers 14 Rock & Shake DJ",
+      "label": "London Records",
+      "catalog_number": "L20P1002",
+      "country": "Japan",
+      "year": "1980",
+      "format": "LP, Compilation, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9413056,
+      "title": "Heartbreakers 14 Rock & Shake = ハートブレイカーズ 14 ロック&シェイク",
+      "label": "London Records",
+      "catalog_number": "L20P1002, L20P 1002",
+      "country": "Japan",
+      "year": "1981",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1980",
+    "latest": "1981"
+  }
+}

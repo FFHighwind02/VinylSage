@@ -1,0 +1,156 @@
+{
+  "album": "Rocks",
+  "artist": "Aerosmith",
+  "source": "discogs",
+  "master": {
+    "master_id": 695119,
+    "title": "Classics Live Complete",
+    "year": 1998,
+    "artists": [
+      "Aerosmith"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock",
+      "Arena Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Train Kept A Rollin'",
+        "duration": "3:20"
+      },
+      {
+        "position": "2",
+        "title": "Kings And Queens",
+        "duration": "4:47"
+      },
+      {
+        "position": "3",
+        "title": "Sweet Emotion",
+        "duration": "5:13"
+      },
+      {
+        "position": "4",
+        "title": "Dream On",
+        "duration": "4:48"
+      },
+      {
+        "position": "5",
+        "title": "Mama Kin",
+        "duration": "3:43"
+      },
+      {
+        "position": "6",
+        "title": "Three Mile Smile / Reefer Head Woman",
+        "duration": "4:54"
+      },
+      {
+        "position": "7",
+        "title": "Lord Of The Thighs",
+        "duration": "7:05"
+      },
+      {
+        "position": "8",
+        "title": "Major Barbra",
+        "duration": "4:05"
+      },
+      {
+        "position": "9",
+        "title": "Back In The Saddle",
+        "duration": "4:39"
+      },
+      {
+        "position": "10",
+        "title": "Walk This Way",
+        "duration": "4:22"
+      },
+      {
+        "position": "11",
+        "title": "Movin' Out",
+        "duration": "5:45"
+      },
+      {
+        "position": "12",
+        "title": "Draw The Line",
+        "duration": "4:47"
+      },
+      {
+        "position": "13",
+        "title": "Same Old Song And Dance",
+        "duration": "5:45"
+      },
+      {
+        "position": "14",
+        "title": "Last Child",
+        "duration": "3:43"
+      },
+      {
+        "position": "15",
+        "title": "Let The Music Do The Talking",
+        "duration": "5:44"
+      },
+      {
+        "position": "16",
+        "title": "Toys In The Attic",
+        "duration": "4:04"
+      }
+    ],
+    "lowest_price": 1.54,
+    "num_for_sale": 52,
+    "main_release": 2179494
+  },
+  "pressings": [
+    {
+      "release_id": 12517356,
+      "title": "Classics Live Complete",
+      "label": "Columbia",
+      "catalog_number": "CDCOL 5645 H",
+      "country": "South Africa",
+      "year": "1998",
+      "format": "Compilation, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2179494,
+      "title": "Classics Live Complete",
+      "label": "Columbia",
+      "catalog_number": "487351 2, COL 487351 2",
+      "country": "Europe",
+      "year": "1998",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5732058,
+      "title": "Classics Live Complete",
+      "label": "Columbia",
+      "catalog_number": "487351 4",
+      "country": "Turkey",
+      "year": "0",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "Europe",
+    "South Africa",
+    "Turkey"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1998"
+  }
+}

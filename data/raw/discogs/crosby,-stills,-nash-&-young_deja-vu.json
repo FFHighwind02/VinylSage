@@ -1,0 +1,71 @@
+{
+  "album": "Deja Vu",
+  "artist": "Crosby, Stills, Nash & Young",
+  "source": "discogs",
+  "master": {
+    "master_id": 873842,
+    "title": "Ohio / Long Time Gone",
+    "year": 0,
+    "artists": [
+      "Crosby, Stills, Nash & Young",
+      "Crosby, Stills & Nash"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Ohio",
+        "duration": "3:00"
+      },
+      {
+        "position": "B",
+        "title": "Long Time Gone",
+        "duration": "4:17"
+      }
+    ],
+    "lowest_price": 1.16,
+    "num_for_sale": 29,
+    "main_release": 3289472
+  },
+  "pressings": [
+    {
+      "release_id": 5792505,
+      "title": "Ohio / Long Time Gone",
+      "label": "Atlantic",
+      "catalog_number": "OS 13051",
+      "country": "US",
+      "year": "0",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3289472,
+      "title": "Ohio / Long Time Gone",
+      "label": "Atlantic",
+      "catalog_number": "OS 13051",
+      "country": "US",
+      "year": "0",
+      "format": "7\"",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "0"
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "album": "One Nation Under The Groove",
+  "artist": "Funkadelic",
+  "source": "discogs",
+  "master": {
+    "master_id": 169785,
+    "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+    "year": 1996,
+    "artists": [
+      "Funkadelic"
+    ],
+    "genres": [
+      "Rock",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Funk Metal",
+      "Psychedelic"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Alice In My Fantasies",
+        "duration": "6:26"
+      },
+      {
+        "position": "2",
+        "title": "Maggot Brain",
+        "duration": "14:02"
+      },
+      {
+        "position": "3",
+        "title": "I Call My Baby Pussycat (Fast Version)",
+        "duration": "5:38"
+      },
+      {
+        "position": "4",
+        "title": "I Call My Baby Pussycat",
+        "duration": "8:08"
+      },
+      {
+        "position": "5",
+        "title": "Good Old Music",
+        "duration": "4:31"
+      },
+      {
+        "position": "6",
+        "title": "I Got A Thing, You Got A Thing, Everybody Got A Thing",
+        "duration": "8:38"
+      },
+      {
+        "position": "7",
+        "title": "All Your Goodies Are Gone (The Loser's Seat)",
+        "duration": "15:07"
+      },
+      {
+        "position": "8",
+        "title": "I'll Bet You",
+        "duration": "5:24"
+      },
+      {
+        "position": "9",
+        "title": "You & Your Folks, Me & My Folks",
+        "duration": "5:28"
+      },
+      {
+        "position": "10",
+        "title": "Free Your Mind & Your Ass Will Follow",
+        "duration": "3:37"
+      }
+    ],
+    "lowest_price": 4.45,
+    "num_for_sale": 30,
+    "main_release": 410989
+  },
+  "pressings": [
+    {
+      "release_id": 410989,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWD 108",
+      "country": "UK",
+      "year": "1996",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1890783,
+      "title": "Live: Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Westbound Records",
+      "catalog_number": "WBCD-1117",
+      "country": "US",
+      "year": "1996",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1900707,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 108",
+      "country": "Europe",
+      "year": "2009",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22920386,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 108, PCD-17304",
+      "country": "Japan",
+      "year": "2009",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9434344,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Tidal Waves Music",
+      "catalog_number": "TWM04",
+      "country": "US",
+      "year": "2017",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14417139,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Tidal Waves Music",
+      "catalog_number": "TWM04",
+      "country": "US",
+      "year": "2019",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14417163,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Tidal Waves Music",
+      "catalog_number": "TWM04",
+      "country": "US",
+      "year": "2019",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13674783,
+      "title": "Live - Meadowbrook, Rochester, Michigan - 12th September 1971",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 108",
+      "country": "Europe",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 8,
+  "countries": [
+    "Europe",
+    "Japan",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2019"
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "album": "Led Zeppelin II",
+  "artist": "Led Zeppelin",
+  "source": "discogs",
+  "master": {
+    "master_id": 4170,
+    "title": "Led Zeppelin II",
+    "year": 1969,
+    "artists": [
+      "Led Zeppelin"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Blues Rock",
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Whole Lotta Love",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "What Is And What Should Never Be",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "The Lemon Song",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Thank You",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Heartbreaker",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Livin' Lovin' Maid (She's Just A Woman)",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Ramble On",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Moby Dick",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Bring It On Home",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.57,
+    "num_for_sale": 5979,
+    "main_release": 1846223
+  },
+  "pressings": [
+    {
+      "release_id": 3092359,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3377692,
+      "title": "Led Zeppelin II = レッド・ツェッペリン　Ⅱ",
+      "label": "Atlantic",
+      "catalog_number": "MT-1091, MT 1091",
+      "country": "Japan",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5577485,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "Peru",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8551576,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "CA-1169, 58 8198",
+      "country": "El Salvador",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5538588,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "TP 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5541837,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "M 88236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3473070,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15204836,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7582677,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "588198, 58 8198",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Misprint, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3853308,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SAL-933615, SD-8236",
+      "country": "New Zealand",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2497549,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "X 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "3 ¾ ips, 4-Track Stereo, Album",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19319308,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16407753,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30525385,
+      "title": "Led Zeppelin II",
+      "label": "Not On Label (Led Zeppelin)",
+      "catalog_number": "208",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "4-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1846223,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "588198, 588 198",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Misprint",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6524212,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1934274,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236, ATL-SD 8236",
+      "country": "Germany",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6587332,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12646493,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236, ATL-SD 8236",
+      "country": "Germany",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20397241,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "921 021, N° 921021",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5580251,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32456142,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "588 198, 588198",
+      "country": "UK",
+      "year": "1969",
+      "format": "LP, Album, Misprint, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12552271,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "CS 8236, M58236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9667158,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "5 RCA 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31579714,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236, SD-8236",
+      "country": "Singapore",
+      "year": "1969",
+      "format": "LP, Album, Misprint, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6659162,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1958352,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236, ATS ST 06055",
+      "country": "Italy",
+      "year": "1969",
+      "format": "LP, Album, Misprint",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29097658,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13772703,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "CAS 42028",
+      "country": "Israel",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16841706,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Misprint",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11828581,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "ATL-SD 8236, SD 8236",
+      "country": "Germany",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8645549,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3239041,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "ATC 9200",
+      "country": "South Africa",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11809255,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "M 88236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6154572,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6772423,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6815086,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "921 021, № 921 021",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9152963,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "921021, N° 921021",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5538580,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "M 88236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10428629,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "X 58236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19612174,
+      "title": "Led Zeppelin II = レッド・ツェッペリン　Ⅱ",
+      "label": "Atlantic",
+      "catalog_number": "MT-1091, MT 1091",
+      "country": "Japan",
+      "year": "1969",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13294570,
+      "title": "Led Zeppelin II",
+      "label": "Not On Label",
+      "catalog_number": "921021",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15194638,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17390434,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SAL-933615, SD-8236",
+      "country": "Australia",
+      "year": "1969",
+      "format": "LP, Album, Misprint, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13018792,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1833176,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "921021, N° 921021",
+      "country": "France",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5671796,
+      "title": "Led Zeppelin II: The Only Way To Fly",
+      "label": "Atlantic",
+      "catalog_number": "X 8236",
+      "country": "US",
+      "year": "1969",
+      "format": "3 ¾ ips, ¼\", 4-Track Stereo, 7\" Cine Reel, Album",
+      "major_formats": [
+        "Reel-To-Reel"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5009255,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "Philippines",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4404429,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "M 58236",
+      "country": "US",
+      "year": "1969",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25316068,
+      "title": "Led Zeppelin II",
+      "label": "Atlantic",
+      "catalog_number": "SD 8236",
+      "country": "Turkey",
+      "year": "1969",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "El Salvador",
+    "France",
+    "Germany",
+    "Israel",
+    "Italy",
+    "Japan",
+    "New Zealand",
+    "Peru",
+    "Philippines",
+    "Singapore",
+    "South Africa",
+    "Turkey",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1969",
+    "latest": "1969"
+  }
+}

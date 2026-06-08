@@ -1,0 +1,84 @@
+{
+  "album": "Bryter Layter",
+  "artist": "Nick Drake",
+  "source": "discogs",
+  "master": {
+    "master_id": 109411,
+    "title": "Magic",
+    "year": 2004,
+    "artists": [
+      "Nick Drake"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Acoustic"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Magic",
+        "duration": "2:45"
+      },
+      {
+        "position": "2",
+        "title": "Northern Sky",
+        "duration": "3:42"
+      }
+    ],
+    "lowest_price": 1.15,
+    "num_for_sale": 42,
+    "main_release": 600342
+  },
+  "pressings": [
+    {
+      "release_id": 600342,
+      "title": "Magic",
+      "label": "Island Records",
+      "catalog_number": "CID 854, CID854, 9866470-0, 9866470",
+      "country": "UK",
+      "year": "2004",
+      "format": "Single",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1619454,
+      "title": "Magic",
+      "label": "Island Records",
+      "catalog_number": "IS 854, 986 647-1",
+      "country": "UK",
+      "year": "2004",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2144235,
+      "title": "Magic",
+      "label": "Island Records",
+      "catalog_number": "CIDDJ 854",
+      "country": "UK",
+      "year": "2004",
+      "format": "Single, Promo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 3,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "2004",
+    "latest": "2004"
+  }
+}

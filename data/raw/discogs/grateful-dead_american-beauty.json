@@ -1,0 +1,148 @@
+{
+  "album": "American Beauty",
+  "artist": "Grateful Dead",
+  "source": "discogs",
+  "master": {
+    "master_id": 629639,
+    "title": "Family Dog At The Great Highway, San Francisco, CA, April 18, 1970",
+    "year": 2013,
+    "artists": [
+      "The Grateful Dead"
+    ],
+    "genres": [
+      "Rock",
+      "Blues"
+    ],
+    "styles": [
+      "Acoustic",
+      "Psychedelic Rock",
+      "Country Blues"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "I Know You Rider",
+        "duration": "4:54"
+      },
+      {
+        "position": "A2",
+        "title": "Don't Ease Me In",
+        "duration": "3:26"
+      },
+      {
+        "position": "A3",
+        "title": "Silver Threads And Golden Needles",
+        "duration": "5:10"
+      },
+      {
+        "position": "A4",
+        "title": "Friend Of The Devil",
+        "duration": "4:24"
+      },
+      {
+        "position": "A5",
+        "title": "Deep Elem Blues",
+        "duration": "5:43"
+      },
+      {
+        "position": "B1",
+        "title": "Wake Up Little Susie>",
+        "duration": "2:57"
+      },
+      {
+        "position": "B2",
+        "title": "Candyman",
+        "duration": "5:43"
+      },
+      {
+        "position": "B3",
+        "title": "Cumberland Blues",
+        "duration": "5:48"
+      },
+      {
+        "position": "B4",
+        "title": "New Speedway Boogie",
+        "duration": "7:50"
+      },
+      {
+        "position": "C1",
+        "title": "Me And My Uncle",
+        "duration": "4:05"
+      },
+      {
+        "position": "C2",
+        "title": "Mama Tried",
+        "duration": "3:23"
+      },
+      {
+        "position": "C3",
+        "title": "Katie Mae",
+        "duration": "1:27"
+      },
+      {
+        "position": "D1",
+        "title": "Ain't It Crazy (The Rub)",
+        "duration": "1:59"
+      },
+      {
+        "position": "D2",
+        "title": "Roberta",
+        "duration": "3:34"
+      },
+      {
+        "position": "D3",
+        "title": "Bring Me My Shotgun",
+        "duration": "4:28"
+      },
+      {
+        "position": "D4",
+        "title": "The Mighty Flood>",
+        "duration": "4:11"
+      },
+      {
+        "position": "D5",
+        "title": "Black Snake",
+        "duration": "3:13"
+      }
+    ],
+    "lowest_price": 27.0,
+    "num_for_sale": 22,
+    "main_release": 5141432
+  },
+  "pressings": [
+    {
+      "release_id": 5141432,
+      "title": "Family Dog At The Great Highway, San Francisco, CA, April 18, 1970",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R1-537164",
+      "country": "US",
+      "year": "2013",
+      "format": "LP, Album, Record Store Day, Limited Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5182856,
+      "title": "Family Dog At The Great Highway San Francisco, CA, April 18, 1970",
+      "label": "Rhino Records (2)",
+      "catalog_number": "R2-537164",
+      "country": "US",
+      "year": "2013",
+      "format": "HDCD",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2013",
+    "latest": "2013"
+  }
+}

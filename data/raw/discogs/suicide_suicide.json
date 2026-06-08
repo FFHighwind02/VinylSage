@@ -1,0 +1,120 @@
+{
+  "album": "Suicide",
+  "artist": "Suicide",
+  "source": "discogs",
+  "master": {
+    "master_id": 3452087,
+    "title": "Deaf Mute",
+    "year": 2016,
+    "artists": [
+      "Suicide (7)"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Death Metal"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Blasphemous Armies",
+        "duration": ""
+      },
+      {
+        "position": "2",
+        "title": "Bloodthirsty Gods",
+        "duration": ""
+      },
+      {
+        "position": "3",
+        "title": "Deaf Mute",
+        "duration": ""
+      },
+      {
+        "position": "4",
+        "title": "Farah",
+        "duration": ""
+      },
+      {
+        "position": "5",
+        "title": "Bone Collector City",
+        "duration": ""
+      },
+      {
+        "position": "6",
+        "title": "Chasing A Ghost",
+        "duration": ""
+      },
+      {
+        "position": "7",
+        "title": "War Zone",
+        "duration": ""
+      },
+      {
+        "position": "8",
+        "title": "Woken By A Flash",
+        "duration": ""
+      },
+      {
+        "position": "9",
+        "title": "Syria",
+        "duration": ""
+      },
+      {
+        "position": "10",
+        "title": "Slasher Of Souls",
+        "duration": ""
+      },
+      {
+        "position": "11",
+        "title": "Battle Over Nations",
+        "duration": ""
+      },
+      {
+        "position": "12",
+        "title": "Wine For Babylon",
+        "duration": ""
+      }
+    ],
+    "lowest_price": null,
+    "num_for_sale": 0,
+    "main_release": 9756064
+  },
+  "pressings": [
+    {
+      "release_id": 9756064,
+      "title": "Deaf Mute",
+      "label": "MK2 Yapımcılık",
+      "catalog_number": "none",
+      "country": "Turkey",
+      "year": "2016",
+      "format": "Album",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30151232,
+      "title": "Deaf Mute",
+      "label": "Dead Generation Records",
+      "catalog_number": "DGR010",
+      "country": "Turkey",
+      "year": "2016",
+      "format": "Album, Limited Edition, Numbered",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Turkey"
+  ],
+  "years_range": {
+    "earliest": "2016",
+    "latest": "2016"
+  }
+}

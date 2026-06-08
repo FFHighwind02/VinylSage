@@ -1,0 +1,235 @@
+{
+  "album": "Armed Forces",
+  "artist": "Elvis Costello and the Attractions",
+  "source": "discogs",
+  "master": {
+    "master_id": 42916,
+    "title": "Let Them All Talk",
+    "year": 1983,
+    "artists": [
+      "Elvis Costello & The Attractions"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "New Wave",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Let Them All Talk",
+        "duration": "3:05"
+      },
+      {
+        "position": "B",
+        "title": "The Flirting Kind",
+        "duration": "3:00"
+      }
+    ],
+    "lowest_price": 1.0,
+    "num_for_sale": 251,
+    "main_release": 1114010
+  },
+  "pressings": [
+    {
+      "release_id": 5596207,
+      "title": "Let Them All Talk = Dejales Que Hablen",
+      "label": "RCA",
+      "catalog_number": "ZB-60117",
+      "country": "Spain",
+      "year": "1983",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10872103,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "104196",
+      "country": "Australia",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9779069,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "104196",
+      "country": "New Zealand",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10746808,
+      "title": "Let Them All Talk (Extended 12\" Remix)",
+      "label": "F-Beat",
+      "catalog_number": "PC 61277",
+      "country": "France",
+      "year": "1983",
+      "format": "12\", Maxi-Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1291437,
+      "title": "Let Them All Talk (Extended 12\" Remix)",
+      "label": "F-Beat",
+      "catalog_number": "XX 33T, XX33 T",
+      "country": "UK",
+      "year": "1983",
+      "format": "12\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1832237,
+      "title": "Let Them All Talk = Dejales Que Hablen",
+      "label": "RCA",
+      "catalog_number": "ZC-60118",
+      "country": "Spain",
+      "year": "1983",
+      "format": "12\", 45 RPM, Maxi-Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3850894,
+      "title": "Let Them All Talk = Dejales Que Hablen",
+      "label": "RCA Victor",
+      "catalog_number": "ZB-60117",
+      "country": "Spain",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1114010,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "XX 33",
+      "country": "UK",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9558086,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "XX 33T, TDS-168",
+      "country": "Australia & New Zealand",
+      "year": "1983",
+      "format": "12\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4397076,
+      "title": "Let Them All Talk",
+      "label": "RCA",
+      "catalog_number": "PB 61276",
+      "country": "France",
+      "year": "1983",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4067601,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "XX 33",
+      "country": "Ireland",
+      "year": "1983",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17215438,
+      "title": "Let Them All Talk = Que Todos Hablen",
+      "label": "RCA",
+      "catalog_number": "RS - 2258",
+      "country": "Bolivia",
+      "year": "1984",
+      "format": "7\", 33 ⅓ RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15227810,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "RPS-1003, XX33 T",
+      "country": "Japan",
+      "year": "1984",
+      "format": "12\", Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5445081,
+      "title": "Let Them All Talk",
+      "label": "F-Beat",
+      "catalog_number": "RPS-1003",
+      "country": "Japan",
+      "year": "1984",
+      "format": "12\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 14,
+  "countries": [
+    "Australia",
+    "Australia & New Zealand",
+    "Bolivia",
+    "France",
+    "Ireland",
+    "Japan",
+    "New Zealand",
+    "Spain",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1983",
+    "latest": "1984"
+  }
+}

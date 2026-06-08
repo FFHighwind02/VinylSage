@@ -1,0 +1,191 @@
+{
+  "album": "Chicago V",
+  "artist": "Chicago",
+  "source": "discogs",
+  "master": {
+    "master_id": 1288261,
+    "title": "The Heart Of Chicago 1982-1997 = ハート・オブ・シカゴ1982-1997",
+    "year": 1997,
+    "artists": [
+      "Chicago (2)",
+      "Chicago (2)"
+    ],
+    "genres": [
+      "Rock",
+      "Pop"
+    ],
+    "styles": [
+      "Pop Rock",
+      "Soft Rock",
+      "Ballad"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Hard To Say I'm Sorry = 素直になれなくて",
+        "duration": "3:40"
+      },
+      {
+        "position": "2",
+        "title": "Love Me Tomorrow = ラヴ・ミー・トゥモロウ",
+        "duration": "3:54"
+      },
+      {
+        "position": "3",
+        "title": "Stay The Night = ステイ・ザ・ナイト",
+        "duration": "3:47"
+      },
+      {
+        "position": "4",
+        "title": "Hard Habit To Break = 忘れ得ぬ君に",
+        "duration": "4:43"
+      },
+      {
+        "position": "5",
+        "title": "You're The Inspiration = 君こそすべて",
+        "duration": "3:49"
+      },
+      {
+        "position": "6",
+        "title": "Along Comes A Woman = いかした彼女",
+        "duration": "3:47"
+      },
+      {
+        "position": "7",
+        "title": "Will You Still Love Me? = スティル・ラヴ・ミー",
+        "duration": "4:11"
+      },
+      {
+        "position": "8",
+        "title": "If She Would Have Been Faithful... = フェイスフル",
+        "duration": "3:50"
+      },
+      {
+        "position": "9",
+        "title": "I Don't Wanna Live Without Your Love = リヴ・ウィズアウト・ユア・ラヴ",
+        "duration": "3:54"
+      },
+      {
+        "position": "10",
+        "title": "Look Away = ルック・アウェイ",
+        "duration": "3:58"
+      },
+      {
+        "position": "11",
+        "title": "You're Not Alone = ユー・アー・ノット・アローン",
+        "duration": "3:58"
+      },
+      {
+        "position": "12",
+        "title": "What Kind Of Man Would I Be? = ホワット・カインド・オブ・マン",
+        "duration": "4:09"
+      },
+      {
+        "position": "13",
+        "title": "Chasin' The Wind = チェイシン・ザ・ウィンド",
+        "duration": "4:17"
+      },
+      {
+        "position": "14",
+        "title": "Here In My Heart = ヒア・イン・マイ・ハート",
+        "duration": "4:14"
+      },
+      {
+        "position": "15",
+        "title": "The Only One = オンリー・ワン",
+        "duration": "5:59"
+      }
+    ],
+    "lowest_price": 2.76,
+    "num_for_sale": 59,
+    "main_release": 3956388
+  },
+  "pressings": [
+    {
+      "release_id": 3956388,
+      "title": "The Heart Of Chicago 1982-1997 = ハート・オブ・シカゴ1982-1997",
+      "label": "Reprise Records",
+      "catalog_number": "WPCR-1330",
+      "country": "Japan",
+      "year": "1997",
+      "format": "Compilation, Remastered, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16267963,
+      "title": "The Heart Of Chicago 1982-1997 = ハート・オブ・シカゴ1982-1997",
+      "label": "Reprise Records",
+      "catalog_number": "WPCR-1330",
+      "country": "Japan",
+      "year": "1997",
+      "format": "Compilation, Promo, Remastered, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16025566,
+      "title": "Heart Of Chicago 1982-1997",
+      "label": "Wea Japan",
+      "catalog_number": "WPCR-10835",
+      "country": "Japan",
+      "year": "2000",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17382001,
+      "title": "The Heart Of Chicago 1982-1997 = ハート・オブ・シカゴ1982-1997",
+      "label": "Reprise Records",
+      "catalog_number": "WPCR-22030",
+      "country": "Japan",
+      "year": "2003",
+      "format": "Compilation, Limited Edition, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30268436,
+      "title": "The Heart Of Chicago - 30th. Anniversary 1982~1997",
+      "label": "Reprise Records",
+      "catalog_number": "WPCR-13008",
+      "country": "Japan",
+      "year": "2006",
+      "format": "Compilation, Limited Edition, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10796358,
+      "title": "The Heart Of Chicago - 30th. Anniversary 1982-1997",
+      "label": "Reprise Records",
+      "catalog_number": "WPCR-16975",
+      "country": "Japan",
+      "year": "2015",
+      "format": "Compilation, Limited Edition, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1997",
+    "latest": "2015"
+  }
+}

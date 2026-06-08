@@ -1,0 +1,77 @@
+{
+  "album": "Talking Heads: 77",
+  "artist": "Talking Heads",
+  "source": "discogs",
+  "master": {
+    "master_id": 924082,
+    "title": "TVLKINGHEVDITS",
+    "year": 2013,
+    "artists": [
+      "Talking Heads"
+    ],
+    "genres": [
+      "Electronic",
+      "Rock"
+    ],
+    "styles": [
+      "Nu-Disco",
+      "Acid"
+    ],
+    "tracklist": [
+      {
+        "position": "V1",
+        "title": "Burning Down The Vcid House (Lvte Nite Tuff Guy)",
+        "duration": ""
+      },
+      {
+        "position": "VV1",
+        "title": "GF (JKriv's Better Mix)",
+        "duration": ""
+      },
+      {
+        "position": "VV2",
+        "title": "Pull Up The Bootz (TZ Hevdit)",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 100.0,
+    "num_for_sale": 7,
+    "main_release": 4611975
+  },
+  "pressings": [
+    {
+      "release_id": 4611975,
+      "title": "TVLKINGHEVDITS",
+      "label": "Tugboat Edits",
+      "catalog_number": "TBE1202",
+      "country": "US",
+      "year": "2013",
+      "format": "12\", 33 ⅓ RPM, 45 RPM, Limited Edition, Numbered, Promo, Unofficial Release, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7815030,
+      "title": "TVLKINGHEVDITS",
+      "label": "Tugboat Edits",
+      "catalog_number": "TBE1202",
+      "country": "US",
+      "year": "2015",
+      "format": "12\", 33 ⅓ RPM, 45 RPM, Limited Edition, Repress, Unofficial Release, White Label",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2013",
+    "latest": "2015"
+  }
+}

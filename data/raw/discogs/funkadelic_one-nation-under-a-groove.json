@@ -1,0 +1,738 @@
+{
+  "album": "One Nation Under a Groove",
+  "artist": "Funkadelic",
+  "source": "discogs",
+  "master": {
+    "master_id": 16082,
+    "title": "Cosmic Slop",
+    "year": 1973,
+    "artists": [
+      "Funkadelic"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "P.Funk",
+      "Psychedelic"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Nappy Dugout",
+        "duration": "4:31"
+      },
+      {
+        "position": "A2",
+        "title": "You Can't Miss What You Can't Measure",
+        "duration": "2:54"
+      },
+      {
+        "position": "A3",
+        "title": "March To The Witch's Castle",
+        "duration": "5:54"
+      },
+      {
+        "position": "A4",
+        "title": "Let's Make It Last",
+        "duration": "4:10"
+      },
+      {
+        "position": "B1",
+        "title": "Cosmic Slop",
+        "duration": "5:16"
+      },
+      {
+        "position": "B2",
+        "title": "No Compute",
+        "duration": "3:01"
+      },
+      {
+        "position": "B3",
+        "title": "This Broken Heart",
+        "duration": "3:39"
+      },
+      {
+        "position": "B4",
+        "title": "Trash-A-Go-Go",
+        "duration": "2:23"
+      },
+      {
+        "position": "B5",
+        "title": "Can't Stand The Strain",
+        "duration": "3:28"
+      }
+    ],
+    "lowest_price": 4.3,
+    "num_for_sale": 120,
+    "main_release": 1067406
+  },
+  "pressings": [
+    {
+      "release_id": 14067496,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13495685,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1067406,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18079126,
+      "title": "Cosmic Slop",
+      "label": "Poinsetta",
+      "catalog_number": "1060",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Unofficial Release, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15509055,
+      "title": "Cosmic Slop ",
+      "label": "Westbound Records",
+      "catalog_number": "2022-8, RCOA 32791-8",
+      "country": "",
+      "year": "1973",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1924302,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13220544,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1936022,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "M 8198-2022",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15508934,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "2022-C, RCOA 32791-C",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22069621,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "M5198-2022",
+      "country": "US",
+      "year": "1973",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1853466,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "C 7198-2022",
+      "country": "US",
+      "year": "1973",
+      "format": "Album, Quadraphonic",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1966710,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5430647,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12227313,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4187382,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "9198-2022",
+      "country": "Canada",
+      "year": "1973",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3774897,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "W-223",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2305596,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "W8-223",
+      "country": "US",
+      "year": "1976",
+      "format": "Album, Reissue, Stereo",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30721721,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "W-223",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 22916897,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "W-223",
+      "country": "Canada",
+      "year": "1976",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29237170,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "W-223",
+      "country": "US",
+      "year": "1976",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6726323,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "1990",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1924294,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA 035",
+      "country": "Germany",
+      "year": "1990",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1098526,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA 035",
+      "country": "UK",
+      "year": "1991",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 410418,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEW 035",
+      "country": "UK",
+      "year": "1991",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34450999,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA 035",
+      "country": "UK",
+      "year": "1991",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1287088,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA 035",
+      "country": "Europe",
+      "year": "1991",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34450999,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA 035",
+      "country": "UK",
+      "year": "1991",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6197410,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA 035",
+      "country": "Europe",
+      "year": "2004",
+      "format": "LP, Album, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1853542,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 235",
+      "country": "UK",
+      "year": "2005",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33083424,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 235",
+      "country": "UK",
+      "year": "2005",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7301582,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records (2)",
+      "catalog_number": "WBCD-772022",
+      "country": "Russia",
+      "year": "2005",
+      "format": "Album, Remastered, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1853527,
+      "title": "Cosmic Slop",
+      "label": "P-Vine Records",
+      "catalog_number": "PCD-17060",
+      "country": "Japan",
+      "year": "2005",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1798870,
+      "title": "Cosmic Slop",
+      "label": "4 Men With Beards",
+      "catalog_number": "4M173",
+      "country": "US",
+      "year": "2009",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34274107,
+      "title": "Cosmic Slop",
+      "label": "P-Vine Records",
+      "catalog_number": "PCD-17439",
+      "country": "Japan",
+      "year": "2010",
+      "format": "Album, Promo, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10392095,
+      "title": "Cosmic Slop",
+      "label": "P-Vine Records",
+      "catalog_number": "PCD-17439",
+      "country": "Japan",
+      "year": "2010",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15064884,
+      "title": "Cosmic Slop",
+      "label": "4 Men With Beards",
+      "catalog_number": "4M173",
+      "country": "US",
+      "year": "2016",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8132970,
+      "title": "Cosmic Slop",
+      "label": "4 Men With Beards",
+      "catalog_number": "4M173",
+      "country": "US",
+      "year": "2016",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2589102,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WB 2022",
+      "country": "US",
+      "year": "0",
+      "format": "LP, Album, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26505089,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "none",
+      "country": "Worldwide",
+      "year": "0",
+      "format": "FLAC, Album, Reissue, Remastered",
+      "major_formats": [
+        "File"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1890802,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WBCD-772022, WBCD 772022",
+      "country": "Hong Kong",
+      "year": "0",
+      "format": "Album, Reissue, Remastered, Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7747690,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDWB-2022",
+      "country": "UK",
+      "year": "0",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11407191,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDWB-2022, WB-CD 2022",
+      "country": "US",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14820529,
+      "title": "Cosmic Slop",
+      "label": "4 Men With Beards",
+      "catalog_number": "4M173, 4m173",
+      "country": "US",
+      "year": "0",
+      "format": "LP, Album, Limited Edition, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29528320,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 235",
+      "country": "UK",
+      "year": "0",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 511768,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWA-035",
+      "country": "Canada",
+      "year": "0",
+      "format": "LP, Album, Reissue",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26226959,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "WBCD 772022",
+      "country": "US",
+      "year": "0",
+      "format": "Album, Reissue, Remastered, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32167035,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 035, CDSEW 035",
+      "country": "UK",
+      "year": "0",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10515940,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "SEWC 035",
+      "country": "UK",
+      "year": "0",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3894733,
+      "title": "Cosmic Slop",
+      "label": "Westbound Records",
+      "catalog_number": "CDSEWM 035, CDSEW 035",
+      "country": "UK",
+      "year": "0",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33751080,
+      "title": "Cosmic Slop",
+      "label": "Original Record",
+      "catalog_number": "EU 3011",
+      "country": "",
+      "year": "0",
+      "format": "LP, Album, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Canada",
+    "Europe",
+    "Germany",
+    "Hong Kong",
+    "Japan",
+    "Russia",
+    "UK",
+    "US",
+    "Worldwide"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "2016"
+  }
+}

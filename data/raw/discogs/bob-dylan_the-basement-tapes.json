@@ -1,0 +1,81 @@
+{
+  "album": "The Basement Tapes",
+  "artist": "Bob Dylan",
+  "source": "discogs",
+  "master": {
+    "master_id": 1628247,
+    "title": "Blowin' In The Wind = 風に吹かれて",
+    "year": 1968,
+    "artists": [
+      "Bob Dylan",
+      "Bob Dylan"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Blowin' In The Wind = 風に吹かれて",
+        "duration": "2:47"
+      },
+      {
+        "position": "A2",
+        "title": "Like A Rolling Stone = ライク・ア・ローリング・ストーン",
+        "duration": "5:59"
+      },
+      {
+        "position": "B1",
+        "title": "Mr. Tambourine Man = ミスター・タンブリン・マン",
+        "duration": "5:25"
+      },
+      {
+        "position": "B2",
+        "title": "The Times They Are A-Changin' = 時代は変る",
+        "duration": "3:12"
+      }
+    ],
+    "lowest_price": 13.49,
+    "num_for_sale": 20,
+    "main_release": 3881866
+  },
+  "pressings": [
+    {
+      "release_id": 3881866,
+      "title": "Blowin' In The Wind = 風に吹かれて",
+      "label": "CBS/Sony",
+      "catalog_number": "SONE 70025",
+      "country": "Japan",
+      "year": "1968",
+      "format": "7\", 33 ⅓ RPM, EP, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14329670,
+      "title": "Blowin' In The Wind",
+      "label": "CBS/Sony",
+      "catalog_number": "SONE 70025",
+      "country": "Japan",
+      "year": "1968",
+      "format": "7\", 33 ⅓ RPM, EP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "1968",
+    "latest": "1968"
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "album": "Reggatta de Blanc",
+  "artist": "The Police",
+  "source": "discogs",
+  "master": {
+    "master_id": 296044,
+    "title": "Born In The 50's",
+    "year": 1989,
+    "artists": [
+      "The Police"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "New Wave",
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Can't Stand Losing You",
+        "duration": "6:44"
+      },
+      {
+        "position": "2",
+        "title": "Truth Hits Everybody",
+        "duration": "2:48"
+      },
+      {
+        "position": "3",
+        "title": "So Lonely",
+        "duration": "8:23"
+      },
+      {
+        "position": "4",
+        "title": "Fall Out",
+        "duration": "3:12"
+      },
+      {
+        "position": "5",
+        "title": "Born In The 50's",
+        "duration": "6:35"
+      },
+      {
+        "position": "6",
+        "title": "Hole In My Life",
+        "duration": "4:45"
+      },
+      {
+        "position": "7",
+        "title": "Sally - Be My Girl",
+        "duration": "4:23"
+      },
+      {
+        "position": "8",
+        "title": "Peanuts",
+        "duration": "4:13"
+      },
+      {
+        "position": "9",
+        "title": "Roxanne",
+        "duration": "12:48"
+      },
+      {
+        "position": "10",
+        "title": "Landlord",
+        "duration": "2:42"
+      },
+      {
+        "position": "11",
+        "title": "Next To You",
+        "duration": "5:00"
+      },
+      {
+        "position": "12",
+        "title": "Can't Stand Losing You",
+        "duration": "8:02"
+      },
+      {
+        "position": "13",
+        "title": "Born In The 50's",
+        "duration": "6:54"
+      }
+    ],
+    "lowest_price": 15.94,
+    "num_for_sale": 1,
+    "main_release": 2385211
+  },
+  "pressings": [
+    {
+      "release_id": 2385211,
+      "title": "Born In The 50's",
+      "label": "Great Dane Records",
+      "catalog_number": "GDR CD 8917",
+      "country": "Italy",
+      "year": "1989",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14054543,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 900.016",
+      "country": "Germany",
+      "year": "1990",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 23238620,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 900.016",
+      "country": "Germany",
+      "year": "1990",
+      "format": "Unofficial Release, Stereo, Mono",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2336251,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "880.016",
+      "country": "Germany",
+      "year": "1990",
+      "format": "LP, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17198974,
+      "title": "Live USA",
+      "label": "MG Records (2)",
+      "catalog_number": "MG 1286",
+      "country": "Poland",
+      "year": "1991",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5523847,
+      "title": "Born In The 50's",
+      "label": "On Stage",
+      "catalog_number": "MC 12028",
+      "country": "Italy",
+      "year": "1992",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3921696,
+      "title": "Born In The 50's",
+      "label": "On Stage",
+      "catalog_number": "CD 12028",
+      "country": "Italy",
+      "year": "1992",
+      "format": "Unofficial Release, Stereo",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25824667,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 777.016",
+      "country": "Germany",
+      "year": "0",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14061516,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 777.016",
+      "country": "Germany",
+      "year": "0",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 946451,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 900.016",
+      "country": "Germany",
+      "year": "0",
+      "format": "Repress, Unofficial Release, Stereo, Mono",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2186777,
+      "title": "Live USA",
+      "label": "Imtrat",
+      "catalog_number": "imt 777.016",
+      "country": "Germany",
+      "year": "0",
+      "format": "Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 11,
+  "countries": [
+    "Germany",
+    "Italy",
+    "Poland"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1992"
+  }
+}

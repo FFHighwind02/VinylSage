@@ -1,0 +1,80 @@
+{
+  "album": "Bad Company",
+  "artist": "Bad Company",
+  "source": "discogs",
+  "master": {
+    "master_id": 333678,
+    "title": "Book Of The Bad (Volume Two)",
+    "year": 2001,
+    "artists": [
+      "Bad Company"
+    ],
+    "genres": [
+      "Electronic"
+    ],
+    "styles": [
+      "Drum n Bass"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Dogs On The Moon",
+        "duration": ""
+      },
+      {
+        "position": "B",
+        "title": "Grunge 2 (Britneey Speers Edit)",
+        "duration": ""
+      },
+      {
+        "position": "C",
+        "title": "Ladies Of Spain",
+        "duration": ""
+      },
+      {
+        "position": "D",
+        "title": "The Running Man",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 6.75,
+    "num_for_sale": 30,
+    "main_release": 9385
+  },
+  "pressings": [
+    {
+      "release_id": 2865734,
+      "title": "Book Of The Bad (Volume Two)",
+      "label": "BC Recordings",
+      "catalog_number": "BCRUKEP002",
+      "country": "UK",
+      "year": "2001",
+      "format": "12\", Promo, White Label, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9385,
+      "title": "Book Of The Bad (Volume Two)",
+      "label": "BC Recordings",
+      "catalog_number": "BCRUK002EP",
+      "country": "UK",
+      "year": "2001",
+      "format": "12\", EP, 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "2001",
+    "latest": "2001"
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "album": "Night Moves",
+  "artist": "Bob Seger & the Silver Bullet Band",
+  "source": "discogs",
+  "master": {
+    "master_id": 567543,
+    "title": "The Horizontal Bop",
+    "year": 1980,
+    "artists": [
+      "Bob Seger And The Silver Bullet Band"
+    ],
+    "genres": [
+      "Pop"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Horizontal Bop",
+        "duration": "3:20"
+      },
+      {
+        "position": "B",
+        "title": "Her Strut",
+        "duration": "3:37"
+      }
+    ],
+    "lowest_price": 0.65,
+    "num_for_sale": 82,
+    "main_release": 8772901
+  },
+  "pressings": [
+    {
+      "release_id": 7719728,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "4951",
+      "country": "US",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8772901,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "4951",
+      "country": "US",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4575146,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "P-4951",
+      "country": "US",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single, Promo, Mono",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9533580,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "ECS-17088",
+      "country": "Japan",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 9854417,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "ECS-17088",
+      "country": "Japan",
+      "year": "1980",
+      "format": "7\", 45 RPM, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17194840,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "JCL 693",
+      "country": "South Africa",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4903131,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "4951",
+      "country": "Canada",
+      "year": "1980",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10565869,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "CP-264",
+      "country": "Australia",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2819786,
+      "title": "The Horizontal Bop",
+      "label": "Capitol Records",
+      "catalog_number": "4951",
+      "country": "US",
+      "year": "1980",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 9,
+  "countries": [
+    "Australia",
+    "Canada",
+    "Japan",
+    "South Africa",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1980",
+    "latest": "1980"
+  }
+}

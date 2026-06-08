@@ -1,0 +1,223 @@
+{
+  "album": "Country Life",
+  "artist": "Roxy Music",
+  "source": "discogs",
+  "master": {
+    "master_id": 58299,
+    "title": "All I Want Is You",
+    "year": 1974,
+    "artists": [
+      "Roxy Music"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "All I Want Is You",
+        "duration": "2:56"
+      },
+      {
+        "position": "B",
+        "title": "Your Application's Failed",
+        "duration": "4:45"
+      }
+    ],
+    "lowest_price": 0.34,
+    "num_for_sale": 277,
+    "main_release": 1298121
+  },
+  "pressings": [
+    {
+      "release_id": 8946598,
+      "title": "All I Want Is You",
+      "label": "Island Records Ltd.",
+      "catalog_number": "WIP 6208",
+      "country": "Portugal",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8551453,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "K-5710",
+      "country": "Australia",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7087779,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "WIP 26208",
+      "country": "Italy",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14527137,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "K 5710",
+      "country": "New Zealand",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2028076,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "13646 A",
+      "country": "Spain",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7101234,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "13 646 AT",
+      "country": "Netherlands",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4246088,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "WIP 6208",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6132834,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "ILR-10665",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1475583,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "13 646 AT",
+      "country": "Germany",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4587938,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "6138 056",
+      "country": "France",
+      "year": "1974",
+      "format": "7\", 45 RPM",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14223065,
+      "title": "All I Want Is You = オール・アイ・ウォント",
+      "label": "Island Records",
+      "catalog_number": "ILR-10665",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7009890,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "WIP 6208",
+      "country": "Ireland",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1298121,
+      "title": "All I Want Is You",
+      "label": "Island Records",
+      "catalog_number": "WIP.6208",
+      "country": "UK",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 13,
+  "countries": [
+    "Australia",
+    "France",
+    "Germany",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "Netherlands",
+    "New Zealand",
+    "Portugal",
+    "Spain",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "1974",
+    "latest": "1974"
+  }
+}

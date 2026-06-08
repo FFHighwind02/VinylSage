@@ -1,0 +1,69 @@
+{
+  "album": "Paul Simon",
+  "artist": "Paul Simon",
+  "source": "discogs",
+  "master": {
+    "master_id": 1981447,
+    "title": "The Sound Of Silence / El Condor Pasa",
+    "year": 1974,
+    "artists": [
+      "Paul Simon",
+      "Paul Simon"
+    ],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "The Sound Of Silence = サウンド・オブ・サイレンス",
+        "duration": "4:13"
+      },
+      {
+        "position": "B",
+        "title": "El Condor Pasa (If I Could) = コンドルは飛んで行く",
+        "duration": "3:09"
+      }
+    ],
+    "lowest_price": 1.84,
+    "num_for_sale": 18,
+    "main_release": 4658901
+  },
+  "pressings": [
+    {
+      "release_id": 4658901,
+      "title": "The Sound Of Silence / El Condor Pasa",
+      "label": "CBS/Sony",
+      "catalog_number": "SOPB 282",
+      "country": "Japan",
+      "year": "1974",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15802320,
+      "title": "The Sound Of Silence / El Condor Pasa",
+      "label": "CBS/Sony",
+      "catalog_number": "06SP 37",
+      "country": "Japan",
+      "year": "0",
+      "format": "7\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1974"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "album": "Spinners",
+  "artist": "The Spinners",
+  "source": "discogs",
+  "master": {
+    "master_id": 1155750,
+    "title": "Live Performance",
+    "year": 0,
+    "artists": [
+      "The Spinners"
+    ],
+    "genres": [
+      "Folk, World, & Country"
+    ],
+    "styles": [
+      "Folk"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Drunken Sailor",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Liverpool Judies",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Linstead Market",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Navvy Boots",
+        "duration": ""
+      },
+      {
+        "position": "A5",
+        "title": "Jug O' Punch",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Rothesay-O",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Three Jolly Boys",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Gungu Walk",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "The Leaving Of Liverpool",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 0.23,
+    "num_for_sale": 166,
+    "main_release": 10023182
+  },
+  "pressings": [
+    {
+      "release_id": 26027395,
+      "title": "Live Performance",
+      "label": "Contour",
+      "catalog_number": "6870-502, 6870502",
+      "country": "UK",
+      "year": "1971",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10447230,
+      "title": "Live Performance",
+      "label": "Contour",
+      "catalog_number": "6870-502, 6870502",
+      "country": "UK",
+      "year": "1971",
+      "format": "LP, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17347336,
+      "title": "Live Performance",
+      "label": "Contour",
+      "catalog_number": "6870502, 6870-502",
+      "country": "UK",
+      "year": "0",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16105462,
+      "title": "Live Performance",
+      "label": "Philips",
+      "catalog_number": "7176 017",
+      "country": "UK",
+      "year": "0",
+      "format": "Reissue",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2793864,
+      "title": "Live Performance",
+      "label": "Contour",
+      "catalog_number": "6870502",
+      "country": "UK",
+      "year": "0",
+      "format": "LP",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10023182,
+      "title": "Live Performance",
+      "label": "Contour",
+      "catalog_number": "6870-502, 6870502",
+      "country": "Italy",
+      "year": "0",
+      "format": "LP, Album, Reissue, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 6,
+  "countries": [
+    "Italy",
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1971"
+  }
+}

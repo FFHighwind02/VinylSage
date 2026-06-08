@@ -1,0 +1,157 @@
+{
+  "album": "Billion Dollar Babies",
+  "artist": "Alice Cooper",
+  "source": "discogs",
+  "master": {
+    "master_id": 591800,
+    "title": "A Man Called Alice",
+    "year": 1987,
+    "artists": [
+      "Alice Cooper",
+      "Alice Cooper (2)"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Hard Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Big Apple Dreamin' [Hippo]",
+        "duration": ""
+      },
+      {
+        "position": "A2",
+        "title": "Never Been Sold Before",
+        "duration": ""
+      },
+      {
+        "position": "A3",
+        "title": "Hard Hearted Alice",
+        "duration": ""
+      },
+      {
+        "position": "A4",
+        "title": "Crazy Little Child",
+        "duration": ""
+      },
+      {
+        "position": "B1",
+        "title": "Working Up A Sweat",
+        "duration": ""
+      },
+      {
+        "position": "B2",
+        "title": "Muscle Of Love",
+        "duration": ""
+      },
+      {
+        "position": "B3",
+        "title": "Man With The Golden Gun",
+        "duration": ""
+      },
+      {
+        "position": "B4",
+        "title": "Teenage Lament '74",
+        "duration": ""
+      },
+      {
+        "position": "B5",
+        "title": "Woman Machine",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "It's Hot Tonight",
+        "duration": ""
+      },
+      {
+        "position": "C2",
+        "title": "Lace And Whiskey",
+        "duration": ""
+      },
+      {
+        "position": "C3",
+        "title": "Road Rats",
+        "duration": ""
+      },
+      {
+        "position": "C4",
+        "title": "Damned If You Do",
+        "duration": ""
+      },
+      {
+        "position": "C5",
+        "title": "You And Me",
+        "duration": ""
+      },
+      {
+        "position": "D1",
+        "title": "King Of The Silver Screen",
+        "duration": ""
+      },
+      {
+        "position": "D2",
+        "title": "Ubangi Stomp",
+        "duration": ""
+      },
+      {
+        "position": "D3",
+        "title": "(No More) Love At Your Convenience",
+        "duration": ""
+      },
+      {
+        "position": "D4",
+        "title": "I Never Wrote Those Songs",
+        "duration": ""
+      },
+      {
+        "position": "D5",
+        "title": "My God",
+        "duration": ""
+      }
+    ],
+    "lowest_price": 4.3,
+    "num_for_sale": 8,
+    "main_release": 3402827
+  },
+  "pressings": [
+    {
+      "release_id": 3402827,
+      "title": "A Man Called Alice",
+      "label": "Pair Records",
+      "catalog_number": "PDL2-1163, OP-2710",
+      "country": "US",
+      "year": "1987",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4611428,
+      "title": "A Man Called Alice",
+      "label": "Pair Records",
+      "catalog_number": "PDK2-1163, OPCS-2710",
+      "country": "USA & Canada",
+      "year": "1987",
+      "format": "Compilation",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "US",
+    "USA & Canada"
+  ],
+  "years_range": {
+    "earliest": "1987",
+    "latest": "1987"
+  }
+}

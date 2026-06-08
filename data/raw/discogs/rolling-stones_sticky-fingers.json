@@ -1,0 +1,565 @@
+{
+  "album": "Sticky Fingers",
+  "artist": "Rolling Stones",
+  "source": "discogs",
+  "master": {
+    "master_id": 327566,
+    "title": "Lady Jane = Леди Джейн",
+    "year": 1988,
+    "artists": [
+      "The Rolling Stones",
+      "The Rolling Stones"
+    ],
+    "genres": [
+      "Rock",
+      "Blues"
+    ],
+    "styles": [
+      "Rhythm & Blues",
+      "Classic Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Каменное Сердце = Heart Of Stone",
+        "duration": "2:46"
+      },
+      {
+        "position": "A2",
+        "title": "Слезай С Моего Облака = Get Off My Cloud",
+        "duration": "2:55"
+      },
+      {
+        "position": "A3",
+        "title": "Удовлетворение = Satisfaction",
+        "duration": "3:42"
+      },
+      {
+        "position": "A4",
+        "title": "19-й Нервный Кризис = 19th Nervous Breakdown",
+        "duration": "3:57"
+      },
+      {
+        "position": "A5",
+        "title": "Глупая Девушка = Stupid Girl",
+        "duration": "2:53"
+      },
+      {
+        "position": "A6",
+        "title": "Рейс 505 = Flight 505",
+        "duration": "3:26"
+      },
+      {
+        "position": "B1",
+        "title": "Маленький Помощник Мамы = Mother's Little Helper",
+        "duration": "2:43"
+      },
+      {
+        "position": "B2",
+        "title": "Отстала От Времени = Out Of Time",
+        "duration": "5:36"
+      },
+      {
+        "position": "B3",
+        "title": "Леди Джейн = Lady Jane",
+        "duration": "3:07"
+      },
+      {
+        "position": "B4",
+        "title": "Решай Сама = Take It Or Leave It",
+        "duration": "2:46"
+      },
+      {
+        "position": "B5",
+        "title": "Окрась Все В Черное = Paint It Black",
+        "duration": "3:26"
+      },
+      {
+        "position": "B6",
+        "title": "У Меня В Руках = Under My Thumb",
+        "duration": "3:40"
+      }
+    ],
+    "lowest_price": 1.71,
+    "num_for_sale": 79,
+    "main_release": 14215890
+  },
+  "pressings": [
+    {
+      "release_id": 7720149,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32786736,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15640957,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 380420,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11018135,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16636572,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 06",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6080440,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6778079,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10253378,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "C60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4580222,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5216194,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14240971,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2815003,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14215890,
+      "title": "Lady Jane = Леди Джейн",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 06",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2971425,
+      "title": "Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8318546,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 06",
+      "country": "USSR",
+      "year": "1988",
+      "format": "LP, Compilation",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8008881,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2750650,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6544494,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14183052,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "C60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10734825,
+      "title": "Lady Jane ",
+      "label": "Мелодия",
+      "catalog_number": "C60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33877695,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21326569,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 28026717,
+      "title": "Lady Jane = Леди Джейн",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5858848,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4579718,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7820754,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Reissue, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5468927,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33930162,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1989",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4124902,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7154078,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6629038,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 17796415,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1990",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11167611,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 32310921,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 25112923,
+      "title": "Леди Джейн = Lady Jane",
+      "label": "Мелодия",
+      "catalog_number": "С60 27411 006",
+      "country": "USSR",
+      "year": "1991",
+      "format": "LP, Compilation, Repress, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 36,
+  "countries": [
+    "USSR"
+  ],
+  "years_range": {
+    "earliest": "1988",
+    "latest": "1991"
+  }
+}

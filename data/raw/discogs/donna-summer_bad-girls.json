@@ -1,0 +1,782 @@
+{
+  "album": "Bad Girls",
+  "artist": "Donna Summer",
+  "source": "discogs",
+  "master": {
+    "master_id": 25893,
+    "title": "Bad Girls",
+    "year": 1979,
+    "artists": [
+      "Donna Summer"
+    ],
+    "genres": [
+      "Electronic",
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Synth-pop",
+      "Disco"
+    ],
+    "tracklist": [
+      {
+        "position": "A1",
+        "title": "Hot Stuff",
+        "duration": "5:13"
+      },
+      {
+        "position": "A2",
+        "title": "Bad Girls",
+        "duration": "4:57"
+      },
+      {
+        "position": "A3",
+        "title": "Love Will Always Find You",
+        "duration": "4:01"
+      },
+      {
+        "position": "A4",
+        "title": "Walk Away",
+        "duration": "4:17"
+      },
+      {
+        "position": "B1",
+        "title": "Dim All The Lights",
+        "duration": "4:40"
+      },
+      {
+        "position": "B2",
+        "title": "Journey To The Centre Of Your Heart",
+        "duration": "4:37"
+      },
+      {
+        "position": "B3",
+        "title": "One Night In A Lifetime",
+        "duration": "4:13"
+      },
+      {
+        "position": "B4",
+        "title": "Can't Get To Sleep At Night",
+        "duration": "4:45"
+      },
+      {
+        "position": "C1",
+        "title": "On My Honor",
+        "duration": "3:32"
+      },
+      {
+        "position": "C2",
+        "title": "There Will Always Be A You",
+        "duration": "4:58"
+      },
+      {
+        "position": "C3",
+        "title": "All Through The Night",
+        "duration": "5:54"
+      },
+      {
+        "position": "C4",
+        "title": "My Baby Understands",
+        "duration": "3:56"
+      },
+      {
+        "position": "D1",
+        "title": "Our Love",
+        "duration": "4:54"
+      },
+      {
+        "position": "D2",
+        "title": "Lucky",
+        "duration": "4:37"
+      },
+      {
+        "position": "D3",
+        "title": "Sunset People",
+        "duration": "6:28"
+      }
+    ],
+    "lowest_price": 1.0,
+    "num_for_sale": 1254,
+    "main_release": 3465422
+  },
+  "pressings": [
+    {
+      "release_id": 12564754,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3204541,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "6685 031, 9198 725, 9198 726",
+      "country": "Netherlands",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11857458,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBL8-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 16027411,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "Jamaica",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8840412,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBL52 7150, NBL52-7150",
+      "country": "Canada",
+      "year": "1979",
+      "format": "Album, Club Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24983515,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "72 98 079 / 080",
+      "country": "Spain",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13439238,
+      "title": "Bad Girls",
+      "label": "Original (6)",
+      "catalog_number": "124 01, 1 24 01",
+      "country": "Syria",
+      "year": "1979",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 21235090,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBL8 7150/2",
+      "country": "Canada",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2632942,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3232088,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "CBLP 50033-50034, NBLP-2-7150",
+      "country": "Greece",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7355255,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "CA. LP 5035, CA. LP 5036",
+      "country": "Italy",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24940531,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5977486,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150 DJ",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 29658163,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 31333537,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14220420,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "LP-28519",
+      "country": "Ecuador",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 11440136,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "LCB - 10012",
+      "country": "Bolivia",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 18404488,
+      "title": "Bad Girls = 華麗なる誘惑",
+      "label": "Casablanca",
+      "catalog_number": "VCW-4516",
+      "country": "Japan",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20299696,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "CA M 5535, CA M 5536",
+      "country": "Italy",
+      "year": "1979",
+      "format": "Album, Misprint",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26280929,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "7599 416",
+      "country": "Brazil",
+      "year": "1979",
+      "format": "Album, Partially Mixed",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4168319,
+      "title": "Bad Girls",
+      "label": "Philips",
+      "catalog_number": "6641 931",
+      "country": "France",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 98675,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NB 7048",
+      "country": "Germany",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7409611,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1873119,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10859033,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "A20-CAS-007150.3",
+      "country": "Peru",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 20295454,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLS-2 7150, 2MCST 95007",
+      "country": "Mexico",
+      "year": "1979",
+      "format": "Album, Special Edition",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 30175046,
+      "title": "Bad Girls",
+      "label": "OAS",
+      "catalog_number": "none",
+      "country": "Syria",
+      "year": "1979",
+      "format": "Album, Unofficial Release",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2484865,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "6641 931, 9198 217/18",
+      "country": "Brazil",
+      "year": "1979",
+      "format": "LP, Album, Partially Mixed, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1874072,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "6685 031, 9198 725",
+      "country": "France",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 19601680,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP 27150",
+      "country": "Australia",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10890374,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "STR-43022/ A2, NBLP-2-7150",
+      "country": "Mexico",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4123533,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBL8-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "Album",
+      "major_formats": [
+        "8-Track Cartridge"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1249010,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150, NBLP 2-7150",
+      "country": "Scandinavia",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3320192,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP 7150",
+      "country": "Canada",
+      "year": "1979",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10828700,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "CB 72007/8",
+      "country": "France",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1991109,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150 DJ",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3882673,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "ZCCAD 5007",
+      "country": "UK",
+      "year": "1979",
+      "format": "Album, Partially Mixed",
+      "major_formats": [
+        "Cassette"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 26647958,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "CBLP 50033-50034, NBLP-2-7150",
+      "country": "Greece",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10676700,
+      "title": "Bad Girls",
+      "label": "Bell Record",
+      "catalog_number": "CKL - 7042",
+      "country": "Taiwan",
+      "year": "1979",
+      "format": "LP, Album, Unofficial Release",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3030633,
+      "title": "Bad Girls = 華麗なる誘惑",
+      "label": "Casablanca",
+      "catalog_number": "VIP-9565~6",
+      "country": "Japan",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14645406,
+      "title": "Bad Girls",
+      "label": "Philips",
+      "catalog_number": "6641 931",
+      "country": "Netherlands",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1104289,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "66 41 943",
+      "country": "Spain",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2479295,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Club Edition",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 33894813,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NB 7048",
+      "country": "Germany",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8217609,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "6685 031 , 9198 725, 9198 726",
+      "country": "India",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 24134729,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 34280827,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP 27150",
+      "country": "Australia",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13973187,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP 7150-2",
+      "country": "Panama",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 224935,
+      "title": "Bad Girls",
+      "label": "Casablanca",
+      "catalog_number": "NBLP-2-7150",
+      "country": "US",
+      "year": "1979",
+      "format": "LP, Album, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 552516,
+      "title": "Bad Girls",
+      "label": "Philips",
+      "catalog_number": "6641 931",
+      "country": "Netherlands",
+      "year": "1979",
+      "format": "LP, Album",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 50,
+  "countries": [
+    "Australia",
+    "Bolivia",
+    "Brazil",
+    "Canada",
+    "Ecuador",
+    "France",
+    "Germany",
+    "Greece",
+    "India",
+    "Italy",
+    "Jamaica",
+    "Japan",
+    "Mexico",
+    "Netherlands",
+    "Panama",
+    "Peru",
+    "Scandinavia",
+    "Spain",
+    "Syria",
+    "Taiwan",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1979",
+    "latest": "1979"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "album": "The Pretender",
+  "artist": "Jackson Browne",
+  "source": "discogs",
+  "master": {
+    "master_id": 162572,
+    "title": "For America / Till I Go Down",
+    "year": 1986,
+    "artists": [
+      "Jackson Browne"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Pop Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "For America",
+        "duration": "5:10"
+      },
+      {
+        "position": "B",
+        "title": "Till I Go Down",
+        "duration": "4:20"
+      }
+    ],
+    "lowest_price": 0.4,
+    "num_for_sale": 307,
+    "main_release": 2390249
+  },
+  "pressings": [
+    {
+      "release_id": 18663280,
+      "title": "Para America = For America",
+      "label": "Elektra",
+      "catalog_number": "F-ELK 0769566.9",
+      "country": "Peru",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 4676053,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "EKR 35, 969566-7",
+      "country": "UK",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1868534,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "966 855-0",
+      "country": "Europe",
+      "year": "1986",
+      "format": "12\", 45 RPM, Maxi-Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6117956,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "EKR 35T",
+      "country": "UK",
+      "year": "1986",
+      "format": "12\", 45 RPM, Maxi-Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 5152241,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "96 95667",
+      "country": "Canada",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7149557,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "969 566-7, 96 9566-7",
+      "country": "Spain",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2032310,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "7-69566",
+      "country": "Australia",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8742173,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "969 566-7, 96 9566-7",
+      "country": "Spain",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 15934283,
+      "title": "For America / Till I Go Down",
+      "label": "Asylum Records",
+      "catalog_number": "7-69566",
+      "country": "US",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Styrene, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3528537,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "969 566-7",
+      "country": "UK",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 3319879,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "96 9566-7",
+      "country": "Italy",
+      "year": "1986",
+      "format": "7\", 45 RPM, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2116138,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "EKR 35P, EKR35P 969 566-7",
+      "country": "UK",
+      "year": "1986",
+      "format": "7\", 45 RPM, Shape, Picture Disc",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2390233,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "7-69566",
+      "country": "US",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2242187,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "ED 5121",
+      "country": "US",
+      "year": "1986",
+      "format": "12\", 33 ⅓ RPM, Single, Promo, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 14256020,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "P-2067",
+      "country": "Japan",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7706324,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "P-2067",
+      "country": "Japan",
+      "year": "1986",
+      "format": "7\", 45 RPM, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2786038,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "96 95667",
+      "country": "Canada",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Promo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 1612594,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "969 566-7",
+      "country": "Europe",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single, Stereo",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10958742,
+      "title": "For America",
+      "label": "Asylum Records",
+      "catalog_number": "EKR 35",
+      "country": "Ireland",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 2390249,
+      "title": "For America / Till I Go Down",
+      "label": "Asylum Records",
+      "catalog_number": "7-69566",
+      "country": "US",
+      "year": "1986",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 12613610,
+      "title": "For America",
+      "label": "Elektra",
+      "catalog_number": "0769566.9",
+      "country": "Peru",
+      "year": "1986",
+      "format": "7\", Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 21,
+  "countries": [
+    "Australia",
+    "Canada",
+    "Europe",
+    "Ireland",
+    "Italy",
+    "Japan",
+    "Peru",
+    "Spain",
+    "UK",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "1986",
+    "latest": "1986"
+  }
+}

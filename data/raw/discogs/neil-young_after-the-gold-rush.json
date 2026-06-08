@@ -1,0 +1,294 @@
+{
+  "album": "After the Gold Rush",
+  "artist": "Neil Young",
+  "source": "discogs",
+  "master": {
+    "master_id": 771571,
+    "title": "Official Release Series Discs 5-8",
+    "year": 2014,
+    "artists": [
+      "Neil Young"
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Folk Rock",
+      "Blues Rock",
+      "Country Rock"
+    ],
+    "tracklist": [
+      {
+        "position": "",
+        "title": "Time Fades Away (1973)",
+        "duration": ""
+      },
+      {
+        "position": "A1",
+        "title": "Time Fades Away",
+        "duration": "5:36"
+      },
+      {
+        "position": "A2",
+        "title": "Journey Through The Past",
+        "duration": "3:19"
+      },
+      {
+        "position": "A3",
+        "title": "Yonder Stands The Sinner",
+        "duration": "3:17"
+      },
+      {
+        "position": "A4",
+        "title": "L.A.",
+        "duration": "3:11"
+      },
+      {
+        "position": "A5",
+        "title": "Love In Mind",
+        "duration": "2:02"
+      },
+      {
+        "position": "B1",
+        "title": "Don't Be Denied",
+        "duration": "5:18"
+      },
+      {
+        "position": "B2",
+        "title": "The Bridge",
+        "duration": "3:05"
+      },
+      {
+        "position": "B3",
+        "title": "Last Dance",
+        "duration": "8:45"
+      },
+      {
+        "position": "",
+        "title": "On The Beach (1974)",
+        "duration": ""
+      },
+      {
+        "position": "C1",
+        "title": "Walk On",
+        "duration": "2:40"
+      },
+      {
+        "position": "C2",
+        "title": "See The Sky About To Rain",
+        "duration": "5:03"
+      },
+      {
+        "position": "C3",
+        "title": "Revolution Blues",
+        "duration": "4:02"
+      },
+      {
+        "position": "C4",
+        "title": "For The Turnstiles",
+        "duration": "3:13"
+      },
+      {
+        "position": "C5",
+        "title": "Vampire Blues",
+        "duration": "4:11"
+      },
+      {
+        "position": "D1",
+        "title": "On The Beach",
+        "duration": "7:04"
+      },
+      {
+        "position": "D2",
+        "title": "Motion Pictures",
+        "duration": "4:20"
+      },
+      {
+        "position": "D3",
+        "title": "Ambulance Blues",
+        "duration": "8:57"
+      },
+      {
+        "position": "",
+        "title": "Tonight's The Night (1975)",
+        "duration": ""
+      },
+      {
+        "position": "E1",
+        "title": "Tonight's The Night",
+        "duration": "4:39"
+      },
+      {
+        "position": "E2",
+        "title": "Speakin' Out",
+        "duration": "4:56"
+      },
+      {
+        "position": "E3",
+        "title": "World On A String",
+        "duration": "2:27"
+      },
+      {
+        "position": "E4",
+        "title": "Borrowed Tune",
+        "duration": "3:26"
+      },
+      {
+        "position": "E5",
+        "title": "Come On Baby Let's Go Downtown",
+        "duration": "3:35"
+      },
+      {
+        "position": "E6",
+        "title": "Mellow My Mind",
+        "duration": "3:07"
+      },
+      {
+        "position": "F1",
+        "title": "Roll Another Number (For The Road)",
+        "duration": "3:02"
+      },
+      {
+        "position": "F2",
+        "title": "Albuquerque",
+        "duration": "4:02"
+      },
+      {
+        "position": "F3",
+        "title": "New Mama",
+        "duration": "2:11"
+      },
+      {
+        "position": "F4",
+        "title": "Lookout Joe",
+        "duration": "3:57"
+      },
+      {
+        "position": "F5",
+        "title": "Tired Eyes",
+        "duration": "4:38"
+      },
+      {
+        "position": "F6",
+        "title": "Tonight's The Night - Part II",
+        "duration": "4:52"
+      },
+      {
+        "position": "",
+        "title": "Zuma (1975)",
+        "duration": ""
+      },
+      {
+        "position": "G1",
+        "title": "Don't Cry No Tears",
+        "duration": "2:34"
+      },
+      {
+        "position": "G2",
+        "title": "Danger Bird",
+        "duration": "6:54"
+      },
+      {
+        "position": "G3",
+        "title": "Pardon My Heart",
+        "duration": "3:49"
+      },
+      {
+        "position": "G4",
+        "title": "Lookin' For A Love",
+        "duration": "3:17"
+      },
+      {
+        "position": "G5",
+        "title": "Barstool Blues",
+        "duration": "3:02"
+      },
+      {
+        "position": "H1",
+        "title": "Stupid Girl",
+        "duration": "3:13"
+      },
+      {
+        "position": "H2",
+        "title": "Drive Back",
+        "duration": "3:32"
+      },
+      {
+        "position": "H3",
+        "title": "Cortez The Killer",
+        "duration": "7:29"
+      },
+      {
+        "position": "H4",
+        "title": "Through My Sails",
+        "duration": "2:41"
+      }
+    ],
+    "lowest_price": 22.82,
+    "num_for_sale": 33,
+    "main_release": 5823890
+  },
+  "pressings": [
+    {
+      "release_id": 5823890,
+      "title": "Official Release Series Discs 5-8",
+      "label": "Reprise Records",
+      "catalog_number": "1-535704 (K1)",
+      "country": "US",
+      "year": "2014",
+      "format": "LP, Album, Reissue, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 6421300,
+      "title": "Official Release Series Discs 5-8",
+      "label": "Reprise Records",
+      "catalog_number": "1-542345 (K1)",
+      "country": "US",
+      "year": "2014",
+      "format": "LP, Album, Numbered, Reissue, Remastered",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10721426,
+      "title": "Original Release Series Discs 5-8",
+      "label": "Reprise Records",
+      "catalog_number": "535704-2",
+      "country": "US",
+      "year": "2017",
+      "format": "Album, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 10724911,
+      "title": "Original Release Series Discs 5-8",
+      "label": "Reprise Records",
+      "catalog_number": "9362-49154-2",
+      "country": "Europe",
+      "year": "2017",
+      "format": "Album, Reissue, Remastered",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 4,
+  "countries": [
+    "Europe",
+    "US"
+  ],
+  "years_range": {
+    "earliest": "2014",
+    "latest": "2017"
+  }
+}

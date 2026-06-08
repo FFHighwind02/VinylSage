@@ -1,0 +1,170 @@
+{
+  "album": "Superfly",
+  "artist": "Curtis Mayfield",
+  "source": "discogs",
+  "master": {
+    "master_id": 871962,
+    "title": "Give It Up: The Best Of The Curtom Years 1970 - 77",
+    "year": 1997,
+    "artists": [
+      "Curtis Mayfield"
+    ],
+    "genres": [
+      "Funk / Soul"
+    ],
+    "styles": [
+      "Soul",
+      "Funk"
+    ],
+    "tracklist": [
+      {
+        "position": "1",
+        "title": "Wild And Free",
+        "duration": "3:19"
+      },
+      {
+        "position": "2",
+        "title": "Move On Up",
+        "duration": "8:55"
+      },
+      {
+        "position": "3",
+        "title": "Mighty Mighty (Spade And Whitey)",
+        "duration": "6:47"
+      },
+      {
+        "position": "4",
+        "title": "We Got To Have Peace",
+        "duration": "4:44"
+      },
+      {
+        "position": "5",
+        "title": "Never Say You Can't Survive",
+        "duration": "3:21"
+      },
+      {
+        "position": "6",
+        "title": "If I Were Only A Child Again",
+        "duration": "2:55"
+      },
+      {
+        "position": "7",
+        "title": "Billy Jack",
+        "duration": "6:09"
+      },
+      {
+        "position": "8",
+        "title": "Superfly",
+        "duration": "3:54"
+      },
+      {
+        "position": "9",
+        "title": "We The People Who Are Darker Than Blue",
+        "duration": "6:05"
+      },
+      {
+        "position": "10",
+        "title": "Underground",
+        "duration": "5:18"
+      },
+      {
+        "position": "11",
+        "title": "Back To The World",
+        "duration": "6:50"
+      },
+      {
+        "position": "12",
+        "title": "Keep On Keeping On",
+        "duration": "5:08"
+      },
+      {
+        "position": "13",
+        "title": "People Get Ready",
+        "duration": "3:47"
+      },
+      {
+        "position": "14",
+        "title": "Give It Up",
+        "duration": "3:45"
+      }
+    ],
+    "lowest_price": 0.57,
+    "num_for_sale": 62,
+    "main_release": 7352062
+  },
+  "pressings": [
+    {
+      "release_id": 7352062,
+      "title": "Give It Up: The Best Of The Curtom Years 1970 - 77",
+      "label": "Music Club",
+      "catalog_number": "MCCD 314",
+      "country": "UK",
+      "year": "1997",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 13958319,
+      "title": "Give It Up: The Best Of The Curtom Years 1970 - 77",
+      "label": "Music Club",
+      "catalog_number": "MCCD 314",
+      "country": "UK",
+      "year": "1997",
+      "format": "Compilation",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8331169,
+      "title": "Give It Up: The Best Of The Curtom Years 1970 - 77",
+      "label": "Music Club",
+      "catalog_number": "MCCD 314",
+      "country": "UK",
+      "year": "0",
+      "format": "Compilation, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 596125,
+      "title": "Give It Up - The Best Of The Curtom Years 1970 - 77",
+      "label": "Music Club",
+      "catalog_number": "MCCD 314",
+      "country": "UK",
+      "year": "0",
+      "format": "Compilation, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 8951744,
+      "title": "Give It Up: The Best Of The Curtom Years 1970 - 77",
+      "label": "Music Club",
+      "catalog_number": "MCCD 314",
+      "country": "UK",
+      "year": "0",
+      "format": "Compilation, Reissue",
+      "major_formats": [
+        "CD"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 5,
+  "countries": [
+    "UK"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1997"
+  }
+}

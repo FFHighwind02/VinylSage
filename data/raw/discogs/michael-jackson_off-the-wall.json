@@ -1,0 +1,72 @@
+{
+  "album": "Off the Wall",
+  "artist": "Michael Jackson",
+  "source": "discogs",
+  "master": {
+    "master_id": 889820,
+    "title": "ベンのテーマ = Ben / ゴット・トゥ・ビー・ゼア = Got To Be There",
+    "year": 0,
+    "artists": [
+      "Michael Jackson",
+      "Michael Jackson"
+    ],
+    "genres": [
+      "Pop"
+    ],
+    "styles": [
+      "Ballad"
+    ],
+    "tracklist": [
+      {
+        "position": "A",
+        "title": "Ben = ベンのテーマ",
+        "duration": "2:44"
+      },
+      {
+        "position": "B",
+        "title": "Got To Be There = ゴット・トゥ・ビー・ゼア",
+        "duration": "3:17"
+      }
+    ],
+    "lowest_price": 7.79,
+    "num_for_sale": 15,
+    "main_release": 7508392
+  },
+  "pressings": [
+    {
+      "release_id": 6150458,
+      "title": "Ben",
+      "label": "Motown",
+      "catalog_number": "IM-26039, IM-26.039",
+      "country": "Portugal",
+      "year": "1980",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    },
+    {
+      "release_id": 7508392,
+      "title": "ベンのテーマ = Ben / ゴット・トゥ・ビー・ゼア = Got To Be There",
+      "label": "Motown",
+      "catalog_number": "VIP-2043, MOT-2062P",
+      "country": "Japan",
+      "year": "0",
+      "format": "7\", 45 RPM, Single",
+      "major_formats": [
+        "Vinyl"
+      ],
+      "status": "Accepted"
+    }
+  ],
+  "pressing_count": 2,
+  "countries": [
+    "Japan",
+    "Portugal"
+  ],
+  "years_range": {
+    "earliest": "0",
+    "latest": "1980"
+  }
+}
