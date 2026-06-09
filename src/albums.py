@@ -62,7 +62,7 @@ ANCHOR_ALBUMS = [
     {"title": "Horses", "artist": "Patti Smith", "wiki_title": "Horses (Patti Smith album)", "year": 1975},
     {"title": "Let It Be", "artist": "The Beatles", "wiki_title": "Let It Be (album)", "year": 1970},
     {"title": "Harvest", "artist": "Neil Young", "wiki_title": "Harvest (Neil Young album)", "year": 1972},
-    {"title": "Machine Head", "artist": "Deep Purple", "wiki_title": "Machine Head (Deep Purple album)", "year": 1972},
+    {"title": "Machine Head", "artist": "Deep Purple", "wiki_title": "Machine Head (album)", "year": 1972},
     {"title": "Live at Leeds", "artist": "The Who", "year": 1970},
     {"title": "My Aim Is True", "artist": "Elvis Costello", "year": 1977},
     {"title": "Black Sabbath", "artist": "Black Sabbath", "wiki_title": "Black Sabbath (album)", "year": 1970},
