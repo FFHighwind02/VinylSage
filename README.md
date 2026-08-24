@@ -5,8 +5,8 @@ My project **VinylSage** is an exciting bridge between two of my personal intere
 1. Customization with large language models
 2. Classic Rock record collecting
 
-## Check it out:
-[vinylsage](www.vinylsage.ca) 
+## Check it out at project link to the right of the github repo
+
 
 VinylSage offers specialized information and advice on the 204 albums it is trained on.
 - General information based searches query the Gemini LLM to search the index of data chunks and return a multitude of related info from Album/song history to unique recording techniques. 
