@@ -6,7 +6,7 @@ My project **VinylSage** is an exciting bridge between two of my personal intere
 2. Classic Rock record collecting
 
 ## Check it out:
-[vinylsage.ca](vinylsage.ca) 
+[vinylsage](vinyl-sage.vercel.app) 
 
 VinylSage offers specialized information and advice on the 204 albums it is trained on.
 - General information based searches query the Gemini LLM to search the index of data chunks and return a multitude of related info from Album/song history to unique recording techniques. 
